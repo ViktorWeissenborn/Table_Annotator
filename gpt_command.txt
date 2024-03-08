@@ -1,0 +1,90 @@
+I have the following piece of code which lets me manually click pairs of table cells. For each pair the data gets paired as an entry in a dictionary. I would like to change my code in a way so I can highlight two columns and the algorithm automatically detects all pairs.
+
+import customtkinter as ctk
+import json
+
+entry_count = 1
+
+json_data = {}
+
+temp_list = []
+
+def create_entry_for_json_data(cell_value):
+    global entry_count
+    if len(temp_list) <= 1:
+        temp_list.append(cell_value)
+        if len(temp_list) == 2:
+            json_data[f"entry_{entry_count}"] = temp_list.copy()
+            temp_list.clear()
+            entry_count += 1
+
+
+def on_button_click():
+    print(json_data)
+
+def release_button():
+    # Do something when the button is released
+    print("Button is released!")
+
+
+
+
+
+def generate_table():
+    input_text = input_text_field.get("1.0", "end-1c")  # Get the text from the input field
+    try:
+        # Parse the input text as a list of lists
+        data = json.loads(input_text)
+        create_table(data)
+    except Exception as e:
+        print(f"Error parsing input: {e}")
+
+
+def cell_clicked(row, col):
+    print(f"Cell clicked: Row {row}, Column {col}")  # Replace with your logic (e.g., JSON population)
+
+
+
+def create_table(data):
+
+    # Create an inner frame for the clickable grid
+    inner_frame = ctk.CTkFrame(master=outer_frame, corner_radius=0, bg_color="black", fg_color="black")
+    inner_frame.grid(row=2, column=0, padx=10, pady=10)
+
+    rows = len(data)
+    cols = len(data[0]) if rows > 0 else 0
+
+    for row in range(rows):
+        for col in range(cols):
+            cell_value = data[row][col]
+            if row == 0 or col == 0:
+                cell_button = ctk.CTkButton(master=inner_frame, text=cell_value, font=('Arial', 14, 'bold'), fg_color="grey", corner_radius=0, width=140)  # Use inner_frame as the parent
+            else:
+                cell_button = ctk.CTkButton(master=inner_frame, text=cell_value, corner_radius=0, width=140)  # Use inner_frame as the parent
+            cell_button.grid(row=row, column=col, padx=1, pady=1)
+            cell_button.configure(command=lambda c = cell_value: create_entry_for_json_data(c))
+
+
+
+
+if __name__ == "__main__":
+    root = ctk.CTk()
+    root.title("Clickable Table Generator")
+
+    # Create an outer frame
+    outer_frame = ctk.CTkFrame(master=root)
+    outer_frame.pack()
+
+    # Text field for input
+    input_text_field = ctk.CTkTextbox(master=outer_frame, width=800)
+    input_text_field.grid(row=0, column=0, padx=10, pady=10)
+
+    # Button to generate the table
+    generate_button = ctk.CTkButton(master=outer_frame, text="Generate Table", command=generate_table)
+    generate_button.grid(row=1, column=0, padx=10, pady=10)
+
+    print_json_button = ctk.CTkButton(master=outer_frame, text="Print JSON", command=on_button_click)
+    print_json_button.grid(row=4, column=0, padx=10, pady=10)
+
+
+    root.mainloop()
