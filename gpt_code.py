@@ -1,21 +1,28 @@
-#import required libraries
-from tkinter import *
-from tkinter import ttk
+import tkinter as tk
 
-#Create an instance of Tkinter frame
-win= Tk()
+# Create the main window
+root = tk.Tk()
+root.geometry("400x400")
 
-#Set the geometry of the window
-win.geometry("750x250")
 
-#Create a LabelFrame
-frame= Frame(win, width= 400, height= 400, background= "green")
-frame.pack(fill=None, expand=False)
 
-#Configure the Frame
-frame.place(relx=0.3, rely=.3, anchor= "c")
+# Create the first bottom frame
+bottom_frame_1 = tk.Frame(root, bg="red", height=150)
+bottom_frame_1.grid(row=1, column=0)
 
-#Create Button widget in Frame
-ttk.Button(frame, text= "Button").pack()
+# Create the second bottom frame
+bottom_frame_2 = tk.Frame(root, bg="green", height=150)
+bottom_frame_2.grid(row=1, column=1)
 
-win.mainloop()
+# Create the top frame
+top_frame = tk.Frame(root, bg="blue", height=100)
+top_frame.grid(row=0, column=0, columnspan=2)
+
+# Configure row and column weights to make the frames resize properly
+root.grid_rowconfigure(0, weight=1)
+root.grid_rowconfigure(1, weight=1)
+root.grid_columnconfigure(0, weight=1)
+root.grid_columnconfigure(1, weight=1)
+
+# Run the application
+root.mainloop()
