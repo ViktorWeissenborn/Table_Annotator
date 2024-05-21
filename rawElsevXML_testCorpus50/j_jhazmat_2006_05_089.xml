@@ -1,0 +1,2450 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0304389406005905</prism:url><dc:identifier>doi:10.1016/j.jhazmat.2006.05.089</dc:identifier><eid>1-s2.0-S0304389406005905</eid><prism:doi>10.1016/j.jhazmat.2006.05.089</prism:doi><pii>S0304-3894(06)00590-5</pii><dc:title>Kinetics of the ozonation of muconic acid in water </dc:title><prism:publicationName>Journal of Hazardous Materials</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03043894</prism:issn><prism:volume>138</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>534</prism:startingPage><prism:endingPage>538</prism:endingPage><prism:pageRange>534-538</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2006-12-01</prism:coverDate><prism:coverDisplayDate>1 December 2006</prism:coverDisplayDate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Beltrán, Fernando J.</dc:creator><dc:creator>Rodríguez, Eva M.</dc:creator><dc:creator>Romero, María T.</dc:creator><dc:description>
+                  The removal of muconic acid (specifically trans–trans-butanedioc acid) with ozone from water has been studied for kinetics purposes. Concentrations of muconic acid of 4.4×10−4
+                     M are completely removed with ozone in less than 14 and 9min at pH 3 and 7, respectively, and 3×10−4
+                     M of ozone in the gas. The positive influence of pH was due to the more reactive muconic acid dissociated form with ozone. The process can be described as a second order irreversible gas–liquid reaction developing in the moderate kinetic regime of absorption. At the experimental conditions investigated no free radical reactions are present and muconic acid is entirely oxidized by molecular ozone. Rate constants of the direct reaction between muconic acid and ozone were found to be 1.6×104 and 1.4×105
+                     M−1
+                     s1 at 20°C, pH 3 and 7, respectively, according to film theory.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Ozone</dcterms:subject><dcterms:subject>Muconic acid</dcterms:subject><dcterms:subject>Ozonation kinetics</dcterms:subject><dcterms:subject>Water pollution</dcterms:subject><dcterms:subject>Kinetic modelling</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0304389406005905" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0304389406005905" rel="scidir"/></coredata><objects><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="183" height="34" size="821">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si9.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="101" height="34" size="440">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="159" height="20" size="587">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="93" height="17" size="426">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="27" height="17" size="210">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="27" height="17" size="210">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="154" height="39" size="761">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="27" height="17" size="210">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si19" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="133" height="34" size="623">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si19.gif?httpAccept=%2A%2F%2A</object><object ref="si18" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="234" height="42" size="1474">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si18.gif?httpAccept=%2A%2F%2A</object><object ref="si17" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="109" height="17" size="482">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si17.gif?httpAccept=%2A%2F%2A</object><object ref="si16" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="90" height="34" size="448">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si16.gif?httpAccept=%2A%2F%2A</object><object ref="si15" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="125" height="39" size="739">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si15.gif?httpAccept=%2A%2F%2A</object><object ref="si14" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="115" height="39" size="596">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si14.gif?httpAccept=%2A%2F%2A</object><object ref="si13" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="285" height="66" size="1670">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si13.gif?httpAccept=%2A%2F%2A</object><object ref="si12" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="27" height="17" size="210">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si12.gif?httpAccept=%2A%2F%2A</object><object ref="si11" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="108" height="34" size="614">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si11.gif?httpAccept=%2A%2F%2A</object><object ref="si10" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="27" height="17" size="210">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si10.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="225" height="34" size="826">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="374" height="269" size="14322">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="90" size="1179">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="374" height="272" size="12414">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="91" size="1072">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="374" height="272" size="10979">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="91" size="1041">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="370" height="280" size="12594">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="123" height="93" size="1024">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="273" size="11566">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="88" size="993">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="269" size="12105">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="89" size="1027">https://api.elsevier.com/content/object/eid/1-s2.0-S0304389406005905-gr6.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33750528745</scopus-id><scopus-eid>2-s2.0-33750528745</scopus-eid><pubmed-id>16839686</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/33750528745" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271390</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291741</xocs:ssid>
+         <xocs:ssid type="subj">291744</xocs:ssid>
+         <xocs:ssid type="subj">291800</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Hazardous Materials</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALHAZARDOUSMATERIALS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20060603">2006-06-03</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20060603">2006-06-03</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-10-07T10:30:35</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0304389406005905</xocs:eid>
+      <xocs:pii-formatted>S0304-3894(06)00590-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0304389406005905</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jhazmat.2006.05.089</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0304389406X02893</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T06:49:20.548412-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20061201</xocs:date-search-begin>
+      <xocs:year-nav>2006</xocs:year-nav>
+      <xocs:indexeddate epoch="1149292800">2006-06-03T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0304-3894</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03043894</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>138</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>138</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 138, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>16</xocs:sort-order>
+      <xocs:first-fp>534</xocs:first-fp>
+      <xocs:last-lp>538</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>534</xocs:first-page>
+         <xocs:last-page>538</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20061201</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 December 2006</xocs:cover-date-text>
+      <xocs:cover-date-start>2006-12-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2006</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Part B: Environmental Technologies</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Articles</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>KINETICSOZONATIONMUCONICACIDINWATER</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BELTRAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ozone decomposition and absorption experiments in pure water</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ozone absorption experiments in muconic acid aqueous solutions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Determination of the rate constant of the direct reaction: ozone–muconic acid</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>GUERRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1737</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>HAMDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>155</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>YEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>JOGLEKAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>135</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>TONEGAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1222</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>BELTRAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>74</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALDEGRADATIONMETHODSFORWASTESPOLLUTANTSENVIRONMENTALINDUSTRIALAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>MORRISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ORGANICCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>DECORET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>GILBERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1937</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>FOGLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELEMENTSCHEMICALREACTIONENGINEERING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>RIDGWAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2935</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2942</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>BADER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>449</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>ANDREOZZI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1467</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>CHARPENTIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ADVANCESINCHEMICALENGINEERING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>SOTELO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1239</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>ROTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>137</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>STAEHELIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>666</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>BELTRAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>STAEHELIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1206</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>SOTELO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>397</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>JOHNSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1485</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22">
+            <xocs:ref-normalized-surname>REID</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROPERTIESGASESLIQUIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib23">
+            <xocs:ref-normalized-surname>AKITA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>84</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib24">
+            <xocs:ref-normalized-surname>BELTRAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>OZONEREACTIONKINETICSFORWATERWASTEWATERSYSTEMS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BELTRANX2006X534</xocs:refkey3>
+         <xocs:refkey4lp>BELTRANX2006X534X538</xocs:refkey4lp>
+         <xocs:refkey4ai>BELTRANX2006X534XF</xocs:refkey4ai>
+         <xocs:refkey5>BELTRANX2006X534X538XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0304-3894(06)00590-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0304389406005905</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0304389406005905</xocs:eid>
+         <xocs:doi>10.1016/j.jhazmat.2006.05.089</xocs:doi>
+         <xocs:cid>271390</xocs:cid>
+         <xocs:timestamp>2010-11-08T00:56:17.217561-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2006-12-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/MAIN/application/pdf/43c998678d1335cc7054b6aed55810d2/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/MAIN/application/pdf/43c998678d1335cc7054b6aed55810d2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>303861</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0304389406005905-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/PREVIEW/image/png/7382e34c12aa63c57e3ff9877d682ec0/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/PREVIEW/image/png/7382e34c12aa63c57e3ff9877d682ec0/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68137</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/8135f60f47373065f1838deab098d4ab/si9.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/8135f60f47373065f1838deab098d4ab/si9.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>821</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>183</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/0be78dd9fd55b2a448f5c11abda09e50/si8.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/0be78dd9fd55b2a448f5c11abda09e50/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>440</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>101</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/fbff73709eddeaebf0fa618bbe7a5bf7/si7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/fbff73709eddeaebf0fa618bbe7a5bf7/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>587</xocs:filesize>
+               <xocs:pixel-height>20</xocs:pixel-height>
+               <xocs:pixel-width>159</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/6cd95ed148b77a7ece3c1be842a7152b/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/6cd95ed148b77a7ece3c1be842a7152b/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>426</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>93</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/0cd935c14301225986697a8347c3ac42/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/0cd935c14301225986697a8347c3ac42/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>210</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>27</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/0cd935c14301225986697a8347c3ac42/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/0cd935c14301225986697a8347c3ac42/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>210</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>27</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/980f6dc2fbd7a03da7a569f6c7e5d26e/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/980f6dc2fbd7a03da7a569f6c7e5d26e/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>761</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>154</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/0cd935c14301225986697a8347c3ac42/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/0cd935c14301225986697a8347c3ac42/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>210</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>27</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si19.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/fcee269e3be23cc55359c417ed06bd41/si19.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/fcee269e3be23cc55359c417ed06bd41/si19.gif</xocs:ucs-locator>
+               <xocs:file-basename>si19</xocs:file-basename>
+               <xocs:filename>si19.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>623</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>133</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si18.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/17d4578b2656ac412f0c90279b03f67c/si18.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/17d4578b2656ac412f0c90279b03f67c/si18.gif</xocs:ucs-locator>
+               <xocs:file-basename>si18</xocs:file-basename>
+               <xocs:filename>si18.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1474</xocs:filesize>
+               <xocs:pixel-height>42</xocs:pixel-height>
+               <xocs:pixel-width>234</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si17.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/5683b8227250630c300b130817cb60cf/si17.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/5683b8227250630c300b130817cb60cf/si17.gif</xocs:ucs-locator>
+               <xocs:file-basename>si17</xocs:file-basename>
+               <xocs:filename>si17.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>482</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>109</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si16.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/df752a75129ca82cb668699a8285ddf2/si16.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/df752a75129ca82cb668699a8285ddf2/si16.gif</xocs:ucs-locator>
+               <xocs:file-basename>si16</xocs:file-basename>
+               <xocs:filename>si16.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>448</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>90</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si15.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/abd17b1fb8a1f0570679b7b45072a031/si15.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/abd17b1fb8a1f0570679b7b45072a031/si15.gif</xocs:ucs-locator>
+               <xocs:file-basename>si15</xocs:file-basename>
+               <xocs:filename>si15.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>739</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si14.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/43c854ca71af4b86366d5774b3b95516/si14.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/43c854ca71af4b86366d5774b3b95516/si14.gif</xocs:ucs-locator>
+               <xocs:file-basename>si14</xocs:file-basename>
+               <xocs:filename>si14.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>596</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>115</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si13.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/fad6dc6ac6732205d63b2f79055c08be/si13.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/fad6dc6ac6732205d63b2f79055c08be/si13.gif</xocs:ucs-locator>
+               <xocs:file-basename>si13</xocs:file-basename>
+               <xocs:filename>si13.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1670</xocs:filesize>
+               <xocs:pixel-height>66</xocs:pixel-height>
+               <xocs:pixel-width>285</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si12.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/0cd935c14301225986697a8347c3ac42/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/0cd935c14301225986697a8347c3ac42/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si12</xocs:file-basename>
+               <xocs:filename>si12.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>210</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>27</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si11.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/b1feaae308ea5eb7e26e28fb8f1f774b/si11.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/b1feaae308ea5eb7e26e28fb8f1f774b/si11.gif</xocs:ucs-locator>
+               <xocs:file-basename>si11</xocs:file-basename>
+               <xocs:filename>si11.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>614</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>108</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/0cd935c14301225986697a8347c3ac42/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/0cd935c14301225986697a8347c3ac42/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si10</xocs:file-basename>
+               <xocs:filename>si10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>210</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>27</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/STRIPIN/image/gif/e980d11ae6e42e7140691c47bb585324/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/STRIPIN/image/gif/e980d11ae6e42e7140691c47bb585324/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>826</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>225</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr4/DOWNSAMPLED/image/jpeg/4ab7a8026a63732b2c36e11b92e6ceca/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr4/DOWNSAMPLED/image/jpeg/4ab7a8026a63732b2c36e11b92e6ceca/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>14322</xocs:filesize>
+               <xocs:pixel-height>269</xocs:pixel-height>
+               <xocs:pixel-width>374</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr4/THUMBNAIL/image/gif/43c8a30237e9f8cafce1b0adad5d06ae/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr4/THUMBNAIL/image/gif/43c8a30237e9f8cafce1b0adad5d06ae/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1179</xocs:filesize>
+               <xocs:pixel-height>90</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr2/DOWNSAMPLED/image/jpeg/f85bad3755f2129ad4a49395dbc699bf/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr2/DOWNSAMPLED/image/jpeg/f85bad3755f2129ad4a49395dbc699bf/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>12414</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>374</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr2/THUMBNAIL/image/gif/9eb8ae18852626cc7de5a58b8429f6c5/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr2/THUMBNAIL/image/gif/9eb8ae18852626cc7de5a58b8429f6c5/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1072</xocs:filesize>
+               <xocs:pixel-height>91</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr3/DOWNSAMPLED/image/jpeg/04477279537ff37e736c6e6648377a2b/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr3/DOWNSAMPLED/image/jpeg/04477279537ff37e736c6e6648377a2b/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>10979</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>374</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr3/THUMBNAIL/image/gif/b2655750eb25ab327e53c5bf572f94e5/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr3/THUMBNAIL/image/gif/b2655750eb25ab327e53c5bf572f94e5/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1041</xocs:filesize>
+               <xocs:pixel-height>91</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr1/DOWNSAMPLED/image/jpeg/57523a01aa77f9678b9fa38057386d75/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr1/DOWNSAMPLED/image/jpeg/57523a01aa77f9678b9fa38057386d75/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>12594</xocs:filesize>
+               <xocs:pixel-height>280</xocs:pixel-height>
+               <xocs:pixel-width>370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr1/THUMBNAIL/image/gif/109d0c483a327c01d1a7b7bf493a92b4/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr1/THUMBNAIL/image/gif/109d0c483a327c01d1a7b7bf493a92b4/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1024</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>123</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr5/DOWNSAMPLED/image/jpeg/da552e63c7dea21ce676bcf231c90dab/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr5/DOWNSAMPLED/image/jpeg/da552e63c7dea21ce676bcf231c90dab/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>11566</xocs:filesize>
+               <xocs:pixel-height>273</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr5/THUMBNAIL/image/gif/7e2429812889d7d168365be5ace18f03/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr5/THUMBNAIL/image/gif/7e2429812889d7d168365be5ace18f03/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>993</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr6/DOWNSAMPLED/image/jpeg/2c93f2fb75360b584d21403ab6229678/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr6/DOWNSAMPLED/image/jpeg/2c93f2fb75360b584d21403ab6229678/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>12105</xocs:filesize>
+               <xocs:pixel-height>269</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304389406005905-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304389406005905/gr6/THUMBNAIL/image/gif/2d1796ad312d3891acda804617b110f4/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304389406005905/gr6/THUMBNAIL/image/gif/2d1796ad312d3891acda804617b110f4/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1027</xocs:filesize>
+               <xocs:pixel-height>89</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>HAZMAT</jid>
+            <aid>5688</aid>
+            <ce:pii>S0304-3894(06)00590-5</ce:pii>
+            <ce:doi>10.1016/j.jhazmat.2006.05.089</ce:doi>
+            <ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Evolution of dissolved ozone concentration during the ozone absorption in pure water. Experimental conditions: 20<ce:hsp sp="0.25"/>°C, 28.8<ce:hsp sp="0.25"/>L<ce:hsp sp="0.25"/>h<ce:sup loc="post">−1</ce:sup>; ionic strength: 2<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>M. Ozone concentration in the inlet gas and pH: (■) 2.52<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M and 3; (□) 2.67<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M and 7.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Evolution of dimensionless concentration of muconic acid in water with time during its ozonation. Experimental conditions: 20<ce:hsp sp="0.25"/>°C, 28.8<ce:hsp sp="0.25"/>L<ce:hsp sp="0.25"/>h<ce:sup loc="post">−1</ce:sup>; ionic strength: 2<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>M; muconic acid initial concentration: 4.45<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M (average value). Ozone concentration in the inlet gas and pH: (■) 2.90<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M and 3; (□) 3.09<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M and 7.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Evolution of ozone concentration in the exiting gas from the reactor with time during the muconic acid ozonation in water. Experimental conditions: 20<ce:hsp sp="0.25"/>°C, 28.8<ce:hsp sp="0.25"/>L<ce:hsp sp="0.25"/>h<ce:sup loc="post">−1</ce:sup>; ionic strength: 2<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>M; muconic acid initial concentration: 4.45<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M (average value). Ozone concentration in the inlet gas and pH: (■) 2.90<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M and 3; (□) 3.09<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M and 7.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Checking Eq. <ce:cross-ref refid="eq7">(8)</ce:cross-ref> for rate constant determination of the reaction between ozone and muconic acid in water. Kinetic regime assumed: fast of pseudo first order. Experimental conditions as in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Comparison between experimental and calculated accumulation rates of muconic acid in water to determine the rate constant of the reaction between ozone and muconic acid. Kinetic regime assumed: moderate. Experimental conditions as in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> and pH 3. Black squares are experimental points. Continuous line represents calculated results.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Comparison between experimental and calculated accumulation rates of muconic acid in water to determine the rate constant of the reaction between ozone and muconic acid. Kinetic regime assumed: moderate. Experimental conditions as in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> and pH 7. Empty squares are experimental points. Continuous line represents calculated results.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Experimental parameters used for rate constant determination<ce:cross-ref refid="tbl1fn1">
+                        <ce:sup loc="post">a</ce:sup>
+                     </ce:cross-ref>
+                  </ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Value</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Reference</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>z</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">This work</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>a</italic>
+                           <cross-ref refid="tbl1fn2">
+                              <sup loc="post">b</sup>
+                           </cross-ref> (m<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">232</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">This work</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">He (atm<hsp sp="0.25"/>M<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">86.3 at pH 3; 101.8 at pH 7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">This work</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>D</italic>
+                           <inf loc="post">O3</inf> (m<sup loc="post">2</sup>
+                           <hsp sp="0.25"/>s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.65<hsp sp="0.25"/>×<hsp sp="0.25"/>10<sup loc="post">−9</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">From <cross-ref refid="bib21">[21]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>D</italic>
+                           <inf loc="post">B</inf> (m<sup loc="post">2</sup>
+                           <hsp sp="0.25"/>s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6.75<hsp sp="0.25"/>×<hsp sp="0.25"/>10<sup loc="post">−10</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">From Wilke–Chang equation, <cross-ref refid="bib22">[22]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>k</italic>
+                           <inf loc="post">l</inf>
+                           <italic>a</italic> (s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.016</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">This work</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>k</italic>
+                           <inf loc="post">l</inf> (m<hsp sp="0.25"/>s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6.9<hsp sp="0.25"/>×<hsp sp="0.25"/>10<sup loc="post">−5</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">From <cross-ref refid="bib23">[23]</cross-ref>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tbl1fn1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>Data for 20<ce:hsp sp="0.25"/>°C.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tbl1fn2">
+                  <ce:label>b</ce:label>
+                  <ce:note-para>Determined as <ce:italic>k</ce:italic>
+                     <ce:inf loc="post">l</ce:inf>
+                     <ce:italic>a</ce:italic>/<ce:italic>a</ce:italic>.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Kinetics of the ozonation of muconic acid in water</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Fernando J.</ce:given-name>
+                  <ce:surname>Beltrán</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Eva M.</ce:given-name>
+                  <ce:surname>Rodríguez</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>María T.</ce:given-name>
+                  <ce:surname>Romero</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Departamento de Ingeniería Química y Energética, Universidad de Extremadura, Avenida de Elvas S/N, 06071 Badajoz, Spain</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="22" month="3" year="2006"/>
+            <ce:date-revised day="25" month="5" year="2006"/>
+            <ce:date-accepted day="26" month="5" year="2006"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">The removal of muconic acid (specifically <ce:italic>trans</ce:italic>–<ce:italic>trans</ce:italic>-butanedioc acid) with ozone from water has been studied for kinetics purposes. Concentrations of muconic acid of 4.4<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M are completely removed with ozone in less than 14 and 9<ce:hsp sp="0.25"/>min at pH 3 and 7, respectively, and 3<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M of ozone in the gas. The positive influence of pH was due to the more reactive muconic acid dissociated form with ozone. The process can be described as a second order irreversible gas–liquid reaction developing in the moderate kinetic regime of absorption. At the experimental conditions investigated no free radical reactions are present and muconic acid is entirely oxidized by molecular ozone. Rate constants of the direct reaction between muconic acid and ozone were found to be 1.6<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">4</ce:sup> and 1.4<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">5</ce:sup>
+                     <ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                     <ce:hsp sp="0.25"/>s<ce:sup loc="post">1</ce:sup> at 20<ce:hsp sp="0.25"/>°C, pH 3 and 7, respectively, according to film theory.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Ozone</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Muconic acid</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ozonation kinetics</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Water pollution</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Kinetic modelling</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Phenol compounds are one of the principal groups of organics present in wastewater because of their wide use in industrial processes and social activities <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. As a consequence, studies on technologies for their removal from water abound in literature <ce:cross-refs refid="bib4 bib5 bib6">[4–6]</ce:cross-refs>. Among these technologies, chemical oxidation (in many cases using ozone as oxidant) deserves a special attention, due to high reaction rates that oxidants have with nucleophilic centers of phenols <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. During ozonation of phenols compounds of different nature, but specifically polyphenols, unsaturated and saturated carboxylic acids and aldehydes are formed <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. One of these intermediates is muconic acid or butanedioic acid, an unsaturated carboxylic acid with two double bonds that react fast with ozone <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. Literature reports most of the kinetics of the reactions between these intermediates and ozone but that of the ozone–muconic acid reaction still remains unknown. Knowledge of the kinetics of this reaction is needed for kinetic modelling purposes. Therefore, the objective of this paper was to determine the rate constant of the direct reaction of ozone and muconic acid to further apply it in phenol ozonation kinetic modelling.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Materials and methods</ce:section-title>
+                  <ce:para view="all">Muconic acid (specifically <ce:italic>trans</ce:italic>–<ce:italic>trans</ce:italic>-butanedioic acid) was obtained from Sigma–Aldrich and used as received. Ozone was generated from pure oxygen in a Sander laboratory ozonator able to produce 6<ce:hsp sp="0.25"/>g of ozone per hour. Pure water was obtained from a Milli-Q Millipore system.</ce:para>
+                  <ce:para view="all">Ozone absorption experiments were carried out in a 30<ce:hsp sp="0.25"/>cm long, 7.5<ce:hsp sp="0.25"/>cm i.d. bubble column provided with a porous plate (16–40<ce:hsp sp="0.25"/>um) at its bottom and inlets and outlets for feeding and exiting the gas, sampling and measuring temperature. These dimensions and the very fine bubbles circulating through the column allowed the perfect mixing conditions to be reached as also checked by tracer analysis <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. The reactor was charged with pure water or with an aqueous buffered solution of muconic acid (4.4<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>M) at pH 3 or 7. Phosphoric acid and sodium hydroxide were used to buffer the aqueous solution and reach a 2<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>M ionic strength.</ce:para>
+                  <ce:para view="all">In some experiments, ozone was absorbed in pure water also buffered at pH 3 and 7 to determine the Henry law constant and the ozone solubility in water. Also, ozone decomposition was followed in some other experiments at pH 7 to determine the rate constant of the ozone decomposition reaction. Finally, in other group of experiments ozone was absorbed at pH 3 in aqueous solutions of 5,5′,7 potassium indigo trisulfonate to determine the volumetric mass transfer coefficient of the system following the method of Ridgway et al. <ce:cross-ref refid="bib11">[11]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">The concentration of muconic acid was followed spectrophotometrically by measuring the absorbance at 264<ce:hsp sp="0.25"/>nm since at these conditions there are no interferences of secondary products as literature reports <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. Ozone concentration in the gas was measured iodometrically by absorbing the ozone containing gas in acid potassium iodide aqueous solutions and using sodium thiosulfate to reduce the liberated iodine. In water, ozone concentration was followed with the Karman Indigo method <ce:cross-ref refid="bib12">[12]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Ozone decomposition and absorption experiments in pure water</ce:section-title>
+                     <ce:para view="all">In a first series of experiments ozone was decomposed in water at pH 7 to determine the rate constant of the self decomposition reaction needed to further determine the ozone solubility or the corresponding Henry's law constant. Ozone decomposition kinetics in water followed a first order reaction has already been reported in literature. The rate constant obtained was found to be 6.2<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−4</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> at pH 7. Then, ozone absorption in pure water was accomplished. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/> shows the evolution of ozone concentration in water for two experiments carried out at pH 3 and 7. As can be seen from <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, dissolved ozone concentration first increases and after a few minutes reaches a plateau value of 7.0 and 5.7<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−5</ce:sup>
+                        <ce:hsp sp="0.25"/>M at pH 3 and 7, respectively. The increase of concentration with the decrease of pH can be due to two factors: the increasing ozone decomposition with pH and the salting out effect of the different distribution of ions (from phosphoric acid) at pH 3 and 7 <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. In our case, the difference in ozone solubility was likely due to the second factor: the salting-out effect since the rate constant of ozone decomposition was negligible against the volumetric mass transfer coefficient as shown below.</ce:para>
+                     <ce:para view="all">The volumetric mass transfer coefficient was obtained from the method of Ridgway et al. <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. A value of 0.016<ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> was found which is in accordance with the figure of this kind of coefficient expected in bubble columns <ce:cross-ref refid="bib14">[14]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">For ozone absorption experiments in pure water in a semibatch reactor with perfect mixing conditions, the ozone mass balance equation in bulk water is:<ce:display>
+                           <ce:formula id="eq1">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mtext>d</mml:mtext>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mtext>O</mml:mtext>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mtext>d</mml:mtext>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>k</mml:mi>
+                                       <mml:mtext>l</mml:mtext>
+                                    </mml:msub>
+                                    <mml:mi>a</mml:mi>
+                                    <mml:mo stretchy="false">(</mml:mo>
+                                    <mml:msubsup>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                       <mml:mo>*</mml:mo>
+                                    </mml:msubsup>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo stretchy="false">)</mml:mo>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>k</mml:mi>
+                                       <mml:mtext>d</mml:mtext>
+                                    </mml:msub>
+                                    <mml:msub>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>k</ce:italic>
+                        <ce:inf loc="post">l</ce:inf>
+                        <ce:italic>a</ce:italic> and <ce:italic>k</ce:italic>
+                        <ce:inf loc="post">d</ce:inf> are the volumetric mass transfer coefficient and the rate constant of the ozone decomposition reaction, respectively, and <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msubsup>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mo>*</mml:mo>
+                              </mml:msubsup>
+                           </mml:mrow>
+                        </mml:math> and <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">O3</ce:inf> the ozone concentrations at the gas–water interface or ozone solubility and the dissolved ozone concentration, respectively. At steady state conditions, Eq. <ce:cross-ref refid="eq1">(1)</ce:cross-ref> reduces to:<ce:display>
+                           <ce:formula id="eq2">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si3.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msubsup>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                       <mml:mo>*</mml:mo>
+                                    </mml:msubsup>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                          <mml:mtext>ss</mml:mtext>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mfenced open="[" close="]">
+                                       <mml:mrow>
+                                          <mml:mn>1</mml:mn>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:mfrac>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mi>k</mml:mi>
+                                                   <mml:mtext>d</mml:mtext>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mi>k</mml:mi>
+                                                   <mml:mtext>l</mml:mtext>
+                                                </mml:msub>
+                                                <mml:mi>a</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mfrac>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>with <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">O3ss</ce:inf> being the ozone concentration at steady state (see <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>). Given the very low value of <ce:italic>k</ce:italic>
+                        <ce:inf loc="post">d</ce:inf> compared to <ce:italic>k</ce:italic>
+                        <ce:inf loc="post">l</ce:inf>
+                        <ce:italic>a</ce:italic>, from Eq. <ce:cross-ref refid="eq2">(2)</ce:cross-ref> is deduced that the ozone solubility coincides with the ozone concentration at steady state. At pH 3 this conclusion also holds since the ozone decomposition rate constant (not calculated) is much lower than at pH 7. Then, from <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, values of <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">O3ss</ce:inf> and hence the ozone solubility, <mml:math altimg="si4.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msubsup>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mo>*</mml:mo>
+                              </mml:msubsup>
+                           </mml:mrow>
+                        </mml:math>, can be read. Once <mml:math altimg="si5.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msubsup>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mo>*</mml:mo>
+                              </mml:msubsup>
+                           </mml:mrow>
+                        </mml:math> is known, application of Henry's law allows the determination of the equilibrium constant, He:<ce:display>
+                           <ce:formula>
+                              <ce:label>(3)</ce:label>
+                              <mml:math altimg="si6.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi>P</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mtext>He</mml:mtext>
+                                    <mml:msubsup>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                       <mml:mo>*</mml:mo>
+                                    </mml:msubsup>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>P</ce:italic>
+                        <ce:inf loc="post">O3</ce:inf> is the ozone partial pressure in the exiting gas due to perfect mixing conditions. Then, with the experimental values of the ozone partial pressure Henry's law constant was determined to be 86.2 and 101.8<ce:hsp sp="0.25"/>atm<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup> at pH 3 and 7, respectively. These values are on the order of magnitude of other that can be found in literature from empirical correlations <ce:cross-refs refid="bib15 bib16">[15,16]</ce:cross-refs>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Ozone absorption experiments in muconic acid aqueous solutions</ce:section-title>
+                     <ce:para view="all">In <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> the evolution of the muconic acid concentration against reaction time for ozone experiments at pH 3 and 7 is shown. As can be seen, at a given reaction time, muconic acid concentration diminishes as pH increases. This can be due to two reasons: the effect of free radical reactions of increasing importance with the increasing pH in ozone systems and the dissociating character of muconic acid, with the dissociated form being more reactive towards ozone than the non-dissociating one. In our case, the dissociating character of muconic acid is likely the reason. At pH 3 no free radicals are practically formed from ozone decomposition <ce:cross-ref refid="bib17">[17]</ce:cross-ref> and at pH 7, the reaction of ozone decomposition, responsible of the formation of free radicals, is still very low so that it can be classified as a very slow gas–liquid reaction <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. Since, the reaction of muconic acid and ozone is faster it seems reasonable to admit that there is no competition between both reactions and the dissolved ozone is only consumed in direct reactions (with muconic acid and intermediates) in water. In any case, the absence of free radical reactions was checked by repeating the ozone–muconic acid experiment in the presence of <ce:italic>t</ce:italic>-butanol, a strong hydroxyl free radical scavenger <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. The results (not shown) indicated no influence of the presence of <ce:italic>t</ce:italic>-butanol on the muconic acid removal rate. Hence, muconic acid is exclusively removed through its direct reaction with ozone.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Determination of the rate constant of the direct reaction: ozone–muconic acid</ce:section-title>
+                     <ce:para view="all">During the ozonation experiments of muconic acid in water the dissolved ozone concentration was zero, regardless of the pH. This means that the reaction developed in the fast or moderate instantaneous regime of ozone absorption. This, also, supports the previous conclusions on the negligible importance of free radical reactions to remove muconic acid with ozone. Thus, as is known <ce:cross-ref refid="bib18">[18]</ce:cross-ref> for pH lower than 12 the ozone decomposition reaction, while ozone is being absorbed in water, develops in the very slow kinetic regime and, hence, this reaction can not compete with a fast or moderate reaction of ozone (in this case, the ozone–muconic acid reaction).</ce:para>
+                     <ce:para view="all">Due to the fast removal of muconic acid from water (less than 15<ce:hsp sp="0.25"/>min at the conditions applied, see <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>), a fast pseudo first order kinetics for the ozone–muconic acid reaction was first assumed. At these conditions, the process kinetics obeys the following equation <ce:cross-ref refid="bib14">[14]</ce:cross-ref>:<ce:display>
+                           <ce:formula id="eq3">
+                              <ce:label>(4)</ce:label>
+                              <mml:math altimg="si7.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi>N</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mi>a</mml:mi>
+                                    <mml:msubsup>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                       <mml:mo>*</mml:mo>
+                                    </mml:msubsup>
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:mi>k</mml:mi>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mtext>B</mml:mtext>
+                                          </mml:msub>
+                                          <mml:msub>
+                                             <mml:mi>D</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mtext>O</mml:mtext>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para view="all">where <ce:italic>N</ce:italic>
+                        <ce:inf loc="post">O3</ce:inf> is the ozone absorption rate, a the specific interfacial area, <ce:italic>k</ce:italic> the rate constant of the muconic acid–ozone reaction, <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">B</ce:inf> the concentration of muconic acid and <ce:italic>D</ce:italic>
+                        <ce:inf loc="post">O3</ce:inf> is the ozone diffusivity in water. On the other hand, a mass balance of muconic acid in water, taking into account perfect mixing conditions and semibatch reactor (batch for the water phase) is:<ce:display>
+                           <ce:formula id="eq4">
+                              <ce:label>(5)</ce:label>
+                              <mml:math altimg="si8.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:mi>z</mml:mi>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mtext>d</mml:mtext>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mtext>B</mml:mtext>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mtext>d</mml:mtext>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>N</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>with <ce:italic>z</ce:italic> being the stoichiometric coefficient of the ozone–muconic acid reaction, moles of ozone consumed per mole of muconic acid consumed. Substitution of Eq. <ce:cross-ref refid="eq3">(4)</ce:cross-ref> into Eq. <ce:cross-ref refid="eq4">(5)</ce:cross-ref> gives:<ce:display>
+                           <ce:formula id="eq5">
+                              <ce:label>(6)</ce:label>
+                              <mml:math altimg="si9.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:mi>z</mml:mi>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mtext>d</mml:mtext>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mtext>B</mml:mtext>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mtext>d</mml:mtext>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mi>a</mml:mi>
+                                    <mml:msubsup>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                       <mml:mo>*</mml:mo>
+                                    </mml:msubsup>
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:mi>k</mml:mi>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mtext>B</mml:mtext>
+                                          </mml:msub>
+                                          <mml:msub>
+                                             <mml:mi>D</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mtext>O</mml:mtext>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>Eq. <ce:cross-ref refid="eq5">(6)</ce:cross-ref> can be analytically solved when <mml:math altimg="si10.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msubsup>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mo>*</mml:mo>
+                              </mml:msubsup>
+                           </mml:mrow>
+                        </mml:math> stays constant throughout the reaction period considered. This concentration is obtained from the concentration of ozone in the gas leaving the reactor, because of perfect mixing conditions and negligible gas phase mass transfer resistance <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. Then, according to Henry and perfect laws:<ce:display>
+                           <ce:formula id="eq6">
+                              <ce:label>(7)</ce:label>
+                              <mml:math altimg="si11.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msubsup>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                       <mml:mo>*</mml:mo>
+                                    </mml:msubsup>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mtext>O</mml:mtext>
+                                                <mml:mn>3</mml:mn>
+                                                <mml:mtext>g</mml:mtext>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mi>R</mml:mi>
+                                          <mml:mi>T</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mtext>He</mml:mtext>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">O3g</ce:inf> is the concentration of ozone in the exiting gas, <ce:italic>R</ce:italic> the gas perfect law constant and <ce:italic>T</ce:italic> is the temperature. As shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>, concentration of ozone in the exiting gas increases during approximately the first minute of reaction to become stationary. Then, from this short initial time, <ce:italic>t</ce:italic>
+                        <ce:inf loc="post">i</ce:inf>, <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">O3g</ce:inf> and, then, <mml:math altimg="si12.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msubsup>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mo>*</mml:mo>
+                              </mml:msubsup>
+                           </mml:mrow>
+                        </mml:math> are constants. Hence, once Eq. <ce:cross-ref refid="eq6">(7)</ce:cross-ref> has been substituted in Eq. <ce:cross-ref refid="eq5">(6)</ce:cross-ref> and variables have been separated, Eq. <ce:cross-ref refid="eq5">(6)</ce:cross-ref> can be integrated between <ce:italic>t</ce:italic>
+                        <ce:inf loc="post">i</ce:inf> and <ce:italic>t</ce:italic>, to yield:<ce:display>
+                           <ce:formula id="eq7">
+                              <ce:label>(8)</ce:label>
+                              <mml:math altimg="si13.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mtext>B</mml:mtext>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mtext>B</mml:mtext>
+                                                <mml:mn>0</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mi>a</mml:mi>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mtext>O</mml:mtext>
+                                                <mml:mn>3</mml:mn>
+                                                <mml:mtext>g</mml:mtext>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mi>R</mml:mi>
+                                          <mml:mi>T</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>z</mml:mi>
+                                          <mml:mtext>He</mml:mtext>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:mi>k</mml:mi>
+                                          <mml:msub>
+                                             <mml:mi>D</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mtext>O</mml:mtext>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo stretchy="false">(</mml:mo>
+                                    <mml:mi>t</mml:mi>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>t</mml:mi>
+                                       <mml:mtext>i</mml:mtext>
+                                    </mml:msub>
+                                    <mml:mo stretchy="false">)</mml:mo>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mtext>B</mml:mtext>
+                                                <mml:mn>0</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:mi>χ</mml:mi>
+                                    <mml:mo stretchy="false">(</mml:mo>
+                                    <mml:mi>t</mml:mi>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>t</mml:mi>
+                                       <mml:mtext>i</mml:mtext>
+                                    </mml:msub>
+                                    <mml:mo stretchy="false">)</mml:mo>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para view="all">According to Eq. <ce:cross-ref refid="eq7">(8)</ce:cross-ref> a plot of its left side against (<ce:italic>t</ce:italic>
+                        <ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>
+                        <ce:italic>t</ce:italic>
+                        <ce:inf loc="post">i</ce:inf>) should lead to a straight line. Form the slope of this line the rate constant of the muconic acid reaction can be obtained. This plot is shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/> for the experiments at pH 3 and 7. As can be seen experimental points are situated around straight lines which comports Eq. <ce:cross-ref refid="eq7">(8)</ce:cross-ref>. From the slopes of straight lines obtained from least squares analysis, <ce:italic>k</ce:italic> was found to be: 5.8<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">9</ce:sup> and 1.7<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">10</ce:sup>
+                        <ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> at pH 3 and 7, respectively, once data of rest of parameters included in <ce:italic>χ</ce:italic> were considered (see <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/> for parameter values). Among these parameters, the stoichiometric ratio, <ce:italic>z</ce:italic>, was found to be 1<ce:hsp sp="0.25"/>mol of ozone consumed per mol of muconic acid consumed, determined experimentally in this work following a procedure already published <ce:cross-ref refid="bib24">[24]</ce:cross-ref>. Once the rate constant of the reaction was known, Hatta values were obtained and compared to the corresponding instantaneous reaction factor, <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">i</ce:inf>, values, to confirm that the kinetic regime of ozone absorption was fast of pseudo first order. Both parameters are defined as <ce:cross-ref refid="bib14">[14]</ce:cross-ref>:<ce:display>
+                           <ce:formula id="eq8">
+                              <ce:label>(9)</ce:label>
+                              <mml:math altimg="si14.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mtext>Ha</mml:mtext>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msqrt>
+                                             <mml:mrow>
+                                                <mml:mi>k</mml:mi>
+                                                <mml:msub>
+                                                   <mml:mi>D</mml:mi>
+                                                   <mml:mrow>
+                                                      <mml:mtext>O</mml:mtext>
+                                                      <mml:mn>3</mml:mn>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                                <mml:msub>
+                                                   <mml:mi>C</mml:mi>
+                                                   <mml:mtext>B</mml:mtext>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:msqrt>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>k</mml:mi>
+                                             <mml:mtext>l</mml:mtext>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>and<ce:display>
+                           <ce:formula>
+                              <ce:label>(10)</ce:label>
+                              <mml:math altimg="si15.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi>E</mml:mi>
+                                       <mml:mtext>i</mml:mtext>
+                                    </mml:msub>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mo>+</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mi>z</mml:mi>
+                                          <mml:msub>
+                                             <mml:mi>D</mml:mi>
+                                             <mml:mtext>B</mml:mtext>
+                                          </mml:msub>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mtext>B</mml:mtext>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>D</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mtext>O</mml:mtext>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:msubsup>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mtext>O</mml:mtext>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                             <mml:mo>*</mml:mo>
+                                          </mml:msubsup>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>Condition for a fast of pseudo first order kinetic regime is:<ce:display>
+                           <ce:formula>
+                              <ce:label>(11)</ce:label>
+                              <mml:math altimg="si16.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mn>3</mml:mn>
+                                    <mml:mo>&lt;</mml:mo>
+                                    <mml:mtext>Ha</mml:mtext>
+                                    <mml:mo>&lt;</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>E</mml:mi>
+                                             <mml:mtext>i</mml:mtext>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para view="all">However, this condition was not fulfilled for the ozone–muconic acid reaction. Hatta values were higher than 24 while those of <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">i</ce:inf>/2 varied between 0.5 and 2. As a consequence the values of <ce:italic>k</ce:italic> were recalculated by assuming a second order reaction in the moderate-fast kinetic regime <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. For these regimes, the ozone absorption rate is:<ce:display>
+                           <ce:formula>
+                              <ce:label>(12)</ce:label>
+                              <mml:math altimg="si17.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi>N</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>k</mml:mi>
+                                       <mml:mtext>l</mml:mtext>
+                                    </mml:msub>
+                                    <mml:mi>a</mml:mi>
+                                    <mml:msubsup>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                       <mml:mo>*</mml:mo>
+                                    </mml:msubsup>
+                                    <mml:mi>E</mml:mi>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>with <ce:italic>E</ce:italic>, the reaction factor, being:<ce:display>
+                           <ce:formula>
+                              <ce:label>(13)</ce:label>
+                              <mml:math altimg="si18.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mi>E</mml:mi>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mtext>Ha</mml:mtext>
+                                          <mml:msqrt>
+                                             <mml:mrow>
+                                                <mml:mo stretchy="false">(</mml:mo>
+                                                <mml:msub>
+                                                   <mml:mi>E</mml:mi>
+                                                   <mml:mtext>i</mml:mtext>
+                                                </mml:msub>
+                                                <mml:mo>−</mml:mo>
+                                                <mml:mi>E</mml:mi>
+                                                <mml:mo stretchy="false">)</mml:mo>
+                                                <mml:mo>/</mml:mo>
+                                                <mml:mo stretchy="false">(</mml:mo>
+                                                <mml:msub>
+                                                   <mml:mi>E</mml:mi>
+                                                   <mml:mtext>i</mml:mtext>
+                                                </mml:msub>
+                                                <mml:mo>−</mml:mo>
+                                                <mml:mn>1</mml:mn>
+                                                <mml:mo stretchy="false">)</mml:mo>
+                                             </mml:mrow>
+                                          </mml:msqrt>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>tanh</mml:mi>
+                                          <mml:mfenced open="[" close="]">
+                                             <mml:mrow>
+                                                <mml:mtext>Ha</mml:mtext>
+                                                <mml:msqrt>
+                                                   <mml:mrow>
+                                                      <mml:mo stretchy="false">(</mml:mo>
+                                                      <mml:msub>
+                                                         <mml:mi>E</mml:mi>
+                                                         <mml:mtext>i</mml:mtext>
+                                                      </mml:msub>
+                                                      <mml:mo>−</mml:mo>
+                                                      <mml:mi>E</mml:mi>
+                                                      <mml:mo stretchy="false">)</mml:mo>
+                                                      <mml:mo>/</mml:mo>
+                                                      <mml:mo stretchy="false">(</mml:mo>
+                                                      <mml:msub>
+                                                         <mml:mi>E</mml:mi>
+                                                         <mml:mtext>i</mml:mtext>
+                                                      </mml:msub>
+                                                      <mml:mo>−</mml:mo>
+                                                      <mml:mn>1</mml:mn>
+                                                      <mml:mo stretchy="false">)</mml:mo>
+                                                   </mml:mrow>
+                                                </mml:msqrt>
+                                             </mml:mrow>
+                                          </mml:mfenced>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>The kinetic model of the ozonation for this kinetic regime is finally:<ce:display>
+                           <ce:formula id="eq9">
+                              <ce:label>(14)</ce:label>
+                              <mml:math altimg="si19.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:mi>z</mml:mi>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mtext>d</mml:mtext>
+                                          <mml:msub>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:mtext>B</mml:mtext>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mtext>d</mml:mtext>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>k</mml:mi>
+                                       <mml:mtext>l</mml:mtext>
+                                    </mml:msub>
+                                    <mml:mi>a</mml:mi>
+                                    <mml:msubsup>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                       <mml:mo>*</mml:mo>
+                                    </mml:msubsup>
+                                    <mml:mi>E</mml:mi>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para view="all">Eq. <ce:cross-ref refid="eq9">(14)</ce:cross-ref> was solved finding, with a trial and error procedure, the value of <ce:italic>k</ce:italic> that minimizes, between <ce:italic>t</ce:italic>
+                        <ce:inf loc="post">i</ce:inf> and a given time <ce:italic>t</ce:italic>, the sum of the squares of the differences between the actual and calculated muconic acid removal rates. <ce:cross-refs refid="fig5 fig6">Figs. 5 and 6</ce:cross-refs>
+                        <ce:float-anchor refid="fig5"/>
+                        <ce:float-anchor refid="fig6"/> show the best fitting obtained at pH 3 and 7 with the values of <ce:italic>k</ce:italic> of 1.6<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">4</ce:sup> and 1.4<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">5</ce:sup>
+                        <ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>s<ce:sup loc="post">−1</ce:sup>, respectively. As can be seen, calculated and experimental values coincide for reaction times approximately lower than 200 and 350<ce:hsp sp="0.25"/>s at pH 3 and 7, respectively (notice that <ce:italic>t</ce:italic>
+                        <ce:inf loc="post">i</ce:inf> was lower than 60<ce:hsp sp="0.25"/>s). The deviations observed at higher reaction times are likely due to the competition of ozone reactions with by-products of muconic acid ozonation (for example: the reaction of ozone with maleic or fumaric acid, <ce:cross-ref refid="bib24">[24]</ce:cross-ref>). According to these results, during the first minutes of reaction, only the muconic acid–ozone reaction develops, while for higher reaction times, other ozone direct reactions compete. Finally, values of the Hatta number (Eq. <ce:cross-ref refid="eq8">(9)</ce:cross-ref>) were recalculated with the new values of <ce:italic>k</ce:italic>. In these cases, Ha always resulted to be lower than 3, regardless of the pH value. This allowed us to confirm the moderate kinetic regime of ozone absorption <ce:cross-ref refid="bib14">[14]</ce:cross-ref> and the validity of the procedure applied for kinetic determination.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">In this work the following conclusions have been reached:<ce:list>
+                        <ce:list-item>
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">The reaction between ozone and muconic acid in water proceeds fast although it develops in the moderate kinetic regime of ozone absorption.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">pH is an important variable that affects the ozonation rate in a positive manner. However, pH influence is not due to contribution of free radical reactions, a commom way through which ozonation of organics in water takes place but to the more reactive dissociated form of muconic acid towards molecular ozone, through double bond ozonolysis (Criegge mechanism <ce:cross-ref refid="bib24">[24]</ce:cross-ref>).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">The stoichiometric ratio of the direct ozone–muconic acid reaction was found to be 1<ce:hsp sp="0.25"/>mol of ozone consumed per mol of muconic acid consumed.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">Application of film theory to experimental results of muconic acid ozonation leads to the determination of the rate constant of the reaction that resulted to be 1.6<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">4</ce:sup> and 1.4<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">5</ce:sup>
+                              <ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                              <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> at pH 3 and 7, respectively.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">This work has been supported by the CICYT of Spain and the European Region Development Funds of the European Commission (Project PPQ2003/00554).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Guerra</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1737</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hamdi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Chem. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>155</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Yen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecotoxic. Environ. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Joglekar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Samant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Joshi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>135</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tonegawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dec</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Bollag</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Qual.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1222</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Beltrán</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Tarr</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Chemical Degradation Methods for Wastes and Pollutants. Environmental and Industrial Applications</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2003</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Marcel Dekker Inc.</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>74</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>Morrison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.N.</ce:given-name>
+                                 <ce:surname>Boyd</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Organic Chemistry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Allyn and Bacon Inc.</sb:name>
+                                 <sb:location>Newton, MA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Decoret</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Royer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Legube</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Doré</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Technol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Gilbert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1937</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Fogler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Elements of Chemical Reaction Engineering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>3rd ed.</sb:edition>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Prentice-Hall</sb:name>
+                                 <sb:location>Englewood Cliffs, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ridgway</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.N.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.R.</ce:given-name>
+                                 <ce:surname>Eanlay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2935</sb:first-page>
+                              <sb:last-page>2942</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Bader</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hoigné</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>449</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Andreozzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Caprio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ermellino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Insola</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.R.</ce:given-name>
+                                 <ce:surname>Tufano</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ind. Eng. Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1467</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Charpentier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Advances in Chemical Engineering</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>vol. 11</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1981</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>pp. 3–133</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Sotelo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Beltrán</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Benítez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Beltrán-Heredia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1239</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Roth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Sullivan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ind. Eng. Chem. Fundam.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>137</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Staehelin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hoigné</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>666</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Beltrán</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ozone Sci. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Staehelin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hoigné</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1206</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Sotelo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Beltrán</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>González</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ozone Sci. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>397</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Eng. Data</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1485</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Reid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Prausnitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.E.</ce:given-name>
+                                 <ce:surname>Poling</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Properties of Gases and Liquids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>4th ed.</sb:edition>
+                              <sb:date>1987</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Akita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ind. Eng. Chem. Proc. Design Dev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>84</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Beltrán</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ozone Reaction Kinetics for Water and Wastewater Systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Lewis Publishers</sb:name>
+                                 <sb:location>Boca Ratón, FL</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

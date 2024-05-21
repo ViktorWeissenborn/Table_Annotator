@@ -1,0 +1,1111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-02-14</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.chemosphere.2011.08.043</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">TRANSFORMATIONPRODUCTSREACTIONKINETICSFRAGRANCESINADVANCEDWASTEWATERTREATMENTOZONE</infon>
+      <infon key="name_0">surname:JANZEN</infon>
+      <infon key="license">Copyright © 2011 Elsevier Ltd. All rights reserved.</infon>
+      <infon key="source">Chemosphere</infon>
+      <infon key="year">2011-09-26</infon>
+      <infon key="volume">85</infon>
+      <infon key="issue">0045-6535</infon>
+      <infon key="fpage">1481</infon>
+      <infon key="lpage">1486. Link: https://sciencedirect.com/science/article/pii/S0045653511010083</infon>
+      <infon key="pub-id_doi">10.1016/j.chemosphere.2011.08.043</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0045653511010083</infon>
+      <infon key="kwd">['Ozonation', 'By-products', 'Rate constants', 'Fragrances', 'AHTN', 'HHCB', '1']</infon>
+      <offset>0</offset>
+      <text>Transformation products and reaction kinetics of fragrances in advanced wastewater treatment with ozone</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="98" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>104</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>122</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>133</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>142</offset>
+      <text>► Fragrances except nitro musks can be removed from waste water by ozonisation. ► Several by-products are formed and identified in this paper. ► The reaction time increases if removal of by-products is desired. ► The reaction rates in WWTP effluent- and tap-water are similar. The reaction of the fragrance compounds 4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene (HHCB), 1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone (AHTN), 1-tert-butyl-3,5-dimethyl-2,4,6-trinitrobenzene (musk xylene/MX), 1-(4-tert-butyl-2,6-dimethyl-3,5-dinitrophenyl)ethanone (musk ketone/MK), and 1-(2,3,8,8-tetramethyl-1,3,4,5,6,7-hexahydronaphthalen-2-yl)ethanone (OTNE) with ozone in tap water as well as waste water treatment plant (WWTP) effluents is described. Several transformation products are characterized by means of gas chromatography coupled to mass spectrometry. One transformation product (HHCB-Lactone) was confirmed by means of a true standard. Musk xylene and musk ketone do not react with ozone under the conditions used in this study. AHTN and HHCB reacted slowly to a multitude of transformation products, while OTNE reacted quickly to several stable transformation products. The reaction constants and half lives are used to predict removal efficiencies for full scale reactors.</text>
+      <annotation id="2">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="828" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="1159" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1452</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Name', 'Acronym', 'Structure', 'CAS'], ['Galaxolide', 'HHCB', '', '1222-05-5'], ['Tonalide', 'AHTN', '', '1506-02-1'], ['Musk ketone', 'MK', '', '81-14-1'], ['Musk xylene', 'MX', '', '81-15-2'], ['Iso E super', 'OTNE (main constituent)', '', '54464-57-2'], ['', '', '', ''], ['HHCB oxidation by-product', 'HHCB-Lactone', '', '507442-53-7'], ['', '', '', ''], ['Suggested AHTN oxidation by-product', '', '', '']]</infon>
+      <offset>1459</offset>
+      <text>Fragrance compounds used for ozonation experiments and oxidation by-products.</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Name&lt;/td&gt;
+      &lt;td&gt;Acronym&lt;/td&gt;
+      &lt;td&gt;Structure&lt;/td&gt;
+      &lt;td&gt;CAS&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Galaxolide&lt;/td&gt;
+      &lt;td&gt;HHCB&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;1222-05-5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tonalide&lt;/td&gt;
+      &lt;td&gt;AHTN&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;1506-02-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Musk ketone&lt;/td&gt;
+      &lt;td&gt;MK&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;81-14-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Musk xylene&lt;/td&gt;
+      &lt;td&gt;MX&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;81-15-2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Iso E super&lt;/td&gt;
+      &lt;td&gt;OTNE (main constituent)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;54464-57-2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;HHCB oxidation by-product&lt;/td&gt;
+      &lt;td&gt;HHCB-Lactone&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;507442-53-7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Suggested AHTN oxidation by-product&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1537</offset>
+      <text>[['HHCB', ['Galaxolide'], ['Acronym']], ['NoValue', ['Galaxolide'], ['Structure']], ['1222-05-5', ['Galaxolide'], ['CAS']], ['AHTN', ['Tonalide'], ['Acronym']], ['NoValue', ['Tonalide'], ['Structure']], ['1506-02-1', ['Tonalide'], ['CAS']], ['MK', ['Musk ketone'], ['Acronym']], ['NoValue', ['Musk ketone'], ['Structure']], ['81-14-1', ['Musk ketone'], ['CAS']], ['MX', ['Musk xylene'], ['Acronym']], ['NoValue', ['Musk xylene'], ['Structure']], ['81-15-2', ['Musk xylene'], ['CAS']], ['OTNE (main constituent)', ['Iso E super'], ['Acronym']], ['NoValue', ['Iso E super'], ['Structure']], ['54464-57-2', ['Iso E super'], ['CAS']], ['HHCB-Lactone', ['HHCB oxidation by-product'], ['Acronym']], ['NoValue', ['HHCB oxidation by-product'], ['Structure']], ['507442-53-7', ['HHCB oxidation by-product'], ['CAS']]]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['By-product', 'Rt', 'Mass spectrum (relative abundance)'], ['AHTN O1', '13.78', '124 (100), 125 (81), 83 (57), 208 (41), 126 (39)'], ['AHTN O2', '13.87', '163 (100), 83 (86), 154 (81), 70 (81), 135 (72)'], ['AHTN O3', '15.57', '193 (100), 137 (80), 208 (71), 121 (52), 91 (46)'], ['AHTN O4', '15.64', '193 (100), 137 (50), 208 (43), 121 (37), 107 (33)'], ['AHTN O5', '17.32', '223 (100), 177 (43), 192 (41), 149 (38), 224 (27)'], ['AHTN O6', '17.39', '163 (100), 135 (63), 137 (61), 206 (59), 150 (40)'], ['AHTN O7', '17.44', '163 (100), 135 (58), 177 (35), 137 (32), 91 (31)'], ['AHTN O8', '18.94', '243 (100), 258 (27), 159 (24), 187 (18), 244 (17)'], ['AHTN O9', '19.41', '219 (100), 221 (55), 193 (38), 247 (37), 208 (33)'], ['AHTN O10', '19.92', '247 (100), 205 (87), 163 (82), 178 (65), 69 (63)'], ['AHTN O11', '21.18', '205 (100), 247 (26), 206 (21), 220 (21), 163 (21)'], ['AHTN O12', '21.53', '229 (100), 272 (51), 173 (41), 239 (36), 187 (29)'], ['', '', ''], ['AHTN derivative', 'AHTN derivative', '229 (100), 272 (64), 187 (36), 173 (29)'], ['OTNE O1', '17.50', '151 (100), 109 (68), 95 (67), 69 (64), 123 (50)'], ['OTNE O2', '17.75', '119 (100), 175 (79), 95 (59), 105 (52), 190 (44)'], ['OTNE O3', '17.93', '119 (100), 112 (78), 97 (56), 69 (55), 95 (48)'], ['OTNE O4', '18.13', '95 (100), 69 (96), 119 (93), 123 (88), 109 (86)'], ['OTNE O5', '18.37', '119 (100), 95 (77), 189 (62), 69 (60), 207 (59)'], ['OTNE O6', '19.25', '111 (100), 69 (45), 126 (41), 55 (30), 110 (28)'], ['OTNE O7', '20.06', '69 (100), 55 (41), 109 (34), 155 (32), 83 (31)'], ['OTNE O8', '20.39', '69 (100), 81 (97), 168 (92), 125 (75), 83 (72)']]</infon>
+      <offset>2346</offset>
+      <text>Non-identified ozonation by-products of AHTN and OTNE listed with their retention times (Rt) and mass spectra.</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;By-product&lt;/td&gt;
+      &lt;td&gt;Rt&lt;/td&gt;
+      &lt;td&gt;Mass spectrum (relative abundance)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O1&lt;/td&gt;
+      &lt;td&gt;13.78&lt;/td&gt;
+      &lt;td&gt;124 (100), 125 (81), 83 (57), 208 (41), 126 (39)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O2&lt;/td&gt;
+      &lt;td&gt;13.87&lt;/td&gt;
+      &lt;td&gt;163 (100), 83 (86), 154 (81), 70 (81), 135 (72)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O3&lt;/td&gt;
+      &lt;td&gt;15.57&lt;/td&gt;
+      &lt;td&gt;193 (100), 137 (80), 208 (71), 121 (52), 91 (46)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O4&lt;/td&gt;
+      &lt;td&gt;15.64&lt;/td&gt;
+      &lt;td&gt;193 (100), 137 (50), 208 (43), 121 (37), 107 (33)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O5&lt;/td&gt;
+      &lt;td&gt;17.32&lt;/td&gt;
+      &lt;td&gt;223 (100), 177 (43), 192 (41), 149 (38), 224 (27)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O6&lt;/td&gt;
+      &lt;td&gt;17.39&lt;/td&gt;
+      &lt;td&gt;163 (100), 135 (63), 137 (61), 206 (59), 150 (40)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O7&lt;/td&gt;
+      &lt;td&gt;17.44&lt;/td&gt;
+      &lt;td&gt;163 (100), 135 (58), 177 (35), 137 (32), 91 (31)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O8&lt;/td&gt;
+      &lt;td&gt;18.94&lt;/td&gt;
+      &lt;td&gt;243 (100), 258 (27), 159 (24), 187 (18), 244 (17)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O9&lt;/td&gt;
+      &lt;td&gt;19.41&lt;/td&gt;
+      &lt;td&gt;219 (100), 221 (55), 193 (38), 247 (37), 208 (33)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O10&lt;/td&gt;
+      &lt;td&gt;19.92&lt;/td&gt;
+      &lt;td&gt;247 (100), 205 (87), 163 (82), 178 (65), 69 (63)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O11&lt;/td&gt;
+      &lt;td&gt;21.18&lt;/td&gt;
+      &lt;td&gt;205 (100), 247 (26), 206 (21), 220 (21), 163 (21)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN O12&lt;/td&gt;
+      &lt;td&gt;21.53&lt;/td&gt;
+      &lt;td&gt;229 (100), 272 (51), 173 (41), 239 (36), 187 (29)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN derivative&lt;/td&gt;
+      &lt;td&gt;AHTN derivative&lt;/td&gt;
+      &lt;td&gt;229 (100), 272 (64), 187 (36), 173 (29)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OTNE O1&lt;/td&gt;
+      &lt;td&gt;17.50&lt;/td&gt;
+      &lt;td&gt;151 (100), 109 (68), 95 (67), 69 (64), 123 (50)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OTNE O2&lt;/td&gt;
+      &lt;td&gt;17.75&lt;/td&gt;
+      &lt;td&gt;119 (100), 175 (79), 95 (59), 105 (52), 190 (44)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OTNE O3&lt;/td&gt;
+      &lt;td&gt;17.93&lt;/td&gt;
+      &lt;td&gt;119 (100), 112 (78), 97 (56), 69 (55), 95 (48)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OTNE O4&lt;/td&gt;
+      &lt;td&gt;18.13&lt;/td&gt;
+      &lt;td&gt;95 (100), 69 (96), 119 (93), 123 (88), 109 (86)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OTNE O5&lt;/td&gt;
+      &lt;td&gt;18.37&lt;/td&gt;
+      &lt;td&gt;119 (100), 95 (77), 189 (62), 69 (60), 207 (59)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OTNE O6&lt;/td&gt;
+      &lt;td&gt;19.25&lt;/td&gt;
+      &lt;td&gt;111 (100), 69 (45), 126 (41), 55 (30), 110 (28)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OTNE O7&lt;/td&gt;
+      &lt;td&gt;20.06&lt;/td&gt;
+      &lt;td&gt;69 (100), 55 (41), 109 (34), 155 (32), 83 (31)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OTNE O8&lt;/td&gt;
+      &lt;td&gt;20.39&lt;/td&gt;
+      &lt;td&gt;69 (100), 81 (97), 168 (92), 125 (75), 83 (72)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>2457</offset>
+      <text>[['13.78', ['AHTN O1'], ['Rt']], ['124 (100), 125 (81), 83 (57), 208 (41), 126 (39)', ['AHTN O1'], ['Mass spectrum (relative abundance)']], ['13.87', ['AHTN O2'], ['Rt']], ['163 (100), 83 (86), 154 (81), 70 (81), 135 (72)', ['AHTN O2'], ['Mass spectrum (relative abundance)']], ['15.57', ['AHTN O3'], ['Rt']], ['193 (100), 137 (80), 208 (71), 121 (52), 91 (46)', ['AHTN O3'], ['Mass spectrum (relative abundance)']], ['15.64', ['AHTN O4'], ['Rt']], ['193 (100), 137 (50), 208 (43), 121 (37), 107 (33)', ['AHTN O4'], ['Mass spectrum (relative abundance)']], ['17.32', ['AHTN O5'], ['Rt']], ['223 (100), 177 (43), 192 (41), 149 (38), 224 (27)', ['AHTN O5'], ['Mass spectrum (relative abundance)']], ['17.39', ['AHTN O6'], ['Rt']], ['163 (100), 135 (63), 137 (61), 206 (59), 150 (40)', ['AHTN O6'], ['Mass spectrum (relative abundance)']], ['17.44', ['AHTN O7'], ['Rt']], ['163 (100), 135 (58), 177 (35), 137 (32), 91 (31)', ['AHTN O7'], ['Mass spectrum (relative abundance)']], ['18.94', ['AHTN O8'], ['Rt']], ['243 (100), 258 (27), 159 (24), 187 (18), 244 (17)', ['AHTN O8'], ['Mass spectrum (relative abundance)']], ['19.41', ['AHTN O9'], ['Rt']], ['219 (100), 221 (55), 193 (38), 247 (37), 208 (33)', ['AHTN O9'], ['Mass spectrum (relative abundance)']], ['19.92', ['AHTN O10'], ['Rt']], ['247 (100), 205 (87), 163 (82), 178 (65), 69 (63)', ['AHTN O10'], ['Mass spectrum (relative abundance)']], ['21.18', ['AHTN O11'], ['Rt']], ['205 (100), 247 (26), 206 (21), 220 (21), 163 (21)', ['AHTN O11'], ['Mass spectrum (relative abundance)']], ['21.53', ['AHTN O12'], ['Rt']], ['229 (100), 272 (51), 173 (41), 239 (36), 187 (29)', ['AHTN O12'], ['Mass spectrum (relative abundance)']], ['AHTN derivative', ['AHTN derivative'], ['Rt']], ['229 (100), 272 (64), 187 (36), 173 (29)', ['AHTN derivative'], ['Mass spectrum (relative abundance)']], ['17.50', ['OTNE O1'], ['Rt']], ['151 (100), 109 (68), 95 (67), 69 (64), 123 (50)', ['OTNE O1'], ['Mass spectrum (relative abundance)']], ['17.75', ['OTNE O2'], ['Rt']], ['119 (100), 175 (79), 95 (59), 105 (52), 190 (44)', ['OTNE O2'], ['Mass spectrum (relative abundance)']], ['17.93', ['OTNE O3'], ['Rt']], ['119 (100), 112 (78), 97 (56), 69 (55), 95 (48)', ['OTNE O3'], ['Mass spectrum (relative abundance)']], ['18.13', ['OTNE O4'], ['Rt']], ['95 (100), 69 (96), 119 (93), 123 (88), 109 (86)', ['OTNE O4'], ['Mass spectrum (relative abundance)']], ['18.37', ['OTNE O5'], ['Rt']], ['119 (100), 95 (77), 189 (62), 69 (60), 207 (59)', ['OTNE O5'], ['Mass spectrum (relative abundance)']], ['19.25', ['OTNE O6'], ['Rt']], ['111 (100), 69 (45), 126 (41), 55 (30), 110 (28)', ['OTNE O6'], ['Mass spectrum (relative abundance)']], ['20.06', ['OTNE O7'], ['Rt']], ['69 (100), 55 (41), 109 (34), 155 (32), 83 (31)', ['OTNE O7'], ['Mass spectrum (relative abundance)']], ['20.39', ['OTNE O8'], ['Rt']], ['69 (100), 81 (97), 168 (92), 125 (75), 83 (72)', ['OTNE O8'], ['Mass spectrum (relative abundance)']]]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Compound', 'k (M−1\ns−1)', 't1/2 (at 2 mg O3\nL−1) (min)', 't1/2 (at 5 mg O3\nL−1) (min)'], ['OTNE', '94', '4.3', '1.7'], ['HHCB', '67', '6', '2.4'], ['AHTN', '10', '40', '16'], ['HHCB-Lactone', '3', '133', '53']]</infon>
+      <offset>5396</offset>
+      <text>Empirical estimated second order rate constants k concerning the ozonation of fragrance compounds in waste water and the corresponding half-life’s t1/2 having ozone concentrations of 2 mg L−1 and 5 mg L−1.</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Compound&lt;/td&gt;
+      &lt;td&gt;k (M−1\ns−1)&lt;/td&gt;
+      &lt;td&gt;t1/2 (at 2 mg O3\nL−1) (min)&lt;/td&gt;
+      &lt;td&gt;t1/2 (at 5 mg O3\nL−1) (min)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OTNE&lt;/td&gt;
+      &lt;td&gt;94&lt;/td&gt;
+      &lt;td&gt;4.3&lt;/td&gt;
+      &lt;td&gt;1.7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;HHCB&lt;/td&gt;
+      &lt;td&gt;67&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;2.4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AHTN&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;40&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;HHCB-Lactone&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;133&lt;/td&gt;
+      &lt;td&gt;53&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>5602</offset>
+      <text>[['94', ['OTNE'], ['k (M−1\ns−1)']], ['4.3', ['OTNE'], ['t1/2 (at 2 mg O3\nL−1) (min)']], ['1.7', ['OTNE'], ['t1/2 (at 5 mg O3\nL−1) (min)']], ['67', ['HHCB'], ['k (M−1\ns−1)']], ['6', ['HHCB'], ['t1/2 (at 2 mg O3\nL−1) (min)']], ['2.4', ['HHCB'], ['t1/2 (at 5 mg O3\nL−1) (min)']], ['10', ['AHTN'], ['k (M−1\ns−1)']], ['40', ['AHTN'], ['t1/2 (at 2 mg O3\nL−1) (min)']], ['16', ['AHTN'], ['t1/2 (at 5 mg O3\nL−1) (min)']], ['3', ['HHCB-Lactone'], ['k (M−1\ns−1)']], ['133', ['HHCB-Lactone'], ['t1/2 (at 2 mg O3\nL−1) (min)']], ['53', ['HHCB-Lactone'], ['t1/2 (at 5 mg O3\nL−1) (min)']]]</text>
+      <annotation id="4">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5612" length="4"/>
+        <text>OTNE</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5754" length="4"/>
+        <text>HHCB</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5894" length="4"/>
+        <text>AHTN</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6033" length="12"/>
+        <text>HHCB-Lactone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6189</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653511010083-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>6197</offset>
+      <text>Tap water samples spiked with 4 μM HHCB and 2 mM tert-BuOH. Comparison of total ion chromatograms between an (A) untreated and (B) oxidized (O3/HHCB (n/n): 10/1) sample. HHCB-Lactone is a product of the reaction between O3 and HHCB. Mass spectra of HHCB lactone from sample and standard agree.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653511010083-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>6491</offset>
+      <text>Concentrations of HHCB and its transformation product HHCB-Lactone during ozonation of waste water with a constant ozone input (at steady state: 5 mg O3
+L−1). HHCB-Lactone is simultaneously produced and itself oxidised.</text>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6491" length="13"/>
+        <text>Concentration</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6606" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653511010083-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>6711</offset>
+      <text>First order reaction plot for the removal of fragrance compounds in waste water taking ozone to be permanently constant at 5 mg L−1. The slope of the linear regression yielding the second order rate constant k
+(M−1
+s−1) (● HHCB: k
+= 67, ○ HHCB-Lactone: k
+= 3, ○ AHTN: k
+= 10, Δ OTNE: k
+= 94).</text>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6798" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6717" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6899" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7004</offset>
+      <text>Highlights</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7015</offset>
+      <text>► Fragrances except nitro musks can be removed from waste water by ozonisation. ► Several by-products are formed and identified in this paper. ► The reaction time increases if removal of by-products is desired. ► The reaction rates in WWTP effluent- and tap-water are similar. The reaction of the fragrance compounds 4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene (HHCB), 1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone (AHTN), 1-tert-butyl-3,5-dimethyl-2,4,6-trinitrobenzene (musk xylene/MX), 1-(4-tert-butyl-2,6-dimethyl-3,5-dinitrophenyl)ethanone (musk ketone/MK), and 1-(2,3,8,8-tetramethyl-1,3,4,5,6,7-hexahydronaphthalen-2-yl)ethanone (OTNE) with ozone in tap water as well as waste water treatment plant (WWTP) effluents is described. Several transformation products are characterized by means of gas chromatography coupled to mass spectrometry. One transformation product (HHCB-Lactone) was confirmed by means of a true standard. Musk xylene and musk ketone do not react with ozone under the conditions used in this study. AHTN and HHCB reacted slowly to a multitude of transformation products, while OTNE reacted quickly to several stable transformation products. The reaction constants and half lives are used to predict removal efficiencies for full scale reactors.</text>
+      <annotation id="13">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7701" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8032" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8325</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8334</offset>
+      <text>['Ozonation', 'By-products', 'Rate constants', 'Fragrances', 'AHTN', 'HHCB', '1']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8416</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8429</offset>
+      <text>A large number of persistent organic micro-pollutants, like pharmaceuticals, pesticides and personal care products have been found in waste water effluent water around the world. This shows that conventional treatment technologies are ineffective in removing those compounds from waste water ( ). Trace level occurrence of micro-pollutants causing adverse impacts in humans and in ecosystems have been reported in many studies ( ). This study considers removing waste water relevant synthetic fragrances compounds from waste water by means of ozone. The fragrances included in this study are 4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene (HHCB), 1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone (AHTN), 1-tert-butyl-3,5-dimethyl-2,4,6-trinitrobenzene (musk xylene/MX), 1-(4-tert-butyl-2,6-dimethyl-3,5-dinitrophenyl)ethanone (musk ketone/MK), and 1-(2,3,8,8-tetramethyl-1,3,4,5,6,7-hexahydronaphthalen-2-yl)ethanone (OTNE). Due to high consumption volumes and low degradability, these compounds have been detected in treated waste water, in surface waters, in fish and in sediments ( ). To reduce the concentrations of micro-pollutants in waste water treatment plants effluents, additional treatment steps like ozonation and advanced oxidation processes (AOPs) are discussed ( ). Ozone removes organic contaminants either by direct reaction, or through the formation of hydroxyl radicals which can then react with the target molecule. Complete mineralization of persistent compounds is economically not always feasible. As a result oxidation by-products can be formed. For a comprehensive discussion regarding the benefits and risks of AOPs, oxidation by-products need to be identified, quantified and characterized in terms of their chemical structure and toxicity ( ). For developing and managing ozonation reactors transformation rate constants for the reaction of ozone with target compounds in real WWTP effluents are needed. In this study we focus on describing oxidation by-products of fragrances formed by ozonisation of WWTP effluents as well as their formation kinetics. 2</text>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8972" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9563" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9742" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10330" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10545</offset>
+      <text>Material and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10566</offset>
+      <text>2.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10570</offset>
+      <text>Chemicals and reagents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10593</offset>
+      <text>Solvents were purchased from Merck (Darmstadt, Germany). Toluene and tert-butyl methyl ether (MTBE) were of GC (Suprasolv®) grade; tert-butanol (tert-BuOH), acetone and ethyl acetate were of analytical (p.a.) grade; methanol was of LC (Lichrosolv®) grade. All glassware was cleaned twice first with acetone and then with ethyl acetate; selected instruments and syringes additionally with the solvents later inserted. The fragrance compounds selected for oxidation product screening and kinetic studies are listed in . 2.2</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11115</offset>
+      <text>Experimental</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11128</offset>
+      <text>2.2.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11134</offset>
+      <text>Oxidation products screening</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11163</offset>
+      <text>Ozone stock solution was generated by bubbling ozone gas through a glass frit into pure water using a laboratory scale ozone generator (1000BT-12, Enaly M &amp; E Ltd., Shanghai, China) fed by either oxygen or air. Aqueous ozone concentration was determined with an spectrophotometer (UV-1602 UV–Visible, Shimadzu, Duisburg, Germany) using extinction at ε (258 nm) = 3300 M−1 cm−1 ( ). Ozone stock solutions with concentrations between 1 and 5 mg L−1 were prepared. Tap water spiked with a single fragrance compound (0.1–1 mg L−1) was mixed with varying volumes of ozone stock solution. Final molar ratios of O3 and the fragrance compound in the mixed water ranged between 1:1 and 50:1. The experiments were performed with and without the presence of 0.2 mM tert-BuOH acting as OH radical scavenger: tert-BuOH reacts with O3 only at kO3+tert-BuOH = 1.3 × 10−3 M−1 s−1 but with OH∗ at kOH+tert-BuOH = 6 × 108 M−1 s−1. It thus acts as OH∗-scavenger. Thus only ozone is available for a reaction with a fragrance compound ( ). The sample solutions were stored at 4 °C for 24 h. Subsequently, solid phase extraction (see Section 3.3.1) and qualitative analysis by GC–MS (see Section 3.4) were executed for the screening of unknown oxidation products. 2.2.2</text>
+      <annotation id="19">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11163" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11210" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11282" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11382" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11388" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11545" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11572" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11724" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12117" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12411</offset>
+      <text>Kinetic studies</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12427</offset>
+      <text> and depict the concentrations of the selected fragrances in spiked waste water as a function of contact time with a constant ozone input (steady state: 5 mg L−1). The time for complete removal of the fragrance compounds OTNE, AHTN, HHCB and the produced oxidation by-product HHCB-Lactone ranged between 10 and 120 min. Thus minimal differences in chemical structures, e.g. HHCB and HHCB-Lactone, can have enormous influence on the reactivity towards ozone and OH radicals. The parent compound HHCB, having an initial concentration of 180 μg L−1, was removed within 20 min contact time; while complete removal of the oxidation product HHCB-Lactone, was achieved after 120 min. As most of the HHCB is rapidly oxidized to HHCB-Lactone, the concentration of this transformation product had its maximum of 55 μg L−1after 10 min. Removal of 400 μg L−1 OTNE and 215 μg L−1 AHTN was achieved after 10 and 120 min, respectively. The compounds MK and MX persisted after 120 min ozonation. Rate constants for the ozonation of the fragrances in waste water were calculated. The reaction was considered pseudo first order as the ozone concentration remained constant (permanently bubbling of ozone gas into waste water, having an ozone concentration of 5 mg L−1 at steady state conditions) as the reaction proceeded. Pseudo first order rate equation: (1) r=k′[A] (2) K′=k[O3](taking[O3]as constant) where k′ is the pseudo first order rate constant, k the second order rate constant, [A] the concentration of fragrance compound. The data from were plotted as [ln(c/c0)]/cozone against time ( ). Using linear regression, a function of time was received, the slope of which yielding the second order rate constant ( ). In the second order reaction rate constant k and the corresponding half-life t1/2 of the compounds are listed. reported second order rate constants for ozonation ranging between &lt;0.1 M−1 s−1 and 7 × 109 M−1 s−1, which is a wide range of about 10 orders of magnitude. Thus the calculated fragrances rate constants of 67 M−1 s−1 (HHCB), 10 M−1 s−1 (AHTN), 3 M−1 s−1 (HHCB-Lactone), and 94 M−1 s−1 (OTNE) have to be categorized, taking a scaling of 1–10 (1 = low = 0.1 M−1 s−1, 10 = high = 7109 M−1 s−1), as little reactive (category 2: HHCB-Lactone, AHTN; category 3: HHCB, OTNE) towards ozonation. measured rate constants of 140 M−1 s−1 and 8 M−1 s−1 for the reaction of HHCB and AHTN with ozone in deionised water. Thus the waste water matrix reduced the reaction efficiency of ozone and HHCB by half from 140 M−1 s−1 (pure water) to 67 M−1 s−1 (waste water). However, the waste water matrix was not relevant for the ozonation efficiency of the little reactive compound AHTN. 3.3</text>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12443" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12553" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12878" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12945" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13165" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13544" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13550" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13607" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13645" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13651" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13906" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13985" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14820" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14909" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13531" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13745" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13843" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13877" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14106" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14145" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14258" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14377" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15111</offset>
+      <text>Sample preparation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15130</offset>
+      <text>2.3.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15136</offset>
+      <text>Solid phase extraction (SPE) for qualitative analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15190</offset>
+      <text>A polymer-based reversed phase SPE column Strata-X (Phenomenex, Aschaffenburg (6 mL, 200 mg polymer), suitable for polar and non-polar analytes, was used for sample preparation. A sample processing manifold (VacMaster, Biotage, Sweden) working at a vacuum of −0.5 bar was used for extraction procedure. Following extraction method was applied: [Condition] 4 mL methanol → [Equilibrate] 10 mL water → [Load] 500 mL water sample → [Elute] 15 mL MTBE. The MTBE extract was cleaned by freezing the residual water overnight at −20 °C. 20 mL toluene were added and the extract was concentrated with a multiport condenser (Büchi Syncore, Büchi, Switzerland) at 50 °C and 60 bar to a volume of 1 mL which was directly used for qualitative analysis. 2.3.2</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15939</offset>
+      <text>Liquid liquid extraction (LLE) for quantitative analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15996</offset>
+      <text>One liter water was extracted with 10 mL toluene (SupraSolv, Merck, Darmstadt, Germany) for 20 min at 500 rpm by means of a teflonised stir bar. For internal standard (IS) calibration, an aliquot of 100 μL IS-solution containing 100 ng D15 musk xylene (Ehrenstorfer, Augsburg, Germany) was added. After 30 min of phase separation, the organic phase was dried by freezing the residual water overnight at 20 °C. The extract was concentrated with a multiport condenser (Büchi Syncore, Büchi, Switzerland) at 50 °C and 60 bar to a volume of 1 mL which was directly used for quantitative analysis. 2.4</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16595</offset>
+      <text>Analysis by GC–MS</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16613</offset>
+      <text>Analysis was performed by gas chromatographic separation on a Trace GC ultra system obtained from Thermo Scientific (Dreieich, Germany) with quadrupole mass spectrometric detection system using a DSQ. The GC–MS was equipped with a programmable temperature vaporizer (PTV) injector and a Trace auto sampler. The PTV was operated in PTV splitless mode with the following temperature program: 80 °C (0.1 s) → 12 °C s−1 → 280 °C → 1 °C s−1 → 300 °C (7 min). The injection volume was set to 1 μL. Helium (5.0) was used as carrier gas with a flow 1.3 mL min−1 while 20 mL min−1 were utilized as split flow on the PTV during the cleaning phase. The GC separation was performed using a DB-5MS column (J&amp;W Scientific, Folsom, CA, USA (length: 15 m, i.d.: 0.25 mm, film: 0.25 μm)). The GC oven temperature was programmed according to: 70 °C (1 min) → 8 °C min−1 → 240 °C → 30 °C min−1 → 280 °C (7 min). The ion source of the mass spectrometer (MS) was set to 230 °C and 70 eV ionization energy; the secondary electron multiplier was operated at 1350 V. Qualitative analysis was performed in full scan mode (50–400 u). Quantitative analysis was performed in selected ion mode (SIM). For quantification in SIM mode a dwell time of 50 ms was used and typically 11 data points for each chromatographic peak were obtained. For quantification of each compound two specific mass fragments were analyzed at the analyte specific retention time (Rt). Calibration was performed as an eight-step internal standard calibration (linear regression, 1/x weighing) using musk xylene D15 as internal standard for all compounds. Recovery rates (RR), limits of quantification (LOQ), and standard deviations (SD) were determined for the LLE procedure using tap water. Data were received from 18 extractions of tap water spiked with concentrations of each analyte in the range of 10–3000 ng L−1. The limit of detection was defined as signal-to-noise ratio 3:1. The limit of quantification was taken either as signal-to noise ratio 10:1, calculated for the respective SIM chromatograms, or as the lowest concentrations matching the linear range of the recovery rates received from higher concentration levels. GC-measurement was performed in duplicate for each extraction. Quality data and method validation data are listed in . 3</text>
+      <annotation id="50">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="16857" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="16982" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="17397" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18414" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18684" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18768" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18911</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18934</offset>
+      <text>3.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18938</offset>
+      <text>Oxidation product screening</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18966</offset>
+      <text>Mixing of ozone water with spiked tap water (spiked with a single compound) was conducted to identify oxidation products. Tap water was used to make sure the correct origin of the transformation products was known. 3.1.1</text>
+      <annotation id="56">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18976" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>19187</offset>
+      <text>HHCB</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19192</offset>
+      <text>In the total ion chromatograms (TIC) of an untreated and an oxidized HHCB sample are compared. The untreated HHCB sample comprises one major and several minor isomers of HHCB (Rt 18.35–19.56) deriving from spiking with a technical pure (not analytical pure) standard. The TIC of the oxidized HHCB sample shows peaks at Rt 21.02–23.58, which can only originate from the reaction of ozone with HHCB. Thus the ozonation of HHCB results in the formation of stable oxidation products. The comparison of the mass spectrum and retention time with a HHCB-Lactone standard verified the main oxidation product at Rt 22.72 as HHCB-Lactone (see chemical structure in ). HHCB-Lactone has been observed in the aquatic environment before and it is reported to be a transformation product of HHCB during biotransformation in some waste water treatment plants operating with activated sludge ( ). Organic compounds can be oxidized during ozonation by ozone or OH radicals. Ozonation experiments of HHCB with and without tert-butanol were performed to distinguish whether O3 or OH radicals were relevant for the production of HHCB-Lactone. Having tert-butanol in solution the contribution of OH radicals to the oxidation can be neglected. Both experiments, with and without addition of tert-butanol, resulted in the formation of HHCB-Lactone. Thus, only the direct ozone reaction with HHCB is responsible for the production of HHCB-Lactone. 3.1.2</text>
+      <annotation id="57">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19573" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20126" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20539" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>20621</offset>
+      <text>AHTN and OTNE</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20635</offset>
+      <text>Ozonation of AHTN and OTNE resulted in the formation of many stable oxidation by-products. In the total ion chromatograms (TIC) of untreated and oxidized samples are compared. Mass spectrometric data of the oxidation by-products are listed in . The mass spectrum of an AHTN by-product at the retention time of 21.53 min (AHTN O12) shows great similarities to an AHTN derivative 3-acetyl-5,6,7,8-tetrahydro-5,5,7,8,8-pentamethyl-2-naphthalenecarbaldehyde synthesized by . The mass spectra can be compared in . The chemical structure of the presumed oxidation by-product is depicted in . Purchasing of standard compounds for the verification of oxidation by-products was not possible as they are not commercially available. Thus the full identification of by-products of AHTN and OTNE was not achieved. 3.1.3</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21442</offset>
+      <text>Musk ketone and musk xylene</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21470</offset>
+      <text>No oxidation products were found for the nitro musk compounds musk xylene (MX) and musk ketone (MK), nor did the concentration of these parent compounds change within the experiments. Due to complete substitution with alkyl and nitro groups around the aromatic ring system, steric hindrance most likely inhibits oxidation reaction at the aromatic ring system. Furthermore, nitro groups are −M mesomeric substituents (electron withdrawing properties) and make the aromatic ring system less reactive and more stable. Additionally, nitro groups themselves can basically not be oxidized. 3.2</text>
+      <annotation id="60">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21583" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>22058</offset>
+      <text>Prediction of removal rates for full scale reactors</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22110</offset>
+      <text>The above discussed data can be used to predict removal rates from full scale reactors. Taking into account that full scale reactors have relative short hydraulic retention times (HRT) we used a 15 min HRT and an ozone concentration of 5 mg L−1 as a realistic design assumption. Using the above mentioned rate constants theoretical elimination rates can be calculated: HHCB: 99%; AHTN: 50%; OTNE; 99.9%. If the ozone concentrations are reduced to the more cost effective 2 mg L−1 ozone concentrations the elimination rates will be decreased to HHCB: 80%; AHTN: 22%; OTNE; 91. However, comparing and give an indication that even the primary transformation products such as HHCB-Lactone will be formed under condition 5 mg L−1 ozone and 15 min HRT. Its halflife is way longer than the HRT. Thus the reactors will have a net production of primary oxidation by-products. Removing the primary transformation products might need a HRT of approximately 100 min. However, it might be considered that also secondary transformation products may be formed. Concerning musk xylene and musk ketone: they are not being oxidized under these conditions, thus changing of HRT or ozone concentration will no be successful in removing them, but other removal mechanisms will be needed. 4</text>
+      <annotation id="61">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22323" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22329" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22521" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22527" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22590" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22596" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22835" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23272" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23278" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>23379</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23391</offset>
+      <text>This study shows that considering fragrance compounds, HHCB, AHTN and OTNE but no nitro musks can be removed from treated waste water by means of ozone. However, several stable transformation products have been identified and described in this paper. The assessment of the transformation products is as complex as the resulting pattern of oxidation by-products and is only starting. To remove at least some of transformation products, higher hydraulic residence time than 15 min might be feasible. Though the treatment with ozone is highly effective, for a complete removal of problematic compounds it might be required to combine ozonation with other technologies if not all transformation products can be proven to be harmless. Appendix A</text>
+      <annotation id="70">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23537" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23915" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24132</offset>
+      <text>Supplementary material</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24155</offset>
+      <text>Supplementary data 1</text>
+    </passage>
+  </document>
+</collection>

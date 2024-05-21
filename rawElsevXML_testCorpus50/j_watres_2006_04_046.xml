@@ -1,0 +1,2074 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0043135406002788</prism:url><dc:identifier>doi:10.1016/j.watres.2006.04.046</dc:identifier><eid>1-s2.0-S0043135406002788</eid><prism:doi>10.1016/j.watres.2006.04.046</prism:doi><pii>S0043-1354(06)00278-8</pii><dc:title>The effect of advanced treatment on chlorine decay in metallic pipes </dc:title><prism:publicationName>Water Research</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00431354</prism:issn><prism:volume>40</prism:volume><prism:issueIdentifier>13</prism:issueIdentifier><prism:startingPage>2493</prism:startingPage><prism:endingPage>2502</prism:endingPage><prism:pageRange>2493-2502</prism:pageRange><prism:number>13</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2006-07-31</prism:coverDate><prism:coverDisplayDate>July 2006</prism:coverDisplayDate><prism:copyright>Published by Elsevier Ltd.</prism:copyright><dc:creator>Rossman, Lewis A.</dc:creator><dc:description>
+                  Experiments were run to measure what effect advanced treatment might have on the kinetics of chlorine and chloramine decay in metallic pipes that comprise many drinking water distribution systems. A recirculating loop of 6-in diameter unlined ductile iron pipe was used to simulate turbulent flow conditions in a pipe with significant corrosion and tubercle buildup. Conventionally treated test water was subjected to either ozonation, carbon adsorption (GAC), reverse osmosis (RO) or no further treatment before being chlorinated and introduced into the pipeline simulator. Results showed that overall chlorine decay in the simulator was consistently dominated by wall reactions whose first-order rate constants were an order of magnitude higher than those for the bulk water. With free chlorine, the wall rate constants for ozonated and GAC-treated water were about twice those of conventional or RO-treated water. This behavior is believed due to the effect that changes in the organic content of water have on its ability to complex iron and the effect that changes in water conductivity have on pipe wall corrosion. Tests run with chloraminated water showed no statistically significant effect of treatment type and had wall rate constants that were only 40 to 70% as high as those using free chlorine.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Chlorine decay</dcterms:subject><dcterms:subject>Water distribution systems</dcterms:subject><dcterms:subject>Advanced water treatment</dcterms:subject><dcterms:subject>Pipeline simulator</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0043135406002788" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0043135406002788" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="347" height="32" size="1334">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="49" height="10" size="234">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="56" height="10" size="266">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="56" height="10" size="246">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="56" height="10" size="258">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="67" height="28" size="319">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="124" height="28" size="534">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="128" height="11" size="467">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-si2.gif?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="503" height="224" size="32189">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="56" size="2237">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="522" height="313" size="27044">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="75" size="1987">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="501" height="226" size="32215">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="56" size="2140">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="503" height="268" size="38644">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="67" size="2520">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="503" height="223" size="32302">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="55" size="2226">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="500" height="224" size="31184">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="56" size="2148">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="515" height="243" size="34887">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="59" size="2212">https://api.elsevier.com/content/object/eid/1-s2.0-S0043135406002788-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33745607847</scopus-id><scopus-eid>2-s2.0-33745607847</scopus-eid><pubmed-id>16806395</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/33745607847" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271768</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291798</xocs:ssid>
+         <xocs:ssid type="subj">291830</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Water Research</xocs:srctitle>
+      <xocs:normalized-srctitle>WATERRESEARCH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20060627">2006-06-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20060627">2006-06-27</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-13T22:04:24</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0043135406002788</xocs:eid>
+      <xocs:pii-formatted>S0043-1354(06)00278-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0043135406002788</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.watres.2006.04.046</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0043135406X05407</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T02:56:28.255685-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20060701</xocs:date-search-begin>
+      <xocs:date-search-end>20060731</xocs:date-search-end>
+      <xocs:year-nav>2006</xocs:year-nav>
+      <xocs:indexeddate epoch="1151366400">2006-06-27T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0043-1354</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00431354</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>40</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>40</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>13</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>13</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 40, Issue 13</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>2493</xocs:first-fp>
+      <xocs:last-lp>2502</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>2493</xocs:first-page>
+         <xocs:last-page>2502</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200607</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>July 2006</xocs:cover-date-text>
+      <xocs:cover-date-start>2006-07-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2006-07-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2006</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTADVANCEDTREATMENTCHLORINEDECAYINMETALLICPIPES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ROSSMAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Previous work</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Objective</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Distribution system simulator</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental conditions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Estimation of kinetic parameters</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Repeatability tests</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>6.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Free chlorine runs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>6.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chloramine runs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>7</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion of results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>7.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Temporal correlations</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>7.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Treatment characteristics</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>7.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Concentration effect</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>7.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Treatment effect—bulk reactions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>7.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Treatment effect—wall reactions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>7.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Disinfectant effect</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>8</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1"/>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>HUA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2735</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2746</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>JONES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MASSTRANSFERREACTIONSDECAYSINKSFORDISINFECTANTSINWATERDISTRIBUTIONSYSTEMSPHDDISSERTATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4"/>
+         <xocs:ref-info refid="bib5"/>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>KNOCKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-last-lp>127</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>827</xocs:ref-first-fp>
+            <xocs:ref-last-lp>835</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>MATHIEU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>365</xocs:ref-first-fp>
+            <xocs:ref-last-lp>376</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9"/>
+         <xocs:ref-info refid="bib10"/>
+         <xocs:ref-info refid="bib11"/>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>ROSSMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>803</xocs:ref-first-fp>
+            <xocs:ref-last-lp>820</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>ROSSMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3483</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3489</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>SCHOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTERNALCORROSIONDEPOSITIONCONTROLWATERQUALITYTREATMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15"/>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>THEIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>569</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>VASCONCELOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>54</xocs:ref-first-fp>
+            <xocs:ref-last-lp>65</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ROSSMANX2006X2493</xocs:refkey3>
+         <xocs:refkey4lp>ROSSMANX2006X2493X2502</xocs:refkey4lp>
+         <xocs:refkey4ai>ROSSMANX2006X2493XL</xocs:refkey4ai>
+         <xocs:refkey5>ROSSMANX2006X2493X2502XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0043-1354(06)00278-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0043135406002788</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0043135406002788</xocs:eid>
+         <xocs:doi>10.1016/j.watres.2006.04.046</xocs:doi>
+         <xocs:cid>271768</xocs:cid>
+         <xocs:timestamp>2010-12-25T02:51:35.617154-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2006-07-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2006-07-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/MAIN/application/pdf/0a704f37da4326e228f1b546c59682fb/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/MAIN/application/pdf/0a704f37da4326e228f1b546c59682fb/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>270829</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>10</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0043135406002788-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/PREVIEW/image/png/3f54a36e09c80199aae5d33173c4d262/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/PREVIEW/image/png/3f54a36e09c80199aae5d33173c4d262/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>51902</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/STRIPIN/image/gif/c062005b4ba6fb2110a8d99d99e10601/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/STRIPIN/image/gif/c062005b4ba6fb2110a8d99d99e10601/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1334</xocs:filesize>
+               <xocs:pixel-height>32</xocs:pixel-height>
+               <xocs:pixel-width>347</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/STRIPIN/image/gif/1aa0b629d800a05f6ae09e28429b607e/si8.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/STRIPIN/image/gif/1aa0b629d800a05f6ae09e28429b607e/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>234</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>49</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/STRIPIN/image/gif/c650dd01517798baf9684eae6d9e92e8/si7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/STRIPIN/image/gif/c650dd01517798baf9684eae6d9e92e8/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>266</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>56</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/STRIPIN/image/gif/56d8cc9289fe793c064619bcdb206a50/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/STRIPIN/image/gif/56d8cc9289fe793c064619bcdb206a50/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>246</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>56</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/STRIPIN/image/gif/9b84f5f5b22ad876ed1a128130c9a45c/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/STRIPIN/image/gif/9b84f5f5b22ad876ed1a128130c9a45c/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>258</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>56</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/STRIPIN/image/gif/edd12cbd28dabf2a58b90f7b1b78015b/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/STRIPIN/image/gif/edd12cbd28dabf2a58b90f7b1b78015b/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>319</xocs:filesize>
+               <xocs:pixel-height>28</xocs:pixel-height>
+               <xocs:pixel-width>67</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/STRIPIN/image/gif/6774f634e0bf7e623054a82e6ba9b5f3/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/STRIPIN/image/gif/6774f634e0bf7e623054a82e6ba9b5f3/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>534</xocs:filesize>
+               <xocs:pixel-height>28</xocs:pixel-height>
+               <xocs:pixel-width>124</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/STRIPIN/image/gif/fa6bf2fdd5c7ac3d322336646283fbcf/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/STRIPIN/image/gif/fa6bf2fdd5c7ac3d322336646283fbcf/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>467</xocs:filesize>
+               <xocs:pixel-height>11</xocs:pixel-height>
+               <xocs:pixel-width>128</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr3/DOWNSAMPLED/image/jpeg/7c02a8fc7ce8ff09583fc7e840bd3ef8/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr3/DOWNSAMPLED/image/jpeg/7c02a8fc7ce8ff09583fc7e840bd3ef8/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32189</xocs:filesize>
+               <xocs:pixel-height>224</xocs:pixel-height>
+               <xocs:pixel-width>503</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr3/THUMBNAIL/image/gif/0ce07c0f1bfd027a934a7bca19622b95/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr3/THUMBNAIL/image/gif/0ce07c0f1bfd027a934a7bca19622b95/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2237</xocs:filesize>
+               <xocs:pixel-height>56</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr1/DOWNSAMPLED/image/jpeg/6caeadcb0f882a07678cc8c1f22a8fa3/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr1/DOWNSAMPLED/image/jpeg/6caeadcb0f882a07678cc8c1f22a8fa3/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27044</xocs:filesize>
+               <xocs:pixel-height>313</xocs:pixel-height>
+               <xocs:pixel-width>522</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr1/THUMBNAIL/image/gif/637d3124c1e2df048c019d8551afddfe/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr1/THUMBNAIL/image/gif/637d3124c1e2df048c019d8551afddfe/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1987</xocs:filesize>
+               <xocs:pixel-height>75</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr5/DOWNSAMPLED/image/jpeg/6621687f65b6563650c8ad0c94ab5269/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr5/DOWNSAMPLED/image/jpeg/6621687f65b6563650c8ad0c94ab5269/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32215</xocs:filesize>
+               <xocs:pixel-height>226</xocs:pixel-height>
+               <xocs:pixel-width>501</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr5/THUMBNAIL/image/gif/df3046c1a43e1938e9cc214a20ad6e5d/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr5/THUMBNAIL/image/gif/df3046c1a43e1938e9cc214a20ad6e5d/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2140</xocs:filesize>
+               <xocs:pixel-height>56</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr7/DOWNSAMPLED/image/jpeg/bfbb16fb900df73a306b06054ad0a257/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr7/DOWNSAMPLED/image/jpeg/bfbb16fb900df73a306b06054ad0a257/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38644</xocs:filesize>
+               <xocs:pixel-height>268</xocs:pixel-height>
+               <xocs:pixel-width>503</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr7/THUMBNAIL/image/gif/55956a607ad4b871dda860d70fda8060/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr7/THUMBNAIL/image/gif/55956a607ad4b871dda860d70fda8060/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2520</xocs:filesize>
+               <xocs:pixel-height>67</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr4/DOWNSAMPLED/image/jpeg/c14167de62a50a04cdeaaf0b7d6e6c46/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr4/DOWNSAMPLED/image/jpeg/c14167de62a50a04cdeaaf0b7d6e6c46/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32302</xocs:filesize>
+               <xocs:pixel-height>223</xocs:pixel-height>
+               <xocs:pixel-width>503</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr4/THUMBNAIL/image/gif/f0308af1542fd33ff442044fc69f0a70/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr4/THUMBNAIL/image/gif/f0308af1542fd33ff442044fc69f0a70/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2226</xocs:filesize>
+               <xocs:pixel-height>55</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr6/DOWNSAMPLED/image/jpeg/6a3a46c8cdd76b846b130562bf31fe1b/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr6/DOWNSAMPLED/image/jpeg/6a3a46c8cdd76b846b130562bf31fe1b/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31184</xocs:filesize>
+               <xocs:pixel-height>224</xocs:pixel-height>
+               <xocs:pixel-width>500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr6/THUMBNAIL/image/gif/d9699cbd35060dd8b7f883118d2b74dc/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr6/THUMBNAIL/image/gif/d9699cbd35060dd8b7f883118d2b74dc/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2148</xocs:filesize>
+               <xocs:pixel-height>56</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr2/DOWNSAMPLED/image/jpeg/afaa3b11efb8418aa101ae9cacd3ab69/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr2/DOWNSAMPLED/image/jpeg/afaa3b11efb8418aa101ae9cacd3ab69/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34887</xocs:filesize>
+               <xocs:pixel-height>243</xocs:pixel-height>
+               <xocs:pixel-width>515</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043135406002788-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135406002788/gr2/THUMBNAIL/image/gif/d029bf60a499f090eeed5f84373c89b0/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135406002788/gr2/THUMBNAIL/image/gif/d029bf60a499f090eeed5f84373c89b0/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2212</xocs:filesize>
+               <xocs:pixel-height>59</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.0">
+         <item-info>
+            <jid>WR</jid>
+            <aid>5904</aid>
+            <ce:pii>S0043-1354(06)00278-8</ce:pii>
+            <ce:doi>10.1016/j.watres.2006.04.046</ce:doi>
+            <ce:copyright type="us-gov" year="2006"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Schematic of US EPA distribution system simulator.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Repeatability of kinetic tests in the pipe loop.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Pipe loop results for high free chlorine runs.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Pipe loop results for low free chlorine runs.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Pipe loop results for high chloramine runs.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Pipe loop results for low chloramine runs.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Ratio of combined to free chlorine rate constants.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Reaction rate constants for chlorine decay in pipelines</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Investigators</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Type of study</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Pipe material</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>K</italic>
+                           <inf loc="post">total</inf> (1/day)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>K</italic>
+                           <inf loc="post">bulk</inf> (1/day)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>K</italic>
+                           <inf loc="post">wall</inf> (ft/day)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib18">Wable et al. (1991)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Field</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Gray cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3.17</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.58</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.13</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Field</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Ductile cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">9.94</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.88</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.58</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Field</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Ductile cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.58 <vsp sp="1.0"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib15">Sharp et al. (1991)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Field</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Unlined cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">7.78</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Field</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Unlined cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">5.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Field</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">PVC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">4.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A <vsp sp="1.0"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib4">Kiene et al. (1993)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Field</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Gray cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">4.32</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.86</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Field</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Gray cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.44</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.27 <vsp sp="1.0"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib12">Rossman et al. (1994)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Modeling</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Unlined cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.50 <vsp sp="1.0"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Vasconcelos</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Modeling</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Asbestos cement</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.00</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">et al. (1997)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Modeling</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Unlined cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.83</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.49</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Modeling</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Unlined galvanized iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.89</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Modeling</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Unlined cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">17.70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">4.99</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Modeling</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Cement-lined ductile iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.77</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.10 <vsp sp="1.0"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib8">Mathieu et al. (1993)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Simulator</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Cement-lined cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.24</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib10">Parent et al. (1996a)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Simulator</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Cement-lined cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.25</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib11">Parent et al. (1996b)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Simulator</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Cement-lined cast iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">12.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.98</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref refid="bib13">Rossman et al. (2001)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Simulator</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Unlined ductile iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.7–3.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.25–0.49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.31–0.43</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Experimental conditions and kinetic results for free chlorine</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="10">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <colspec colnum="10" colname="col10"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Treatment/initial Cl<inf loc="post">2</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">TOC (mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">UVA (1/cm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">ALK (mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Temp. (deg C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">pH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Cl<inf loc="post">2</inf> (mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>K</italic>
+                           <inf loc="post">total</inf>(1/days)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>K</italic>
+                           <inf loc="post">bulk</inf> (1/days)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>K</italic>
+                           <inf loc="post">wall</inf>(1/days)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CON/high</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.034</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">69</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">25.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">7.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">6.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.62±0.07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.094±0.024</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.53</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CON/low</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.030</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">66</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">26.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">7.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.38±0.19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.29*</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O3/high</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.013</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">21.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3.00±0.07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.048±0.010</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.95</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O3/low</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.017</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">21.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">7.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">4.71±0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.109±0.018</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">4.60</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">GAC/high</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.003</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">61</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">21.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3.00±0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.005±0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3.00</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">GAC/low</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.006</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">20.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3.56±0.24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.019±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3.54</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">RO/high</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">20.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">7.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.07±0.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.007±0.005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.06</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">RO/low</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">21.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.75±0.07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.005±0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.75</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para view="all">
+                     <ce:italic>Notes</ce:italic>: CON=conventional treatment (sedimentation+filtration); GAC=conventional treatment+granular activated carbon filtration; O3=conventional treatment+ozonation; RO=conventional treatment+reverse osmosis; TOC=total organic carbon; UVA=ultraviolet absorption at 254<ce:hsp sp="0.16"/>nm; ALK=total alkalinity in mg/L as CaCO<ce:inf loc="post">3</ce:inf>; Temp=average water temperature in pipe loop during experiment; pH=average pH in pipe loop during experiment; Cl2=initial free chlorine in pipe loop at start of experiment; ±=95% confidence limit; *Derived using the same <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">bulk</ce:inf> found for the CON/High test.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Experimental conditions and kinetic results for combined chlorine</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="10">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <colspec colnum="10" colname="col10"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Treatment/initial Cl2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">TOC (mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">UVA (1/cm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">ALK (mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Temp. (deg )C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">PH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Cl<inf loc="post">2</inf> (mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>K</italic>
+                           <inf loc="post">total</inf> (1/days)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>K</italic>
+                           <inf loc="post">bulk</inf> (1/days)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>K</italic>
+                           <inf loc="post">wall</inf> (1/days)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CON/high</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.048</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">21.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.170.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.0150.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.16</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CON/low</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.036</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">63</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">21.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.420.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.0170.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.41</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">GAC/high</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.027</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">66</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">21.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.230.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.0070.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.22</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">GAC/low</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.016</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">65</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">21.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">2.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.430.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.0050.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.43</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O3/high</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.031</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">22.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">7.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">4.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.340.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.0100.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.33</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O3/low</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.019</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">44</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">22.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">7.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.540.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.0170.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.51</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para view="all">
+                     <ce:italic>Notes</ce:italic>: CON=conventional treatment (settling and filtration); GAC=conventional treatment+granular activated carbon filtration; O3=conventional treatment+ozonation; TOC=total organic carbon; UVA=ultraviolet absorption at 254<ce:hsp sp="0.16"/>nm; ALK=total alkalinity in mg/L as CaCO<ce:inf loc="post">3</ce:inf>; Temp.=average water temperature in pipe loop during experiment; pH=average pH in pipe loop during experiment; Cl2=initial total (free+combined) chlorine in pipe loop at start of experiment; ±=95% confidence limit.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl4" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Average Finished Water Quality of Alternative Treatments</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Treatment Type</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">TOC (mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">UVA-254 (1/cm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Alkalinity (mg/L as CaCO<inf loc="post">3</inf>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">pH</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Conventional</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.73</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.037</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">66</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ozone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">1.66</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.020</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">7.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">GAC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.83</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.013</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">65</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">RO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">8.2</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>The effect of advanced treatment on chlorine decay in metallic pipes</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Lewis A.</ce:given-name>
+                  <ce:surname>Rossman</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>US Environmental Protection Agency, 26 W. M.L. King Drive, Cincinnati, OH 45268, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Tel.: +1<ce:hsp sp="0.16"/>513<ce:hsp sp="0.16"/>569<ce:hsp sp="0.16"/>7603; fax: +1<ce:hsp sp="0.16"/>513<ce:hsp sp="0.16"/>569<ce:hsp sp="0.16"/>7658.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="11" month="1" year="2006"/>
+            <ce:date-revised day="24" month="4" year="2006"/>
+            <ce:date-accepted day="28" month="4" year="2006"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Experiments were run to measure what effect advanced treatment might have on the kinetics of chlorine and chloramine decay in metallic pipes that comprise many drinking water distribution systems. A recirculating loop of 6-in diameter unlined ductile iron pipe was used to simulate turbulent flow conditions in a pipe with significant corrosion and tubercle buildup. Conventionally treated test water was subjected to either ozonation, carbon adsorption (GAC), reverse osmosis (RO) or no further treatment before being chlorinated and introduced into the pipeline simulator. Results showed that overall chlorine decay in the simulator was consistently dominated by wall reactions whose first-order rate constants were an order of magnitude higher than those for the bulk water. With free chlorine, the wall rate constants for ozonated and GAC-treated water were about twice those of conventional or RO-treated water. This behavior is believed due to the effect that changes in the organic content of water have on its ability to complex iron and the effect that changes in water conductivity have on pipe wall corrosion. Tests run with chloraminated water showed no statistically significant effect of treatment type and had wall rate constants that were only 40 to 70% as high as those using free chlorine.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Chlorine decay</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Water distribution systems</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Advanced water treatment</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Pipeline simulator</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Delivery of safe and potable water throughout a distribution system requires that disinfectant residuals be maintained at acceptable levels. Chlorine and chloramine disinfectants decay as they travel through a distribution system and this decay is influenced by various hydraulic, chemical, microbiological, and infrastructure factors. In order to comply with microbial and disinfection by-product (DBP) regulations, water suppliers can invest in treatment processes that achieve greater levels of microbial inactivation and DBP precursor removal. The effect that consequent changes in treated water quality have on the kinetics of disinfectant decay in the distribution system has not been well studied.</ce:para>
+                  <ce:para view="all">As noted by <ce:cross-ref refid="bib17">Vasconcelos et al. (1997)</ce:cross-ref>, chlorine and chloramine losses observed in distribution systems are due to reactions that occur both within the bulk flow and with material along the pipe. For example, free chlorine (HOCl) reacts primarily with natural organic matter (NOM) in the bulk phase and is also transported through a boundary layer at the pipe wall to oxidize iron (Fe) released from pipe wall corrosion. Other wall reactants might include biofilm and sorbed organics.</ce:para>
+                  <ce:para view="all">The rates of bulk flow reactions are affected primarily by the amount and nature of the organic matter remaining in the finished water. Because advanced treatment will change the nature or amount of total organic carbon (TOC) present, one expects that it will also affect the rates of chlorine and chloramine decay. As these reactions are not affected by conditions at the pipe wall, they can be studied and characterized independently at the bench.</ce:para>
+                  <ce:para view="all">Pipe wall reaction rates are affected by the nature of the material attached to or released from the wall as well as the rate at which chlorine or chloramine is transported to the wall reaction zone from the bulk fluid. In metal pipe a major contributing factor to wall demand is the release of ferrous ions that will be oxidized by chlorine to ferric. Another sink for chlorine can be the organic matter sorbed onto ferric oxide or carbonate scales or contained in the exocellular polymeric material associated with biofilm growth on the pipe wall. Advanced treatment that changes the amount and nature of the organics in water can affect the amount of wall-related organics available for reaction as well as the amount of available ferrous iron when iron–organic complexation is considered. In addition, changes in pH, alkalinity, and total dissolved solids can significantly impact the rate of corrosion-produced iron which in turn will affect chlorine reaction rates.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Previous work</ce:section-title>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="bib18">Wable et al. (1991)</ce:cross-ref> were among the first to show that chlorine consumption within the pipes of a distribution system could be significantly higher than for the same water stored in a non-reactive glass bottle. Since then a number of other studies have shown the same result. The overall decay of chlorine within a pipe is usually represented as a first-order reaction consisting of parallel first-order reactions occurring in the bulk flow and at the pipe wall. The rate expression for this reaction can be written as:<ce:display>
+                        <ce:formula>
+                           <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">d</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mi>C</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">d</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mi>t</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>K</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="italic">total</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>K</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="italic">bulk</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>+</mml:mo>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>K</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="italic">wall</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>K</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="italic">bulk</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>+</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mo>(</mml:mo>
+                                          <mml:mrow>
+                                             <mml:mfrac>
+                                                <mml:mrow>
+                                                   <mml:mi>S</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mi>V</mml:mi>
+                                                </mml:mrow>
+                                             </mml:mfrac>
+                                          </mml:mrow>
+                                          <mml:mo>)</mml:mo>
+                                       </mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>k</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="italic">wall</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mtext>,</mml:mtext>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>C</ce:italic>=chlorine concentration in the bulk flow (mass/volume) at time <ce:italic>t</ce:italic>, <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">total</ce:inf>=overall reaction constant (1/time), <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">bulk</ce:inf>=bulk water reaction constant (1/time), <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">wall</ce:inf>=pipe wall solution reaction constant (1/time), <ce:italic>k</ce:italic>
+                     <ce:inf loc="post">wall</ce:inf>=pipe wall surface reaction constant (length/time) and (<ce:italic>S</ce:italic>/<ce:italic>V</ce:italic>)=pipe wall surface area per unit of pipe volume (1/length). For circular pipes, (<ce:italic>S</ce:italic>/<ce:italic>V</ce:italic>) is nominally equal to 4 divided by the pipe's diameter but might be higher in pipes with roughened surfaces due to encrustation and tuberculation.</ce:para>
+                  <ce:para view="all">Several studies have quantified the relative magnitude of the first-order rate constants for free chlorine decay in the pipe versus the bulk water alone. <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/> compares the rate constants measured from several such efforts which were either:<ce:list>
+                        <ce:list-item>
+                           <ce:label>1.</ce:label>
+                           <ce:para view="all">field studies measuring the input/output concentration of chlorine in a single length of pipe,</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>2.</ce:label>
+                           <ce:para view="all">modeling studies, where chlorine decay in a complete pipe network was calibrated to a set of geographically disperse measurements,</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>3.</ce:label>
+                           <ce:para view="all">experimental studies in pipeline simulators.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para view="all">In this table the wall surface rate constant, <ce:italic>k</ce:italic>
+                     <ce:inf loc="post">wall</ce:inf>, is listed rather than the solution rate constant <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">wall</ce:inf> so that measurements made on pipes of different sizes can be compared. Most of the metallic pipes have an overall decay constant that is 2–10 times higher than the bulk water rate constant.</ce:para>
+                  <ce:para view="all">More recently, <ce:cross-ref refid="bib3">Jones (2002)</ce:cross-ref> conducted a series of field studies on selected pipes of the distribution system serving the Norfolk (Virginia) Naval Base both prior to and after the water supplier switched from free chlorine to chloramines. He found that free chlorine rate constants were generally in the same range as those of other investigators shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, while the rate constants for chloramines were substantially lower.</ce:para>
+                  <ce:para view="all">Different studies have identified the various factors that affect the wall reaction rate for chlorine. These factors include:</ce:para>
+                  <ce:para view="all">Pipe material: Based on the work of <ce:cross-ref refid="bib1">Gotoh (1988)</ce:cross-ref>, <ce:cross-ref refid="bib15">Sharp et al. (1991)</ce:cross-ref>, and <ce:cross-ref refid="bib3">Jones (2002)</ce:cross-ref> it appears that the various pipe materials can be listed in order of increasing reactivity as follows: PVC, asbestos cement, cement-lined ductile iron, unlined cast iron, with the latter material having substantially higher reactivity than the others. The reactivity of these materials is actually a result of other factors listed below.</ce:para>
+                  <ce:para view="all">Flow conditions: In laboratory pipe reactor tests, <ce:cross-ref refid="bib4">Kiene et al. (1993)</ce:cross-ref> observed almost negligible wall demand for chlorine under laminar flow as compared with turbulent conditions, suggesting that mass transfer of chlorine to the pipe wall could be a limiting factor in its reaction rate. Using a pipe simulator with Reynolds numbers in the turbulent flow range, <ce:cross-ref refid="bib11">Parent et al. (1996b)</ce:cross-ref> found that the reaction rate constant increased with increasing Reynolds number. <ce:cross-ref refid="bib12">Rossman et al. (1994)</ce:cross-ref> developed a model that incorporated mass transfer effects into the estimation of <ce:italic>k</ce:italic>
+                     <ce:inf loc="post">wall</ce:inf> and showed that this model was able to explain the variations of chlorine residuals measured in a distribution system.</ce:para>
+                  <ce:para view="all">Initial chlorine concentration: <ce:cross-ref refid="bib4">Kiene et al. (1993)</ce:cross-ref> and <ce:cross-ref refid="bib3">Jones (2002)</ce:cross-ref> have noted that the wall reaction rate constant for chlorine increases with decreasing initial chlorine concentration. The usual explanation for this is that chlorine decay is not a true first-order reaction and its rate is influenced by the concentration of other reactants besides chlorine.</ce:para>
+                  <ce:para view="all">Corrosion rate: <ce:cross-ref refid="bib5">Kiene and Levi (1995)</ce:cross-ref> used an electrochemical cell containing chlorinated water and an iron electrode by which the flux of Fe<ce:sup loc="post">2+</ce:sup> could be controlled. They found the rate of chlorine consumption to be directly proportional to the rate of iron dissolution. Additional tests were made with water placed in a stirred annular reactor whose outer shell was cast iron pipe. Corrosivity of the water was modified using sodium chloride and monitored using a Corrator™ probe. Results showed that chlorine decay proceeded at a constant rate with time, which was proportional to the measured water corrosivity.</ce:para>
+                  <ce:para view="all">Attached biomass: <ce:cross-ref refid="bib7">Lu et al. (1999)</ce:cross-ref> studied the effect that biofilm growing on the pipe wall surface has on chlorine demand. They found that the chlorine demand of biomass extracted from colonized glass beads was similar in strength to the bulk water demand. The rate constant for this demand was proportional to the BDOC in the water used to grow the biofilm.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Objective</ce:section-title>
+                  <ce:para view="all">The objective of the work described herein was to measure the rate of reaction of chlorine in a simulated pipe environment for water receiving different forms of advanced treatment. The simulated pipe environment was designed to replicate actual flow conditions within a ductile iron pipe that had been subject to significant corrosion and biofilm buildup. The key questions to be answered were:<ce:list>
+                        <ce:list-item>
+                           <ce:label>1.</ce:label>
+                           <ce:para view="all">Does the type of advanced treatment have any effect on chlorine reaction kinetics for water flowing in an iron pipe?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>2.</ce:label>
+                           <ce:para view="all">What are the relative rates of bulk demand and wall demand for both free and combined chlorine under the different types of treatment?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>3.</ce:label>
+                           <ce:para view="all">How does the reaction kinetics for free chlorine differ from those of combined chlorine, especially with respect to wall demand?</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Methods</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title>Distribution system simulator</ce:section-title>
+                     <ce:para view="all">The experiments were performed at the US EPA's Test and Evaluation Facility in Cincinnati, Ohio, using their Distribution System Simulator. A schematic of the simulator is shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>. The particular pipe used in this study was an 88-ft (27<ce:hsp sp="0.16"/>m) long loop of 6-in (150<ce:hsp sp="0.16"/>mm) diameter, unlined ductile iron pipe equipped with a recirculation pump and a heat exchanger cooling system. The pipe had been in service for several years and showed evidence of considerable uniform corrosion and tubercle buildup on its inside surface. Examination of coupons placed flush with the pipe wall also confirmed the presence of a significant amount of biofilm (<ce:cross-ref refid="bib9">Meckes et al., 1999</ce:cross-ref>). A 1000-gal feed tank mounted 20 ft above the pipe loop was used to feed test water to the simulator by gravity. When kinetic experiments are not being performed the loop is kept in maintenance mode by continuously feeding tap water to it at 1<ce:hsp sp="0.16"/>gpm while maintaining an 88<ce:hsp sp="0.16"/>gpm recirculation rate in the loop. This results in a 1 day residence time for water in the loop with a free chlorine residual of about 0.2<ce:hsp sp="0.16"/>mg/L.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title>Experimental procedure</ce:section-title>
+                     <ce:para view="all">Each experiment began by adding chlorine (and aqueous ammonium chloride solution for chloramine tests) to a volume of treated test water stored in the 1000-gal feed tank. The chlorinated water was held in the feed tank for a 2-h detention time to simulate the typical contact time normally achieved in a treatment system's clearwell or contact chamber prior to entry into the distribution system. The exception to this was for ozone-treated water, where no holding time after chlorination was used since chlorine was being used as a secondary disinfectant. The test water was then introduced into the pipe loop by simultaneously opening the feed line from the tank and the loop's drain line. This permitted the new test water to gradually displace the old water from the pipe without introducing any air or disturbing any sediment.</ce:para>
+                     <ce:para view="all">Tracer tests showed that it took approximately 5 pipe volumes of new water to completely replace the old water in the pipe in a time period of about 20<ce:hsp sp="0.16"/>min. After this the inlet and drain lines were closed and the test water was re-circulated under turbulent flow conditions of 1.0<ce:hsp sp="0.16"/>ft/s (0.3<ce:hsp sp="0.16"/>m/s) velocity at a Reynolds Number of 50,000 for a period of 8<ce:hsp sp="0.16"/>h. The test volume of water (approximately 130<ce:hsp sp="0.16"/>gal (500<ce:hsp sp="0.16"/>L)) thus made one pass around the loop every 90<ce:hsp sp="0.16"/>s and the 8-h test period was equivalent to sending this volume of water down a 5-mile (8.7<ce:hsp sp="0.16"/>km) stretch of pipe.</ce:para>
+                     <ce:para view="all">Close to the end of the pipe filling period a series of amber glass bottles were filled headspace-free with test water from the feed tanks. All glassware was prepared by rinsing with de-ionized water and heating in a muffle furnace at 550<ce:hsp sp="0.16"/>°C for 4<ce:hsp sp="0.16"/>h. Bottle caps were soaked in high strength chlorine solution and rinsed with de-ionized water. The filled bottles were stored in a constant temperature bath maintained at the same temperature as the pipe loop water. The temperature of water in the pipe loop was maintained at approximately the same temperature as the original feed water by adjusting the flow rate of the refrigerant used in the cooling system. Samples were withdrawn from the pipe loop for analysis every hour over an 8<ce:hsp sp="0.16"/>h testing period. The bottle samples were analyzed for free and combined chlorine residual periodically over a one to two week period. Temperature, pH, and turbidity in the pipe loop were also monitored to check for consistent water quality conditions. At the start of each experiment, the alkalinity, TOC, and ultraviolet absorbance at 254<ce:hsp sp="0.16"/>nm (UV-254) level of the test water fed into the pipe was also measured.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>4.3</ce:label>
+                     <ce:section-title>Experimental conditions</ce:section-title>
+                     <ce:para view="all">The test water used in this study was partially treated Ohio River water obtained from the Greater Cincinnati Water Works. This water had been settled and filtered but not chlorinated. Six different batches of this water were obtained over the 8-month period during which tests were conducted. Each batch consisted of about 4000<ce:hsp sp="0.16"/>gal, which was stored in a 5000<ce:hsp sp="0.16"/>gal stainless-steel tank at the T&amp;E facility. There was essentially no ammonia present in this water so that after chlorination the only chlorine species present was free chlorine.</ce:para>
+                     <ce:para view="all">The advanced treatment applied to the test water for the experiments consisted of one of the following, depending on the experiment:<ce:list>
+                           <ce:list-item>
+                              <ce:label>•</ce:label>
+                              <ce:para view="all">GAC adsorption using an Alamo Water C-161A carbon filter cartridge rated at 6.4<ce:hsp sp="0.16"/>gpm/ft<ce:sup loc="post">2</ce:sup> and empty bed contact time of 3.3<ce:hsp sp="0.16"/>min;</ce:para>
+                           </ce:list-item>
+                           <ce:list-item>
+                              <ce:label>•</ce:label>
+                              <ce:para view="all">ozonation using a ClearWater Tech Model P-2000 ozone generator rated at 2.8<ce:hsp sp="0.16"/>g/h of ozone at 15<ce:hsp sp="0.16"/>scfh air flow and operated to supply a dose of 4<ce:hsp sp="0.16"/>mg/L of ozone to process water flowing at 3<ce:hsp sp="0.16"/>gpm;</ce:para>
+                           </ce:list-item>
+                           <ce:list-item>
+                              <ce:label>•</ce:label>
+                              <ce:para view="all">RO treatment using an Osmonics E2-1690 machine with a FASTEK S2540 membrane operating at a feed rate of 2.3<ce:hsp sp="0.16"/>gpm with 50% recovery.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para view="all">These processes were selected because they represent three popular approaches, namely adsorption, oxidation, and membrane separation, used for removing chlorine demand and DBP precursor material from domestic water supplies.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>4.4</ce:label>
+                     <ce:section-title>Estimation of kinetic parameters</ce:section-title>
+                     <ce:para view="all">The following first-order kinetic parameters for chlorine decay were estimated from the time series of chlorine measurements made for each experiment:<ce:list>
+                           <ce:list-item>
+                              <ce:label>•</ce:label>
+                              <ce:para view="all">the overall decay constant, <ce:italic>K</ce:italic>
+                                 <ce:inf loc="post">total</ce:inf>,</ce:para>
+                           </ce:list-item>
+                           <ce:list-item>
+                              <ce:label>•</ce:label>
+                              <ce:para view="all">the bulk water decay constant, <ce:italic>K</ce:italic>
+                                 <ce:inf loc="post">bulk</ce:inf>,</ce:para>
+                           </ce:list-item>
+                           <ce:list-item>
+                              <ce:label>•</ce:label>
+                              <ce:para view="all">the solution wall reaction constant, <ce:italic>K</ce:italic>
+                                 <ce:inf loc="post">wall</ce:inf>.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para view="all">These coefficients were either for free chlorine or combined chlorine, depending on experiment. The overall decay constant was estimated by using linear least-squares regression with intercept set equal to 0 of the quantity log<ce:inf loc="post">e</ce:inf>(<ce:italic>C</ce:italic>
+                        <ce:inf loc="post">t</ce:inf>/<ce:italic>C</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>) against time, where <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">t</ce:inf> is the pipe loop chlorine concentration measured at time <ce:italic>t</ce:italic> and <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">0</ce:inf> is the pipe loop chlorine concentration at time 0. The bulk water decay constant was estimated in a similar fashion except using chlorine concentrations measured from the bottled samples. The wall reaction constant was then computed as the difference between the overall and bulk water constants.</ce:para>
+                     <ce:para view="all">Because all experiments were run at the same flow rate using the same pipe, the question of difference in mass transfer effects between experiments was not a factor. Although efforts were made to run all of the experiments at the same temperature and pH, outside factors caused temperatures to range from 21 to 26<ce:hsp sp="0.16"/>°C between experiments while pH ranged from 7.8 to 8.5. Although, these variations could have some effects on the chlorine decay kinetics they were not systematically accounted for in this work.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title>Repeatability tests</ce:section-title>
+                  <ce:para view="all">Chlorine demand tests were run in the pipeline simulator under identical conditions to assess how repeatable the tests were. The test water was Cincinnati tap water that was GAC-treated on site to remove any residual chlorine and adsorbable organics. This treatment reduces the bulk chlorine demand to 5% or less of the total demand over an 8<ce:hsp sp="0.16"/>h period, and thus allows replicate tests to primarily reflect the variability inherent in just the pipe wall reactions. A first pair of tests was run at an initial chlorine level of 6<ce:hsp sp="0.16"/>mg/L and was spaced 2 days apart. A second pair of tests was run at an initial chlorine level of 3.1<ce:hsp sp="0.16"/>mg/L and was spaced 1 week apart, during which the loop was kept in maintenance mode. The resulting time history of chlorine concentrations is displayed in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/> for both Test 1 (A and B) and Test 2 (A and B). These runs demonstrate that to achieve the best repeatability a sufficient amount of time should be maintained between kinetic tests to allow the pipe surface to recover to its pre-test condition.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title>Experimental results</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>6.1</ce:label>
+                     <ce:section-title>Free chlorine runs</ce:section-title>
+                     <ce:para view="all">A set of 8 experiments were made using free chlorine as the disinfectant under four different types of treatment following conventional sedimentation/filtration and two initial chlorine levels. The treatments were: (1) no further treatment, (2) ozonation, (3) carbon adsorption, and (4) reverse osmosis. The two initial chlorine targets were approximately 2 and 4<ce:hsp sp="0.16"/>mg/L. These values were chosen because they were high enough to prevent complete consumption of chlorine prior to the end of the 8-h run time, yet were still within the range of chlorine levels used in practice. It is important to note that they represent the concentrations of free chlorine sampled from the pipe loop at the start of the experiment, after a 2<ce:hsp sp="0.16"/>h holding time in the feed tank and about 20<ce:hsp sp="0.16"/>min of fill time. Preliminary trials were made in order to estimate the initial chlorine dose needed to meet the 2 or 4<ce:hsp sp="0.16"/>mg/L targets after the holding and pipe filling times. <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/> summarizes the conditions and kinetic results for each experiment. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> plots the chlorine decay measured in the pipe loop over time for the high chlorine runs while <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/> does the same for the low chlorine runs.</ce:para>
+                     <ce:para view="all">An analysis of variance statistical procedure was applied to the results shown in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref> to see if either the chlorine level or treatment type had any statistically significant effect on the wall reaction rate constant for free chlorine. The ANOVA method used was a two-factor analysis without replication. Thus, it was not possible to test for interaction effects between chlorine level and treatment type. The results showed that both factors were significant at the 5% level (<mml:math altimg="si5.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mi>P</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>0.030</mml:mn>
+                           </mml:mrow>
+                        </mml:math> for chlorine level and <mml:math altimg="si6.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mi>P</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>0.044</mml:mn>
+                           </mml:mrow>
+                        </mml:math> for treatment type).</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>6.2</ce:label>
+                     <ce:section-title>Chloramine runs</ce:section-title>
+                     <ce:para view="all">A second series of experiments were performed using combined chlorine disinfectant instead of free chlorine. The combined chlorine was generated by adding aqueous ammonium chloride to chlorinated test water in a ratio of 4:1 chlorine to ammonia-N by weight so as to produce essentially all monochloramine. The combined chlorine concentrations used in the tests were similar to those used in the free chlorine runs to facilitate comparisons. Actual concentrations of chloramines fed to distribution systems tend to be higher than those of free chlorine because of the lower disinfecting strength of chloramines. Kinetic tests were made using three different levels of additional treatment beyond conventional sedimentation and filtration (none, ozone, and GAC) and two different levels of initial combined chlorine (nominally 2 and 4<ce:hsp sp="0.16"/>mg/L). The RO treatment unit was not available for use in this phase of the study. As with the free chlorine runs, all combined chlorine measurements were begun after any initial contact time in the feed tanks and after the pipe loop filling process was completed.</ce:para>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="tbl3"/> summarizes the conditions and results for each combined chlorine experiment. The decay of combined chlorine in the pipe loop is charted in <ce:cross-refs refid="fig5 fig6">Figs. 5 and 6</ce:cross-refs>
+                        <ce:float-anchor refid="fig5"/>
+                        <ce:float-anchor refid="fig6"/> for the high and low chloramine experiments, respectively. As was done for the free chlorine runs, ANOVA was applied to the results shown in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref> to see if either the initial chloramine level or treatment type had any statistically significant effect on the wall reaction rate constant. The results indicated that chloramine level continued to have a significant effect at the 5% level (<mml:math altimg="si7.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mi>P</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>0.009</mml:mn>
+                           </mml:mrow>
+                        </mml:math>) but treatment type did not (<mml:math altimg="si8.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mi>P</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>0.06</mml:mn>
+                           </mml:mrow>
+                        </mml:math>).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>7</ce:label>
+                  <ce:section-title>Discussion of results</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>7.1</ce:label>
+                     <ce:section-title>Temporal correlations</ce:section-title>
+                     <ce:para view="all">With the exception of two runs that were made 2 days apart, all of the other 12 runs had 4 or more days for the test pipe to recover between experiments. A test for autocorrelation between the differences in <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">total</ce:inf> measured in successive experiments failed to show any correlation at a 5% level of significance. It appears that there was no systematic effect of the order or time between experiments on the values of <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">total</ce:inf> determined.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>7.2</ce:label>
+                     <ce:section-title>Treatment characteristics</ce:section-title>
+                     <ce:para view="all">The characteristics of the water treated by the advanced treatment units behaved as expected. The average values of selected water quality parameters are compared in <ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>
+                        <ce:float-anchor refid="tbl4"/>. Ozone achieved only a slight reduction in TOC but almost halved the UV absorbance, indicating the expected conversion of complex humic substances into simpler compounds with less aromatic double bonds. There was also a modest reduction in alkalinity. GAC treatment removed about half of the TOC. The remaining organics had a much lower UV absorbance while alkalinity was unchanged. The RO membrane treatment removed essentially all of the TOC, UVA, and alkalinity in the water.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>7.3</ce:label>
+                     <ce:section-title>Concentration effect</ce:section-title>
+                     <ce:para view="all">The experimental results revealed a significant effect of initial concentration of chlorine on the rates of decay, both in the bulk solution and at the wall. This behavior can be attributed to the effect that other reactants, besides chlorine, have on the rate of chlorine decay. As shown in <ce:cross-ref refid="bib2">Hua et al. (1999)</ce:cross-ref>, if one assumes that chlorine (Cl<ce:inf loc="post">2</ce:inf>) reacts with some group of reactants (<ce:italic>X</ce:italic>) according to<ce:display>
+                           <ce:formula>
+                              <mml:math altimg="si2.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mi>C</mml:mi>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>l</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo>+</mml:mo>
+                                    <mml:mi>α</mml:mi>
+                                    <mml:mi>X</mml:mi>
+                                    <mml:mo>⇒</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">Products</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mtext>,</mml:mtext>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>then a second-order reaction rate expression for chlorine decay can be written as<ce:display>
+                           <ce:formula>
+                              <mml:math altimg="si3.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">d</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mi>C</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">d</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mo>-</mml:mo>
+                                    <mml:mi>k</mml:mi>
+                                    <mml:mo stretchy="false">(</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>X</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>0</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo>-</mml:mo>
+                                    <mml:mi>α</mml:mi>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>C</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>0</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo stretchy="false">)</mml:mo>
+                                    <mml:mi>C</mml:mi>
+                                    <mml:mtext>,</mml:mtext>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>C</ce:italic>=chlorine concentration at time <ce:italic>t</ce:italic>, <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>=chlorine concentration at time 0, <ce:italic>k</ce:italic>=overall reaction rate constant, <ce:italic>X</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>=concentration of reactants at time 0, and α=<ce:italic>a</ce:italic> stoichiometry constant. When expressed as a first-order reaction in terms of just <ce:italic>C</ce:italic>
+                        <ce:display>
+                           <ce:formula>
+                              <mml:math altimg="si4.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">d</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mi>C</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">d</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mo>-</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>k</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>1</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mi>C</mml:mi>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>it is apparent that the first-order rate constant <ce:italic>k</ce:italic>
+                        <ce:inf loc="post">1</ce:inf> is actually a function of initial chlorine concentration <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>, and increases as the initial chlorine value decreases. This is exactly the behavior observed in the experiments described herein.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>7.4</ce:label>
+                     <ce:section-title>Treatment effect—bulk reactions</ce:section-title>
+                     <ce:para view="all">Type of treatment had a clear effect on the bulk water reaction kinetics of free chlorine, with the reaction rate constant increasing in the following order: RO→GAC→ozonation→conventional treatment, with the latter two treatments being almost equivalent. The GAC-treated water had a decay rate constant only about 1/10 of that for both conventionally treated and ozonated water. Similar results held for the chloraminated water, but the bulk decay rate constant for GAC-treated water was only about half that of the conventionally treated and ozonated water. Comparing bulk rate constants between the free and combined chlorinated waters shows that for conventionally treated and ozonated water, combined chlorine decayed only 1/5 as fast as compared to free chlorine. For GAC-treated water, combined chlorine decayed half as fast as free chlorine.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>7.5</ce:label>
+                     <ce:section-title>Treatment effect—wall reactions</ce:section-title>
+                     <ce:para view="all">For free chlorine pipe wall reactions, the rate constants for conventional and RO treated were comparable in value. The constants for the ozonated and GAC-treated water were also comparable, but were about twice as high as the other two treatment types. One reason for the higher rates for ozonated and GAC-treated water, at least compared to the conventionally treated water, might be the changes in TOC that occur. <ce:cross-ref refid="bib16">Theis and Singer (1974)</ce:cross-ref> found that oxidation of ferrous iron can be retarded due to its complexation with NOM in water. This behavior, in fact, can cause problems in achieving high removal efficiencies in oxidative iron treatment systems (<ce:cross-ref refid="bib6">Knocke et al., 1994</ce:cross-ref>). One can postulate that under ozonation and GAC treatment the nature of the NOM was either changed (for ozonation) or reduced (for GAC) such that less ferrous iron from the pipe wall was complexed and was therefore more readily available to react with chlorine. Hence, the higher reaction rate of these two processes compared to conventional treatment.</ce:para>
+                     <ce:para view="all">This explanation, however, would contradict the kinetic behavior observed for the RO-treated water, which was similar to that of the conventionally treated water yet had essentially no TOC remaining in it. What might be happening with the RO water is that the reduction in total dissolved solids (inferred from the drop in alkalinity) significantly reduced the water's conductivity and thus its ability to conduct electrons which is a necessary part of the corrosion process (<ce:cross-ref refid="bib14">Schock, 1999</ce:cross-ref>). Thus the enhancement of chlorine decay by a reduction in TOC was being offset by the reduction in corrosion rate due to reduced TDS. Under this scenario one must also assume that the reduction in alkalinity and TDS for the RO water was not also reducing the amount of protective chemical precipitates or passivating films at the pipe surface that would inhibit the corrosion process. This seems reasonable given the relatively short duration of the in-pipe chlorine decay tests.</ce:para>
+                     <ce:para view="all">A similar behavior was not observed for water disinfected with combined chlorine. In this case the wall rate constants were essentially the same across all treatments at the given initial chlorine level. This might reflect the possibility that reactions involving chloramines, which are a much weaker oxidant than free chlorine, follow first-order kinetics more closely, being limited primarily by their concentration. In contrast, the free chlorine reactions are more dependent on the rate at which reductants (e.g., ferrous iron) are made available at the pipe wall, which in turn were affected by the amount of TOC and conductivity remaining after treatment. This can be seen when examining the magnitude of the initial concentration effect described earlier. For combined chlorine the effect ranged between a 14% and 22% increase in rate constant for a halving of initial chlorine concentration. For free chlorine the effect ranged from 18 to 159% percent, thus implying a higher dependence of reaction rate on the concentrations of the reacting species.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>7.6</ce:label>
+                     <ce:section-title>Disinfectant effect</ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/> compares the ratio of the decay rate constants for combined chlorine to free chlorine by treatment type for both wall and bulk reactions. For wall reactions, the combined chlorine reacted on average only about 70% as fast as free chlorine in the conventionally treated water and only 40% as fast in the ozonated and GAC waters. The reason the latter two treatments show slower combined chlorine decay relative to conventional treatment is because the free chlorine rates were higher for ozone and GAC, for reasons discussed previously, while the effect of treatment on combined chlorine wall demand was negligible. The reductions in bulk decay constants of combined chlorine relative to free chlorine show more variability than the wall constants. However, given the extremely low values obtained for GAC-treated water and having only a single test result available for the conventionally treated water makes it difficult to draw comparisons from these data.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>8</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">Fourteen kinetic experiments were run to measure the effect of advanced treatment on the rate of chlorine decay in a simulated water distribution system consisting of 6-in diameter unlined ductile iron pipe. Each experiment collected chlorine decay data from a different test water re-circulated over an 8<ce:hsp sp="0.16"/>h period in the simulator. The test waters were also subjected to a longer-term bottle test to determine bulk water decay rates. First-order rate constants were estimated for both bulk water and pipe wall reactions. These were used to compare reaction rates by treatment type, disinfectant type, and disinfectant dose. The following findings and conclusions can be drawn from the results of these experiments:<ce:list>
+                        <ce:list-item>
+                           <ce:label>1.</ce:label>
+                           <ce:para view="all">Regardless of treatment received or type of disinfectant used, first-order rate constants for both the bulk water and pipe wall reactions are higher at lower initial chlorine concentrations. This suggests that chlorine decay is not a pure first-order process but is also influenced by the concentrations of the species reacting with chlorine.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>2.</ce:label>
+                           <ce:para view="all">Type of treatment had a statistically significant effect on the rate of pipe wall demand for free chlorine but not for chloramines. The free chlorine wall rates for ozonated and GAC-treated water were about twice those of conventional or RO-treated water. This behavior is believed due to the effect that changes in the organic content of water have on its ability to complex iron and the effect that changes in water conductivity have on pipe wall corrosion.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>3.</ce:label>
+                           <ce:para view="all">For the unlined, ductile iron pipe used in these experiments, chlorine decay was dominated by wall reactions. Rate constants for the latter were 1–2 orders of magnitude higher than for bulk reactions, for both free and combined chlorine.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>4.</ce:label>
+                           <ce:para view="all">Wall reaction rate constants for free chlorine ranged from 1.1 to 4.6 days<ce:sup loc="post">-1</ce:sup>, depending on chlorine level and treatment. These numbers are consistent with the rates measured by others. The wall rate constants for chloramines ranged only between 1.2 and 1.5 days<ce:sup loc="post">−1</ce:sup>. Paired comparisons of wall rates for similar treatments showed the combined chlorine constants to be only 40–70% as high as those for free chlorine. Bulk rate constants were also lower for combined chlorine when compared to free chlorine.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para view="all">This work demonstrates that changes in water chemistry through advanced treatment can affect the rate of disinfectant decay caused predominantly by wall reactions in unlined iron pipe. Free chlorine appears to be more susceptible than combined chlorine to these effects. One should keep in mind that these results were obtained for a single metallic pipe that has undergone appreciable corrosion, tubercle buildup, and biofilm colonization. They are therefore only indicative, and not generally conclusive, of what might be expected if treatment changes are made in systems containing pipes of a similar nature.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgments</ce:section-title>
+               <ce:para view="all">Robin Richardson of Shaw Environmental provided technician support for this project and Leslie Wilsong of US EPA analyzed the TOC samples. The Greater Cincinnati Water Works supplied the water used in this study. This work was supported in part by the American Water Works Association Research Foundation under project 2685 with project officer Ryan Ulrich. Contributions were also provided by the US Environmental Protection Agency. This work has not been subject to US EPA review and does not necessarily reflect the agency's views.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Gotoh, 1988</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Gotoh, K., 1988. Residual chlorine concentration decreasing rate coefficients for various pipe materials, In: Proceedings of the 17th IWSA Water Supply Conference, vol. 7.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Hua et al., 1999</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>West</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Barker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Forster</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modelling of chlorine decay in municipal water supplies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2735</sb:first-page>
+                              <sb:last-page>2746</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Jones, 2002</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mass transfer reactions and decay sinks for disinfectants in water distribution systems. Ph.D. Dissertation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2002</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Old Dominion University</sb:name>
+                                 <sb:location>Norfolk, VA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Kiene et al., 1993</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Kiene, L., Lu, W., Levi, Y., 1993. Parameters governing the rate of chlorine decay throughout distribution system. In: Proceedings of the AWWA 1993 Annual Conference, AWWA, Denver, CO.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Kiene and Levi, 1995</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Kiene, L., Levi, Y., 1995. Influence of corrosion on chlorine decay in distribution systems. In: Proceedings of the AWWA Water Quality Technology Conference, AWWA, Denver, CO.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Knocke et al., 1994</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Knocke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Shorney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Bellamy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Examining the reactions between soluble iron, DOC, and alternative oxidants during conventional treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. AWWA</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                              <sb:last-page>127</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Lu et al., 1999</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Kiene</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Levi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chlorine demand of biofilms in water distribution systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>827</sb:first-page>
+                              <sb:last-page>835</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Mathieu et al., 1993</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Mathieu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Block</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dutang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Maillard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Reasoner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Control of biofilm accumulation in drinking-water distribution systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Supply</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3/4</sb:issue-nr>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>365</sb:first-page>
+                              <sb:last-page>376</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Meckes et al., 1999</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Meckes, M.C., Haught, R., Dosani, M., Clark, R.M., Sigvaganesan, M., 1999. Effect of pH Adjustments on Biofilm in a Simulated Distribution System. In: Proceedings of the AWWA Water Quality Technology Conference, AWWA, Denver, CO.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Parent et al., 1996a</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Parent, A., Saby, S., Sardin, M., Block, J.C., Gatel, D. 1996a. Contribution of biofilms to the chlorine demand of drinking water distribution systems. In: Proceedings of the AWWA Water Quality Technology Conference, AWWA, Denver, CO.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Parent et al., 1996b</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Parent, A., Fass, S., Dincher, M.L., Reasoner, D., Gatel, D., Block, J.C., 1996b. Control of Coliform growth in drinking water distribution systems. J. CIWEM 10, December, 442–445.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Rossman et al., 1994</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Rossman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Clark</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Grayman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling chlorine residuals in drinking-water distribution systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>803</sb:first-page>
+                              <sb:last-page>820</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Rossman et al., 2001</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Rossman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Singer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Nuckols</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>DBP formation kinetics in a simulated distribution system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3483</sb:first-page>
+                              <sb:last-page>3489</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Schock, 1999</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Schock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Internal corrosion and deposition control. Water Quality and Treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>fifth ed</sb:edition>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Water Works Association, McGraw-Hill, Inc.</sb:name>
+                                 <sb:location>New York, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>(Chapter 17)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Sharp et al., 1991</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Sharp, W.W., Pfeffer, J., Morgan, M. 1991. Insitu chlorine decay rate testing, Proceedings of the Water Quality Modeling in Distribution Systems Conference, AWWA Research Foundation, Denver, CO.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Theis and Singer, 1974</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.L.</ce:given-name>
+                                 <ce:surname>Theis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Singer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Complexation of iron(II) by organic matter and its effect of iron(II) oxygenation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>569</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Vasconcelos et al., 1997</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Vasconcelos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Rossman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Grayman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Boulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Clark</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinetics of chlorine decay</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. AWWA</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>54</sb:first-page>
+                              <sb:last-page>65</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Wable et al., 1991</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Wable, O., Dumoutier, N., Duguet, J.P., Jarrige, P.A., Gelas, G., Depierre, J.F., 1991. Modeling chlorine concentrations in a network and applications to Paris distribution network. In: Proceedings of the Water Quality Modeling in Distribution Systems Conference, AWWA Research Foundation, Denver, CO.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

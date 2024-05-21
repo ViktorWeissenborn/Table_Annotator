@@ -1,0 +1,1027 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-02-14</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.seppur.2017.09.069</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">PRIORITYPESTICIDEDICHLORVOSREMOVALWATERBYOZONATIONPROCESSREACTIVITYTRANSFORMATIONPRODUCTSASSOCIATEDTOXICITY</infon>
+      <infon key="name_0">surname:CRUZALCALDE</infon>
+      <infon key="license">© 2017 Elsevier B.V. All rights reserved.</infon>
+      <infon key="source">Separation and Purification Technology</infon>
+      <infon key="year">2017-09-30</infon>
+      <infon key="volume">192</infon>
+      <infon key="issue">1383-5866</infon>
+      <infon key="fpage">123</infon>
+      <infon key="lpage">129. Link: https://sciencedirect.com/science/article/pii/S138358661732717X</infon>
+      <infon key="pub-id_doi">10.1016/j.seppur.2017.09.069</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S138358661732717X</infon>
+      <infon key="kwd">['Dichlorvos', 'Ozone oxidation', 'Hydroxyl radicals', 'Second-order rate constants', 'Toxic intermediates', '1']</infon>
+      <offset>0</offset>
+      <text>Priority pesticide dichlorvos removal from water by ozonation process: Reactivity, transformation products and associated toxicity</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>131</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>149</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>160</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>169</offset>
+      <text>The treatability of waters contaminated with priority pesticide dichlorvos (DDVP) by means of ozonation has been assessed for the first time. In order to do so, reaction kinetics, transformation mechanisms and associated toxicity have been inspected in detail. Second-order rate constants of DDVP reactions with O3 and OH  were determined to be 590 and 2.2·109 M−1s−1, respectively. These values partly explained the degradation profiles obtained during experiments with and without the presence of an OH  scavenger, in which the significant contribution of the indirect degradative route in the removal of DDVP was revealed. LC-MS analyses for ozonated samples allowed the elucidation of desmethyl dichlorvos (d-DDVP), dichloroacetic acid (DCA) and dimethyl phosphate (DMP) as main transformation products (TPs). DMP was found to be present in both O3 and OH -mediated oxidation pathways. Three possible degradation routes were proposed for OH  degradation, whereas the direct oxidation by O3 was only well-explained by the addition of this oxidant to the double bond of DDVP dichlorovinyl moiety. Microtox® bioassays revealed the inability of molecular ozone to reduce the toxicity of the medium and pointed out the importance of OH  contribution in the degradation process. In general, ozonation could be a suitable treatment alternative for DDVP, formed TPs and associated toxicity abatement.</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="1324" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="314" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="437" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1566</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Reaction', '2nd-order k value [M−1s−1]', 'Reference'], ['DDVP+O3→kDDVP,O3', '590', 'This study'], ['DDVP+OH →kDDVP,OH', 'Unknown', '–'], ['MPL+O3→kMPL,O3', '2.0·103', ''], ['MPL+OH →kMPL,OH', '7.3·109', ''], ['pBZQ+O3→kpBZQ,O3', '2.5·103', ''], ['pBZQ+OH →kpBZQ,OH', '1.2·109', '']]</infon>
+      <offset>1573</offset>
+      <text>Reactions considered during competition experiments for kDDVP,OH  determination.</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Reaction&lt;/td&gt;
+      &lt;td&gt;2nd-order k value [M−1s−1]&lt;/td&gt;
+      &lt;td&gt;Reference&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DDVP+O3→kDDVP,O3&lt;/td&gt;
+      &lt;td&gt;590&lt;/td&gt;
+      &lt;td&gt;This study&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DDVP+OH →kDDVP,OH&lt;/td&gt;
+      &lt;td&gt;Unknown&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MPL+O3→kMPL,O3&lt;/td&gt;
+      &lt;td&gt;2.0·103&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MPL+OH →kMPL,OH&lt;/td&gt;
+      &lt;td&gt;7.3·109&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pBZQ+O3→kpBZQ,O3&lt;/td&gt;
+      &lt;td&gt;2.5·103&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pBZQ+OH →kpBZQ,OH&lt;/td&gt;
+      &lt;td&gt;1.2·109&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1654</offset>
+      <text>[['590', ['DDVP+O3→kDDVP,O3'], ['2nd-order k value [M−1s−1]']], ['This study', ['DDVP+O3→kDDVP,O3'], ['Reference']], ['Unknown', ['DDVP+OH →kDDVP,OH'], ['2nd-order k value [M−1s−1]']], ['NoValue', ['DDVP+OH →kDDVP,OH'], ['Reference']], ['2.0·103', ['MPL+O3→kMPL,O3'], ['2nd-order k value [M−1s−1]']], ['NoValue', ['MPL+O3→kMPL,O3'], ['Reference']], ['7.3·109', ['MPL+OH →kMPL,OH'], ['2nd-order k value [M−1s−1]']], ['NoValue', ['MPL+OH →kMPL,OH'], ['Reference']], ['2.5·103', ['pBZQ+O3→kpBZQ,O3'], ['2nd-order k value [M−1s−1]']], ['NoValue', ['pBZQ+O3→kpBZQ,O3'], ['Reference']], ['1.2·109', ['pBZQ+OH →kpBZQ,OH'], ['2nd-order k value [M−1s−1]']], ['NoValue', ['pBZQ+OH →kpBZQ,OH'], ['Reference']]]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['m/z', 'Name', 'Proposed structure', 'Observations'], ['220 (m-1)', 'Dichlorvos (DDVP)', '', 'Parent compound in both experiments'], ['207 (m-1)', 'DDVP-207 Desmethyl Dichlorvos (d-DDVP)', '', 'Only detected in the presence of OH'], ['128 (m-1)', 'DDVP-128 Dichloroacetic Acid (DCA)', '', 'Only detected in the presence of OH'], ['125 (m-1)', 'DDVP-125 Dimethyl phosphate (DMP)', '', 'Detected in both experiments']]</infon>
+      <offset>2354</offset>
+      <text>DDVP, detected TPs and their corresponding molecular structures.</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;m/z&lt;/td&gt;
+      &lt;td&gt;Name&lt;/td&gt;
+      &lt;td&gt;Proposed structure&lt;/td&gt;
+      &lt;td&gt;Observations&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;220 (m-1)&lt;/td&gt;
+      &lt;td&gt;Dichlorvos (DDVP)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Parent compound in both experiments&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;207 (m-1)&lt;/td&gt;
+      &lt;td&gt;DDVP-207 Desmethyl Dichlorvos (d-DDVP)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Only detected in the presence of OH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;128 (m-1)&lt;/td&gt;
+      &lt;td&gt;DDVP-128 Dichloroacetic Acid (DCA)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Only detected in the presence of OH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;125 (m-1)&lt;/td&gt;
+      &lt;td&gt;DDVP-125 Dimethyl phosphate (DMP)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Detected in both experiments&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>2419</offset>
+      <text>[['Dichlorvos (DDVP)', ['220 (m-1)'], ['Name']], ['NoValue', ['220 (m-1)'], ['Proposed structure']], ['Parent compound in both experiments', ['220 (m-1)'], ['Observations']], ['DDVP-207 Desmethyl Dichlorvos (d-DDVP)', ['207 (m-1)'], ['Name']], ['NoValue', ['207 (m-1)'], ['Proposed structure']], ['Only detected in the presence of OH', ['207 (m-1)'], ['Observations']], ['DDVP-128 Dichloroacetic Acid (DCA)', ['128 (m-1)'], ['Name']], ['NoValue', ['128 (m-1)'], ['Proposed structure']], ['Only detected in the presence of OH', ['128 (m-1)'], ['Observations']], ['DDVP-125 Dimethyl phosphate (DMP)', ['125 (m-1)'], ['Name']], ['NoValue', ['125 (m-1)'], ['Proposed structure']], ['Detected in both experiments', ['125 (m-1)'], ['Observations']]]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3163</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S138358661732717X-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3171</offset>
+      <text>Determination of second-order rate constant (kDDVP-O3) for the reaction of DDVP and ozone by competition kinetics. Conditions: [DDVP]0
+= [MPL]0
+= 20 μM, pH 7, temperature = 20 ± 2 °C.</text>
+      <annotation id="4">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3324" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3330" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3255" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3195" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S138358661732717X-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3355</offset>
+      <text>Determination of kDDVP,OH  by competition kinetics: −ln([DDVP]/[DDVP]0) versus −ln([Ref.]/[Ref.]0) for the simultaneous reaction of ozone and hydroxyl radicals with DDVP and the references (Ref.) MPL and pBZQ. Conditions: [DDVP]0
+= [MPL]0
+= [pBZQ]0
+= 20 μM, pH 7, temperature = 20 ± 2 °C.</text>
+      <annotation id="8">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3613" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3619" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3487" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S138358661732717X-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3644</offset>
+      <text>DDVP degradation as a function of the ozone dose, for experiments with (O3) and without (O3/OH ) the presence of tert-butanol (25 mM). Conditions: [DDVP]0
+= 20 μM, pH 7, temperature = 20 ± 2 °C.</text>
+      <annotation id="11">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3808" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3814" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3682" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S138358661732717X-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3839</offset>
+      <text>Proposed reaction pathways for DDVP oxidation by molecular ozone and hydroxyl radicals during ozonation process.</text>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="3898" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S138358661732717X-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3952</offset>
+      <text>Acute toxicity of the reaction medium during DDVP ozonation, in experiments with (O3) and without (O3/OH ) the presence of tert-butanol. Conditions: [DDVP]0
+= 20 μM, pH 7, temperature = 20 ± 2 °C.</text>
+      <annotation id="15">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="4118" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="4124" length="11"/>
+        <text>temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S138358661732717X-fx1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>4149</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4150</offset>
+      <text>Graphical abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4169</offset>
+      <text>The treatability of waters contaminated with priority pesticide dichlorvos (DDVP) by means of ozonation has been assessed for the first time. In order to do so, reaction kinetics, transformation mechanisms and associated toxicity have been inspected in detail. Second-order rate constants of DDVP reactions with O3 and OH were determined to be 590 and 2.2·109 M−1s−1, respectively. These values partly explained the degradation profiles obtained during experiments with and without the presence of an OH scavenger, in which the significant contribution of the indirect degradative route in the removal of DDVP was revealed. LC-MS analyses for ozonated samples allowed the elucidation of desmethyl dichlorvos (d-DDVP), dichloroacetic acid (DCA) and dimethyl phosphate (DMP) as main transformation products (TPs). DMP was found to be present in both O3 and OH -mediated oxidation pathways. Three possible degradation routes were proposed for OH degradation, whereas the direct oxidation by O3 was only well-explained by the addition of this oxidant to the double bond of DDVP dichlorovinyl moiety. Microtox® bioassays revealed the inability of molecular ozone to reduce the toxicity of the medium and pointed out the importance of OH contribution in the degradation process. In general, ozonation could be a suitable treatment alternative for DDVP, formed TPs and associated toxicity abatement.</text>
+      <annotation id="17">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5321" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="4314" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="4437" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5562</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5571</offset>
+      <text>['Dichlorvos', 'Ozone oxidation', 'Hydroxyl radicals', 'Second-order rate constants', 'Toxic intermediates', '1']</text>
+      <annotation id="20">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5587" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5634" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5685</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5698</offset>
+      <text>Although discharge limits for micropollutants have not been legally stablished yet, some regulations regarding the identification, monitoring and control of some of these substances in the aquatic environment have been released over the last few years About half (22/45) of the priority substances considered in the list are pesticides Dichlorvos (2,2-Dihclorovinyl dimethyl phosphate, DDVP) is a chlorinated organophosphorus pesticide. It has been traditionally employed as insecticide in agriculture, food storage areas, workplaces and homes Despite the serious risks to human and environmental health posed by the presence of DDVP in water resources, the knowledge regarding the removal of this compound by means of unconventional water treatments is still incomplete. Concerning the use of Advanced Oxidation Processes (AOPs) on that purpose, some works in which heterogeneous photocatalysis Ozonation process has extensively demonstrated to have a great potential for micropollutant abatement ), a transient species with extraordinary oxidation capacity To the best of our knowledge this is the first time in which the degradation of priority pesticide DDVP by means of ozonation process is explored. The study aimed to determine the reaction kinetics of this compound with both, molecular ozone and hydroxyl radicals, as well as to elucidate the possible reaction mechanisms involved in the process. In order to evaluate the potential risks that formed TPs could pose, the residual toxicity of the treated water was also determined. 2</text>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6993" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7107" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7239</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7261</offset>
+      <text>2.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7265</offset>
+      <text>Chemicals and reagents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7288</offset>
+      <text>Dichlorvos, metoprolol, and p-benzoquinone analytical standards were acquired from Sigma-Aldrich (Germany). NaH2PO4, Na2HPO4, H3PO4, tert-butanol and acetonitrile were purchased from Panreac (Spain), and were all analytical grade. Milli-Q water was produced by a filtration system (Millipore, USA). Pure oxygen (&gt;99.999%) was supplied by Abelló Linde (Spain). Finally, all the reagents employed during toxicity bioassays were purchased from Modern Water (UK). 2.2</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7753</offset>
+      <text>Ozonation experiments</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7775</offset>
+      <text>Several control experiments were performed in order to determine the possible effects of hydrolysis, adsorption or UV–Vis photolysis on DDVP disappearance during ozonation experiments. All the assays were carried out in 250 mL closed glass beakers, with initial DDVP concentrations of 1 mg L−1. For hydrolysis and adsorption experiments, the beakers were covered with aluminum foil in order to prevent the possible influence of radiation. The pH in hydrolysis tests was adjusted to a value of 7 by adding adequate quantities of a H3PO4/Na2HPO4 buffer solution. For adsorption experiments, different types of silicones, PVDF and PTFE were put in contact with the pesticide solutions. Samples were taken at 0, 1, 5 and 24 h, and analyzed by HPLC-DAD. Results showed that DDVP remained stable for hydrolysis, photolysis and most of the adsorption experiments. Only in the case of silicones a significant disappearance of DDVP (5–10%) was observed, after 24 h. The use of this kind of materials was therefore discarded during experimentation. All ozonation experiments were carried out in triplicate, at a controlled temperature of 20 ± 2 °C and neutral pH conditions, in Milli-Q water. A multi-reactor methodology, successfully employed in several previous works For kDDVP,O3 measurement, competition kinetics method ), tert-butanol (100 mM) was employed as scavenger. Adequate quantities of the phosphate buffer were also added in order to maintain the medium pH at a constant value of 7. Different doses (from 5 to 40 μM) of the ozone stock solution ([O3] = 14 mg L−1) were injected to each vial to initiate the reaction. The mixtures were shaken for a few seconds to obtain homogeneous conditions. Samples were withdrawn when the total consumption of ozone was achieved (all within 2 h). The residual concentrations of DDVP and MPL were determined by HPLC-DAD. For kMC,OH determination, a similar procedure was followed. This time, however, two references were employed instead of one since reactions of DDVP with O3 and OH took place at the same time and needed to be considered due to their significant contribution to DDVP degradation. MPL and p-benzoquinone (pBZQ) were selected as competitors since both were expected to present similar overall reactivity than DDVP. pBZQ residual concentration was also determined by HPLC-DAD. In order to demonstrate the relative contribution of each oxidant (i.e., O3 and OH ) to DDVP degradation, two extra sets of experiments were carried out. For direct degradation by molecular ozone, each reaction vial contained 20 μM of DDVP, 25 mM of tert-butanol and adequate quantities of the pH 7 phosphate buffer. Different doses (from 5 to 175 μM) of the ozone stock solution were applied. Samples were withdrawn when the total consumption of ozone was achieved (all within 2 h). Once the DDVP concentrations were analyzed by HPLC-DAD, samples were frozen and lately employed for TPs and toxicity determinations. 2.3</text>
+      <annotation id="24">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8218" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8925" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9233" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10402" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8888" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8042" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9303" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9526" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9576" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10061" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10298" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10467" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10555" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10606" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7821" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8160" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9204" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10111" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10729</offset>
+      <text>Analytical procedures</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10751</offset>
+      <text>The concentrations of DDVP, MPL and pBZQ were quantified by means of a high performance liquid chromatograph (HPLC) equipped with a diode array detector (DAD), all supplied by Agilent (1260 Infinity). The column employed was a Teknokroma Mediterranea Sea18 (250 mm × 4.6 mm and 5 μm size packing). The mobile phase consisted on a 35:65 volumetric mixture of acetonitrile and Milli-Q water acidified at pH 3 by the addition of H3PO4. The flow rate was set to 1 mL min−1 and the UV detection was performed at 205, 220 and 254 nm for DDVP, MPL and pBZQ, respectively. In order to elucidate the possible reaction pathways during DDVP ozonation, samples in which different ozone doses were applied were analyzed by LC-MS. An Agilent 1100 HPLC coupled with a G1969A LC/MSD-TOF mass spectrometer was employed. MS data were collected in full scan mode (25–1100 m/z), employing negative electrospray ionization. With the aim of assessing the toxicity changes during DDVP ozonation process, Microtox® assays were performed for samples withdrawn from degradation experiments. This method measures the inhibition of light emission of bioluminescent bacteria Vibrio fischeri caused by the presence of toxic compounds in the aqueous media. The results of this assay are usually expressed as EC50,15min, which represents the percentage of sample dilution (v/v) that causes a 50% reduction in bacteria luminescence after a contact time of 15 min. All the tests were carried out in duplicate in a Microtox® M500 (Modern Water, UK) toxicity analyzer. 3</text>
+      <annotation id="42">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11153" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10755" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11419" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11319" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12286</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12309</offset>
+      <text>3.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12313</offset>
+      <text>Kinetics of DDVP reactions with ozone and hydroxyl radicals</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12373</offset>
+      <text>The second-order rate constant of DDVP reaction with molecular ozone was calculated from Eq. , obtained by dividing the kinetic equations corresponding to reactions between O3 and both DDVP and MPL. (1) -ln[DDVP][DDVP]0=kDDVP,O3kMPL,O3-ln[MPL][MPL]0 According to this expression, a linear dependence between the natural logarithm of the relative DDVP concentration and the natural logarithm of the relative MPL concentration was expected. The ratio between the second-order rate constants of O3 with target (DDVP) and reference (MPL) compound would represent the slope of this line. shows the experimental results, in which a good linear adjustment was obtained (R2 &gt; 0.99). By knowing the second-order rate constant value for the reaction between ozone and the reference compound, the second-order rate constant for the reaction between DDVP and molecular ozone could be easily calculated. Under pH 7 conditions, and according to the results obtained in previous works The second-order rate constant of DDVP reaction with hydroxyl radicals was calculated by solving the system formed by Eqs. . Detailed information about the obtaining of these expressions can be found in previous works, in which this methodology was successfully employed (2) ln[DDVP][DDVP]0=(kDDVP,O3+kDDVP,OH Rct)(kMPL,O3+kMPL,OH Rct)ln[MPL][MPL]0 (3) ln[DDVP][DDVP]0=(kDDVP,O3+kDDVP,OH Rct)(kpBZQ,O3+kpBZQ,OH Rct)ln[pBZQ][pBZQ]0 It is important to note that since this protocol employed two reference compounds (MPL and pBZQ) and each one of them could react with both ozone and hydroxyl radicals, six reactions needed to be considered to simultaneously take place in the studied system. These are gathered in along with their corresponding second-order rate constant values. From Eqs. it was deduced that by plotting the natural logarithm of DDVP relative concentration versus the natural logarithm of both MPL and pBZQ relative concentrations, two linear relationships could be obtained. The slope values of these lines, together with the second-order rate constant values shown in were required to solve the equation system. shows the experimental results, in which good linear adjustments (R2 &gt; 0.99) were obtained for both plots. The second-order rate constant of DDVP reaction with hydroxyl radicals was determined to be (2.2 ± 0.1)·109 M−1s−1, thus pointing out the high reactivity of DDVP with OH . This was explained by the non-selective character of the oxidant, which can readily undergo reactions with different points of organic molecules 3.2</text>
+      <annotation id="46">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13270" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12436" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12724" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12784" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13121" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13230" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13914" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14202" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14275" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12384" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12841" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13070" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13166" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13354" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14093" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14393" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14591" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>14901</offset>
+      <text>DDVP degradation by ozone and hydroxyl radicals</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14949</offset>
+      <text>During ozonation, DDVP could react with molecular ozone and also with hydroxyl radicals formed as a consequence of ozone decay. In order to determine the relative contribution of OH to overall DDVP removal, degradation experiments were conducted at pH 7 with and without the presence of tert-butanol. Results are presented in . Degradation through the combination of ozone and hydroxyl radicals was more effective than the lonely attack by O3: an ozone dose of approximately 2.8 mg L−1 was required for the complete removal of DDVP, while the double of this dose (5.5 mg L−1) was necessary in the presence of tert-butanol. Therefore, the contribution of hydroxyl radicals to the pesticide removal was significant at neutral pH. Higher pH values, of course, would probably enhance this contribution since ozone decomposition is accelerated under basic conditions Besides the degradation of DDVP, the study of the formed TPs was thought to be essential in order to assess the process efficiency: intermediates presenting higher toxicity than the parent compound could be formed, thus enlarging the oxidant dosage necessary to obtain a water relatively free of harmful substances. 3.3</text>
+      <annotation id="63">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15198" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15673" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15684" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14999" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15064" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15316" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15396" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15753" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15080" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15903" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16131</offset>
+      <text>Reaction intermediates and possible mechanisms</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16178</offset>
+      <text>Relevant TPs generated during DDVP ozonation with and without radical scavenger addition were identified by means of LC-MS, on the basis of the detected masses. The proposed molecular structures are shown in . Only one of the observed intermediates, DDVP-125 or dimethyl phosphate (DMP), was detected in both experiments (i.e., experiments with and without the presence of hydroxyl radicals). For their part, DDVP-207 and DDVP-128 (desmethyl dichlorvos (d-DDVP) and dichloroacetic acid (DCA), respectively) were only detected in experiments in which OH were present in the reaction medium. These findings appeared to indicate that DMP could be generated through both molecular ozone and hydroxyl radicals mediated oxidation, whereas d-DDVP and DCA were only formed via OH . The first degradation steps during DDVP ozonation process, therefore, could be explained by the reaction pathways illustrated in . The identification of d-DDVP suggests an initial H-abstraction, carried out by OH , at one of the methyl groups of DDVP’s phosphate moiety (pathway 1). A subsequent OH addition after this first step, followed by the yielding of a formaldehyde molecule from the resulting structure would finally end in the d-DDVP (DDVP-207) formation. Alternatively, this TP could be formed through OH addition to the phosphate moiety of DDVP, followed by the elimination of a methanolate (CH3O-) group from the resulting structure (pathway 2). The attack by hydroxyl radicals to DDVP molecule could also take place at its dichlorovinyl moiety. This pathway would consist on the addition of OH to the corresponding double bound, followed by the hydrolysis of the resulting radical to yield DMP (DDVP-125) and dichloroacetaldehyde (pathway 3). Under the oxidizing conditions of the reaction medium, the latter would easily undergo oxidation to yield DCA, the last detected TP (DDVP-128). As before commented, in addition to the OH -mediated oxidation and according to the LC-MS results obtained for samples in which tert-butanol was added as OH scavenger, the intermediate DDVP-125 (DMP) could be formed via double bond cleavage by O3 (pathway 4). The primary ozonide would be rapidly decomposed into a phosgene molecule and a zwitterion, being the latter subsequently transformed into DMP through CO2 release. As an organophosphate, the insecticide properties of DDVP are based on the irreversible inhibition of the vital enzyme acetyl cholinesterase. This inhibition is called cholinergic effect and is caused by the phosphorylation of the active site of the enzyme, which is no longer able to hydrolyze the acetylcholine neurotransmitter. This causes the overstimulation of the insect nervous system 3.4</text>
+      <annotation id="73">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="16855" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18872</offset>
+      <text>Toxicity evolution during DDVP ozonation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18913</offset>
+      <text>Changes in the chemical species involved in DDVP ozonation process could imply alterations in the properties of the reaction medium. Among these properties, toxicity is of special interest since DDVP and formed TPs could affect target (insects) but also non-target organisms. The evolution of 1/EC50 as a function of the ozone dose is presented in , for samples corresponding to degradation experiments with and without the presence of a radical scavenger. It has to be remembered that higher 1/EC50 values mean higher inhibition of bacteria luminescence (i.e., higher toxicity), and vice versa. Initial EC50 value, that is, the sample concentration that causes mortality in the 50% of the bacteria population after 15 min contact was determined to be 3.8 mg L−1 (EC50 about 80% in terms of sample dilution). For the rest of samples, only EC50 expressed as sample dilution could be obtained since the medium compositions were unknown. The toxicity during experiments with the addition of tert-butanol initially decreased to a minimum, being this caused by the reduction of DDVP concentration in the reaction solution. For low ozone doses, the amount of formed TPs is low and thus the contribution of these intermediates and the synergies between them to the medium toxicity are not expected to be significant. After this first drop, toxicity started to increase for oxidant doses above 3 mg L−1. The final EC50 value (51.3%), higher than the initial one (86.2%) indicates a global growth in the toxicity of the medium that could be caused by synergistic effects between residual DDVP and newly formed species like DDVP-125 (DMP) or phosgene, a well-known toxic agent. The latter, although not detected during LC-MS analyses, was expected to be generated according to the proposed degradation pathways (see ). However, this compound rapidly hydrolyzes ) and synergistic effects apparently disappeared. From this point, therefore, further OH -mediated oxidation of the TPs that were present in the reaction system allowed the final toxicity abatement of the solution. In the view of the Microtox® results, it can be stated that O3 oxidation alone contributed to increase the toxicity of the medium. The low reactivity of formed TP (i.e., DMP) with this oxidant probably caused the accumulation of this chemical species in the reaction medium, thus inducing the observed increase in toxicity. However, hydroxyl radicals formed through ozone decomposition allowed to solve this problem since this transient species were able to remove both DDVP and TPs. Therefore, it is concluded that ozonation process could be a suitable treatment alternative for DDVP removal and associated toxicity abatement, provided that the indirect degradative route (i.e., OH -mediated oxidation) is properly promoted. 4</text>
+      <annotation id="74">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19234" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19549" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19991" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20039" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21345" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21707</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21719</offset>
+      <text>The obtained results allow drawing some conclusions regarding the degradation of dichlorvos by means of ozonation. The moderate and high values for second-order rate constants of DDVP reactions with O3 and OH , respectively, point out the treatability by ozone-based processes of water matrices containing traces of this priority pesticide. Both ozone and hydroxyl radicals can play an important role in DDVP abatement, although studies dealing with real waters and lower concentrations of the contaminant are required in order to properly assess the process performance. Proposed reaction mechanisms indicate the formation of dimethyl phosphate as a common TP for both O3 and OH degradation routes. This intermediate is expected to present low reactivity towards ozone, even though can be degraded by hydroxyl radical-mediated oxidation. The acute toxicity analyses in experiments with OH scavenger demonstrates that a rise in the bacteria luminescence inhibition occur for increasing oxidant dosages. However, results of experiments without tert-butanol show that formed hydroxyl radicals are able to abate the toxicity of the reaction medium. It is clear, therefore, that the contribution of the OH degradation route during ozonation process is required in order to remove DDVP, formed TPs and reduce the associated toxicity. Strategies aimed to enhance this indirect via need to be assessed to improve the process efficiency. Appendix A</text>
+      <annotation id="79">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21974" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22065" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22191" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22483" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21874" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22241" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22979" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>23160</offset>
+      <text>Supplementary material</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23183</offset>
+      <text>Supplementary data 1</text>
+    </passage>
+  </document>
+</collection>

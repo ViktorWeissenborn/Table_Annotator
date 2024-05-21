@@ -1,0 +1,1229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-04-22</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.watres.2006.04.046</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">EFFECTADVANCEDTREATMENTCHLORINEDECAYINMETALLICPIPES</infon>
+      <infon key="name_0">surname:ROSSMAN</infon>
+      <infon key="license">Published by Elsevier Ltd.</infon>
+      <infon key="source">Water Research</infon>
+      <infon key="year">2006-06-27</infon>
+      <infon key="volume">40</infon>
+      <infon key="issue">0043-1354</infon>
+      <infon key="fpage">2493</infon>
+      <infon key="lpage">2502. Link: https://sciencedirect.com/science/article/pii/S0043135406002788</infon>
+      <infon key="pub-id_doi">10.1016/j.watres.2006.04.046</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0043135406002788</infon>
+      <infon key="kwd">['Chlorine decay', 'Water distribution systems', 'Advanced water treatment', 'Pipeline simulator', '1']</infon>
+      <offset>0</offset>
+      <text>The effect of advanced treatment on chlorine decay in metallic pipes</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>69</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>87</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>98</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>107</offset>
+      <text>Experiments were run to measure what effect advanced treatment might have on the kinetics of chlorine and chloramine decay in metallic pipes that comprise many drinking water distribution systems. A recirculating loop of 6-in diameter unlined ductile iron pipe was used to simulate turbulent flow conditions in a pipe with significant corrosion and tubercle buildup. Conventionally treated test water was subjected to either ozonation, carbon adsorption (GAC), reverse osmosis (RO) or no further treatment before being chlorinated and introduced into the pipeline simulator. Results showed that overall chlorine decay in the simulator was consistently dominated by wall reactions whose first-order rate constants were an order of magnitude higher than those for the bulk water. With free chlorine, the wall rate constants for ozonated and GAC-treated water were about twice those of conventional or RO-treated water. This behavior is believed due to the effect that changes in the organic content of water have on its ability to complex iron and the effect that changes in water conductivity have on pipe wall corrosion. Tests run with chloraminated water showed no statistically significant effect of treatment type and had wall rate constants that were only 40 to 70% as high as those using free chlorine.</text>
+      <annotation id="1">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="799" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="828" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1415</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Investigators', 'Type of study', 'Pipe material', 'Ktotal (1/day)', 'Kbulk (1/day)', 'Kwall (ft/day)'], ['', 'Field', 'Gray cast iron', '3.17', '1.58', '0.13'], ['', 'Field', 'Ductile cast iron', '9.94', '2.88', '0.58'], ['', 'Field', 'Ductile cast iron', '8.21', '1.15', '0.58'], ['', 'Field', 'Unlined cast iron', '7.78', 'N/A', 'N/A'], ['', 'Field', 'Unlined cast iron', '5.76', 'N/A', 'N/A'], ['', 'Field', 'PVC', '4.90', 'N/A', 'N/A'], ['', 'Field', 'Gray cast iron', '4.32', '0.12', '0.86'], ['', 'Field', 'Gray cast iron', '1.44', '0.12', '0.27'], ['', 'Modeling', 'Unlined cast iron', 'N/A', '0.55', '1.50'], ['Vasconcelos', 'Modeling', 'Asbestos cement', 'N/A', '1.16', '0.00'], ['et al. (1997)', 'Modeling', 'Unlined cast iron', 'N/A', '0.83', '2.49'], ['', 'Modeling', 'Unlined galvanized iron', 'N/A', '0.23', '0.89'], ['', 'Modeling', 'Unlined cast iron', 'N/A', '17.70', '4.99'], ['', 'Modeling', 'Cement-lined ductile iron', 'N/A', '0.77', '0.10'], ['', 'Simulator', 'Cement-lined cast iron', '2.90', '0.00', '0.24'], ['', 'Simulator', 'Cement-lined cast iron', '3.60', '0.52', '0.25'], ['', 'Simulator', 'Cement-lined cast iron', '12.10', '0.54', '0.98'], ['', 'Simulator', 'Unlined ductile iron', '2.7–3.7', '0.25–0.49', '0.31–0.43']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Investigators&lt;/td&gt;
+      &lt;td&gt;Type of study&lt;/td&gt;
+      &lt;td&gt;Pipe material&lt;/td&gt;
+      &lt;td&gt;Ktotal (1/day)&lt;/td&gt;
+      &lt;td&gt;Kbulk (1/day)&lt;/td&gt;
+      &lt;td&gt;Kwall (ft/day)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Field&lt;/td&gt;
+      &lt;td&gt;Gray cast iron&lt;/td&gt;
+      &lt;td&gt;3.17&lt;/td&gt;
+      &lt;td&gt;1.58&lt;/td&gt;
+      &lt;td&gt;0.13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Field&lt;/td&gt;
+      &lt;td&gt;Ductile cast iron&lt;/td&gt;
+      &lt;td&gt;9.94&lt;/td&gt;
+      &lt;td&gt;2.88&lt;/td&gt;
+      &lt;td&gt;0.58&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Field&lt;/td&gt;
+      &lt;td&gt;Ductile cast iron&lt;/td&gt;
+      &lt;td&gt;8.21&lt;/td&gt;
+      &lt;td&gt;1.15&lt;/td&gt;
+      &lt;td&gt;0.58&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Field&lt;/td&gt;
+      &lt;td&gt;Unlined cast iron&lt;/td&gt;
+      &lt;td&gt;7.78&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Field&lt;/td&gt;
+      &lt;td&gt;Unlined cast iron&lt;/td&gt;
+      &lt;td&gt;5.76&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Field&lt;/td&gt;
+      &lt;td&gt;PVC&lt;/td&gt;
+      &lt;td&gt;4.90&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Field&lt;/td&gt;
+      &lt;td&gt;Gray cast iron&lt;/td&gt;
+      &lt;td&gt;4.32&lt;/td&gt;
+      &lt;td&gt;0.12&lt;/td&gt;
+      &lt;td&gt;0.86&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Field&lt;/td&gt;
+      &lt;td&gt;Gray cast iron&lt;/td&gt;
+      &lt;td&gt;1.44&lt;/td&gt;
+      &lt;td&gt;0.12&lt;/td&gt;
+      &lt;td&gt;0.27&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Modeling&lt;/td&gt;
+      &lt;td&gt;Unlined cast iron&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;0.55&lt;/td&gt;
+      &lt;td&gt;1.50&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Vasconcelos&lt;/td&gt;
+      &lt;td&gt;Modeling&lt;/td&gt;
+      &lt;td&gt;Asbestos cement&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;1.16&lt;/td&gt;
+      &lt;td&gt;0.00&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;et al. (1997)&lt;/td&gt;
+      &lt;td&gt;Modeling&lt;/td&gt;
+      &lt;td&gt;Unlined cast iron&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;0.83&lt;/td&gt;
+      &lt;td&gt;2.49&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Modeling&lt;/td&gt;
+      &lt;td&gt;Unlined galvanized iron&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;0.23&lt;/td&gt;
+      &lt;td&gt;0.89&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Modeling&lt;/td&gt;
+      &lt;td&gt;Unlined cast iron&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;17.70&lt;/td&gt;
+      &lt;td&gt;4.99&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Modeling&lt;/td&gt;
+      &lt;td&gt;Cement-lined ductile iron&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;0.77&lt;/td&gt;
+      &lt;td&gt;0.10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Simulator&lt;/td&gt;
+      &lt;td&gt;Cement-lined cast iron&lt;/td&gt;
+      &lt;td&gt;2.90&lt;/td&gt;
+      &lt;td&gt;0.00&lt;/td&gt;
+      &lt;td&gt;0.24&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Simulator&lt;/td&gt;
+      &lt;td&gt;Cement-lined cast iron&lt;/td&gt;
+      &lt;td&gt;3.60&lt;/td&gt;
+      &lt;td&gt;0.52&lt;/td&gt;
+      &lt;td&gt;0.25&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Simulator&lt;/td&gt;
+      &lt;td&gt;Cement-lined cast iron&lt;/td&gt;
+      &lt;td&gt;12.10&lt;/td&gt;
+      &lt;td&gt;0.54&lt;/td&gt;
+      &lt;td&gt;0.98&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Simulator&lt;/td&gt;
+      &lt;td&gt;Unlined ductile iron&lt;/td&gt;
+      &lt;td&gt;2.7–3.7&lt;/td&gt;
+      &lt;td&gt;0.25–0.49&lt;/td&gt;
+      &lt;td&gt;0.31–0.43&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1422</offset>
+      <text>Reaction rate constants for chlorine decay in pipelines</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Treatment/initial Cl2', 'TOC (mg/L)', 'UVA (1/cm)', 'ALK (mg/L)', 'Temp. (deg C)', 'pH', 'Cl2 (mg/L)', 'Ktotal(1/days)', 'Kbulk (1/days)', 'Kwall(1/days)'], ['CON/high', '1.54', '0.034', '69', '25.6', '7.9', '6.8', '1.62±0.07', '0.094±0.024', '1.53'], ['CON/low', '1.56', '0.030', '66', '26.4', '7.8', '3.2', '2.38±0.19', 'N/A', '2.29*'], ['O3/high', '1.60', '0.013', '57', '21.6', '8.0', '3.8', '3.00±0.07', '0.048±0.010', '2.95'], ['O3/low', '1.51', '0.017', 'N/A', '21.4', '7.8', '1.9', '4.71±0.10', '0.109±0.018', '4.60'], ['GAC/high', '0.31', '0.003', '61', '21.6', '8.0', '4.2', '3.00±0.10', '0.005±0.002', '3.00'], ['GAC/low', '0.72', '0.006', '67', '20.9', '8.2', '1.9', '3.56±0.24', '0.019±0.004', '3.54'], ['RO/high', '0.03', '0.005', '5', '20.8', '7.8', '3.9', '1.07±0.05', '0.007±0.005', '1.06'], ['RO/low', '0.04', '0.002', '3', '21.3', '8.5', '2.1', '2.75±0.07', '0.005±0.002', '2.75']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Treatment/initial Cl2&lt;/td&gt;
+      &lt;td&gt;TOC (mg/L)&lt;/td&gt;
+      &lt;td&gt;UVA (1/cm)&lt;/td&gt;
+      &lt;td&gt;ALK (mg/L)&lt;/td&gt;
+      &lt;td&gt;Temp. (deg C)&lt;/td&gt;
+      &lt;td&gt;pH&lt;/td&gt;
+      &lt;td&gt;Cl2 (mg/L)&lt;/td&gt;
+      &lt;td&gt;Ktotal(1/days)&lt;/td&gt;
+      &lt;td&gt;Kbulk (1/days)&lt;/td&gt;
+      &lt;td&gt;Kwall(1/days)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CON/high&lt;/td&gt;
+      &lt;td&gt;1.54&lt;/td&gt;
+      &lt;td&gt;0.034&lt;/td&gt;
+      &lt;td&gt;69&lt;/td&gt;
+      &lt;td&gt;25.6&lt;/td&gt;
+      &lt;td&gt;7.9&lt;/td&gt;
+      &lt;td&gt;6.8&lt;/td&gt;
+      &lt;td&gt;1.62±0.07&lt;/td&gt;
+      &lt;td&gt;0.094±0.024&lt;/td&gt;
+      &lt;td&gt;1.53&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CON/low&lt;/td&gt;
+      &lt;td&gt;1.56&lt;/td&gt;
+      &lt;td&gt;0.030&lt;/td&gt;
+      &lt;td&gt;66&lt;/td&gt;
+      &lt;td&gt;26.4&lt;/td&gt;
+      &lt;td&gt;7.8&lt;/td&gt;
+      &lt;td&gt;3.2&lt;/td&gt;
+      &lt;td&gt;2.38±0.19&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;2.29*&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/high&lt;/td&gt;
+      &lt;td&gt;1.60&lt;/td&gt;
+      &lt;td&gt;0.013&lt;/td&gt;
+      &lt;td&gt;57&lt;/td&gt;
+      &lt;td&gt;21.6&lt;/td&gt;
+      &lt;td&gt;8.0&lt;/td&gt;
+      &lt;td&gt;3.8&lt;/td&gt;
+      &lt;td&gt;3.00±0.07&lt;/td&gt;
+      &lt;td&gt;0.048±0.010&lt;/td&gt;
+      &lt;td&gt;2.95&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/low&lt;/td&gt;
+      &lt;td&gt;1.51&lt;/td&gt;
+      &lt;td&gt;0.017&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;21.4&lt;/td&gt;
+      &lt;td&gt;7.8&lt;/td&gt;
+      &lt;td&gt;1.9&lt;/td&gt;
+      &lt;td&gt;4.71±0.10&lt;/td&gt;
+      &lt;td&gt;0.109±0.018&lt;/td&gt;
+      &lt;td&gt;4.60&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GAC/high&lt;/td&gt;
+      &lt;td&gt;0.31&lt;/td&gt;
+      &lt;td&gt;0.003&lt;/td&gt;
+      &lt;td&gt;61&lt;/td&gt;
+      &lt;td&gt;21.6&lt;/td&gt;
+      &lt;td&gt;8.0&lt;/td&gt;
+      &lt;td&gt;4.2&lt;/td&gt;
+      &lt;td&gt;3.00±0.10&lt;/td&gt;
+      &lt;td&gt;0.005±0.002&lt;/td&gt;
+      &lt;td&gt;3.00&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GAC/low&lt;/td&gt;
+      &lt;td&gt;0.72&lt;/td&gt;
+      &lt;td&gt;0.006&lt;/td&gt;
+      &lt;td&gt;67&lt;/td&gt;
+      &lt;td&gt;20.9&lt;/td&gt;
+      &lt;td&gt;8.2&lt;/td&gt;
+      &lt;td&gt;1.9&lt;/td&gt;
+      &lt;td&gt;3.56±0.24&lt;/td&gt;
+      &lt;td&gt;0.019±0.004&lt;/td&gt;
+      &lt;td&gt;3.54&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RO/high&lt;/td&gt;
+      &lt;td&gt;0.03&lt;/td&gt;
+      &lt;td&gt;0.005&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;20.8&lt;/td&gt;
+      &lt;td&gt;7.8&lt;/td&gt;
+      &lt;td&gt;3.9&lt;/td&gt;
+      &lt;td&gt;1.07±0.05&lt;/td&gt;
+      &lt;td&gt;0.007±0.005&lt;/td&gt;
+      &lt;td&gt;1.06&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RO/low&lt;/td&gt;
+      &lt;td&gt;0.04&lt;/td&gt;
+      &lt;td&gt;0.002&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;21.3&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+      &lt;td&gt;2.1&lt;/td&gt;
+      &lt;td&gt;2.75±0.07&lt;/td&gt;
+      &lt;td&gt;0.005±0.002&lt;/td&gt;
+      &lt;td&gt;2.75&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1478</offset>
+      <text>Experimental conditions and kinetic results for free chlorine</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Treatment/initial Cl2', 'TOC (mg/L)', 'UVA (1/cm)', 'ALK (mg/L)', 'Temp. (deg )C', 'PH', 'Cl2 (mg/L)', 'Ktotal (1/days)', 'Kbulk (1/days)', 'Kwall (1/days)'], ['CON/high', '1.57', '0.048', 'N/A', '21.4', '8.1', '4.2', '1.170.04', '0.0150.001', '1.16'], ['CON/low', '2.25', '0.036', '63', '21.6', '8.0', '2.6', '1.420.12', '0.0170.002', '1.41'], ['GAC/high', '1.53', '0.027', '66', '21.6', '8.0', '4.2', '1.230.05', '0.0070.002', '1.22'], ['GAC/low', '0.75', '0.016', '65', '21.7', '8.2', '2.5', '1.430.08', '0.0050.001', '1.43'], ['O3/high', '1.72', '0.031', '45', '22.1', '7.9', '4.1', '1.340.03', '0.0100.002', '1.33'], ['O3/low', '1.80', '0.019', '44', '22.1', '7.9', '1.8', '1.540.04', '0.0170.002', '1.51']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Treatment/initial Cl2&lt;/td&gt;
+      &lt;td&gt;TOC (mg/L)&lt;/td&gt;
+      &lt;td&gt;UVA (1/cm)&lt;/td&gt;
+      &lt;td&gt;ALK (mg/L)&lt;/td&gt;
+      &lt;td&gt;Temp. (deg )C&lt;/td&gt;
+      &lt;td&gt;PH&lt;/td&gt;
+      &lt;td&gt;Cl2 (mg/L)&lt;/td&gt;
+      &lt;td&gt;Ktotal (1/days)&lt;/td&gt;
+      &lt;td&gt;Kbulk (1/days)&lt;/td&gt;
+      &lt;td&gt;Kwall (1/days)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CON/high&lt;/td&gt;
+      &lt;td&gt;1.57&lt;/td&gt;
+      &lt;td&gt;0.048&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;21.4&lt;/td&gt;
+      &lt;td&gt;8.1&lt;/td&gt;
+      &lt;td&gt;4.2&lt;/td&gt;
+      &lt;td&gt;1.170.04&lt;/td&gt;
+      &lt;td&gt;0.0150.001&lt;/td&gt;
+      &lt;td&gt;1.16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CON/low&lt;/td&gt;
+      &lt;td&gt;2.25&lt;/td&gt;
+      &lt;td&gt;0.036&lt;/td&gt;
+      &lt;td&gt;63&lt;/td&gt;
+      &lt;td&gt;21.6&lt;/td&gt;
+      &lt;td&gt;8.0&lt;/td&gt;
+      &lt;td&gt;2.6&lt;/td&gt;
+      &lt;td&gt;1.420.12&lt;/td&gt;
+      &lt;td&gt;0.0170.002&lt;/td&gt;
+      &lt;td&gt;1.41&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GAC/high&lt;/td&gt;
+      &lt;td&gt;1.53&lt;/td&gt;
+      &lt;td&gt;0.027&lt;/td&gt;
+      &lt;td&gt;66&lt;/td&gt;
+      &lt;td&gt;21.6&lt;/td&gt;
+      &lt;td&gt;8.0&lt;/td&gt;
+      &lt;td&gt;4.2&lt;/td&gt;
+      &lt;td&gt;1.230.05&lt;/td&gt;
+      &lt;td&gt;0.0070.002&lt;/td&gt;
+      &lt;td&gt;1.22&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GAC/low&lt;/td&gt;
+      &lt;td&gt;0.75&lt;/td&gt;
+      &lt;td&gt;0.016&lt;/td&gt;
+      &lt;td&gt;65&lt;/td&gt;
+      &lt;td&gt;21.7&lt;/td&gt;
+      &lt;td&gt;8.2&lt;/td&gt;
+      &lt;td&gt;2.5&lt;/td&gt;
+      &lt;td&gt;1.430.08&lt;/td&gt;
+      &lt;td&gt;0.0050.001&lt;/td&gt;
+      &lt;td&gt;1.43&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/high&lt;/td&gt;
+      &lt;td&gt;1.72&lt;/td&gt;
+      &lt;td&gt;0.031&lt;/td&gt;
+      &lt;td&gt;45&lt;/td&gt;
+      &lt;td&gt;22.1&lt;/td&gt;
+      &lt;td&gt;7.9&lt;/td&gt;
+      &lt;td&gt;4.1&lt;/td&gt;
+      &lt;td&gt;1.340.03&lt;/td&gt;
+      &lt;td&gt;0.0100.002&lt;/td&gt;
+      &lt;td&gt;1.33&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/low&lt;/td&gt;
+      &lt;td&gt;1.80&lt;/td&gt;
+      &lt;td&gt;0.019&lt;/td&gt;
+      &lt;td&gt;44&lt;/td&gt;
+      &lt;td&gt;22.1&lt;/td&gt;
+      &lt;td&gt;7.9&lt;/td&gt;
+      &lt;td&gt;1.8&lt;/td&gt;
+      &lt;td&gt;1.540.04&lt;/td&gt;
+      &lt;td&gt;0.0170.002&lt;/td&gt;
+      &lt;td&gt;1.51&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1540</offset>
+      <text>Experimental conditions and kinetic results for combined chlorine</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Treatment Type', 'TOC (mg/L)', 'UVA-254 (1/cm)', 'Alkalinity (mg/L as CaCO3)', 'pH'], ['Conventional', '1.73', '0.037', '66', '8.0'], ['Ozone', '1.66', '0.020', '49', '7.9'], ['GAC', '0.83', '0.013', '65', '8.1'], ['RO', '0.04', '0.004', '4', '8.2']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Treatment Type&lt;/td&gt;
+      &lt;td&gt;TOC (mg/L)&lt;/td&gt;
+      &lt;td&gt;UVA-254 (1/cm)&lt;/td&gt;
+      &lt;td&gt;Alkalinity (mg/L as CaCO3)&lt;/td&gt;
+      &lt;td&gt;pH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Conventional&lt;/td&gt;
+      &lt;td&gt;1.73&lt;/td&gt;
+      &lt;td&gt;0.037&lt;/td&gt;
+      &lt;td&gt;66&lt;/td&gt;
+      &lt;td&gt;8.0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ozone&lt;/td&gt;
+      &lt;td&gt;1.66&lt;/td&gt;
+      &lt;td&gt;0.020&lt;/td&gt;
+      &lt;td&gt;49&lt;/td&gt;
+      &lt;td&gt;7.9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GAC&lt;/td&gt;
+      &lt;td&gt;0.83&lt;/td&gt;
+      &lt;td&gt;0.013&lt;/td&gt;
+      &lt;td&gt;65&lt;/td&gt;
+      &lt;td&gt;8.1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RO&lt;/td&gt;
+      &lt;td&gt;0.04&lt;/td&gt;
+      &lt;td&gt;0.004&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;8.2&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1606</offset>
+      <text>Average Finished Water Quality of Alternative Treatments</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1663</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135406002788-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1671</offset>
+      <text>Schematic of US EPA distribution system simulator.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135406002788-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1722</offset>
+      <text>Repeatability of kinetic tests in the pipe loop.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135406002788-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1771</offset>
+      <text>Pipe loop results for high free chlorine runs.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135406002788-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1818</offset>
+      <text>Pipe loop results for low free chlorine runs.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135406002788-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1864</offset>
+      <text>Pipe loop results for high chloramine runs.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135406002788-gr6.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1908</offset>
+      <text>Pipe loop results for low chloramine runs.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135406002788-gr7.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1951</offset>
+      <text>Ratio of combined to free chlorine rate constants.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2002</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2011</offset>
+      <text>['Chlorine decay', 'Water distribution systems', 'Advanced water treatment', 'Pipeline simulator', '1']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2115</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2128</offset>
+      <text>Delivery of safe and potable water throughout a distribution system requires that disinfectant residuals be maintained at acceptable levels. Chlorine and chloramine disinfectants decay as they travel through a distribution system and this decay is influenced by various hydraulic, chemical, microbiological, and infrastructure factors. In order to comply with microbial and disinfection by-product (DBP) regulations, water suppliers can invest in treatment processes that achieve greater levels of microbial inactivation and DBP precursor removal. The effect that consequent changes in treated water quality have on the kinetics of disinfectant decay in the distribution system has not been well studied. As noted by , chlorine and chloramine losses observed in distribution systems are due to reactions that occur both within the bulk flow and with material along the pipe. For example, free chlorine (HOCl) reacts primarily with natural organic matter (NOM) in the bulk phase and is also transported through a boundary layer at the pipe wall to oxidize iron (Fe) released from pipe wall corrosion. Other wall reactants might include biofilm and sorbed organics. The rates of bulk flow reactions are affected primarily by the amount and nature of the organic matter remaining in the finished water. Because advanced treatment will change the nature or amount of total organic carbon (TOC) present, one expects that it will also affect the rates of chlorine and chloramine decay. As these reactions are not affected by conditions at the pipe wall, they can be studied and characterized independently at the bench. Pipe wall reaction rates are affected by the nature of the material attached to or released from the wall as well as the rate at which chlorine or chloramine is transported to the wall reaction zone from the bulk fluid. In metal pipe a major contributing factor to wall demand is the release of ferrous ions that will be oxidized by chlorine to ferric. Another sink for chlorine can be the organic matter sorbed onto ferric oxide or carbonate scales or contained in the exocellular polymeric material associated with biofilm growth on the pipe wall. Advanced treatment that changes the amount and nature of the organics in water can affect the amount of wall-related organics available for reaction as well as the amount of available ferrous iron when iron–organic complexation is considered. In addition, changes in pH, alkalinity, and total dissolved solids can significantly impact the rate of corrosion-produced iron which in turn will affect chlorine reaction rates. 2</text>
+      <annotation id="3">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="4559" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2467" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4716</offset>
+      <text>Previous work</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4730</offset>
+      <text> were among the first to show that chlorine consumption within the pipes of a distribution system could be significantly higher than for the same water stored in a non-reactive glass bottle. Since then a number of other studies have shown the same result. The overall decay of chlorine within a pipe is usually represented as a first-order reaction consisting of parallel first-order reactions occurring in the bulk flow and at the pipe wall. The rate expression for this reaction can be written as: dCdt=-KtotalC=-(Kbulk+Kwall)C=-(Kbulk+(SV)kwall)C, where C=chlorine concentration in the bulk flow (mass/volume) at time t, Ktotal=overall reaction constant (1/time), Kbulk=bulk water reaction constant (1/time), Kwall=pipe wall solution reaction constant (1/time), kwall=pipe wall surface reaction constant (length/time) and (S/V)=pipe wall surface area per unit of pipe volume (1/length). For circular pipes, (S/V) is nominally equal to 4 divided by the pipe's diameter but might be higher in pipes with roughened surfaces due to encrustation and tuberculation. Several studies have quantified the relative magnitude of the first-order rate constants for free chlorine decay in the pipe versus the bulk water alone. compares the rate constants measured from several such efforts which were either: 1. field studies measuring the input/output concentration of chlorine in a single length of pipe, 2. modeling studies, where chlorine decay in a complete pipe network was calibrated to a set of geographically disperse measurements, 3. experimental studies in pipeline simulators. In this table the wall surface rate constant, kwall, is listed rather than the solution rate constant Kwall so that measurements made on pipes of different sizes can be compared. Most of the metallic pipes have an overall decay constant that is 2–10 times higher than the bulk water rate constant. More recently, conducted a series of field studies on selected pipes of the distribution system serving the Norfolk (Virginia) Naval Base both prior to and after the water supplier switched from free chlorine to chloramines. He found that free chlorine rate constants were generally in the same range as those of other investigators shown in , while the rate constants for chloramines were substantially lower. Different studies have identified the various factors that affect the wall reaction rate for chlorine. These factors include: Pipe material: Based on the work of , , and it appears that the various pipe materials can be listed in order of increasing reactivity as follows: PVC, asbestos cement, cement-lined ductile iron, unlined cast iron, with the latter material having substantially higher reactivity than the others. The reactivity of these materials is actually a result of other factors listed below. Flow conditions: In laboratory pipe reactor tests, observed almost negligible wall demand for chlorine under laminar flow as compared with turbulent conditions, suggesting that mass transfer of chlorine to the pipe wall could be a limiting factor in its reaction rate. Using a pipe simulator with Reynolds numbers in the turbulent flow range, found that the reaction rate constant increased with increasing Reynolds number. developed a model that incorporated mass transfer effects into the estimation of kwall and showed that this model was able to explain the variations of chlorine residuals measured in a distribution system. Initial chlorine concentration: and have noted that the wall reaction rate constant for chlorine increases with decreasing initial chlorine concentration. The usual explanation for this is that chlorine decay is not a true first-order reaction and its rate is influenced by the concentration of other reactants besides chlorine. Corrosion rate: used an electrochemical cell containing chlorinated water and an iron electrode by which the flux of Fe2+ could be controlled. They found the rate of chlorine consumption to be directly proportional to the rate of iron dissolution. Additional tests were made with water placed in a stirred annular reactor whose outer shell was cast iron pipe. Corrosivity of the water was modified using sodium chloride and monitored using a CorratorTM probe. Results showed that chlorine decay proceeded at a constant rate with time, which was proportional to the measured water corrosivity. Attached biomass: studied the effect that biofilm growing on the pipe wall surface has on chlorine demand. They found that the chlorine demand of biomass extracted from colonized glass beads was similar in strength to the bulk water demand. The rate constant for this demand was proportional to the BDOC in the water used to grow the biofilm. 3</text>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5298" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="6073" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8173" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8296" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8434" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5064" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5108" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5861" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="7248" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8385" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9423</offset>
+      <text>Objective</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9433</offset>
+      <text>The objective of the work described herein was to measure the rate of reaction of chlorine in a simulated pipe environment for water receiving different forms of advanced treatment. The simulated pipe environment was designed to replicate actual flow conditions within a ductile iron pipe that had been subject to significant corrosion and biofilm buildup. The key questions to be answered were: 1. Does the type of advanced treatment have any effect on chlorine reaction kinetics for water flowing in an iron pipe? 2. What are the relative rates of bulk demand and wall demand for both free and combined chlorine under the different types of treatment? 3. How does the reaction kinetics for free chlorine differ from those of combined chlorine, especially with respect to wall demand? 4</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10221</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10229</offset>
+      <text>4.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10233</offset>
+      <text>Distribution system simulator</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10263</offset>
+      <text>The experiments were performed at the US EPA's Test and Evaluation Facility in Cincinnati, Ohio, using their Distribution System Simulator. A schematic of the simulator is shown in . The particular pipe used in this study was an 88-ft (27 m) long loop of 6-in (150 mm) diameter, unlined ductile iron pipe equipped with a recirculation pump and a heat exchanger cooling system. The pipe had been in service for several years and showed evidence of considerable uniform corrosion and tubercle buildup on its inside surface. Examination of coupons placed flush with the pipe wall also confirmed the presence of a significant amount of biofilm ( ). A 1000-gal feed tank mounted 20 ft above the pipe loop was used to feed test water to the simulator by gravity. When kinetic experiments are not being performed the loop is kept in maintenance mode by continuously feeding tap water to it at 1 gpm while maintaining an 88 gpm recirculation rate in the loop. This results in a 1 day residence time for water in the loop with a free chlorine residual of about 0.2 mg/L. 4.2</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11329</offset>
+      <text>Experimental procedure</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11352</offset>
+      <text>Each experiment began by adding chlorine (and aqueous ammonium chloride solution for chloramine tests) to a volume of treated test water stored in the 1000-gal feed tank. The chlorinated water was held in the feed tank for a 2-h detention time to simulate the typical contact time normally achieved in a treatment system's clearwell or contact chamber prior to entry into the distribution system. The exception to this was for ozone-treated water, where no holding time after chlorination was used since chlorine was being used as a secondary disinfectant. The test water was then introduced into the pipe loop by simultaneously opening the feed line from the tank and the loop's drain line. This permitted the new test water to gradually displace the old water from the pipe without introducing any air or disturbing any sediment. Tracer tests showed that it took approximately 5 pipe volumes of new water to completely replace the old water in the pipe in a time period of about 20 min. After this the inlet and drain lines were closed and the test water was re-circulated under turbulent flow conditions of 1.0 ft/s (0.3 m/s) velocity at a Reynolds Number of 50,000 for a period of 8 h. The test volume of water (approximately 130 gal (500 L)) thus made one pass around the loop every 90 s and the 8-h test period was equivalent to sending this volume of water down a 5-mile (8.7 km) stretch of pipe. Close to the end of the pipe filling period a series of amber glass bottles were filled headspace-free with test water from the feed tanks. All glassware was prepared by rinsing with de-ionized water and heating in a muffle furnace at 550 °C for 4 h. Bottle caps were soaked in high strength chlorine solution and rinsed with de-ionized water. The filled bottles were stored in a constant temperature bath maintained at the same temperature as the pipe loop water. The temperature of water in the pipe loop was maintained at approximately the same temperature as the original feed water by adjusting the flow rate of the refrigerant used in the cooling system. Samples were withdrawn from the pipe loop for analysis every hour over an 8 h testing period. The bottle samples were analyzed for free and combined chlorine residual periodically over a one to two week period. Temperature, pH, and turbidity in the pipe loop were also monitored to check for consistent water quality conditions. At the start of each experiment, the alkalinity, TOC, and ultraviolet absorbance at 254 nm (UV-254) level of the test water fed into the pipe was also measured. 4.3</text>
+      <annotation id="15">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13641" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13145" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13185" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13225" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13304" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13628" length="11"/>
+        <text>Temperature</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11779" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13911</offset>
+      <text>Experimental conditions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13935</offset>
+      <text>The test water used in this study was partially treated Ohio River water obtained from the Greater Cincinnati Water Works. This water had been settled and filtered but not chlorinated. Six different batches of this water were obtained over the 8-month period during which tests were conducted. Each batch consisted of about 4000 gal, which was stored in a 5000 gal stainless-steel tank at the T&amp;E facility. There was essentially no ammonia present in this water so that after chlorination the only chlorine species present was free chlorine. The advanced treatment applied to the test water for the experiments consisted of one of the following, depending on the experiment: • GAC adsorption using an Alamo Water C-161A carbon filter cartridge rated at 6.4 gpm/ft2 and empty bed contact time of 3.3 min; • ozonation using a ClearWater Tech Model P-2000 ozone generator rated at 2.8 g/h of ozone at 15 scfh air flow and operated to supply a dose of 4 mg/L of ozone to process water flowing at 3 gpm; • RO treatment using an Osmonics E2-1690 machine with a FASTEK S2540 membrane operating at a feed rate of 2.3 gpm with 50% recovery. These processes were selected because they represent three popular approaches, namely adsorption, oxidation, and membrane separation, used for removing chlorine demand and DBP precursor material from domestic water supplies. 4.4</text>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14788" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14824" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14893" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15296</offset>
+      <text>Estimation of kinetic parameters</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15329</offset>
+      <text>The following first-order kinetic parameters for chlorine decay were estimated from the time series of chlorine measurements made for each experiment: • the overall decay constant, Ktotal, • the bulk water decay constant, Kbulk, • the solution wall reaction constant, Kwall. These coefficients were either for free chlorine or combined chlorine, depending on experiment. The overall decay constant was estimated by using linear least-squares regression with intercept set equal to 0 of the quantity loge(Ct/C0) against time, where Ct is the pipe loop chlorine concentration measured at time t and C0 is the pipe loop chlorine concentration at time 0. The bulk water decay constant was estimated in a similar fashion except using chlorine concentrations measured from the bottled samples. The wall reaction constant was then computed as the difference between the overall and bulk water constants. Because all experiments were run at the same flow rate using the same pipe, the question of difference in mass transfer effects between experiments was not a factor. Although efforts were made to run all of the experiments at the same temperature and pH, outside factors caused temperatures to range from 21 to 26 °C between experiments while pH ranged from 7.8 to 8.5. Although, these variations could have some effects on the chlorine decay kinetics they were not systematically accounted for in this work. 5</text>
+      <annotation id="25">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16477" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16569" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16461" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16504" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15889" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15955" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16067" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15349" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16737</offset>
+      <text>Repeatability tests</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16757</offset>
+      <text>Chlorine demand tests were run in the pipeline simulator under identical conditions to assess how repeatable the tests were. The test water was Cincinnati tap water that was GAC-treated on site to remove any residual chlorine and adsorbable organics. This treatment reduces the bulk chlorine demand to 5% or less of the total demand over an 8 h period, and thus allows replicate tests to primarily reflect the variability inherent in just the pipe wall reactions. A first pair of tests was run at an initial chlorine level of 6 mg/L and was spaced 2 days apart. A second pair of tests was run at an initial chlorine level of 3.1 mg/L and was spaced 1 week apart, during which the loop was kept in maintenance mode. The resulting time history of chlorine concentrations is displayed in for both Test 1 (A and B) and Test 2 (A and B). These runs demonstrate that to achieve the best repeatability a sufficient amount of time should be maintained between kinetic tests to allow the pipe surface to recover to its pre-test condition. 6</text>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17511" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>17789</offset>
+      <text>Experimental results</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17810</offset>
+      <text>6.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>17814</offset>
+      <text>Free chlorine runs</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17833</offset>
+      <text>A set of 8 experiments were made using free chlorine as the disinfectant under four different types of treatment following conventional sedimentation/filtration and two initial chlorine levels. The treatments were: (1) no further treatment, (2) ozonation, (3) carbon adsorption, and (4) reverse osmosis. The two initial chlorine targets were approximately 2 and 4 mg/L. These values were chosen because they were high enough to prevent complete consumption of chlorine prior to the end of the 8-h run time, yet were still within the range of chlorine levels used in practice. It is important to note that they represent the concentrations of free chlorine sampled from the pipe loop at the start of the experiment, after a 2 h holding time in the feed tank and about 20 min of fill time. Preliminary trials were made in order to estimate the initial chlorine dose needed to meet the 2 or 4 mg/L targets after the holding and pipe filling times. summarizes the conditions and kinetic results for each experiment. plots the chlorine decay measured in the pipe loop over time for the high chlorine runs while does the same for the low chlorine runs. An analysis of variance statistical procedure was applied to the results shown in to see if either the chlorine level or treatment type had any statistically significant effect on the wall reaction rate constant for free chlorine. The ANOVA method used was a two-factor analysis without replication. Thus, it was not possible to test for interaction effects between chlorine level and treatment type. The results showed that both factors were significant at the 5% level (P=0.030 for chlorine level and P=0.044 for treatment type). 6.2</text>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18457" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18653" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>19516</offset>
+      <text>Chloramine runs</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19532</offset>
+      <text>A second series of experiments were performed using combined chlorine disinfectant instead of free chlorine. The combined chlorine was generated by adding aqueous ammonium chloride to chlorinated test water in a ratio of 4:1 chlorine to ammonia-N by weight so as to produce essentially all monochloramine. The combined chlorine concentrations used in the tests were similar to those used in the free chlorine runs to facilitate comparisons. Actual concentrations of chloramines fed to distribution systems tend to be higher than those of free chlorine because of the lower disinfecting strength of chloramines. Kinetic tests were made using three different levels of additional treatment beyond conventional sedimentation and filtration (none, ozone, and GAC) and two different levels of initial combined chlorine (nominally 2 and 4 mg/L). The RO treatment unit was not available for use in this phase of the study. As with the free chlorine runs, all combined chlorine measurements were begun after any initial contact time in the feed tanks and after the pipe loop filling process was completed. summarizes the conditions and results for each combined chlorine experiment. The decay of combined chlorine in the pipe loop is charted in for the high and low chloramine experiments, respectively. As was done for the free chlorine runs, ANOVA was applied to the results shown in to see if either the initial chloramine level or treatment type had any statistically significant effect on the wall reaction rate constant. The results indicated that chloramine level continued to have a significant effect at the 5% level (P=0.009) but treatment type did not (P=0.06). 7</text>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19860" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19980" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20276" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21199</offset>
+      <text>Discussion of results</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21221</offset>
+      <text>7.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21225</offset>
+      <text>Temporal correlations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21247</offset>
+      <text>With the exception of two runs that were made 2 days apart, all of the other 12 runs had 4 or more days for the test pipe to recover between experiments. A test for autocorrelation between the differences in Ktotal measured in successive experiments failed to show any correlation at a 5% level of significance. It appears that there was no systematic effect of the order or time between experiments on the values of Ktotal determined. 7.2</text>
+      <annotation id="39">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21613" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21687</offset>
+      <text>Treatment characteristics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21713</offset>
+      <text>The characteristics of the water treated by the advanced treatment units behaved as expected. The average values of selected water quality parameters are compared in . Ozone achieved only a slight reduction in TOC but almost halved the UV absorbance, indicating the expected conversion of complex humic substances into simpler compounds with less aromatic double bonds. There was also a modest reduction in alkalinity. GAC treatment removed about half of the TOC. The remaining organics had a much lower UV absorbance while alkalinity was unchanged. The RO membrane treatment removed essentially all of the TOC, UVA, and alkalinity in the water. 7.3</text>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21881" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>22363</offset>
+      <text>Concentration effect</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22384</offset>
+      <text>The experimental results revealed a significant effect of initial concentration of chlorine on the rates of decay, both in the bulk solution and at the wall. This behavior can be attributed to the effect that other reactants, besides chlorine, have on the rate of chlorine decay. As shown in , if one assumes that chlorine (Cl2) reacts with some group of reactants (X) according to Cl2+αX⇒Products, then a second-order reaction rate expression for chlorine decay can be written as dCdt=-k(X0-αC0)C, where C=chlorine concentration at time t, C0=chlorine concentration at time 0, k=overall reaction rate constant, X0=concentration of reactants at time 0, and α=a stoichiometry constant. When expressed as a first-order reaction in terms of just C dCdt=-k1C it is apparent that the first-order rate constant k1 is actually a function of initial chlorine concentration C0, and increases as the initial chlorine value decreases. This is exactly the behavior observed in the experiments described herein. 7.4</text>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22450" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22900" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22937" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22999" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23235" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22797" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23095" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23169" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>23387</offset>
+      <text>Treatment effect—bulk reactions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23419</offset>
+      <text>Type of treatment had a clear effect on the bulk water reaction kinetics of free chlorine, with the reaction rate constant increasing in the following order: RO→GAC→ozonation→conventional treatment, with the latter two treatments being almost equivalent. The GAC-treated water had a decay rate constant only about 1/10 of that for both conventionally treated and ozonated water. Similar results held for the chloraminated water, but the bulk decay rate constant for GAC-treated water was only about half that of the conventionally treated and ozonated water. Comparing bulk rate constants between the free and combined chlorinated waters shows that for conventionally treated and ozonated water, combined chlorine decayed only 1/5 as fast as compared to free chlorine. For GAC-treated water, combined chlorine decayed half as fast as free chlorine. 7.5</text>
+      <annotation id="49">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23570" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24272</offset>
+      <text>Treatment effect—wall reactions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24304</offset>
+      <text>For free chlorine pipe wall reactions, the rate constants for conventional and RO treated were comparable in value. The constants for the ozonated and GAC-treated water were also comparable, but were about twice as high as the other two treatment types. One reason for the higher rates for ozonated and GAC-treated water, at least compared to the conventionally treated water, might be the changes in TOC that occur. found that oxidation of ferrous iron can be retarded due to its complexation with NOM in water. This behavior, in fact, can cause problems in achieving high removal efficiencies in oxidative iron treatment systems ( ). One can postulate that under ozonation and GAC treatment the nature of the NOM was either changed (for ozonation) or reduced (for GAC) such that less ferrous iron from the pipe wall was complexed and was therefore more readily available to react with chlorine. Hence, the higher reaction rate of these two processes compared to conventional treatment. This explanation, however, would contradict the kinetic behavior observed for the RO-treated water, which was similar to that of the conventionally treated water yet had essentially no TOC remaining in it. What might be happening with the RO water is that the reduction in total dissolved solids (inferred from the drop in alkalinity) significantly reduced the water's conductivity and thus its ability to conduct electrons which is a necessary part of the corrosion process ( ). Thus the enhancement of chlorine decay by a reduction in TOC was being offset by the reduction in corrosion rate due to reduced TDS. Under this scenario one must also assume that the reduction in alkalinity and TDS for the RO water was not also reducing the amount of protective chemical precipitates or passivating films at the pipe surface that would inhibit the corrosion process. This seems reasonable given the relatively short duration of the in-pipe chlorine decay tests. A similar behavior was not observed for water disinfected with combined chlorine. In this case the wall rate constants were essentially the same across all treatments at the given initial chlorine level. This might reflect the possibility that reactions involving chloramines, which are a much weaker oxidant than free chlorine, follow first-order kinetics more closely, being limited primarily by their concentration. In contrast, the free chlorine reactions are more dependent on the rate at which reductants (e.g., ferrous iron) are made available at the pipe wall, which in turn were affected by the amount of TOC and conductivity remaining after treatment. This can be seen when examining the magnitude of the initial concentration effect described earlier. For combined chlorine the effect ranged between a 14% and 22% increase in rate constant for a halving of initial chlorine concentration. For free chlorine the effect ranged from 18 to 159% percent, thus implying a higher dependence of reaction rate on the concentrations of the reacting species. 7.6</text>
+      <annotation id="50">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="26655" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="26974" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="27136" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="27270" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="26593" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>27314</offset>
+      <text>Disinfectant effect</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27334</offset>
+      <text> compares the ratio of the decay rate constants for combined chlorine to free chlorine by treatment type for both wall and bulk reactions. For wall reactions, the combined chlorine reacted on average only about 70% as fast as free chlorine in the conventionally treated water and only 40% as fast in the ozonated and GAC waters. The reason the latter two treatments show slower combined chlorine decay relative to conventional treatment is because the free chlorine rates were higher for ozone and GAC, for reasons discussed previously, while the effect of treatment on combined chlorine wall demand was negligible. The reductions in bulk decay constants of combined chlorine relative to free chlorine show more variability than the wall constants. However, given the extremely low values obtained for GAC-treated water and having only a single test result available for the conventionally treated water makes it difficult to draw comparisons from these data. 8</text>
+      <annotation id="55">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="27822" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28296</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28308</offset>
+      <text>Fourteen kinetic experiments were run to measure the effect of advanced treatment on the rate of chlorine decay in a simulated water distribution system consisting of 6-in diameter unlined ductile iron pipe. Each experiment collected chlorine decay data from a different test water re-circulated over an 8 h period in the simulator. The test waters were also subjected to a longer-term bottle test to determine bulk water decay rates. First-order rate constants were estimated for both bulk water and pipe wall reactions. These were used to compare reaction rates by treatment type, disinfectant type, and disinfectant dose. The following findings and conclusions can be drawn from the results of these experiments: 1. Regardless of treatment received or type of disinfectant used, first-order rate constants for both the bulk water and pipe wall reactions are higher at lower initial chlorine concentrations. This suggests that chlorine decay is not a pure first-order process but is also influenced by the concentrations of the species reacting with chlorine. 2. Type of treatment had a statistically significant effect on the rate of pipe wall demand for free chlorine but not for chloramines. The free chlorine wall rates for ozonated and GAC-treated water were about twice those of conventional or RO-treated water. This behavior is believed due to the effect that changes in the organic content of water have on its ability to complex iron and the effect that changes in water conductivity have on pipe wall corrosion. 3. For the unlined, ductile iron pipe used in these experiments, chlorine decay was dominated by wall reactions. Rate constants for the latter were 1–2 orders of magnitude higher than for bulk reactions, for both free and combined chlorine. 4. Wall reaction rate constants for free chlorine ranged from 1.1 to 4.6 days-1, depending on chlorine level and treatment. These numbers are consistent with the rates measured by others. The wall rate constants for chloramines ranged only between 1.2 and 1.5 days−1. Paired comparisons of wall rates for similar treatments showed the combined chlorine constants to be only 40–70% as high as those for free chlorine. Bulk rate constants were also lower for combined chlorine when compared to free chlorine. This work demonstrates that changes in water chemistry through advanced treatment can affect the rate of disinfectant decay caused predominantly by wall reactions in unlined iron pipe. Free chlorine appears to be more susceptible than combined chlorine to these effects. One should keep in mind that these results were obtained for a single metallic pipe that has undergone appreciable corrosion, tubercle buildup, and biofilm colonization. They are therefore only indicative, and not generally conclusive, of what might be expected if treatment changes are made in systems containing pipes of a similar nature.</text>
+      <annotation id="56">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29202" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29316" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="28749" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29096" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29272" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29985" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,1048 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-04-22</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.chemosphere.2012.11.069</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">DEGRADATIONENDOCRINEDISRUPTINGCHEMICALSDURINGACTIVATEDSLUDGEREDUCTIONBYOZONE</infon>
+      <infon key="name_0">surname:QIANG</infon>
+      <infon key="license">Copyright © 2012 Elsevier Ltd. All rights reserved.</infon>
+      <infon key="source">Chemosphere</infon>
+      <infon key="year">2012-12-25</infon>
+      <infon key="volume">91</infon>
+      <infon key="issue">0045-6535</infon>
+      <infon key="fpage">366</infon>
+      <infon key="lpage">373. Link: https://sciencedirect.com/science/article/pii/S0045653512014749</infon>
+      <infon key="pub-id_doi">10.1016/j.chemosphere.2012.11.069</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0045653512014749</infon>
+      <infon key="kwd">['Endocrine-disrupting chemicals', 'Degradation', 'Sludge reduction', 'Ozone', 'Sewage treatment plant']</infon>
+      <offset>0</offset>
+      <text>Degradation of endocrine-disrupting chemicals during activated sludge reduction by ozone</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="83" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>89</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>107</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>118</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>127</offset>
+      <text>► Ozonation was an effective means for excess sludge reduction. ► Sludge-bound EDCs were effectively removed during sludge ozonation. ► The adsorption of EDCs on sludge greatly retarded their degradation by O3. ► EDCs degradation kinetics could be expressed by the pseudo-first-order model. ► Either H2O2 addition or pH adjustment enhanced the removal of most EDCs. Ozonation has been considered to be an effective means for the reduction of excess sludge in recent years. However, it remains largely unknown whether hydrophobic organic micro-pollutants, which are originally adsorbed on activated sludge, will be released into wastewater upon ozonation because of sludge solubilization. This study investigated the degradation efficiencies of several typical endocrine-disrupting chemicals (EDCs) during sludge ozonation, including estrone (E1), estriol (E3), 17α-ethynylestradiol (EE2), bisphenol A (BPA), and 4-nonylphenol (NP). Results indicate that the EDCs present in activated sludge could be effectively removed by O3 even though the apparent rate constants in sludge were 3–4 orders of magnitude lower than those in water. However, the applied O3 dose should be prudently controlled because a low dose (e.g., 29 mg O3 g−1 SS) may lead to an increase of BPA and NP concentrations in the liquid phase of activated sludge. Furthermore, H2O2 addition or pH adjustment could improve the removal of most studied EDCs, but exert a negative effect on the more hydrophobic and refractory compound, NP.</text>
+      <annotation id="2">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="444" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1486" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1400" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="405" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1212" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1629</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['EDCs', 'ks (×103\nM−1\ns−1) in sludge', 'kw (×106\nM−1\ns−1) in water', 'R2'], ['E1', '0.94 ± 0.21', '1.84', '0.97'], ['EE2', '1.08 ± 0.25', '∼3.00', '0.98'], ['E3', '1.21 ± 0.41', '1.65', '0.96'], ['BPA', '0.48 ± 0.06', '2.70', '0.99'], ['NP', '0.27 ± 0.05', '0.11', '0.99']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;EDCs&lt;/td&gt;
+      &lt;td&gt;ks (×103\nM−1\ns−1) in sludge&lt;/td&gt;
+      &lt;td&gt;kw (×106\nM−1\ns−1) in water&lt;/td&gt;
+      &lt;td&gt;R2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;E1&lt;/td&gt;
+      &lt;td&gt;0.94 ± 0.21&lt;/td&gt;
+      &lt;td&gt;1.84&lt;/td&gt;
+      &lt;td&gt;0.97&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;EE2&lt;/td&gt;
+      &lt;td&gt;1.08 ± 0.25&lt;/td&gt;
+      &lt;td&gt;∼3.00&lt;/td&gt;
+      &lt;td&gt;0.98&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;E3&lt;/td&gt;
+      &lt;td&gt;1.21 ± 0.41&lt;/td&gt;
+      &lt;td&gt;1.65&lt;/td&gt;
+      &lt;td&gt;0.96&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BPA&lt;/td&gt;
+      &lt;td&gt;0.48 ± 0.06&lt;/td&gt;
+      &lt;td&gt;2.70&lt;/td&gt;
+      &lt;td&gt;0.99&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;NP&lt;/td&gt;
+      &lt;td&gt;0.27 ± 0.05&lt;/td&gt;
+      &lt;td&gt;0.11&lt;/td&gt;
+      &lt;td&gt;0.99&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1636</offset>
+      <text>Apparent second-order rate constants (ks, determined in this study; mean ± standard deviation, n
+= 3) in activated sludge and second-order rate constants (kw, from literature) in water for reactions of individual EDCs with ozone.</text>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1859" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1652" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1769" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1866</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653512014749-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1874</offset>
+      <text>Effect of O3 dose on the solubilization of activated sludge.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653512014749-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1935</offset>
+      <text>SEM photos of activated sludge after treatment with different ozone doses.</text>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1997" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653512014749-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2010</offset>
+      <text>(a) Effect of O3 dose on EDCs degradation in activated sludge. The data columns in the same group represent the increasing ozone doses: 0, 29, 64 and 100 mg O3
+g−1
+SS (from left to right). Qo and Q represent the initial and final amounts of studied EDCs in activated sludge, respectively. (b) TSS and DOC concentrations of activated sludge at different ozone doses.</text>
+      <annotation id="11">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2133" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2315" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2363" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653512014749-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2376</offset>
+      <text>EDCs concentrations as a function of ozone dose in activated sludge: (a) liquid phase; and (b) solid phase.</text>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2381" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2413" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653512014749-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2484</offset>
+      <text>(a) Effect of H2O2 to O3 molar ratio on EDCs degradation during sludge ozonation. The data columns in the same group represent the increasing nH2O2/nO3 ratios: 1:1, 1.5:1 and 2:1 (from left to right). The O3 dose was about 27 mg O3
+g−1
+SS. (b) TSS and DOC concentrations of activated sludge at different nH2O2/nO3 ratios.</text>
+      <annotation id="16">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2740" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653512014749-gr6.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2806</offset>
+      <text>Effect of sludge pH on EDCs degradation during sludge ozonation. The data columns in the same group represent the increasing pH values: 4.9, 7.1 and 9.1 (from left to right). The O3 dose was about 27 mg O3
+g−1
+SS.</text>
+      <annotation id="17">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2823" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2931" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653512014749-fx1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3020</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3021</offset>
+      <text>Graphical abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3040</offset>
+      <text>[]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3043</offset>
+      <text>Highlights</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3054</offset>
+      <text>► Ozonation was an effective means for excess sludge reduction. ► Sludge-bound EDCs were effectively removed during sludge ozonation. ► The adsorption of EDCs on sludge greatly retarded their degradation by O3. ► EDCs degradation kinetics could be expressed by the pseudo-first-order model. ► Either H2O2 addition or pH adjustment enhanced the removal of most EDCs. Ozonation has been considered to be an effective means for the reduction of excess sludge in recent years. However, it remains largely unknown whether hydrophobic organic micro-pollutants, which are originally adsorbed on activated sludge, will be released into wastewater upon ozonation because of sludge solubilization. This study investigated the degradation efficiencies of several typical endocrine-disrupting chemicals (EDCs) during sludge ozonation, including estrone (E1), estriol (E3), 17α-ethynylestradiol (EE2), bisphenol A (BPA), and 4-nonylphenol (NP). Results indicate that the EDCs present in activated sludge could be effectively removed by O3 even though the apparent rate constants in sludge were 3–4 orders of magnitude lower than those in water. However, the applied O3 dose should be prudently controlled because a low dose (e.g., 29 mg O3 g−1 SS) may lead to an increase of BPA and NP concentrations in the liquid phase of activated sludge. Furthermore, H2O2 addition or pH adjustment could improve the removal of most studied EDCs, but exert a negative effect on the more hydrophobic and refractory compound, NP.</text>
+      <annotation id="19">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3371" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="4413" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="4327" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3332" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="4139" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4556</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4565</offset>
+      <text>['Endocrine-disrupting chemicals', 'Degradation', 'Sludge reduction', 'Ozone', 'Sewage treatment plant']</text>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="4636" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4670</offset>
+      <text>Nomenclature</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4683</offset>
+      <text>BPA bisphenol A BSTFA N,O–bis(trimethylsilyl)trifluoroacetamide COD chemical oxygen demand DOC dissolved organic carbon E1 estrone E3 estriol EDCs endocrine-disrupting chemicals EE2 17α-ethynylestradiol EPS extracellular polymeric substances NP 4-nonylphenol SEM scanning electron microscope STPs sewage treatment plants TMCS trimethylchlorosilane TN total nitrogen TP total phosphorus TSS total suspended solids VSS volatile suspended solids 1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5128</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5141</offset>
+      <text>The activated sludge process has been extensively used for treatment of municipal sewage, and over 90% of sewage treatment plants (STPs) adopt it as a core part of the treatment processes at present ( ). However, the large amount of excess sludge produced daily has become the most troublesome problem. The conventional methods for sludge treatment and disposal (e.g., landfill and compost) are facing an increasing challenge because of the more stringent regulations as well as the social concerns for environment. Hence, various reduction technologies of excess sludge have recently been developed including mechanical, thermal, chemical and biological methods, among which ozonation is considered to be an effective and practical way. Previous studies ( ) have reported that the sludge reduction efficiency by ozonation could reach 100% (i.e., zero yield of excess sludge). Furthermore, ozonation has been successfully applied in practice to reduce sludge in a few European countries and Japan ( ). However, some problems associated with this technique are also obvious ( ). For example, some refractory organic micro-pollutants originally adsorbed on sludge may get released into wastewater during sludge ozonation and thus probably deteriorate the effluent quality. Along with the effluent discharge, these refractory micro-pollutants tend to contaminate the receiving water bodies. Especially, the occurrence of endocrine-disrupting chemicals (EDCs) in aquatic environment has attracted great attention. It was reported that even a trace level (ng L−1) of 17β-estradiol (E2) or 17α-ethynylestradiol (EE2) could induce vitellogenesis in trout, and the presence of vitellogenin in the plasma of fish was indicative of estrogenic stimulation ( ). The effluent of STPs is one of the major sources of EDCs released to the aquatic environment ( ). In general, two typical classes of EDCs are seriously concerned. One class is the steroid estrogens, including both natural and synthetic ones. Among them, estrone (E1), E2 and estriol (E3) are the most common natural estrogens mainly coming from urinary excretion, and EE2 is a typical synthetic estrogen used as contraceptive. The other class consists of 4-nonylphenol (NP) and bisphenol A (BPA), which are extensively used in household and industrial processes (e.g., textile, paper, detergents and polymeric material production). All these EDCs are hydrophobic, so a notable part of EDCs present in sewage could transfer to activated sludge in biological treatment processes ( ). Therefore, two questions are to be answered regarding the practical application of sludge ozonation: (1) Will sludge solubilization lead to an increase of the concentrations of EDCs in wastewater? (2) Can ozonation effectively degrade the EDCs originally adsorbed by sludge? But to date, no answer is available. According to these questions, a sensitive and selective method for detecting EDCs in both liquid and solid phases of activated sludge has been developed in our previous study ( ). To move forward, this work was to investigate the degradation efficiency of studied EDCs during sludge ozonation. Besides, the effects of H2O2 addition and sludge pH adjustment, which were intended to enhance the generation of hydroxyl radicals ( OH), on the removal of EDCs were also examined. This study helps to optimize the sludge ozonation process to achieve a high efficiency in both sludge reduction and EDCs removal. 2</text>
+      <annotation id="25">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8328" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="7832" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8592</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8614</offset>
+      <text>2.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8618</offset>
+      <text>Target compounds and sludge source</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8653</offset>
+      <text>E1, EE2, E3, BPA and NP were selected as the representative EDCs whose structures, log Kow and pKa values are shown in . E2 was not selected because its biodegradation by activated sludge was so fast that its removal efficiency could reach 90% within several minutes ( ). The activated sludge was collected from a secondary sedimentation tank of Qing-he STP located in Beijing (200 000 m3 d−1 treatment capacity), China. This STP employed basically an anaerobic/anoxic/oxic (A/A/O) biological treatment process. The concentrations of total suspended solids (TSS) and volatile suspended solids (VSS) were about 4.50 and 3.30 g L−1, respectively, and the pH was around 7.1. The mean concentrations of total nitrogen (TN) and total phosphorous (TP) were 58.0 and 2.5 mg L−1 in the influent, respectively. About 70% of TN and 80% of TP could be removed by the A/A/O process. 2.2</text>
+      <annotation id="27">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9306" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9169" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9334" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9528</offset>
+      <text>Reaction system</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9544</offset>
+      <text>A semi-batch reaction system (sludge: batch addition; O3 gas: continuous supply) was used for sludge ozonation experiments ( ). The sludge sample was ozonated in a cylindrical glass reactor (∅ = 120 mm, H = 220 mm) with an effective volume of 2.0 L. The O3 gas, produced from pure oxygen by using an ozone generator (CF-G-3-010G, Goulin, China; maximum yield = 10 g h−1), was continuously bubbled into the reactor. At pre-selected times, the O3 gas stream was stopped and the residual O3 in the headspace of reactor was immediately stripped out by N2 gas. The off-gas during and after ozonation was collected into 500 mL of 1% KI solution, which was then titrated by 0.1 M NaS2O3 to determine the amount of unreacted O3. The inlet gaseous concentration of O3 was determined by the same iodimetric method. The amount of consumed O3 during the reaction was calculated as follows: (1) ConsumedO3=CO3,gas-in×QO3,gas-in×T-MO3,out where CO3,gas-in (mg L−1) represents the gaseous concentration of O3 at the inlet; QO3,gas-in (L min−1) represents the flow rate of O3 gas; T (min) is the time of sludge ozonation; and MO3,out (mg) is the total mass of O3 in the off-gas. The amount of consumed O3 could be readily controlled through adjusting either the ozonation time or the electrical current of the O3 generator. Four series of experiments were performed under different ozonation conditions ( ). Series A was to determine the optimal range of O3 dose by examining the solubilization characteristics of activated sludge. Series B was to investigate the degradation efficiency of studied EDCs in activated sludge at various O3 doses. In Series C, the effect of H2O2 addition on EDCs removal during sludge ozonation was assessed by varying the dosing mode of H2O2 (i.e., batch or continuous) and the molar ratio of H2O2 to O3 (nH2O2/nO3). In the continuous mode, a total amount of 5 mL H2O2 solution (28.2 mg mL−1) was evenly pumped into the reactor throughout the ozonation course. In contrast, in the batch mode the same amount of H2O2 solution was entirely added into the reactor at the beginning of reaction. In both modes, the O3 dose was set at 27 mg O3 g−1 SS and nH2O2/nO3 was 1:1. To examine the effect of nH2O2/nO3, two higher ratios (i.e., 1.5:1 and 2:1) were also applied in batch mode. Series D was to investigate the effect of sludge pH on EDCs removal, which was adjusted to 4.9 by 40% (w/w) H2SO4 or 9.1 by 40% (w/w) NaOH. The O3 dose was maintained at about 27 mg O3 g−1 SS. The experiments in Series A, C and D were conducted in duplicate at ambient temperature (18 ± 2 °C) under magnetic stirring condition, and the experiments in Series B were performed in triplicate. In all degradation experiments, the spiked concentration was 2 μg L−1 each for E1, EE2, E3 and BPA. Because the inward concentration of NP in activated sludge was adequately high (ca. 76 μg L−1), it was not externally spiked. The stock solutions of E1, EE2, E3 and BPA were prepared individually in methanol at 1000 mg L−1, from which a sub-stock solution was prepared in Milli-Q water (resistivity &gt;18.2 MΩ cm) containing a mixture of these compounds (1 mg L−1 each). After spiking EDCs by use of the sub-stock solution, the activated sludge was vigorously stirred for 1 min to ensure an adequate contact with EDCs. Because the initial adsorption rates of steroid estrogens to activated sludge were as high as 630.5–1422 μg g−1 SS h−1 ( ), vigorous stirring for 1 min could allow most of EDCs being adsorbed to activated sludge. Thereafter, the initial concentrations of EDCs were determined in both liquid and solid phases of activated sludge. 2.3</text>
+      <annotation id="30">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11885" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12105" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9844" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10283" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10518" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12269" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12345" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13080" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13176</offset>
+      <text>Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13185</offset>
+      <text>To determine the concentrations of EDCs in activated sludge, the sludge sample (1.0 L) was centrifuged (J2-HS, Beckmann) at 6000 g for 20 min and divided into two parts, i.e., liquid phase and solid phase. The pH of the liquid phase was immediately adjusted to 3.0 with 40% (w/w) H2SO4, while the solid phase was freeze-dried without pH adjustment. For the liquid phase sample, 40 ng of BPA-d16 (for BPA and NP) and 80 ng of E2-d2 (for steroid estrogens) were spiked as internal standards. After the sample was filtered through 1-μm glass fiber filters, an Oasis HLB cartridge (500 mg/6 mL, Waters) and a Sep-Pak silica cartridge (500 mg/6 mL, Waters) were utilized for solid-phase extraction (SPE) of the filtrate and cleanup of the matrix, respectively. For the solid phase sample, a methanol/acetone mixture (1:1, v/v) was used for ultrasonic liquid extraction and then the internal standards were spiked in the extracts. The Oasis HLB cartridge and a laboratory-made glass column, packed with sodium sulfate, neutral aluminum oxide, silica gel and glass wool at different layers, were respectively used for SPE of target EDCs and cleanup of the matrix. The refined extracts from the liquid and solid phase samples were derivatized by N,O-bis(trimethylsilyl)trifluoroacetamide (BSTFA) containing 1% trimethylchlorosilane (TMCS) under the conditions of 70 °C and ultrasonication, and finally analyzed by gas chromatography–mass spectrometry (GC–MS). It is noted that the NP concentration represented a sum of all isomers. More detailed information is available in our previous work ( ). The concentrations of TSS and VSS were measured according to the Standard Methods ( ). After the sludge was disintegrated by ultrasonication, the total chemical oxygen demand (COD) was measured on a UV–Vis spectrophotometer (DR5000, Hach). The concentrations of soluble COD, dissolved organic carbon (DOC), and dissolved O3 were determined in the filtrate of ozonated sludge (1-μm glass fiber filter). DOC was measured with a total organic carbon analyzer (Apollo 9000, Tekmar Dohrmann), and dissolved O3 was measured by the indigo colorimetric method (DR5000, Hach). The procedures for preparing sludge samples for scanning electron microscope (SEM) analysis were described in the . 2.4</text>
+      <annotation id="38">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13395" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13519" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13202" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14661" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14778" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15018" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15462</offset>
+      <text>Calculation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15474</offset>
+      <text>Based on the concentrations of each EDC detected in the liquid and solid phases, its total concentration in the activated sludge could be calculated as follows: (2) Ci=Si×TSS+Li where i represents an individual EDC; Ci is the total EDC concentration in sludge (ng L−1); Si is the EDC concentration in the solid phase of sludge (ng g−1 TSS); TSS is the concentration of total suspended solids (g L−1); and Li is the EDC concentration in the liquid phase of sludge (ng L−1). Because the solid phase volume was less than 3% of the total sludge volume, it was reasonably neglected in calculation. Similarly, the amounts of an individual EDC in the liquid and solid phases of sludge (1.0 L) could be calculated as follows: (3) Ql,i=Li (4) Qs,i=Si×TSS where Ql and Qs are the amounts of an individual EDC in the liquid and solid phases of 1.0 L sludge (ng), respectively. 3</text>
+      <annotation id="44">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15487" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15565" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15710" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15758" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15826" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15893" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16342</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16365</offset>
+      <text>3.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16369</offset>
+      <text>Sludge solubilization characteristics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16407</offset>
+      <text>The ratio of sludge solubilization was defined as follows: (5) Solubilization ratio(%)=TSSo-TSStTSSo where TSSo and TSSt represent the initial and residual (at t min) concentrations of TSS of activated sludge (g L−1), respectively. shows the effect of O3 dose on the solubilization of activated sludge. With an increase of O3 dose, the solubilization ratio increased almost linearly till 182 mg O3 g−1 SS, but somewhat slowed down thereafter. At 242 mg O3 g−1 SS, the solubilization ratio reached the highest value (66.6%), which was comparable to those reported by other researchers ( ). There are three potential pathways for O3 reacting with the activated sludge. First, O3 may oxidize the extracellular polymeric substances (EPS) and the bridging matter outside sludge granules, thus leading to the disintegration of zoogloea and the consequential formation of smaller sludge particles. However, reported that the size distribution of sludge particles was stable during ozonation (50 mg O3 g−1 SS, 90 min). Hence, O3 may not violently destruct the flocs of activated sludge at a low dose. Second, O3 may break the membrane of microbial cells to release the intracellular substances (e.g., proteins, lipoids, and nucleic acids) into the liquid phase, leading to a notable increase in the soluble COD concentration. In fact, our results showed that the soluble COD was dramatically increased by 25 times at 242 mg O3 g−1 SS compared to the initial value, indicating significant cytolysis ( ). The SEM photos ( ) visually evidenced that the microbial cells were obviously disrupted during sludge ozonation and even no cell held intact at the highest ozone dose of 242 mg O3 g−1 SS. Finally, O3 may react with the intracellular organic substances released from microbial cells. showed that the total COD of sludge remained unchanging at 60 mg O3 g−1 SS in comparison to the initial value, and then dropped quite quickly as the O3 dose increased. At 242 mg O3 g−1 SS, the total COD was reduced by about 34%, implying considerable mineralization of organic substances. For the practical application of sludge ozonation, the O3 dose should be controlled in an economically feasible range. Previous studies ( ) showed that an O3 dose of 50 mg O3 g−1 SS was probably suitable for excess sludge reduction. Therefore, the O3 dose in the following experiments was controlled in the range of 0–100 mg O3 g−1 SS. It is seen that the sludge solubilization ratio was close to 30% at 100 mg O3 g−1 SS ( ). 3.2</text>
+      <annotation id="50">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16574" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17710" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18058" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18904</offset>
+      <text>Effect of ozone dose</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18925</offset>
+      <text>During sludge ozonation, EDCs were primarily degraded by the chemical oxidation of O3. It was reported that ozonation could quickly inactivate the microbial cells in the activated sludge with an inactivation ratio reaching about 70% at 30–40 mg O3 g−1 SS dose ( ). Furthermore, the chemical oxidation of EDCs in water ( ) was much faster than biodegradation ( ). Thus, the biodegradation of EDCs during sludge ozonation can be neglected. The changes of studied EDCs amounts distributed in the liquid and solid phases of activated sludge at different O3 doses were shown in a. Results indicate that the degradation rates of steroid estrogens were much faster than those of BPA and NP in the sludge. At 100 mg O3 g−1 SS, the majority of estrogens were removed, whereas 17% of BPA and 36% of NP held intact. Even at a more practical dose of 64 mg O3 g−1 SS, the removal efficiencies of estrogens were greater than 90%. Furthermore, the two portions of EDCs (except NP) respectively distributed in the liquid and solid phases of activated sludge were almost simultaneously degraded with the increase of O3 dose. It implies that the EDCs in the activated sludge were probably degraded through three pathways: (1) EDCs present in the liquid phase were oxidized by dissolved O3; (2) EDCs released from the solid phase due to sludge solubilization were oxidized by dissolved O3; and (3) EDCs adsorbed on the solid phase were directly oxidized by the dissolved O3. In addition, found that the chemical structures of byproducts were significantly altered as compared to their parent compounds (E1, E2 and EE2), so the solution estrogenicity was largely reduced after ozonation. However, it seemed impossible to completely remove the solution estrogenicity because the oxidation by-products still had some estrogenic activity ( ). As expected, the TSS concentration of activated sludge exhibited an obvious decrease with the increased O3 dose, indicating significant sludge solubilization ( b). Correspondingly, the DOC concentration of activated sludge increased quickly with the increased O3 dose till 64 mg O3 g−1 SS, and then slowed down to some extent. Thus, it was confirmed that the organic substances released from the solid phase could be partially mineralized if a relatively high O3 dose was applied. 3.3</text>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20766" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20934" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21230</offset>
+      <text>Degradation kinetics of EDCs</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21259</offset>
+      <text>To simplify the kinetic model, the degradations of EDCs in both solid and liquid phases of activated sludge were taken into an integral consideration. Thus, the apparent rate constant for the reaction of an individual EDC with O3 in activated sludge (ks) could be determined. found that the reactions of O3 with studied EDCs in ultrapure water were of second-order. In this work, O3 was continuously supplied to the activated sludge and its aqueous concentration (CO3,aq) remained almost at steady-state (ca. 0.08–0.10 mg L−1). Therefore, the reactions of O3 with studied EDCs in the sludge could be approximately expressed by the pseudo-first-order kinetics: (6) lnCiCi,o=-ks′t (7) ks′=ksCO3,aq where Ci,o is the initial total concentration of an individual EDC in sludge; ks′ and ks represent the pseudo-first-order and apparent second-order rate constants, respectively. Results indicate that the plot of ln(Ci,o/Ci) vs. t yielded a linear curve with the slope equaling ks′ under the experimental conditions of pH 7.1 and ambient temperature of 18 ± 2 °C ( ). The values of ks were then calculated from ks′ and summarized in . It is noted that the apparent reaction rates in sludge were about 3–4 orders of magnitude lower than those observed in ultrapure water for studied EDCs due to the adsorption of the hydrophobic EDCs (their log Kow values range from 2.81 to 4.48, ) on activated sludge as well as the interference of complex matrix components on the oxidation of EDCs. The reaction rates of estrogens were higher than those of BPA and NP in sludge. Among the studied estrogens, EE2 reacts most quickly towards O3 in water ( ). However, it was observed that in sludge the reaction rate of E3 was the highest ( ). By comparing the log Kow values of EE2 (4.15) and E3 (2.81) ( ), it is seen that EE2 is more easily absorbed by sludge granules ( ). Prior to ozonation experiments, the initial amount of EE2 absorbed on the solid phase was close to 75% of its total amount, whereas that of E3 was only 13% ( a). The adsorption of studied EDCs on activated sludge greatly retarded their degradation during sludge ozonation. also pointed out that the micro-pollutants adsorbed on sludge granules would not be oxidized efficiently by O3 because the transfer of aqueous O3 from liquid phase to sludge surface was much slower than that of gaseous O3 from gas bubble to liquid phase. 3.4</text>
+      <annotation id="55">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22273" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22292" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21708" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21987" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21618" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21903" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22071" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22097" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22459" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>23647</offset>
+      <text>Concentration changes of EDCs</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23677</offset>
+      <text>The concentration changes of studied EDCs in the liquid and solid phases of activated sludge during sludge ozonation were shown in . The steroid estrogens, BPA and NP exhibited different degradation trends in the liquid phase ( a). The estrogen concentrations decreased quickly with the increased O3 dose, and a nearly total removal was achieved at the highest applied dose of 100 mg O3 g−1 SS. In contrast, the concentrations of BPA and NP increased first and then gradually decreased. At the 100 mg O3 g−1 SS dose, about 35% of BPA and 60% of NP still remained in the liquid phase. The initial increase in BPA and NP concentrations denoted that their degradation by O3 in the liquid phase lagged behind their release from the solid phase caused by sludge solubilization. As the O3 dose was further increased (i.e., by increasing the ozonation time), the degradation rates of BPA and NP exceeded the release rates, thus their aqueous concentrations started to decrease. reported that the sorption of activated sludge for hydrophobic organic compounds proceeded via two ways: surface adsorption and partition (i.e., the hydrophobic compounds dissolve in the organic substances of activated sludge). By analogy, the release of EDCs that were originally adsorbed on sludge granules could also consist of two sequential stages: (1) during the initial stage of ozonation, the EDCs adsorbed on sludge surface were quickly released into the liquid phase due to the destruction of EPS; and (2) the EDCs partitioned in sludge were gradually released along with sludge cytolysis. It implies that the applied O3 dose should be prudently controlled during sludge ozonation because a low O3 dose may lead to a notable increase of BPA and NP concentrations in the wastewater. In the solid phase, the concentrations of all studied EDCs decreased with the increase of O3 dose ( b). The dissolved O3 could change the surface chemistry of activated sludge to promote the release of sludge-bound EDCs and directly react with them as well. In addition, it was again observed that the removal efficiencies of estrogens were higher than those of BPA and NP in the solid phase. 3.5</text>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23681" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23922" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="24089" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="24296" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="24612" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="25406" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="25464" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>25837</offset>
+      <text>Effect of H2O2 addition</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25861</offset>
+      <text>During sludge ozonation, the studied EDCs could be degraded by either direct O3 oxidation or indirect OH oxidation which was formed from O3 decay. In advanced oxidation processes (AOPs), the combination of O3 with H2O2 has been extensively applied to enhance OH generation ( ) because OH can react with many organic compounds at a diffusion control rate of 109 M−1 s−1 ( ). In this study, H2O2 was also added to evaluate its contribution to EDCs degradation during sludge ozonation in terms of H2O2 dosing mode and the molar ratio of H2O2 to O3 (nH2O2/nO3). The dosing mode controls the real-time concentration of H2O2 in the reaction system. Since H2O2 also reacts towards OH at a second-order rate of 2.7 × 107 M−1 s−1 ( ), the dosing mode of H2O2 may affect the degradation of studied EDCs. In this work, both batch and continuous dosing modes of H2O2 were examined with the total dose of H2O2 kept constant. The O3 dose was fixed at 27 mg O3 g−1 SS. shows that the addition of H2O2, in comparison to ozonation alone, could benefit the removal of most studied EDCs (except EE2). Moreover, the batch dosing mode appeared to favor the degradation of estrogens that have relatively higher ks values in sludge, while the continuous dosing mode appeared to favor the degradation of BPA and NP which have relatively lower ks values in sludge ( ). However, there was no statistically significant difference in EDCs removal between the two dosing modes of H2O2. Though OH reacts more quickly towards EDCs than O3, it is noted that many organic and inorganic substances present in sludge could compete for OH as scavengers ( ). In addition, H2O2 accelerated the decomposition of aqueous O3 and thus attenuated the direct oxidation of EDCs by molecular O3. Therefore, the effect of H2O2 dosing mode on EDCs removal actually reflected a tradeoff between the strengthened indirect oxidation via OH and the weakened direct oxidation via molecular O3. In the O3/H2O2 process, nH2O2/nO3 was usually controlled from 0.5:1 to 1.5:1 ( ). In this study, relatively higher ratios (i.e., from 1:1 to 2:1) were selected considering the complex matrix of activated sludge. a shows the degradation of studied EDCs at different nH2O2/nO3 ratios. As the nH2O2/nO3 increased from 1:1 to 1.5:1, an enhanced removal of studied EDCs (except E3) was observed, which mainly occurred in the solid phase and almost came to a halt even though the nH2O2/nO3 was further increased to 2:1. This result coincides with the change of TSS and DOC concentrations of activated sludge ( b), implying that a significant portion of sludge-bound EDCs were released and then oxidized in the liquid phase. In contrast, the removal efficiency of E3 showed little change with the increase of nH2O2/nO3 because it was mainly distributed in the liquid phase ( a) and was degraded fastest during sludge ozonation among the studied EDCs ( ). Note that the concentration of NP increased to some extent as the nH2O2/nO3 increased from 1.5:1 to 2:1. NP is the most hydrophobic compound among the studied EDCs ( ), which prefers to stay in the solid phase of activated sludge ( a). Moreover, NP was well equilibrated in the activated sludge (not externally spiked), so the hysteresis effect may retard its desorption from sludge. Therefore, the direct oxidation of adsorbed NP by molecular O3 tended to be the predominant degradation pathway. An overdose of H2O2 would quickly reduce the aqueous O3 concentration and then attenuate the degradation of NP. 3.6</text>
+      <annotation id="71">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="26458" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="28369" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="28764" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29303" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="26550" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>29363</offset>
+      <text>Effect of sludge pH</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29383</offset>
+      <text>In consideration that pH has a significant effect on aqueous ozone decomposition, the effect of sludge pH on EDCs degradation was investigated at pH values of 4.9, 7.1 (unadjusted) and 9.1. shows that, as the sludge pH increased from 4.9 to 9.1, the removal efficiencies of E1, EE2, E3 and BPA were notably increased by more than 15%, while the degradation of NP exhibited a reverse trend. Possible explanations were that: (1) a higher pH promoted OH formation during ozonation ( ), which partially increased the degradation of EDCs; and (2) the dissociation of EDCs at basic condition enhanced their degradation by O3 because O3 reacts with the dissociated EDCs much faster (at a rate of 109 M−1 s−1) than with the undissociated ones ( ). The initial distribution of EDCs between the liquid and solid phases of activated sludge was not significantly changed under different pH conditions. reported that no obvious desorption of EDCs from the solid phase occurred at pH below 9.0. It is readily understood that the fraction of dissociated EDCs was insignificant since the pKa values of studied EDCs are above 10.0 ( ). It is noted that NP showed a reverse trend, whose removal efficiency decreased at pH 9.1. As mentioned above, a higher pH could promote the aqueous ozone decomposition and consequently attenuated the degradation of NP. The typical case of NP indicates that enhancing OH generation through H2O2 addition or pH adjustment can improve the degradation of most EDCs, but probably exert a negative effect on more hydrophobic and refractory compounds. 4</text>
+      <annotation id="76">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29405" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29486" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29529" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29599" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29819" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="30258" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="30350" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="30584" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="30621" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="30808" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29444" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="30650" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>30949</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30960</offset>
+      <text>This study shows that the studied EDCs (except NP) present in the activated sludge can be greatly degraded during sludge ozonation. Consequently, the discharged estrogenicity from an STP adopting the sludge ozonation process may be significantly reduced. The findings of this study may be extended to other micro-pollutants, which are present in the activated sludge of municipal STPs and have similar physico-chemical properties to the studied EDCs (e.g., pharmaceuticals and personal care products). Appendix A</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>31473</offset>
+      <text>Supplementary material</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31496</offset>
+      <text>Supplementary data 1 Supplementary material contains Tables S1 and S2 and Figs. S1–S3.</text>
+    </passage>
+  </document>
+</collection>

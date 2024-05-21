@@ -1,0 +1,1608 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-02-14</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.watres.2005.05.040</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">OXIDATIONPHARMACEUTICALSDURINGWATERTREATMENTCHLORINEDIOXIDE</infon>
+      <infon key="name_0">surname:HUBER</infon>
+      <infon key="license">Copyright © 2005 Elsevier Ltd. All rights reserved.</infon>
+      <infon key="source">Water Research</infon>
+      <infon key="year">2005-08-01</infon>
+      <infon key="volume">39</infon>
+      <infon key="issue">0043-1354</infon>
+      <infon key="fpage">3607</infon>
+      <infon key="lpage">3617. Link: https://sciencedirect.com/science/article/pii/S0043135405002940</infon>
+      <infon key="pub-id_doi">10.1016/j.watres.2005.05.040</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0043135405002940</infon>
+      <infon key="kwd">['Water treatment', 'Chlorine dioxide', 'Pharmaceuticals', 'Rate constants', 'Antibiotics', 'Estrogens', '1']</infon>
+      <offset>0</offset>
+      <text>Oxidation of pharmaceuticals during water treatment with chlorine dioxide</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>74</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>92</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>103</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>112</offset>
+      <text>The potential of chlorine dioxide (ClO2) for the oxidation of pharmaceuticals during water treatment was assessed by determining second-order rate constants for the reaction with selected environmentally relevant pharmaceuticals. Out of 9 pharmaceuticals only the 4 following compounds showed an appreciable reactivity with ClO2 (in brackets apparent second-order rate constants at pH 7 and T=20°C): the sulfonamide antibiotic sulfamethoxazole (6.7×103 M−1 s−1), the macrolide antibiotic roxithromycin (2.2×102 M−1 s−1), the estrogen 17α-ethinylestradiol (∼2×105 M−1 s−1), and the antiphlogistic diclofenac (1.05×104 M−1 s−1). Experiments performed using natural water showed that ClO2 also reacted fast with other sulfonamides and macrolides, the natural hormones estrone and 17β-estradiol as well as 3 pyrazolone derivatives (phenazone, propylphenazone, and dimethylaminophenazone). However, many compounds in the study were ClO2 refractive. Experiments with lake water and groundwater that were partly performed at microgram/L to nanogram/L levels proved that the rate constants determined in pure water could be applied to predict the oxidation of pharmaceuticals in natural waters. Compared to ozone, ClO2 reacted more slowly and with fewer compounds. However, it reacted faster with the investigated compounds than chlorine. Overall, the results indicate that ClO2 will only be effective to oxidize certain compound classes such as the investigated classes of sulfonamide and macrolide antibiotics, and estrogens.</text>
+      <annotation id="1">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="494" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="1311" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="248" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="470" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1632</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Name', 'CAS RN', 'Use/Origin'], ['Antibiotics', '', ''], ['Azithromycin', '83905-01-5', 'Macrolide antibiotic'], ['Clarithromycin', '81103-11-9', 'Macrolide antibiotic'], ['Dehydro-erythromycin', '', 'Metabolite erythromycin'], ['Roxithromycin', '80214-83-1', 'Macrolide antibiotic'], ['Sulfamethazine', '57-68-1', 'Sulfonamide antibiotic'], ['Sulfamethoxazole', '723-46-6', 'Sulfonamide antibiotic'], ['Sulfapyridine', '144-83-2', 'Sulfonamide antibiotic'], ['Sulfathiazole', '72-14-0', 'Sulfonamide antibiotic'], ['Estrogens', '', ''], ['17α-ethinylestradiol (EE2)', '57-63-6', 'Synthetic steroid hormone'], ['17β-estradiol', '50-28-2', 'Natural steroid hormone'], ['Estrone', '53-16-7', 'Natural steroid hormone'], ['Acidic pharmaceuticals', '', ''], ['Bezafibrate', '41859-67-0', 'Lipid regulator'], ['Clofibric acid', '882-09-7', 'Metabolite of several lipid regulators'], ['Diclofenac', '15307-86-5', 'Antiphlogistic'], ['Fenoprofen', '53746-45-5', 'Antiphlogistic'], ['Gemifibrozil', '25812-30-0', 'Lipid regulator'], ['Ibuprofen', '15687-27-1', 'Antiphlogistic'], ['Ketoprofen', '22071-15-4', 'Antiphlogistic'], ['Naproxen', '22204-53-1', 'Antiphlogistic'], ['Neutral pharmaceuticals', '', ''], ['Caffeine', '58-08-2', 'Psychostimulant'], ['Carbamazepine', '298-46-4', 'Antiepileptic drug'], ['Cyclophosphamide', '6055-19-2', 'Antineoplastic'], ['Diazepam', '439-14-5', 'Psychiatric drug'], ['Dimethylaminophenazone', '58-15-1', 'Antiphlogistic'], ['Glibenclamide', '10238-21-8', 'Antidiabetic'], ['Ifosfamide', '3778-73-2', 'Antineoplastic'], ['Pentoxifylline', '6493-05-6', 'Vasodilator'], ['Phenazone', '60-80-0', 'Antiphlogistic'], ['Propylphenazone', '479-92-5', 'Antiphlogistic'], ['X-ray contrast media', '', ''], ['Iopromide', '73334-07-3', 'Contrast medium']]</infon>
+      <offset>1639</offset>
+      <text>Investigated pharmaceuticals</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Name&lt;/td&gt;
+      &lt;td&gt;CAS RN&lt;/td&gt;
+      &lt;td&gt;Use/Origin&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Antibiotics&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Azithromycin&lt;/td&gt;
+      &lt;td&gt;83905-01-5&lt;/td&gt;
+      &lt;td&gt;Macrolide antibiotic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Clarithromycin&lt;/td&gt;
+      &lt;td&gt;81103-11-9&lt;/td&gt;
+      &lt;td&gt;Macrolide antibiotic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Dehydro-erythromycin&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Metabolite erythromycin&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Roxithromycin&lt;/td&gt;
+      &lt;td&gt;80214-83-1&lt;/td&gt;
+      &lt;td&gt;Macrolide antibiotic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sulfamethazine&lt;/td&gt;
+      &lt;td&gt;57-68-1&lt;/td&gt;
+      &lt;td&gt;Sulfonamide antibiotic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sulfamethoxazole&lt;/td&gt;
+      &lt;td&gt;723-46-6&lt;/td&gt;
+      &lt;td&gt;Sulfonamide antibiotic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sulfapyridine&lt;/td&gt;
+      &lt;td&gt;144-83-2&lt;/td&gt;
+      &lt;td&gt;Sulfonamide antibiotic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sulfathiazole&lt;/td&gt;
+      &lt;td&gt;72-14-0&lt;/td&gt;
+      &lt;td&gt;Sulfonamide antibiotic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Estrogens&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;17α-ethinylestradiol (EE2)&lt;/td&gt;
+      &lt;td&gt;57-63-6&lt;/td&gt;
+      &lt;td&gt;Synthetic steroid hormone&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;17β-estradiol&lt;/td&gt;
+      &lt;td&gt;50-28-2&lt;/td&gt;
+      &lt;td&gt;Natural steroid hormone&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Estrone&lt;/td&gt;
+      &lt;td&gt;53-16-7&lt;/td&gt;
+      &lt;td&gt;Natural steroid hormone&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Acidic pharmaceuticals&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bezafibrate&lt;/td&gt;
+      &lt;td&gt;41859-67-0&lt;/td&gt;
+      &lt;td&gt;Lipid regulator&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Clofibric acid&lt;/td&gt;
+      &lt;td&gt;882-09-7&lt;/td&gt;
+      &lt;td&gt;Metabolite of several lipid regulators&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Diclofenac&lt;/td&gt;
+      &lt;td&gt;15307-86-5&lt;/td&gt;
+      &lt;td&gt;Antiphlogistic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fenoprofen&lt;/td&gt;
+      &lt;td&gt;53746-45-5&lt;/td&gt;
+      &lt;td&gt;Antiphlogistic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gemifibrozil&lt;/td&gt;
+      &lt;td&gt;25812-30-0&lt;/td&gt;
+      &lt;td&gt;Lipid regulator&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ibuprofen&lt;/td&gt;
+      &lt;td&gt;15687-27-1&lt;/td&gt;
+      &lt;td&gt;Antiphlogistic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ketoprofen&lt;/td&gt;
+      &lt;td&gt;22071-15-4&lt;/td&gt;
+      &lt;td&gt;Antiphlogistic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Naproxen&lt;/td&gt;
+      &lt;td&gt;22204-53-1&lt;/td&gt;
+      &lt;td&gt;Antiphlogistic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Neutral pharmaceuticals&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Caffeine&lt;/td&gt;
+      &lt;td&gt;58-08-2&lt;/td&gt;
+      &lt;td&gt;Psychostimulant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Carbamazepine&lt;/td&gt;
+      &lt;td&gt;298-46-4&lt;/td&gt;
+      &lt;td&gt;Antiepileptic drug&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cyclophosphamide&lt;/td&gt;
+      &lt;td&gt;6055-19-2&lt;/td&gt;
+      &lt;td&gt;Antineoplastic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Diazepam&lt;/td&gt;
+      &lt;td&gt;439-14-5&lt;/td&gt;
+      &lt;td&gt;Psychiatric drug&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Dimethylaminophenazone&lt;/td&gt;
+      &lt;td&gt;58-15-1&lt;/td&gt;
+      &lt;td&gt;Antiphlogistic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Glibenclamide&lt;/td&gt;
+      &lt;td&gt;10238-21-8&lt;/td&gt;
+      &lt;td&gt;Antidiabetic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ifosfamide&lt;/td&gt;
+      &lt;td&gt;3778-73-2&lt;/td&gt;
+      &lt;td&gt;Antineoplastic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pentoxifylline&lt;/td&gt;
+      &lt;td&gt;6493-05-6&lt;/td&gt;
+      &lt;td&gt;Vasodilator&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Phenazone&lt;/td&gt;
+      &lt;td&gt;60-80-0&lt;/td&gt;
+      &lt;td&gt;Antiphlogistic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Propylphenazone&lt;/td&gt;
+      &lt;td&gt;479-92-5&lt;/td&gt;
+      &lt;td&gt;Antiphlogistic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;X-ray contrast media&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Iopromide&lt;/td&gt;
+      &lt;td&gt;73334-07-3&lt;/td&gt;
+      &lt;td&gt;Contrast medium&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1668</offset>
+      <text>[['83905-01-5', ['Azithromycin'], ['CAS RN']], ['Macrolide antibiotic', ['Azithromycin'], ['Use/Origin']], ['81103-11-9', ['Clarithromycin'], ['CAS RN']], ['Macrolide antibiotic', ['Clarithromycin'], ['Use/Origin']], ['NoValue', ['Dehydro-erythromycin'], ['CAS RN']], ['Metabolite erythromycin', ['Dehydro-erythromycin'], ['Use/Origin']], ['80214-83-1', ['Roxithromycin'], ['CAS RN']], ['Macrolide antibiotic', ['Roxithromycin'], ['Use/Origin']], ['57-68-1', ['Sulfamethazine'], ['CAS RN']], ['Sulfonamide antibiotic', ['Sulfamethazine'], ['Use/Origin']], ['723-46-6', ['Sulfamethoxazole'], ['CAS RN']], ['Sulfonamide antibiotic', ['Sulfamethoxazole'], ['Use/Origin']], ['144-83-2', ['Sulfapyridine'], ['CAS RN']], ['Sulfonamide antibiotic', ['Sulfapyridine'], ['Use/Origin']], ['72-14-0', ['Sulfathiazole'], ['CAS RN']], ['Sulfonamide antibiotic', ['Sulfathiazole'], ['Use/Origin']], ['NoValue', ['Estrogens'], ['CAS RN']], ['NoValue', ['Estrogens'], ['Use/Origin']], ['57-63-6', ['17α-ethinylestradiol (EE2)'], ['CAS RN']], ['Synthetic steroid hormone', ['17α-ethinylestradiol (EE2)'], ['Use/Origin']], ['50-28-2', ['17β-estradiol'], ['CAS RN']], ['Natural steroid hormone', ['17β-estradiol'], ['Use/Origin']], ['53-16-7', ['Estrone'], ['CAS RN']], ['Natural steroid hormone', ['Estrone'], ['Use/Origin']], ['NoValue', ['Acidic pharmaceuticals'], ['CAS RN']], ['NoValue', ['Acidic pharmaceuticals'], ['Use/Origin']], ['41859-67-0', ['Bezafibrate'], ['CAS RN']], ['Lipid regulator', ['Bezafibrate'], ['Use/Origin']], ['882-09-7', ['Clofibric acid'], ['CAS RN']], ['Metabolite of several lipid regulators', ['Clofibric acid'], ['Use/Origin']], ['15307-86-5', ['Diclofenac'], ['CAS RN']], ['Antiphlogistic', ['Diclofenac'], ['Use/Origin']], ['53746-45-5', ['Fenoprofen'], ['CAS RN']], ['Antiphlogistic', ['Fenoprofen'], ['Use/Origin']], ['25812-30-0', ['Gemifibrozil'], ['CAS RN']], ['Lipid regulator', ['Gemifibrozil'], ['Use/Origin']], ['15687-27-1', ['Ibuprofen'], ['CAS RN']], ['Antiphlogistic', ['Ibuprofen'], ['Use/Origin']], ['22071-15-4', ['Ketoprofen'], ['CAS RN']], ['Antiphlogistic', ['Ketoprofen'], ['Use/Origin']], ['22204-53-1', ['Naproxen'], ['CAS RN']], ['Antiphlogistic', ['Naproxen'], ['Use/Origin']], ['NoValue', ['Neutral pharmaceuticals'], ['CAS RN']], ['NoValue', ['Neutral pharmaceuticals'], ['Use/Origin']], ['58-08-2', ['Caffeine'], ['CAS RN']], ['Psychostimulant', ['Caffeine'], ['Use/Origin']], ['298-46-4', ['Carbamazepine'], ['CAS RN']], ['Antiepileptic drug', ['Carbamazepine'], ['Use/Origin']], ['6055-19-2', ['Cyclophosphamide'], ['CAS RN']], ['Antineoplastic', ['Cyclophosphamide'], ['Use/Origin']], ['439-14-5', ['Diazepam'], ['CAS RN']], ['Psychiatric drug', ['Diazepam'], ['Use/Origin']], ['58-15-1', ['Dimethylaminophenazone'], ['CAS RN']], ['Antiphlogistic', ['Dimethylaminophenazone'], ['Use/Origin']], ['10238-21-8', ['Glibenclamide'], ['CAS RN']], ['Antidiabetic', ['Glibenclamide'], ['Use/Origin']], ['3778-73-2', ['Ifosfamide'], ['CAS RN']], ['Antineoplastic', ['Ifosfamide'], ['Use/Origin']], ['6493-05-6', ['Pentoxifylline'], ['CAS RN']], ['Vasodilator', ['Pentoxifylline'], ['Use/Origin']], ['60-80-0', ['Phenazone'], ['CAS RN']], ['Antiphlogistic', ['Phenazone'], ['Use/Origin']], ['479-92-5', ['Propylphenazone'], ['CAS RN']], ['Antiphlogistic', ['Propylphenazone'], ['Use/Origin']], ['NoValue', ['X-ray contrast media'], ['CAS RN']], ['NoValue', ['X-ray contrast media'], ['Use/Origin']], ['73334-07-3', ['Iopromide'], ['CAS RN']], ['Contrast medium', ['Iopromide'], ['Use/Origin']]]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['', 'pH', 'DOC (mg L−1)', 'ClO2 demand  (mg/L)', 'Alkalinity (mM HCO3−)'], ['Drinking water, Germany', '7.4', '1.0', 'n.d.', '4.4'], ['Water source: bank filtrate River Rhine', '', '', '', ''], ['Lake water, Zurich, Switzerland', '7.9', '1.6', '∼0.2', '2.5'], ['Groundwater, Duebendorf, Switzerland', '7.2', '1.3', '∼0.08', '6.6']]</infon>
+      <offset>5200</offset>
+      <text>Water quality parameters</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;pH&lt;/td&gt;
+      &lt;td&gt;DOC (mg L−1)&lt;/td&gt;
+      &lt;td&gt;ClO2 demand  (mg/L)&lt;/td&gt;
+      &lt;td&gt;Alkalinity (mM HCO3−)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Drinking water, Germany&lt;/td&gt;
+      &lt;td&gt;7.4&lt;/td&gt;
+      &lt;td&gt;1.0&lt;/td&gt;
+      &lt;td&gt;n.d.&lt;/td&gt;
+      &lt;td&gt;4.4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Water source: bank filtrate River Rhine&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lake water, Zurich, Switzerland&lt;/td&gt;
+      &lt;td&gt;7.9&lt;/td&gt;
+      &lt;td&gt;1.6&lt;/td&gt;
+      &lt;td&gt;∼0.2&lt;/td&gt;
+      &lt;td&gt;2.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Groundwater, Duebendorf, Switzerland&lt;/td&gt;
+      &lt;td&gt;7.2&lt;/td&gt;
+      &lt;td&gt;1.3&lt;/td&gt;
+      &lt;td&gt;∼0.08&lt;/td&gt;
+      &lt;td&gt;6.6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>5225</offset>
+      <text>[['7.4', ['Drinking water, Germany'], ['pH']], ['1.0', ['Drinking water, Germany'], ['DOC (mg L−1)']], ['n.d.', ['Drinking water, Germany'], ['ClO2 demand  (mg/L)']], ['4.4', ['Drinking water, Germany'], ['Alkalinity (mM HCO3−)']], ['NoValue', ['Water source: bank filtrate River Rhine'], ['pH']], ['NoValue', ['Water source: bank filtrate River Rhine'], ['DOC (mg L−1)']], ['NoValue', ['Water source: bank filtrate River Rhine'], ['ClO2 demand  (mg/L)']], ['NoValue', ['Water source: bank filtrate River Rhine'], ['Alkalinity (mM HCO3−)']], ['7.9', ['Lake water, Zurich, Switzerland'], ['pH']], ['1.6', ['Lake water, Zurich, Switzerland'], ['DOC (mg L−1)']], ['∼0.2', ['Lake water, Zurich, Switzerland'], ['ClO2 demand  (mg/L)']], ['2.5', ['Lake water, Zurich, Switzerland'], ['Alkalinity (mM HCO3−)']], ['7.2', ['Groundwater, Duebendorf, Switzerland'], ['pH']], ['1.3', ['Groundwater, Duebendorf, Switzerland'], ['DOC (mg L−1)']], ['∼0.08', ['Groundwater, Duebendorf, Switzerland'], ['ClO2 demand  (mg/L)']], ['6.6', ['Groundwater, Duebendorf, Switzerland'], ['Alkalinity (mM HCO3−)']]]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Compound (species)', 'pKa', 'kClO2(M−1 s−1)', 't1/2 for 0.1 mg ClO2 at pH 7', 'Studied pH range'], ['Bezafibrate (anion)', '3.6', '&lt;0.01', '', '7'], ['Carbamazepine (neutral)', '', '&lt;0.015', '', '7'], ['Diazepam (neutral)', '', '&lt;0.025', '', '7'], ['Diclofenac (anion)', '4.2', '(1.05±0.1)×104', '45 s', '5–10'], ['EE2 (neutral)', '10.4', '&lt;200', '', '2–3'], ['EE2 (anion)', '', '(4.6±0.8)×108', '2.5 s', '4–6'], ['Ibuprofen (anion)', '4.9', '&lt;0.01', '', '7'], ['Iopromide (neutral)', '', '&lt;0.01', '', '7'], ['Roxithromycin (neutral)', '8.8', '(1.4±0.3)×104', '35 min', '6–7'], ['Sulfamethoxazole (neutral)', '5.7', '&lt;100', '', '4'], ['Sulfamethoxazole (anion)', '', '(7.9±0.9)×103', '70 s', '5–10']]</infon>
+      <offset>6314</offset>
+      <text>Second-order rate constants for the reaction of chlorine dioxide with selected pharmaceuticals</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Compound (species)&lt;/td&gt;
+      &lt;td&gt;pKa&lt;/td&gt;
+      &lt;td&gt;kClO2(M−1 s−1)&lt;/td&gt;
+      &lt;td&gt;t1/2 for 0.1 mg ClO2 at pH 7&lt;/td&gt;
+      &lt;td&gt;Studied pH range&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bezafibrate (anion)&lt;/td&gt;
+      &lt;td&gt;3.6&lt;/td&gt;
+      &lt;td&gt;&amp;lt;0.01&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Carbamazepine (neutral)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&amp;lt;0.015&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Diazepam (neutral)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&amp;lt;0.025&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Diclofenac (anion)&lt;/td&gt;
+      &lt;td&gt;4.2&lt;/td&gt;
+      &lt;td&gt;(1.05±0.1)×104&lt;/td&gt;
+      &lt;td&gt;45 s&lt;/td&gt;
+      &lt;td&gt;5–10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;EE2 (neutral)&lt;/td&gt;
+      &lt;td&gt;10.4&lt;/td&gt;
+      &lt;td&gt;&amp;lt;200&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;2–3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;EE2 (anion)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(4.6±0.8)×108&lt;/td&gt;
+      &lt;td&gt;2.5 s&lt;/td&gt;
+      &lt;td&gt;4–6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ibuprofen (anion)&lt;/td&gt;
+      &lt;td&gt;4.9&lt;/td&gt;
+      &lt;td&gt;&amp;lt;0.01&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Iopromide (neutral)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&amp;lt;0.01&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Roxithromycin (neutral)&lt;/td&gt;
+      &lt;td&gt;8.8&lt;/td&gt;
+      &lt;td&gt;(1.4±0.3)×104&lt;/td&gt;
+      &lt;td&gt;35 min&lt;/td&gt;
+      &lt;td&gt;6–7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sulfamethoxazole (neutral)&lt;/td&gt;
+      &lt;td&gt;5.7&lt;/td&gt;
+      &lt;td&gt;&amp;lt;100&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sulfamethoxazole (anion)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(7.9±0.9)×103&lt;/td&gt;
+      &lt;td&gt;70 s&lt;/td&gt;
+      &lt;td&gt;5–10&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>6409</offset>
+      <text>[['3.6', ['Bezafibrate (anion)'], ['pKa']], ['&lt;0.01', ['Bezafibrate (anion)'], ['kClO2(M−1 s−1)']], ['NoValue', ['Bezafibrate (anion)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['7', ['Bezafibrate (anion)'], ['Studied pH range']], ['NoValue', ['Carbamazepine (neutral)'], ['pKa']], ['&lt;0.015', ['Carbamazepine (neutral)'], ['kClO2(M−1 s−1)']], ['NoValue', ['Carbamazepine (neutral)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['7', ['Carbamazepine (neutral)'], ['Studied pH range']], ['NoValue', ['Diazepam (neutral)'], ['pKa']], ['&lt;0.025', ['Diazepam (neutral)'], ['kClO2(M−1 s−1)']], ['NoValue', ['Diazepam (neutral)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['7', ['Diazepam (neutral)'], ['Studied pH range']], ['4.2', ['Diclofenac (anion)'], ['pKa']], ['(1.05±0.1)×104', ['Diclofenac (anion)'], ['kClO2(M−1 s−1)']], ['45 s', ['Diclofenac (anion)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['5–10', ['Diclofenac (anion)'], ['Studied pH range']], ['10.4', ['EE2 (neutral)'], ['pKa']], ['&lt;200', ['EE2 (neutral)'], ['kClO2(M−1 s−1)']], ['NoValue', ['EE2 (neutral)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['2–3', ['EE2 (neutral)'], ['Studied pH range']], ['NoValue', ['EE2 (anion)'], ['pKa']], ['(4.6±0.8)×108', ['EE2 (anion)'], ['kClO2(M−1 s−1)']], ['2.5 s', ['EE2 (anion)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['4–6', ['EE2 (anion)'], ['Studied pH range']], ['4.9', ['Ibuprofen (anion)'], ['pKa']], ['&lt;0.01', ['Ibuprofen (anion)'], ['kClO2(M−1 s−1)']], ['NoValue', ['Ibuprofen (anion)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['7', ['Ibuprofen (anion)'], ['Studied pH range']], ['NoValue', ['Iopromide (neutral)'], ['pKa']], ['&lt;0.01', ['Iopromide (neutral)'], ['kClO2(M−1 s−1)']], ['NoValue', ['Iopromide (neutral)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['7', ['Iopromide (neutral)'], ['Studied pH range']], ['8.8', ['Roxithromycin (neutral)'], ['pKa']], ['(1.4±0.3)×104', ['Roxithromycin (neutral)'], ['kClO2(M−1 s−1)']], ['35 min', ['Roxithromycin (neutral)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['6–7', ['Roxithromycin (neutral)'], ['Studied pH range']], ['5.7', ['Sulfamethoxazole (neutral)'], ['pKa']], ['&lt;100', ['Sulfamethoxazole (neutral)'], ['kClO2(M−1 s−1)']], ['NoValue', ['Sulfamethoxazole (neutral)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['4', ['Sulfamethoxazole (neutral)'], ['Studied pH range']], ['NoValue', ['Sulfamethoxazole (anion)'], ['pKa']], ['(7.9±0.9)×103', ['Sulfamethoxazole (anion)'], ['kClO2(M−1 s−1)']], ['70 s', ['Sulfamethoxazole (anion)'], ['t1/2 for 0.1 mg ClO2 at pH 7']], ['5–10', ['Sulfamethoxazole (anion)'], ['Studied pH range']]]</text>
+      <annotation id="5">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6420" length="19"/>
+        <text>Bezafibrate (anion)</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6649" length="23"/>
+        <text>Carbamazepine (neutral)</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6895" length="18"/>
+        <text>Diazepam (neutral)</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7117" length="18"/>
+        <text>Diclofenac (anion)</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7348" length="13"/>
+        <text>EE2 (neutral)</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7554" length="11"/>
+        <text>EE2 (anion)</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7755" length="17"/>
+        <text>Ibuprofen (anion)</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7976" length="19"/>
+        <text>Iopromide (neutral)</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8201" length="23"/>
+        <text>Roxithromycin (neutral)</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8451" length="26"/>
+        <text>Sulfamethoxazole (neutral)</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8707" length="24"/>
+        <text>Sulfamethoxazole (anion)</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Compound (species)', '0.95 mg L−1 ClO2 C/C0 (%)', '11.5 mg L−1 ClO2 C/C0 (%)', 'Estimated kClO2 (M−1 s−1 )'], ['Caffeine', '100 (±12)', '99 (±7)', '&lt;1'], ['Clofibric acid', '100 (±9)', '100 (±5)', '&lt;1'], ['Cyclophosphamide', '97 (±3)', '88 (±13)', '&lt;1'], ['Fenoprofen', '103 (±23)', '103 (±30)', '&lt;1'], ['Gemifibrozil', '93 (±10)', '59 (±6)', '&lt;10'], ['Glibenclamide', '86 (±14)', '71 (±8)', '&lt;10'], ['Ifosfamide', '98 (±1)', '97 (±6)', '&lt;1'], ['Ketoprofen', '105 (±12)', '99 (±3)', '&lt;1'], ['Naproxen', '53 (±9)', '—', '10–100'], ['Pentoxifylline', '98 (±4)', '102 (±12)', '&lt;1'], ['Phenazone', '&lt; LOQ', '&lt; LOQ', '&gt;100'], ['Dimethylaminophenazone', '&lt; LOQ', '&lt; LOQ', '&gt;100'], ['Propylphenazone', '&lt; LOQ', '&lt; LOQ', '&gt;100']]</infon>
+      <offset>8950</offset>
+      <text>Relative residual concentrations (C/C0) of selected pharmaceuticals after 30 min treatment of drinking water spiked with 0.95 and 11.5 mg L−1 ClO2 and estimated second-order rate constants</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Compound (species)&lt;/td&gt;
+      &lt;td&gt;0.95 mg L−1 ClO2 C/C0 (%)&lt;/td&gt;
+      &lt;td&gt;11.5 mg L−1 ClO2 C/C0 (%)&lt;/td&gt;
+      &lt;td&gt;Estimated kClO2 (M−1 s−1 )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Caffeine&lt;/td&gt;
+      &lt;td&gt;100 (±12)&lt;/td&gt;
+      &lt;td&gt;99 (±7)&lt;/td&gt;
+      &lt;td&gt;&amp;lt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Clofibric acid&lt;/td&gt;
+      &lt;td&gt;100 (±9)&lt;/td&gt;
+      &lt;td&gt;100 (±5)&lt;/td&gt;
+      &lt;td&gt;&amp;lt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cyclophosphamide&lt;/td&gt;
+      &lt;td&gt;97 (±3)&lt;/td&gt;
+      &lt;td&gt;88 (±13)&lt;/td&gt;
+      &lt;td&gt;&amp;lt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fenoprofen&lt;/td&gt;
+      &lt;td&gt;103 (±23)&lt;/td&gt;
+      &lt;td&gt;103 (±30)&lt;/td&gt;
+      &lt;td&gt;&amp;lt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gemifibrozil&lt;/td&gt;
+      &lt;td&gt;93 (±10)&lt;/td&gt;
+      &lt;td&gt;59 (±6)&lt;/td&gt;
+      &lt;td&gt;&amp;lt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Glibenclamide&lt;/td&gt;
+      &lt;td&gt;86 (±14)&lt;/td&gt;
+      &lt;td&gt;71 (±8)&lt;/td&gt;
+      &lt;td&gt;&amp;lt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ifosfamide&lt;/td&gt;
+      &lt;td&gt;98 (±1)&lt;/td&gt;
+      &lt;td&gt;97 (±6)&lt;/td&gt;
+      &lt;td&gt;&amp;lt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ketoprofen&lt;/td&gt;
+      &lt;td&gt;105 (±12)&lt;/td&gt;
+      &lt;td&gt;99 (±3)&lt;/td&gt;
+      &lt;td&gt;&amp;lt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Naproxen&lt;/td&gt;
+      &lt;td&gt;53 (±9)&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+      &lt;td&gt;10–100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pentoxifylline&lt;/td&gt;
+      &lt;td&gt;98 (±4)&lt;/td&gt;
+      &lt;td&gt;102 (±12)&lt;/td&gt;
+      &lt;td&gt;&amp;lt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Phenazone&lt;/td&gt;
+      &lt;td&gt;&amp;lt; LOQ&lt;/td&gt;
+      &lt;td&gt;&amp;lt; LOQ&lt;/td&gt;
+      &lt;td&gt;&amp;gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Dimethylaminophenazone&lt;/td&gt;
+      &lt;td&gt;&amp;lt; LOQ&lt;/td&gt;
+      &lt;td&gt;&amp;lt; LOQ&lt;/td&gt;
+      &lt;td&gt;&amp;gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Propylphenazone&lt;/td&gt;
+      &lt;td&gt;&amp;lt; LOQ&lt;/td&gt;
+      &lt;td&gt;&amp;lt; LOQ&lt;/td&gt;
+      &lt;td&gt;&amp;gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>9139</offset>
+      <text>[['100 (±12)', ['Caffeine'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['99 (±7)', ['Caffeine'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&lt;1', ['Caffeine'], ['Estimated kClO2 (M−1 s−1 )']], ['100 (±9)', ['Clofibric acid'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['100 (±5)', ['Clofibric acid'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&lt;1', ['Clofibric acid'], ['Estimated kClO2 (M−1 s−1 )']], ['97 (±3)', ['Cyclophosphamide'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['88 (±13)', ['Cyclophosphamide'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&lt;1', ['Cyclophosphamide'], ['Estimated kClO2 (M−1 s−1 )']], ['103 (±23)', ['Fenoprofen'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['103 (±30)', ['Fenoprofen'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&lt;1', ['Fenoprofen'], ['Estimated kClO2 (M−1 s−1 )']], ['93 (±10)', ['Gemifibrozil'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['59 (±6)', ['Gemifibrozil'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&lt;10', ['Gemifibrozil'], ['Estimated kClO2 (M−1 s−1 )']], ['86 (±14)', ['Glibenclamide'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['71 (±8)', ['Glibenclamide'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&lt;10', ['Glibenclamide'], ['Estimated kClO2 (M−1 s−1 )']], ['98 (±1)', ['Ifosfamide'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['97 (±6)', ['Ifosfamide'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&lt;1', ['Ifosfamide'], ['Estimated kClO2 (M−1 s−1 )']], ['105 (±12)', ['Ketoprofen'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['99 (±3)', ['Ketoprofen'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&lt;1', ['Ketoprofen'], ['Estimated kClO2 (M−1 s−1 )']], ['53 (±9)', ['Naproxen'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['NoValue', ['Naproxen'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['10–100', ['Naproxen'], ['Estimated kClO2 (M−1 s−1 )']], ['98 (±4)', ['Pentoxifylline'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['102 (±12)', ['Pentoxifylline'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&lt;1', ['Pentoxifylline'], ['Estimated kClO2 (M−1 s−1 )']], ['&lt; LOQ', ['Phenazone'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['&lt; LOQ', ['Phenazone'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&gt;100', ['Phenazone'], ['Estimated kClO2 (M−1 s−1 )']], ['&lt; LOQ', ['Dimethylaminophenazone'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['&lt; LOQ', ['Dimethylaminophenazone'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&gt;100', ['Dimethylaminophenazone'], ['Estimated kClO2 (M−1 s−1 )']], ['&lt; LOQ', ['Propylphenazone'], ['0.95 mg L−1 ClO2 C/C0 (%)']], ['&lt; LOQ', ['Propylphenazone'], ['11.5 mg L−1 ClO2 C/C0 (%)']], ['&gt;100', ['Propylphenazone'], ['Estimated kClO2 (M−1 s−1 )']]]</text>
+      <annotation id="16">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9156" length="8"/>
+        <text>Caffeine</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9327" length="14"/>
+        <text>Clofibric acid</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9516" length="16"/>
+        <text>Cyclophosphamide</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9713" length="10"/>
+        <text>Fenoprofen</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9892" length="12"/>
+        <text>Gemifibrozil</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10076" length="13"/>
+        <text>Glibenclamide</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10262" length="10"/>
+        <text>Ifosfamide</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10440" length="10"/>
+        <text>Ketoprofen</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10616" length="8"/>
+        <text>Naproxen</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10790" length="14"/>
+        <text>Pentoxifylline</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10978" length="9"/>
+        <text>Phenazone</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11149" length="22"/>
+        <text>Dimethylaminophenazone</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">COMP</infon>
+        <infon key="type">COMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11359" length="15"/>
+        <text>Propylphenazone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11536</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135405002940-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>11544</offset>
+      <text>Chemical structures of reactive pharmaceuticals and sites of proposed ClO2 attack.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135405002940-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>11627</offset>
+      <text>Apparent second-order rate constants and half-lives of the 4 reactive pharmaceuticals as a function of pH. The half-lives are calculated for a ClO2 concentration of 0.1 mg L−1 (1.5 μM).</text>
+      <annotation id="29">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11730" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11775" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11643" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135405002940-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>11813</offset>
+      <text>Relative residual concentrations of pharmaceuticals in drinking water after 30 min of treatment at ClO2 doses of 0.95 and 11.5 mg L−1. The pharmaceuticals were spiked to the drinking water at a level of 1 μg L−1 before the experiments.</text>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11831" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135405002940-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>12049</offset>
+      <text>Oxidation of sulfamethoxazole and diclofenac during treatment of Lake Zurich water with ClO2. Experimental conditions: pH=8, T=20°C, ClO2 dose=0.5 mg L−1. Symbols represent measured data, and solid lines represent model calculations.</text>
+      <annotation id="33">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12168" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135405002940-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>12283</offset>
+      <text>Relative residual concentrations of selected pharmaceuticals after treatment of lake water with different ClO2 doses. Experimental conditions: pH=8, T=20°C, [pharmaceuticals]0=0.3 μM, contact time=10 min.</text>
+      <annotation id="34">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12426" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12301" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135405002940-gr6.jpg" alt="IMAGE"&gt;</infon>
+      <offset>12488</offset>
+      <text>Relative residual concentrations of selected sulfonamides, macrolides and estrogens in groundwater (Dübendorf, Switzerland) as a function of contact time with ClO2. Experimental conditions: ClO2 dose=0.1 mg L−1, pH=7.5, T=20°C, [sulfonamides]0 and [estrogens]0=1 μg L−1, [macrolides]0=100 ng L−1.</text>
+      <annotation id="36">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12700" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12506" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135405002940-gr7.jpg" alt="IMAGE"&gt;</infon>
+      <offset>12785</offset>
+      <text>Relative residual concentrations of roxithromycin for treatment of groundwater with a 0.1 mg L−1 ClO2 dose. Experimental conditions: pH=7.5, T=20°C, [roxithromycin]0=100 ng L−1 (0.3 μM), [sulfamethoxazole]0=1 μg L−1 (0.3 μM). Symbols represent measured data, solid lines represent model calculations, and dashed lines indicate the estimated uncertainty of the model calculations.</text>
+      <annotation id="38">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12918" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12803" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135405002940-gr8.jpg" alt="IMAGE"&gt;</infon>
+      <offset>13165</offset>
+      <text>Comparison of apparent second-order rate constants for the reaction of selected pharmaceuticals with ozone, chlorine dioxide and chlorine at pH 7. The column on the right-hand side presents theoretical half-lives calculated for an oxidant concentration of 1 mg L−1. For ozone, only the direct reactions with O3 were considered (neglecting hydroxyl radicals). Unavailable rate constants are designated with n.d. for not determined. For the reaction of naproxen with ClO2 only a range for kapp can be given. Sources for rate constants not determined in the present study:  ,  ,  ,  .</text>
+      <annotation id="40">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13306" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13266" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13404" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13435" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13195" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13747</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13756</offset>
+      <text>['Water treatment', 'Chlorine dioxide', 'Pharmaceuticals', 'Rate constants', 'Antibiotics', 'Estrogens', '1']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13866</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13879</offset>
+      <text>1.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13883</offset>
+      <text>Pharmaceuticals in the environment</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13918</offset>
+      <text>The widespread occurrence of a large number of pharmaceuticals in the aquatic environment ( ; ) may threaten the purity of drinking water. Because surface water is the most affected, pharmaceuticals may first pose a problem to utilities that use surface water as a source for drinking water production. However, studies on different treatment processes including ozonation ( ; ), activated carbon ( ; ), and nanofiltration/reverse osmosis membranes ( ) have lately demonstrated that these processes can efficiently remove a relatively large number of pharmaceuticals. In Europe, typical treatment trains for surface water include at least one of the above mentioned processes. Therefore, these findings suggest that at least in Europe only few pharmaceuticals will be present in treated surface water. The fact that pharmaceuticals were detected in relatively few cases in finished drinking water provides further support for this conclusion ( ; ; ; ). However, pharmaceuticals were not only detected in surface waters, but also in groundwaters ( ; ; ). Sources for groundwater contamination can be land application of sludge or manure contaminated with human or veterinary pharmaceuticals, river bank filtration of contaminated surface water into groundwater, and artificial groundwater recharge with contaminated water ( ). Groundwater does not usually require multiple treatment steps, because of its good chemical and biological quality. Often, it is only subjected to a disinfection step (e.g., treatment with chlorine, UV, or chlorine dioxide) or not treated at all. Consequently, there is a risk that pharmaceuticals could be present in drinking water derived from groundwater. 1.2</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15607</offset>
+      <text>Application of chlorine dioxide for water treatment</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15659</offset>
+      <text>Chlorine dioxide (ClO2) is an oxidant used for the disinfection of relatively high quality water, such as groundwater or treated surface water. Appropriate dosing of chlorine dioxide to treated water provides residual concentrations, which protect the drinking water distribution system from microbiological recontamination and fouling. In Europe, these ClO2 residuals are often kept &lt;0.05–0.1 mg L−1 ( ). In the USA, ClO2 is mainly used for the preoxidation of surface water. ClO2 dosages ranging from 1 to 1.4 mg L−1 ( ; ) are common in this case because higher doses are likely to produce chlorite levels that exceed the USEPA chlorite standard of 1 mg/L ( ). Chlorite is the major reduction product of chlorine dioxide. It is considered to be a blood poison ( ). A further application of ClO2 in water treatment is disinfection of wastewater. Compared to chlorine, the major advantages of ClO2 are the more effective inactivation of protozoa (e.g., Cryptosporidium and Giardia) and the fact that halogenated disinfection by-products are not formed under proper generation conditions ( ). 1.3</text>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15877" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16755</offset>
+      <text>Chemical aspects of chlorine dioxide</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16792</offset>
+      <text>Chemically, ClO2 is a stable free radical that reacts with other water matrix components and micropollutants mainly through a one electron transfer reaction. A comprehensive study on the kinetics of ClO2 reactions in water has been published by . They have shown that ClO2 is a highly selective oxidant with respect to specific functional groups of organic compounds like phenolic moieties or tertiary amino groups. The reactivity of these moieties is governed by speciation, because the reactivity of the phenoxide ion and the neutral form of the amine is many orders of magnitude higher than the reactivity of the neutral phenol and the protonated amine. Many pharmaceuticals exhibit phenolic moieties and/or amino groups in their structure. Therefore, ClO2 is expected to oxidize a relatively large number of pharmaceuticals, despite its lower oxidation potential compared to ozone and hypochlorous acid. Considering the current use of ClO2 in Europe, it is important to know to what extent ClO2 can act as a barrier for pharmaceuticals when disinfection is the only treatment step. Furthermore, ClO2 should be compared to other oxidants such as ozone and chlorine to check whether it is as effective for the oxidation of pharmaceuticals when used for preoxidation of surface water or for the oxidation of wastewater. 1.4</text>
+      <annotation id="46">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="17671" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="17941" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="17354" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18117</offset>
+      <text>Objectives of the present study</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18149</offset>
+      <text>The aim of the present study was to assess the potential of ClO2 to oxidize pharmaceuticals during water treatment. For this purpose, second-order rate constant of selected environmentally relevant pharmaceuticals were determined in bench-scale experiments using pure aqueous solutions. In addition, rate constants of further pharmaceuticals were estimated based on their oxidation in lab-scale experiments performed using drinking water. With experiments in surface water and groundwater at concentrations in the nanogram/L to microgram/L range the validity of the rate constants was verified. Finally, the rate constants were compared to rate constants available for ozone and chlorine. 2</text>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18641" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18818" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18290" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18840</offset>
+      <text>Experimental methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18861</offset>
+      <text>2.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18865</offset>
+      <text>Chemicals</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18875</offset>
+      <text>Chlorine dioxide was produced by mixing 50 mL of 4% potassium peroxodisulfate (K2S2O8, 2 g in 50 mL Milli-Q water) with 50 mL of 8% sodium chlorite (NaClO2, 4 g in 50 mL Milli-Q water) according to a method described by . Caution: ClO2 present in the gas-phase equilibrated with an aqueous solution containing &gt;8 g L−1 of ClO2 (&gt;20 °C) is explosive. Pharmaceuticals were purchased from commercial suppliers at the purest grade available. All chemicals used for solutions (buffer, eluents, etc.) were reagent grade and were used without further purification. Stock solutions of pharmaceuticals were prepared either directly in Milli-Q water or in methanol. 2.2</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>19535</offset>
+      <text>Analytical methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19554</offset>
+      <text>ClO2 concentrations were determined using three different methods as a function of experimental setup and conditions: (1) The direct spectrophotometrical determination at 359 nm using an absorption coefficient of ε=1200M-1cm-1 ( ), (2) the ABTS method (using 2,2-azino-bis(3-ethylbenzothiazoline)-6-sulfonic acid-diammonium salt), a colorimetric method adapted from , and (3) the LGB method, a colorimetric method using lissamine green B ( ). The latter method had to be applied because certain target compounds produced interferences with ABTS. For the determination of rate constants and experiments with water from Lake Zurich, sulfamethoxazole and diclofenac concentrations were measured with a Hewlett-Packard 1050 series HPLC equipped with an Ultra Aqueous C18 column from Restek (3.2×100 mm, 5 μm) and a variable wavelength detector. The eluents consisted of 10 mM phosphoric acid (A) and pure acetonitrile (B). Isocratic elution at a flow rate of 0.5 mL min−1 was carried out using A:B=60%:40% and 25%:75% for diclofenac and sulfamethoxazole, respectively. With detection of diclofenac at 275 nm and sulfamethoxazole at 267 nm, a limit of quantification (LOQ) of approximately 20 nM (5 μg L−1) was achieved. The 95% confidence intervals for a single measurement were typically ±3–5%. With a similar method, 17α-ethinylestradiol (EE2) was detected using fluorescence detection as described in . The LOQ was 5 nM (1.5 μg L−1) for this method. For the analysis of trace concentrations of antibiotics in groundwater (for a list of compounds see ), aliquots of 500 mL were adjusted to pH 4, and enriched unfiltered using solid phase extraction on Oasis HLB cartridges ( ). Measurement was conducted using reversed-phase liquid chromatography coupled to electrospray positive tandem mass spectrometry (TSQ Quantum Discovery, Thermo Finnigan, San Jose, CA, USA). Quantification was performed using a standard addition method. The selected estrogens ( ) were extracted from 500 mL samples at pH 3 with pre-packed Lichrolut EN/PR-C18 cartridges followed by a silica clean-up ( ). Separation and detection were performed with reversed phase chromatography coupled to tandem mass spectrometry (API 4000, Applied Biosystems, Foster City, CA, USA). Acidic and neutral pharmaceuticals ( ) spiked to drinking water were detected according to the methods described by and . 2.3</text>
+      <annotation id="52">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21142" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21546" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19559" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20217" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21029" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21924</offset>
+      <text>Determination of rate constants</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21956</offset>
+      <text>The kinetic concept, which forms the basis of the present study, has been described in detail by . Because they have demonstrated that reactions of ClO2 with inorganic and organic compounds are largely first order with respect to ClO2 and target compound concentration, the reaction order was not investigated explicitly in the present study. To determine the rate constants for the selected pharmaceuticals, kinetic runs were performed under pseudo first-order conditions with either the target compound or ClO2 in excess. Kinetic runs with excess of pharmaceuticals were conducted for the following compounds (concentrations in mM): bezafibrate (0.8), carbamazepine (0.2), diazepam (0.08), ibuprofen (0.8), iopromide (0.8), and roxithromycin (0.1). Except for roxithromycin, all solutions were buffered to pH 7 with 5 mM phosphate buffer. Solutions for roxithromycin were adjusted in the pH range of 6.2 to 7.1 to investigate the pH dependency of its reactivity. The kinetic runs were started by the addition of ClO2 doses (8–80 μM) that were at least 10 times lower than the target compound concentrations. The experiments were performed in spectrophotometric cells of 35-mL volume with Suprasil quartz window and 10-cm optical path length. The cell was mounted in a temperature-stabilized metal block (20 °C) inside the spectrophotometer (Kontron Instruments, Uvikon 940). ClO2 decrease was monitored directly in the spectrophotometer. All runs were conducted in triplicate. For slow-reacting or nonreactive compounds, the decrease was monitored during 1 h. For roxithromycin, half-lives of ClO2 ranged only from 20 s to 2 min under the investigated conditions. Consequently, monitoring time did not exceed 4 min. Rate constants for diclofenac, sulfamethoxazole, and EE2 were determined by monitoring their decrease in the presence of at least 10 fold excess of ClO2. Initial concentrations for diclofenac, sulfamethoxazole, and EE2 were 0.2, 0.15, and 0.1 μM, respectively. Duplicate experiments were performed at pH 5, 6, 7, 8, 9, and 10 for diclofenac and sulfamethoxazole. Due to its increased reactivity at higher pH, the 6 experiments performed with EE2 were conducted in duplicate between pH 4 and 6. The kinetic runs were conducted in 500-mL amber glass bottles mounted with a dispenser system. They were started by the addition of the target compound. After 10 s, the first sample (5 mL) was withdrawn with the dispenser system. Subsequently, 5 further samples were withdrawn in suitable time intervals ranging from 10 s to 2 min depending on the apparent oxidation rate of the target compounds. Simultaneously, 2–5 samples were collected for ClO2 analysis. For target compound analysis, ClO2 residuals were immediately quenched by mixing the sample with 0.1 mL sodium thiosulfate (25 mM, for diclofenac and sulfamethoxazole) or ascorbic acid (25 mM, for EE2). Pseudo first-order rate constants were obtained by plotting the natural logarithm of the target compound concentration versus the time. Since ClO2 concentration typically decreased 10–20% during the course of the experiments, average concentrations were used to calculate the second-order rate constants. 2.4</text>
+      <annotation id="57">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22764" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22846" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22888" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23975" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24079" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24156" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23226" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22211" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22568" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23050" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23836" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24935" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24977" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="25064" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22164" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22239" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22412" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24843" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="25113" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>25139</offset>
+      <text>Oxidation in drinking water</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25167</offset>
+      <text>Drinking water spiked with selected pharmaceuticals (1 μg L−1) was treated for 30 min at a dose of 0.95 and 11.5 mg L−1 ClO2. shows the relative residuals of pharmaceuticals for which second-order rate constants were determined in pure water ( ). As predicted by the rate constants, bezafibrate, carbamazepine, diazepam, and ibuprofen showed no reactivity, whereas diclofenac was readily oxidized. reports the residual concentrations of further pharmaceuticals investigated in the same experiments. Based on this data, the second-order rate constants given in the last column of were estimated. Among these pharmaceuticals, only phenazone derivatives and naproxen exhibited an appreciable reactivity. Due to the relatively high reactivity of phenazone derivatives, only a lower limit of the rate constants could be estimated for these compounds. 3.2</text>
+      <annotation id="76">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="25586" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="25358" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="25697" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>26017</offset>
+      <text>Oxidation in lake water</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26041</offset>
+      <text>In water treatment, ClO2 is also applied for preoxidation of surface water. To find out whether the rate constants determined in pure water can be applied to predict the oxidation kinetics of pharmaceuticals in natural surface waters, water from Lake Zurich was spiked with selected pharmaceuticals and treated with ClO2. To predict the extent of parent compound oxidation of a pharmaceutical compound (P), the following equation can be used: (1) [P]τ[P]0=e-kClO2∫0τ[ClO2]dt, where kClO2 is the second-order rate constant for the reaction with ClO2 and ∫0τ[ClO2]dt the chlorine dioxide exposure (ClO2 concentration integrated over time) from t=0 to τ. Consequently, predictions according to Eq. can be made, if kClO2 and the respective chlorine dioxide exposure are known. depicts the oxidation of sulfamethoxazole and diclofenac for a ClO2 dose of 0.5 mg L−1 (symbols represent experimental data; lines represent predictions). As predicted, both compounds were oxidized by more than 90% within 60 s. This demonstrates clearly that the determined rate constants can be applied for the description of ClO2 oxidation processes in natural waters. When ClO2 is applied to a surface water that has a substantial ClO2 demand, pharmaceuticals and the water matrix will compete for ClO2 and even highly reactive pharmaceuticals may not be completely transformed below a certain ClO2 dose. illustrates this competition for Lake Zurich water for various ClO2 doses between 0.1 and 1 mg L−1. As expected, the ClO2 dose required to oxidize a pharmaceutical compound to more than 95% decreased with increasing rate constants. For sulfamethoxazole, a residual could still be detected after treatment with 0.2 mg L−1 ClO2, whereas for EE2, which has the highest rate constant, a dose of 0.1 mg L−1 was sufficient to oxidize it to a residual accounting for 3% of its initial concentration. 3.3</text>
+      <annotation id="79">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="26642" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="27900" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="26543" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>27919</offset>
+      <text>Oxidation in groundwater</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27944</offset>
+      <text>ClO2 is often dosed to finished drinking water as a final disinfectant. In this case, very low ClO2 doses can be applied because this water does not usually exhibit a high ClO2 demand (good quality groundwater or treated surface water). To simulate such conditions, groundwater was spiked with 4 sulfonamide (1 μg L−1 each) and 4 macrolide antibiotics (100 ng L−1 each) as well as 3 estrogens (1 μg L−1 each) and subsequently treated with 0.1 mg L−1 ClO2. The half-life of ClO2 was approximately 15 min under these conditions. shows the relative residual concentrations of the investigated compounds measured after 5, 30, and 180 min. The investigated sulfonamides sulfamethoxazole, sulfamethazine, sulfapyridine, and sulfathiazole were oxidized to more than 95% after 30 min of contact time. Despite structural similarities, in particular the common aniline group that is expected to be reactive toward ClO2, the reactivity of the different sulfonamides varied somewhat more than expected. These variations can be explained to some extent by the differences in speciation. Based on the results for sulfamethoxazole, the reactivity of the sulfonamides seems strongly influenced by the protonation state of the acidic nitrogen of the sulfonamide group. The pKa value of this nitrogen ranges from 5.7 for sulfamethoxazole to 8.4 for sulfapyridine. Accordingly, sulfapyridine was predominantly present in its neutral form in the groundwater and therefore less reactive. However, it cannot be excluded that some of the differences are also caused by the fact that ClO2 attack does not occur primarily on the aniline moiety but rather on the sulfur bearing thiazole group of sulfathiazole or on the isoxazole moiety of sulfamethoxazole. The investigated macrolides azithromycin, clarithromycin, dehydro-erythromycin, and roxithromycin were oxidized more slowly than the sulfonamides and the extent of parent compound oxidation reached &gt;80% only after 180 min. This can be expected from their lower apparent rate constants for the reaction with ClO2. According to their common reactive moiety (tertiary amino group), the oxidation pattern for all compounds is very similar. However, it has to be taken into account that standard deviations for some of the macrolides were unusually large. The large errors could be the result of problems with the solid phase extraction. The precision of sulfonamide measurements was much better due to the use of better surrogate standards (structurally identical isotope-labeled compounds instead of structurally similar compounds). The estrogens EE2, 17β-estradiol, and estrone reacted too fast to be detected after 5 min contact time. As expected on the basis of their similar structures, 17β-estradiol, and estrone must exhibit a similar rate constant as EE2. Overall, the results for the groundwater experiments show that the rate constants for sulfamethoxazole, roxithromycin, and EE2 can be taken as rough estimates for the rate constants of other pharmaceuticals (hormones) belonging to the same chemical class. In , the relative residuals predicted on the basis of the ClO2 exposure (Eq. ) and the measured residuals of roxithromycin and sulfamethoxazole are plotted as a function of time. To give an estimate for the uncertainty associated with the used model, the minimal and maximal residuals are also indicated (dashed lines), predicted on the basis of minimal and maximal values for the rate constant of roxithromycin and the chlorine dioxide concentrations. Unfortunately, the measurements for roxithromycin were not very precise. Nevertheless, it can be concluded that predictions and measured data agreed reasonably well for both compounds. This demonstrated that the rate constants determined in pure water at high concentrations of target compounds can be applied to natural waters containing realistic concentrations of pharmaceuticals. 3.4</text>
+      <annotation id="82">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="28499" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="31429" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="31705" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="31794" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>31833</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31856</offset>
+      <text> reports the second-order rate constants of selected pharmaceuticals together with theoretical half-lives at a ClO2 concentration of 0.1 mg L−1. Out of the 9 investigated compounds only diclofenac, 17α-ethinylestradiol (EE2), roxithromycin, and sulfamethoxazole showed an appreciable reactivity (see for structures). The pH dependency of the respective rate constants is illustrated in . EE2, roxithromycin, and sulfamethoxazole exhibit all strongly pH-dependent rate constants, which result in relative high reactivities at pH ⩾ 7. These findings can be explained by the fact that ClO2 reacts very selectively with certain functional groups with high electron densities such as phenoxide ions and neutral tertiary amines ( ). The reactivity of the protonated forms of these functional groups is usually many orders of magnitude lower. Therefore, the pH-dependent reactivity of EE2 and roxithromycin, which exhibit a phenolic and a tertiary amino group, respectively, can be explained by the protonation state of their reactive functional groups. The pH dependency of the reactions also implies that ClO2 attack actually takes place at the phenolic moiety of EE2 and at the tertiary amino group of roxithromycin ( ). The corresponding reaction mechanisms and the expected oxidation products will be discussed later. The relatively high rate constant of the aniline derivative diclofenac indicates that the aniline group is also reactive to ClO2. Surprisingly, the rate constant of neutral sulfamethoxazole (pKa=5.7), which also contains an aniline group, is &lt;100 M−1 s−1. However, because the deprotonation of the acidic nitrogen of the sulfonamide moiety enhances the reactivity of sulfomethoxazole considerably, the apparent rate constant at neutral pH is similar to that of diclofenac. Fitting the measured apparent rate constants for sulfamethoxazole to a kinetic model taking into account the speciation yielded the best fit when a pKa of 6.1 instead of 5.7 was used. Due to the uncertainties associated with pKa determination and kinetic measurements, this deviation may not be significant and was not investigated further. 3.1</text>
+      <annotation id="86">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="32177" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="32306" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="32381" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="32707" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="32907" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="33608" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="31972" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="31876" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="32665" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>33990</offset>
+      <text>Oxidation products</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34009</offset>
+      <text>Oxidative treatment should not only lead to the disappearance of parent compounds, but also destroy biological effects of pharmaceuticals. Because full mineralization is generally not achievable with oxidant doses commonly used in water treatment, oxidative treatment can only deactivate pharmaceuticals by selectively oxidizing functional groups that are crucial for their effects. To date, little is known about the oxidation products resulting from the reaction of ClO2 with pharmaceuticals. However, the work of provides strong evidence that ClO2 attack of tertiary amines leads to the cleavage of one of the N–C bonds. In the case of the macrolide antibiotics, this reaction will result in the loss of a methyl group or the loss of the whole amino group. have shown that the antibiotic activity of demethylated roxithromycin is much lower than that of the parent compound. For ozone, it could be shown that most probably small modifications of the phenolic moiety of EE2 (caused by substoichiometric ozone doses) were sufficient to reduce its estrogenicity significantly ( ). It is expected that the oxidation of EE2 by ClO2 yields quinone type products similar to those from the initial oxidation by ozone ( ). Therefore, treatment with ClO2 could decrease the estrogenic activity of EE2, even though the phenolic moiety will probably not be cleaved to the same extent as under typical treatment conditions for ozonation. On the basis of these considerations, it can be assumed that treatment with ClO2 does not only result in the disappearance of macrolides and estrogens, but also potentially reduces their pharmacological effects. 3.5</text>
+      <annotation id="95">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="34891" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="35014" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="35215" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>35653</offset>
+      <text>Comparison of chlorine dioxide with ozone and chlorine</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>35708</offset>
+      <text>It is of great interest to compare the rate constants determined for ClO2 with rate constants for other oxidants used in water treatment such as chlorine and ozone. Recent publications on ozonation ( ) and chlorination ( ; ) of pharmaceuticals, as well as some chlorination experiments performed within the framework of this study, provided a set of rate constants that can be compared to those of chlorine dioxide. In , the rate constants of these compounds are presented as apparent rate constant at pH 7. Furthermore, theoretical half-lives are given for an oxidant concentration of 1 mg L−1. Reactions with ozone are clearly the fastest and result in the shortest half-lives. Additionally, ozone reacts with the largest number of compounds. The apparent rate constants for the reaction with ClO2 are roughly 2 orders of magnitude lower than ozone rate constants, but higher (to varying extents) than chlorine rate constants. However, the latter observation cannot be generalized, because functional groups like aliphatic primary and secondary amines are known to react significantly faster with chlorine than chlorine dioxide ( ; ; ). For the limited number of pharmaceuticals presented here, it was shown that ClO2 and chlorine react with the same compounds. Both oxidants react primarily with electron rich functional groups like amines and phenols. Ozone reacts with the same functional groups, however, additionally with C C double bonds and activated benzene rings. With respect to ozone, it has also to be taken into account that hydroxyl radicals, formed due to ozone decay, can oxidize ozone refractive pharmaceuticals to a substantial extent ( ). 4</text>
+      <annotation id="98">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="36210" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="35866" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="36277" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="36319" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="36402" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="36553" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="37064" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="37199" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="37281" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="37306" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="36522" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>37370</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37382</offset>
+      <text>Macrolide and sulfonamide antibiotics as well as estrogens and phenazones are readily oxidized by ClO2. However, many of the investigated compounds did not react at an appreciable rate with ClO2. Therefore, it can be concluded that ClO2 applied in water treatment only acts as a partial barrier for pharmaceuticals, even though it is relatively effective in oxidizing antibiotics and estrogens, two compound classes that merit special concern due to their high biological activity. Ozone seems to be considerably more efficient for pharmaceutical control than ClO2 because it exhibits higher rate constants and reacts with a larger number of pharmaceuticals. However, ClO2 appears slightly more powerful than chlorine for the oxidation of pharmaceuticals. For a more comprehensive comparison of these oxidants, additional knowledge about the formation of oxidation products and their pharmacological or biological effects would be necessary.</text>
+      <annotation id="109">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="37864" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

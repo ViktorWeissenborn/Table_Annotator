@@ -1,0 +1,1651 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-02-14</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.watres.2006.02.026</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">MEASUREMENTINITIALPHASEOZONEDECOMPOSITIONINWATERWASTEWATERBYMEANSACONTINUOUSQUENCHFLOWSYSTEMAPPLICATIONDISINFECTIONPHARMACEUTICALOXIDATION</infon>
+      <infon key="name_0">surname:BUFFLE</infon>
+      <infon key="license">Copyright © 2006 Elsevier Ltd. All rights reserved.</infon>
+      <infon key="source">Water Research</infon>
+      <infon key="year">2006-04-19</infon>
+      <infon key="volume">40</infon>
+      <infon key="issue">0043-1354</infon>
+      <infon key="fpage">1884</infon>
+      <infon key="lpage">1894. Link: https://sciencedirect.com/science/article/pii/S004313540600131X</infon>
+      <infon key="pub-id_doi">10.1016/j.watres.2006.02.026</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S004313540600131X</infon>
+      <infon key="kwd">['Ozone', 'Hydroxyl radicals', 'AOP', 'Ozone demand', 'Quench-flow system', 'Kinetics', 'Disinfection', 'Pharmaceuticals', 'Wastewater', 'Drinking water', '1']</infon>
+      <offset>0</offset>
+      <text>Measurement of the initial phase of ozone decomposition in water and wastewater by means of a continuous quench-flow system: Application to disinfection and pharmaceutical oxidation</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="36" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>182</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>200</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>211</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>220</offset>
+      <text>Due to a lack of adequate experimental techniques, the kinetics of the first 20 s of ozone decomposition in natural water and wastewater is still poorly understood. Introducing a continuous quench-flow system (CQFS), measurements starting 350 ms after ozone addition are presented for the first time. Very high HO  to O3 exposures ratios (Rct=∫HO dt/∫O3dt) reveal that the first 20 s of ozonation present oxidation conditions that are similar to ozone-based advanced oxidation processes (AOP). The oxidation of carbamazepine could be accurately modeled using O3 and HO  exposures measured with CQFS during wastewater ozonation. These results demonstrate the applicability of bench scale determined second-order rate constants for wastewater ozonation. Important degrees of pharmaceutical oxidation and microbial inactivation are predicted, indicating that a significant oxidation potential is available during wastewater ozonation, even when ozone is entirely decomposed in the first 20 s.</text>
+      <annotation id="2">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="305" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="472" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="666" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="1162" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="925" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1210</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Water type', 'DOC mgC/L (μMC)', 'a254nm m−1', 'NO3− mgN/L (μM)', 'NH3/NH4+ μgN/L (μM)', 'NO2− μgN/L (μM)', 'Alkalinity mM', 'pH −'], ['Opfikon WW', '4.5 (375)', '12.7', '28 (2000)', '330 (24)', '62 (4.4)', '3.6', '7.9'], ['Berlin WW', '8.5 (708)', '23.9', '5.7 (407)', '52 (4)', '65 (4.6)', '3.4', '8.0'], ['Zurich LW', '1.4 (117)', '3.1', '0.77 (55)', '5 (0.36)', '1.1 (0.08)', '2.4', '7.8'], ['Berlin DW', '4 (333)', '8.9', '0.4 (29)', 'n.d.', 'n.d.', '3.9', '7.9']]</infon>
+      <offset>1217</offset>
+      <text>Water quality parameters of the tested waters</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Water type&lt;/td&gt;
+      &lt;td&gt;DOC mgC/L (μMC)&lt;/td&gt;
+      &lt;td&gt;a254nm m−1&lt;/td&gt;
+      &lt;td&gt;NO3− mgN/L (μM)&lt;/td&gt;
+      &lt;td&gt;NH3/NH4+ μgN/L (μM)&lt;/td&gt;
+      &lt;td&gt;NO2− μgN/L (μM)&lt;/td&gt;
+      &lt;td&gt;Alkalinity mM&lt;/td&gt;
+      &lt;td&gt;pH −&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Opfikon WW&lt;/td&gt;
+      &lt;td&gt;4.5 (375)&lt;/td&gt;
+      &lt;td&gt;12.7&lt;/td&gt;
+      &lt;td&gt;28 (2000)&lt;/td&gt;
+      &lt;td&gt;330 (24)&lt;/td&gt;
+      &lt;td&gt;62 (4.4)&lt;/td&gt;
+      &lt;td&gt;3.6&lt;/td&gt;
+      &lt;td&gt;7.9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Berlin WW&lt;/td&gt;
+      &lt;td&gt;8.5 (708)&lt;/td&gt;
+      &lt;td&gt;23.9&lt;/td&gt;
+      &lt;td&gt;5.7 (407)&lt;/td&gt;
+      &lt;td&gt;52 (4)&lt;/td&gt;
+      &lt;td&gt;65 (4.6)&lt;/td&gt;
+      &lt;td&gt;3.4&lt;/td&gt;
+      &lt;td&gt;8.0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Zurich LW&lt;/td&gt;
+      &lt;td&gt;1.4 (117)&lt;/td&gt;
+      &lt;td&gt;3.1&lt;/td&gt;
+      &lt;td&gt;0.77 (55)&lt;/td&gt;
+      &lt;td&gt;5 (0.36)&lt;/td&gt;
+      &lt;td&gt;1.1 (0.08)&lt;/td&gt;
+      &lt;td&gt;2.4&lt;/td&gt;
+      &lt;td&gt;7.8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Berlin DW&lt;/td&gt;
+      &lt;td&gt;4 (333)&lt;/td&gt;
+      &lt;td&gt;8.9&lt;/td&gt;
+      &lt;td&gt;0.4 (29)&lt;/td&gt;
+      &lt;td&gt;n.d.&lt;/td&gt;
+      &lt;td&gt;n.d.&lt;/td&gt;
+      &lt;td&gt;3.9&lt;/td&gt;
+      &lt;td&gt;7.9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1263</offset>
+      <text>[['4.5 (375)', ['Opfikon WW'], ['DOC mgC/L (μMC)']], ['12.7', ['Opfikon WW'], ['a254nm m−1']], ['28 (2000)', ['Opfikon WW'], ['NO3− mgN/L (μM)']], ['330 (24)', ['Opfikon WW'], ['NH3/NH4+ μgN/L (μM)']], ['62 (4.4)', ['Opfikon WW'], ['NO2− μgN/L (μM)']], ['3.6', ['Opfikon WW'], ['Alkalinity mM']], ['7.9', ['Opfikon WW'], ['pH −']], ['8.5 (708)', ['Berlin WW'], ['DOC mgC/L (μMC)']], ['23.9', ['Berlin WW'], ['a254nm m−1']], ['5.7 (407)', ['Berlin WW'], ['NO3− mgN/L (μM)']], ['52 (4)', ['Berlin WW'], ['NH3/NH4+ μgN/L (μM)']], ['65 (4.6)', ['Berlin WW'], ['NO2− μgN/L (μM)']], ['3.4', ['Berlin WW'], ['Alkalinity mM']], ['8.0', ['Berlin WW'], ['pH −']], ['1.4 (117)', ['Zurich LW'], ['DOC mgC/L (μMC)']], ['3.1', ['Zurich LW'], ['a254nm m−1']], ['0.77 (55)', ['Zurich LW'], ['NO3− mgN/L (μM)']], ['5 (0.36)', ['Zurich LW'], ['NH3/NH4+ μgN/L (μM)']], ['1.1 (0.08)', ['Zurich LW'], ['NO2− μgN/L (μM)']], ['2.4', ['Zurich LW'], ['Alkalinity mM']], ['7.8', ['Zurich LW'], ['pH −']], ['4 (333)', ['Berlin DW'], ['DOC mgC/L (μMC)']], ['8.9', ['Berlin DW'], ['a254nm m−1']], ['0.4 (29)', ['Berlin DW'], ['NO3− mgN/L (μM)']], ['n.d.', ['Berlin DW'], ['NH3/NH4+ μgN/L (μM)']], ['n.d.', ['Berlin DW'], ['NO2− μgN/L (μM)']], ['3.9', ['Berlin DW'], ['Alkalinity mM']], ['7.9', ['Berlin DW'], ['pH −']]]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['', 'kO3″ (M−1\ns−1)', 'kOH ″ (M−1\ns−1)', '', 'kO3″ (M−1\ns−1)'], ['17α-ethinylestradiol', '3.16×107', '9.8×109', 'E. coli', '1.04×105'], ['Sulfamethoxazol', '2.5×106', '5.5×109', 'Rotavirus', '6×104'], ['Diclofenac', '106', '7.5×109', 'Giardia lamblia cystsa', '2.3×104'], ['Carbamazepine', '3×105', '8.8×109', 'Giardia muris cystsa', '1.2×104'], ['Bezafibrate', '5.9×102', '7.4×109', 'C. parvum oocysts', '6.7×102'], ['Ibuprofen', '9.6', '7.4×109', '', ''], ['Iopromid', '8×10−1', '3.3×109', '', ''], ['Diazepam', '7.5×10−1', '7.2×109', '', '']]</infon>
+      <offset>2554</offset>
+      <text>Second-order rate constants of pharmaceuticals oxidation and pathogens inactivation at pH 8 and T=20 °C ( ;  )</text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <infon key="section_type">TABLE</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;kO3″ (M−1\ns−1)&lt;/td&gt;
+      &lt;td&gt;kOH ″ (M−1\ns−1)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;kO3″ (M−1\ns−1)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;17α-ethinylestradiol&lt;/td&gt;
+      &lt;td&gt;3.16×107&lt;/td&gt;
+      &lt;td&gt;9.8×109&lt;/td&gt;
+      &lt;td&gt;E. coli&lt;/td&gt;
+      &lt;td&gt;1.04×105&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sulfamethoxazol&lt;/td&gt;
+      &lt;td&gt;2.5×106&lt;/td&gt;
+      &lt;td&gt;5.5×109&lt;/td&gt;
+      &lt;td&gt;Rotavirus&lt;/td&gt;
+      &lt;td&gt;6×104&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Diclofenac&lt;/td&gt;
+      &lt;td&gt;106&lt;/td&gt;
+      &lt;td&gt;7.5×109&lt;/td&gt;
+      &lt;td&gt;Giardia lamblia cystsa&lt;/td&gt;
+      &lt;td&gt;2.3×104&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Carbamazepine&lt;/td&gt;
+      &lt;td&gt;3×105&lt;/td&gt;
+      &lt;td&gt;8.8×109&lt;/td&gt;
+      &lt;td&gt;Giardia muris cystsa&lt;/td&gt;
+      &lt;td&gt;1.2×104&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bezafibrate&lt;/td&gt;
+      &lt;td&gt;5.9×102&lt;/td&gt;
+      &lt;td&gt;7.4×109&lt;/td&gt;
+      &lt;td&gt;C. parvum oocysts&lt;/td&gt;
+      &lt;td&gt;6.7×102&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ibuprofen&lt;/td&gt;
+      &lt;td&gt;9.6&lt;/td&gt;
+      &lt;td&gt;7.4×109&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Iopromid&lt;/td&gt;
+      &lt;td&gt;8×10−1&lt;/td&gt;
+      &lt;td&gt;3.3×109&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Diazepam&lt;/td&gt;
+      &lt;td&gt;7.5×10−1&lt;/td&gt;
+      &lt;td&gt;7.2×109&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>2665</offset>
+      <text>[['3.16×107', ['17α-ethinylestradiol'], ['', 'kO3″ (M−1\ns−1)']], ['9.8×109', ['17α-ethinylestradiol'], ['', 'kOH ″ (M−1\ns−1)']], ['E. coli', ['17α-ethinylestradiol'], ['', '']], ['1.04×105', ['17α-ethinylestradiol'], ['kOH ″ (M−1\ns−1)', 'kO3″ (M−1\ns−1)']], ['2.5×106', ['Sulfamethoxazol'], ['', 'kO3″ (M−1\ns−1)']], ['5.5×109', ['Sulfamethoxazol'], ['', 'kOH ″ (M−1\ns−1)']], ['Rotavirus', ['Sulfamethoxazol'], ['', '']], ['6×104', ['Sulfamethoxazol'], ['kOH ″ (M−1\ns−1)', 'kO3″ (M−1\ns−1)']], ['106', ['Diclofenac'], ['', 'kO3″ (M−1\ns−1)']], ['7.5×109', ['Diclofenac'], ['', 'kOH ″ (M−1\ns−1)']], ['Giardia lamblia cystsa', ['Diclofenac'], ['', '']], ['2.3×104', ['Diclofenac'], ['kOH ″ (M−1\ns−1)', 'kO3″ (M−1\ns−1)']], ['3×105', ['Carbamazepine'], ['', 'kO3″ (M−1\ns−1)']], ['8.8×109', ['Carbamazepine'], ['', 'kOH ″ (M−1\ns−1)']], ['Giardia muris cystsa', ['Carbamazepine'], ['', '']], ['1.2×104', ['Carbamazepine'], ['kOH ″ (M−1\ns−1)', 'kO3″ (M−1\ns−1)']], ['5.9×102', ['Bezafibrate'], ['', 'kO3″ (M−1\ns−1)']], ['7.4×109', ['Bezafibrate'], ['', 'kOH ″ (M−1\ns−1)']], ['C. parvum oocysts', ['Bezafibrate'], ['', '']], ['6.7×102', ['Bezafibrate'], ['kOH ″ (M−1\ns−1)', 'kO3″ (M−1\ns−1)']], ['9.6', ['Ibuprofen'], ['', 'kO3″ (M−1\ns−1)']], ['7.4×109', ['Ibuprofen'], ['', 'kOH ″ (M−1\ns−1)']], ['NoValue', ['Ibuprofen'], ['', '']], ['NoValue', ['Ibuprofen'], ['kOH ″ (M−1\ns−1)', 'kO3″ (M−1\ns−1)']], ['8×10−1', ['Iopromid'], ['', 'kO3″ (M−1\ns−1)']], ['3.3×109', ['Iopromid'], ['', 'kOH ″ (M−1\ns−1)']], ['NoValue', ['Iopromid'], ['', '']], ['NoValue', ['Iopromid'], ['kOH ″ (M−1\ns−1)', 'kO3″ (M−1\ns−1)']], ['7.5×10−1', ['Diazepam'], ['', 'kO3″ (M−1\ns−1)']], ['7.2×109', ['Diazepam'], ['', 'kOH ″ (M−1\ns−1)']], ['NoValue', ['Diazepam'], ['', '']], ['NoValue', ['Diazepam'], ['kOH ″ (M−1\ns−1)', 'kO3″ (M−1\ns−1)']]]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4496</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S004313540600131X-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>4504</offset>
+      <text>Ozone decomposition when observed with a batch system (a) in natural water (b) in wastewater. In wastewater, ozone “disappears” entirely prior to the first measurement.</text>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="4504" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="4613" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S004313540600131X-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>4673</offset>
+      <text>Logic of CQFS. Two step-motor controlled double-syringe pumps, one delivering the oxidant (P2) and the other the solution to be oxidized (P1), are set at constant flow rates. The solutions are mixed in M1+2, flow through one of 8 loops with various volumes (L1−8) and the oxidant residual is quenched with a reagent delivered by a third syringe pump (P3). The resulting solution flows into a flow-through photometric cell and/or is collected for subsequent analysis.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S004313540600131X-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>5140</offset>
+      <text>Ideal signal from a CQFS experiment. Each absorbance step represents one time step (one loop). The absorbance difference with the blank, ΔA, divided by the extinction coefficient of indigo (20,000 M−1
+cm−1) give the residual ozone concentration.</text>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5365" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5371" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S004313540600131X-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>5386</offset>
+      <text>Reaction of ozone with phenol (a) Open squares show the measured decrease of 50 μM ozone induced by reaction with 500 μM phenol at pH 2.25, in presence of 200 mM 1-propanol as HO  scavenger. The solid line shows the decrease predicted with published rate constants ( ). (b) Coefficient of variation of absorbance as a function of reaction time.</text>
+      <annotation id="11">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5517" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5398" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5469" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S004313540600131X-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>5731</offset>
+      <text>Reproducibility of ozonation experiments in Opfikon wastewater at pH 8 and ozone doses of 55 μM (2.6 mg L−1) and 31 μM (1.5 mg L−1) (a) Ozone decomposition as measured with CQFS for triplicate experiments. Dashed lines represent 90% confidence interval for the 55 μM series. (b) HO -induced oxidation of pCBA as a function of ozone exposure. Dashed lines represent 90% confidence interval.</text>
+      <annotation id="14">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5797" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5806" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="5867" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6057" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S004313540600131X-gr6.jpg" alt="IMAGE"&gt;</infon>
+      <offset>6121</offset>
+      <text>Comparison between CQFS (circles) and batch experiments (squares) in Lake Zurich water at pH 8 and an ozone dose of 50 μM (2.4 mg L−1): (a) Ozone concentration as a function of time, (b) Rct (∫[HO ]dt/∫[O3]dt) as a function of time on a log–log plot. Top inset: HO  exposure as a function of time. Bottom inset: O3 exposure as a function of time.</text>
+      <annotation id="18">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6211" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6223" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6261" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6267" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S004313540600131X-gr7.jpg" alt="IMAGE"&gt;</infon>
+      <offset>6468</offset>
+      <text>Comparison between CQFS (circles) and batch experiments (squares) in Opfikon wastewater effluent at pH 8 and ozone dose of 4 mg L−1 (83 μM): (a) Ozone concentration decrease. Inset: Corresponding Rct as a function of time, (b) ozone exposure as a function of time. Assuming a linear decrease in ozone concentration prior to the first batch measurement leads to overestimated exposures (open squares).</text>
+      <annotation id="22">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6568" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6577" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6613" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6619" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6695" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6763" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6769" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S004313540600131X-gr8.jpg" alt="IMAGE"&gt;</infon>
+      <offset>6869</offset>
+      <text>Measured versus modeled carbamazepine (Ca) oxidation during the first 20 s of ozonation in various waters at pH 8. Black symbols: prediction based on ∫O3
+dt and ∫HO dt; open symbols: prediction based only on ∫O3
+dt. Circles: Berlin WW (2.3 mgO3L−1, 2 μM Ca); star: Opfikon WW (2.4 mgO3L−1, 1 μM Ca); squares and triangles: Berlin WW (1.2 mgO3L−1, 1 μM Ca); cross: Berlin DW (2.4 mgO3L−1, 1 μM Ca); diamond: Zurich LW (2.4 mgO3L−1, 0.5 μM Ca).</text>
+      <annotation id="29">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="6978" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S004313540600131X-gr9.jpg" alt="IMAGE"&gt;</infon>
+      <offset>7312</offset>
+      <text>Pharmaceuticals oxidation in Opfikon wastewater at pH 8, modeled with ∫HO dt and ∫O3
+dt measured over 20 s. Light grey bars: compound's fractions oxidized by HO , dark grey bars: compound's fractions oxidized by O3. (a) O3 dose=1.5 mg L−1. (b) O3 dose=4 mg L−1.</text>
+      <annotation id="30">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7363" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S004313540600131X-gr10.jpg" alt="IMAGE"&gt;</infon>
+      <offset>7574</offset>
+      <text>Modeled inactivations of microorganisms based on ∫O3
+dt measured in Opfikon wastewater at pH 8 and 20 s for ozone doses of 1.5, 2.5 and 4 mg L−1.</text>
+      <annotation id="31">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7664" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7682" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7720</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7729</offset>
+      <text>['Ozone', 'Hydroxyl radicals', 'AOP', 'Ozone demand', 'Quench-flow system', 'Kinetics', 'Disinfection', 'Pharmaceuticals', 'Wastewater', 'Drinking water', '1']</text>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7731" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="7768" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7889</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7902</offset>
+      <text>Recent studies have shown that many pharmaceutical compounds can be detected in the effluent of wastewater treatment plants ( ; ). Concurrently, an increasing body of evidence indicates that antibiotics, hormones and antiepileptics are responsible for microbial resistance building, feminisation of higher organisms and ecotoxicological issues in the aquatic environment, respectively ( ; ; ; ; ; ). Renewed interest in ozonation was spurred after it was recently discovered that the oxidation reactions of ozone with many pharmaceuticals exhibit very large second-order rate constants ( ). Moreover, it appears that the moieties of pharmaceutical molecules that are the most easily attacked by ozone often are keys to the molecules’ biochemical activities ( ). For example, although ozonation of 17α-ethinylestradiol does not lead to full mineralization of the compound at practical doses, it does effectively remove the compound's estrogenicity by specifically targeting receptor active moieties, thereby generating innocuous oxidation products ( ). Subsequent pilot-scale experiments performed at a wastewater treatment plant confirmed that fast reacting pharmaceuticals were indeed degraded almost entirely at very cost-effective doses (i.e. ⩾2 mgO3L−1) ( ). A significant obstacle in the use of kinetic models for oxidation performance predictions in wastewater is the difficulty associated with the measurement of oxidant exposures. High concentrations of organic matter, certain moieties of which react very rapidly with ozone, prevent the use of standard analytical techniques. This has been the main hindrance to investigations of ozone decomposition kinetics in wastewater. The standard experimental protocol for the characterization of drinking water ozonation recommends the use of a batch reactor system ( ; ). Aqueous ozone is added to the water, stirred and water is sampled at regular intervals starting roughly 20 s after ozone addition. The amount of ozone consumed before the first measurement (at ∼20 s) is defined as instantaneous ozone demand (IOD) and is represented by a straight vertical line in concentration versus time plots (see ). Integration of the ozone concentration over time gives the ozone exposure (∫O3 dt in Eq , shaded area in ) from which the oxidation of chemical substances (P in Eq. ) or the inactivation of micro-organisms (N in Eq. ) can be calculated, with known second-order rate constants. HO exposure (∫HO dt) is typically back-calculated from the degradation of the HO -probe, pCBA ( ). (1) CtO3,HO•=∫0tRCO3,HO•dt(Ms), (2) [P]/[P]0=e-kO3′′·CtO3-kHO•′′·CtHO•(-), (3) [N]/[N]0=e-kO3′′·CtO3(-), where CtO3,HO• is the oxidant exposure (e.g. shaded area in ) (M s); CO3,HO•=f(t) the oxidant concentration (e.g dotted line in ) (M); tR the reaction time (e.g. 1200 s in ) (s); kO3,HO•′′ the second-order rate constant (M−1 s−1). When applying cost-effective ozone doses to wastewater, however, ozone is entirely consumed prior to 20 s (IOD&gt;ozone dose) and ∫O3dt cannot be calculated ( ). Up to now IOD has therefore been considered “wasted” ozone, an inherent inefficiency of ozonation systems. One could assume a linear decrease between [O3]0 and [O3]20 s=0, but this calculation severely overestimates the actual ozone exposure. Conversely, assuming ∫O3 dt=0 is overly conservative as it predicts no oxidation or disinfection. Consequently engineers have used empirical techniques to describe wastewater ozonation ( ; ). Often, experiments are run on pilot-scale reactors and results relative to the degradation of certain compounds or inactivation of particular micro-organisms are difficult, if not impossible to extrapolate to other conditions, compounds or micro-organisms. tried to circumvent this difficulty by using the extent of a compound's degradation to back-calculate ozone exposure. The extracted exposure was then used to model the oxidation of other compounds. However, significant differences between predictions and experimental results were observed. In this paper we introduce a continuous quench-flow system (CQFS), a bench-scale experimental technique developed to measure the first 20 s of ozone decomposition in natural water and in wastewater. Results showing ozone decomposition and HO generated during the first 20 s of surface water and wastewater ozonation are presented for the first time. The degree of oxidation of carbamazepine (an antiepileptic) in wastewater is compared to predictions based on measured ∫O3 dt and ∫HO dt. Finally, the measured oxidant exposures are used to predict the degree of oxidation and inactivation of various pharmaceuticals and micro-organisms, respectively. 2</text>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8409" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8597" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9346" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9430" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9542" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9734" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9841" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9871" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="9954" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10023" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10082" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10088" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10122" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10638" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10804" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10840" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10886" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10987" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11161" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="11728" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12060" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12132" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="8467" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10318" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="10744" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12570</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12592</offset>
+      <text>2.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12596</offset>
+      <text>Reagents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12605</offset>
+      <text>All reagents were of analytical grade. All solutions were prepared with Milli-Q water with a resistivity ⩾18 MΩ cm. Aqueous ozone was prepared as described elsewhere ( ); stock solution concentration was typically 1.6 mM. 2.2</text>
+      <annotation id="60">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12729" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12791" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12831</offset>
+      <text>Water characteristics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12853</offset>
+      <text>Water was buffered with borate for all experiments at pH 8 and phosphate for lower pH and adjusted with NaOH or H2SO4. pH was controlled at the beginning and end of each experiment and was within ±0.05 pH unit. All experiments were performed at 22±1 °C. Water (see ) was filtered at 0.45 μm (cellulose nitrate filters) and kept at 5 °C for the entire duration of the investigation. The Opfikon wastewater treatment plant (Zurich, Switzerland) is described elsewhere ( ); water was obtained post sand filtration. Berlin wastewater was obtained from the effluent of a secondary treatment train at the Ruhleben WWTP, Germany ( ). Berlin drinking water was obtained at a household tap and Lake Zurich water was collected from the raw water intake of the Zurich drinking water treatment plant, 30 m below the lake's surface ( ). 2.3</text>
+      <annotation id="62">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12907" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12936" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="12972" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13055" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13681</offset>
+      <text>Analyses</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13690</offset>
+      <text>Phenol was measured using HPLC with fluorescence detection ( ). Carbamazepine was measured with HPLC with UV detection ( ). HO exposure was back-calculated using the oxidation of para-chlorobenzoic acid (pCBA), analyzed with HPLC ( ). Ozone was measured online with a Varian Cary 100, either directly at 258 nm (ε=3000 M−1 cm−1) or with the indigo reagent at 600 nm (ε=20,000 M−1 cm−1) ( ). 2.4</text>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="13925" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>14085</offset>
+      <text>Continuous Quench-Flow System</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14115</offset>
+      <text>The first 20 s of ozone decomposition in natural and wastewater may be time-resolved with stopped-flow systems. However, ozone and DOM's aromatic moieties have similar absorption peaks, extinction coefficients and concentrations and can therefore not be differentiated based on direct UV measurement. Commercial quench-flow systems are available but operate in a discontinuous mode (i.e. one-push syringes), which do not easily allow sampling of larger volumes for post-experimental analysis. used a “flow injection analytical” system, allowing better resolution than batch experiments. Unfortunately it is not clear what is the dead time of the apparatus, and if mixing is complete prior to the first data point. The logic of CQFS developed for this study is shown in . The solution to be ozonated is delivered with the first pump, P1, to the first mixer, M1+2, and rapidly mixed with ozone delivered by the second pump, P2, (dead time in M1+2: 20 ms). The reacting mixture then passes through one of 8 loops, L1−8, with volumes of 0.016, 0.101, 0.203, 0.245, 0.490, 0.980, 1.936, 3.872 mL. The residual oxidant in the mixture is quenched with a reagent (e.g. indigo) delivered by a third pump, P3, in a second mixer, M12+3. Given a total flow of 660 mL h−1 and a total dead volume of 0.048 mL, the mixture exits the second mixer, M12+3, at times 0.35, 0.81, 1.37, 1.60, 2.94, 5.61, 10.82 and 21.38 s. By successively selecting different loop sizes, instead of modifying flow rates, reaction times can be varied without affecting the flow regime (i.e. the Reynolds number). The mixture, then, flows into the flow-through cell and absorbance can be measured. The mixture effluent can also be collected for post-processing analysis (e.g. SEC, IC, GC, HPLC). shows an ideal signal from an experiment with CQFS. Each absorbance step represents one time step (one loop). The difference with the blank (indigo and water), ΔA, gives the ozone concentration. Absorbance is measured continuously during each time step. This allows the calculation of a standard deviation that is representative of the compounded mixing efficacies of M1+2 and M12+3 ( ). As mentioned above, CQFS consists of four key subsystems: pumps, mixers, flow loops, and flow-through cells with online photometer. Step-motor controlled double-syringe pumps were used to prevent back-pressure variability from affecting the flow rate accuracy. Two Kronlab LDP-5 (P1, P2) and a Kronlab LDP-23 (P3) were used with precisions of 0.1% (of flow rate) and able to handle back-pressure up to 5×106 N m−2. The efficacy of the mixers is crucial because given the flow rates and diameter of the tubing the best achievable Reynolds number is 460, which is significantly smaller than what is required to obtain fully turbulent flows (Re ∼10,000). Mixers must also be as small as possible to minimize the dead volume (limits the rapidity at which the first data point can be acquired) and must be effective even with asymmetrical flow conditions (i.e. flow rate from water inlet is 10 times larger than from oxidant inlet). PEEK mixing tees (VICI Jour Research, Inc.) of 4 μL were used and yielded very good results in this particular setup. The 8 flow-loops were made of Teflon tubing and connected with two Teflon coated 8-way Hamilton HVX plug valves. The flow-through cells were 1 cm Hellma (750 μL), 1/2 cm Hellma (375 μL) or 1 cm micro volume Hellma (80 μL). In this configuration and with the maximum flow rates, CQFS allows a first measurement after 115 ms and the determination of first-order rate constants k′&lt;5 s−1 (≡ k′′&lt;105 M−1 s−1 with [substrate]=50 μM). 3</text>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14133" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14236" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="14329" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="15001" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="16046" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="16052" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="17660" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>17736</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17759</offset>
+      <text>3.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>17763</offset>
+      <text>Accuracy of CQFS</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17780</offset>
+      <text>To ensure the system's measurement accuracy down to 350 ms (i.e. no appearance of measurement artefacts caused by incomplete mixing), the kinetics of oxidation of phenol was measured and compared with published values. The second-order rate constants for the reaction of ozone with phenol and phenolate are 1.3×103 and 1.4×109 M−1 s−1, respectively ( ). The apparent rate constant at specific pH values can be calculated based on the above values of kO3′′ and pKaphenol=9.9 ( ). Experiments were conducted at pH 2.25 with 500 μM phenol in excess of 50 μM ozone to ensure pseudo-first-order conditions. 200 mM 1-propanol was added to the solution to scavenge any HO generated. shows the decrease of ozone as a function of time. The decolorisation of indigo was measured at each time step, and the extracted decrease of ozone concentration was perfectly exponential down to 350 milliseconds, yielding kO3-app′′=1240×M-1s-1. This represents a difference of −6.8% with the published rate constants (kO3-app′′=1331M-1s-1 at pH 2.25), well within the cited error margin of 15% ( ). also displays very good alignment of the data points down to 350 ms and an intercept at 0, indicating that CQFS is not mixing limited (i.e. no shoulder effect). The standard deviation of absorbance was calculated for each time step. shows the coefficient of variation of absorbance (stdev(A)/Aaverage, n&gt;50) as a function of reaction time. Clearly as reaction time decreases, deviation from the average absorption value increases, indicating that mixing becomes less complete, but even at 350 ms the coefficient of variation does not exceed 1.4%. The above experiment was reversed with 53 μM ozone in excess of 1 μM phenol and pH was adjusted to 4.15. 10 mM t-butanol was added as HO scavenger. The reaction between ozone and phenol was stopped by quenching ozone with thiosulfate, and phenol was measured using HPLC with fluorescence detection. The decrease in phenol concentration was perfectly exponential over the measured time range (350 ms to 20 s, data not shown), yielding kO3-app′′=2100M-1s-1, a factor of 0.55 off the 3790 M−1 s−1 that is expected if ozone concentration decrease is measured ( ). This ratio corresponds to the stoichiometric factor of the reaction between ozone and phenol (in moles of phenol per mole of ozone) and is close to the published value of 0.48 at pH 7 ( ). 3.2</text>
+      <annotation id="74">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18173" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18289" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18799" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19483" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20142" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18051" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18335" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18478" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18598" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18604" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19448" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19572" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19614" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19725" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19917" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="19923" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20039" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20088" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18010" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="18364" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>20156</offset>
+      <text>Reproducibility of measurements with CQFS</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20198</offset>
+      <text> shows results of triplicate experiments, where ozone and pCBA concentrations were measured during the initial 20 s of the ozone reaction with Opfikon wastewater. In , 90% confidence intervals (dashed lines) are on average 11% off the average concentrations for the 55 μM ozone dose data series (crosses) and 20% (not shown) for the 31 μM data series (open symbols). The increase in the confidence interval at smaller ozone doses is due to uncertainties linked with the measurement of small ozone concentrations. Similar to ozone concentration measurements, measurement of HO -probe pCBA shows a good reproducibility: 90% confidence intervals (dashed lines) are on average 5% off the average pCBA values for the four data series shown here. includes results from experiments performed with the same wastewater at various times of the investigation (over ∼50 days). Effects of aging are therefore compounded in the above confidence intervals. 3.3</text>
+      <annotation id="94">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20246" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20261" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20321" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20441" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20470" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20616" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20689" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20695" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20722" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="20728" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21144</offset>
+      <text>Agreement between CQFS and batch experiments</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21189</offset>
+      <text>To verify the complementarities of the methods, some experiments were performed with both, a batch and a continuous quench-flow system. shows the decrease of ozone concentration in Lake Zurich water and display good agreement between CQFS (circles) and batch (squares). A perfect alignment is difficult due to the way time is measured in batch systems. The time needed to inject aqueous ozone and obtain a homogeneous solution in a 500 ml bottle adds uncertainty to the timing of data points below 60 s. As demonstrated by the inset in , CQFS can easily time resolve the “instantaneous” ozone demand (IOD) in Lake Zurich water. This shows that there is no “disappearance” of ozone during the IOD but merely a decomposition that is too rapid to be measured with a batch system. When displayed on a semi-log plot (i.e. ln([O3]/[O3]0 vs. time), the data points in do not line up in a straight line (data not shown). This indicates that ozone decomposition in the first 20 s is mechanistically different from that in the minute range where it follows apparent first-order kinetics ( ). shows the change of Rct over time (Rct=∫[HO ]dt/∫[O3]dt: ratio of HO to O3 exposure). During the first 200 s Rct decreases by two orders of magnitude from 2×10−6—which is high even compared to O3/H2O2 advanced oxidation processes ( )—to 3×10−8—which is typical for ozonation of Lake Zurich water in the minute range ( ). During the first 100 s, Rct can be well fitted with a power function; this was observed throughout our study in all waters and under all conditions investigated ( ). When it reaches the minute range, however, Rct becomes constant. This property of Rct (i.e. dRct/dt=0) is well documented and is the rationale for its use as a key parameter to model ozonation processes in drinking water treatment ( ; ). In , however, it is interesting to note that Rct is only constant over one order of magnitude of time. In Lake Zurich water, this represents a singularity in the entire kinetics history of ozone decomposition, which covers four orders of magnitude of time (from ∼0.2 to ∼2000 s). Insets in also show that while only roughly 8% of the total ozone exposure occurs during the first 20 s, 25% of the total HO exposure occurs in the same period of time. shows a comparison between CQFS and batch measurements in wastewater effluent (Opfikon at pH 8). Given the high DOC concentration, ozone reacted rapidly and could no longer be detected after 2 min. In contrast to experiments with natural water ( ), CQFS can only resolve part of the ozone decomposition in wastewater: 50% reacts prior to 350 ms. Similar to Lake Zurich water experiments, the first values of Rct obtained in Opfikon wastewater are of the order of 10−6 (inset). However, in Lake Zurich water the first Rct value is obtained when only 4% of the added ozone has reacted, in wastewater the first Rct value is obtained when 50% of the ozone has already reacted. Rct is therefore likely to be significantly larger earlier in the process. Also, while Rct=∼10−8 100 s after ozone addition to lake Zurich water, it is one order of magnitude larger (∼10−7) 100 s after addition to wastewater (due to larger DOC concentration). shows the increase of ozone exposure over time in Opfikon wastewater. The solid black squares show the curve obtained when ozone exposure obtained from a CQFS experiment is added to the first data point of the batch experiment. The open squares exemplify the error that is made if the decrease in ozone concentration is assumed to be linear (grey line in , approximation in the absence of CQFS data). This latter approximation overestimates initial ozone exposure by roughly a factor of 2. 3.4</text>
+      <annotation id="104">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23535" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21347" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21353" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21576" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21776" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="21864" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22122" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23185" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="112">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23336" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23561" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23576" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23728" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24010" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24091" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24227" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24362" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24400" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24501" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="122">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24675" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24681" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24827" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22251" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="22401" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23071" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="128">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23224" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="129">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="23899" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="130">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="24274" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24872</offset>
+      <text>Oxidation and disinfection during wastewater ozonation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24927</offset>
+      <text>Based on Eq. and the measured values of ∫O3 dt and ∫HO dt, it should be possible to model the degree of oxidation of any compound in wastewater (assuming kO3′′ and kHO ′′ are known). To test this hypothesis, Opfikon and Berlin wastewater effluent, Lake Zurich water and Berlin drinking water were spiked with carbamazepine prior to ozone addition. shows a comparison of measured (y-axis) and modeled (x-axis) carbamazepine degradation. Symbols located on the dashed line show perfect agreement between measurements and predictions. Solid or black symbols represent predictions that take both ∫HO dt and ∫O3 dt into account, while open or grey symbols represent predictions where ∫HO dt are neglected. clearly demonstrates that (i) Eq. and second-order rate constants determined in pure solutions are perfectly adequate to predict the degree of oxidation during wastewater and natural water ozonation and (ii) HO -induced oxidations play a crucial role in the process and shall not be omitted if accurate predictions are sought. The latter comment is consistent with earlier findings in natural waters ( ). Given the demonstrated accuracy of the model ( ), it is interesting to investigate the degree of oxidation that can be predicted for pharmaceutical compounds with various reactivities towards ozone. lists the chosen compounds and their respective second-order rate constants. In the prediction is based on ∫HO dt and ∫O3 dt measured for an ozone dose of 1.5 mg L−1 in Opfikon wastewater (=0.3 mg O3/mg DOC) at pH 8 and 20 s (at t=20 s: [O3]=0). Compounds with kO3′′&gt;104M-1s-1 are completely (&gt;99%) oxidized by ozone. Conversely, compounds with kO3′′&lt;104M-1s-1 are only partially oxidized and almost exclusively by HO . For example, although diazepam (tranquilizer) and iopromid (contrast media) have roughly the same kO3′′, diazepam's kOH ′′ is twice as large as iopromid's inducing almost twice as much degradation of diazepam. In , O3 dose is increased to 4 mg L−1, which results in a similar trend as in . However, while the degree of HO -induced oxidation is increased significantly at higher ozone doses, that of O3-induced oxidation is not. For both doses, it must be noted that for compounds with kO3′′&lt;104M-1s-1, the process is undistinguishable from an advanced oxidation process (AOP). is also important from the standpoint of product formation. Compounds with kO3′′&gt;104M-1s-1 will generate mostly O3-induced metabolites. These have been often shown to be bio-chemically inactive ( ). In contrast, compounds with kO3′′&lt;104M-1s-1 will generate mostly HO -induced metabolites about which little is known (Dodd et al., 2006). In , the degrees of inactivation of Cryptosporidium parvum oocysts, Giardia lamblia cysts, Giardia muris cysts, Rotavirus and E. coli were modeled using Eq. , previously measured ∫O3 dt and the rate constants shown in . Clearly, ozone exposure in wastewater is small and O3-resistant microorganisms such as C. parvum are not inactivated. However, at a moderate ozone dose of 2.5 mg L−1 (=0.55 mgO3/mgDOC), 90% inactivation of Giardia Muris, 5 logs inactivation of Rotavirus and more than 6 logs inactivation of E. coli are predicted. This calculation demonstrates that a significant disinfection potential is available even though ozone has entirely reacted prior to 20 s. It must be noted, however, that the above model does not take particle shielding or reactor dynamics into consideration which would impact the process efficiency ( ). The importance and challenges in quantifying ∫O3 dt and ∫HO dt during wastewater ozonation have been demonstrated. Although CQFS is a promising research tool, in its present form it is limited to bench scale investigations. As an alternative, the development of oxidant probe compounds to back-calculate ∫O3 dt and ∫HO dt might be a promising idea—akin to the biodosimetry concept in UV disinfection. However, as for UV systems, imperfect reactor dynamics could significantly impair the concept ( ; ) and may explain discrepancies observed earlier. During pilot experiments, used the partial oxidation of some compounds to back-calculate ∫HO dt and ∫O3 dt and predict the degradation of other compounds. Predictions did not always agree with measurements. Three hypotheses were formulated to explain the discrepancies: (i) gas–liquid mass transfer limitation, (ii) adsorption of compounds onto wastewater particles and (iii) inapplicability to wastewater systems of second-order rate constants obtained in pure water experiments in the laboratory. The first two hypotheses were previously rejected on the base of calculations ( ) and the third one can be rejected on the base of the present study. As mentioned above, the origin of the discrepancies may lie in the assumptions that must be made when back-calculating oxidant exposures (reactor dynamics). Further research with regard to probe compounds is therefore warranted prior to encouraging their broader use in the industry. 4</text>
+      <annotation id="131">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="26443" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="25259" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="133">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="26225" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="26373" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="135">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="26543" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="136">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="27030" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="27795" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="138">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="27927" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="139">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="28197" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="140">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="25673" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="26287" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="142">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="29379" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>29890</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29902</offset>
+      <text>• Experiments in Lake Zurich water demonstrated that what appears as “instantaneous” ozone demand (IOD) with batch systems can be entirely time-resolved with CQFS. Hence, IOD is an operational parameter that is not related to the chemical mechanisms taking place. In contrast, the terms initial phase and second phase are encouraged as they have mechanistic definitions: the second phase of ozone decomposition (minutes range) follows an empirical first-order rate law, while the initial phase of ozone decomposition (seconds range) follows higher-order kinetics, indicating that other reaction mechanisms take place. During the initial phase of Lake Zurich water ozonation and during Opfikon wastewater ozonation, Rct is 2–3 orders of magnitude larger than during the second phase of natural water ozonation. Most O3/H2O2 advanced oxidation processes (AOPs) do not reach such large Rct values. This, de facto, places wastewater ozonation in the same category as ozone-based AOPs. • In natural water, although Rct is not constant for most of the kinetics history of ozone decomposition, it does become constant in the minute time range. Hence, the Rct concept has been successfully applied to natural water ozonation and offers great simplification for modeling purposes. In wastewater ozonation, however, it is not recommended to use the Rct concept to model compounds degradation as Rct is never constant during the process. Notwithstanding this limitation, Rct remains an essential parameter for all ozonation-based treatments because it situates the processes on a scale from mostly O3-driven to mostly HO -driven oxidation mechanisms. • There is significant ozone exposure “hidden” in the first 20 s of ozonation. Not accounting for this hidden exposure leads to overly conservative assumptions with regard to the disinfection potential of ozone in wastewater. • Ozonation of wastewaters degrade pharmaceuticals with a high efficacy. Earlier results can be well confirmed and explained by the present study: compounds with high ozone reactivity are readily oxidized by ozone, while those with lower ozone reactivities are mostly oxidized by HO . This might have an important impact on product formation and on the bio-chemical inactivation of pharmaceutical compounds.</text>
+      <annotation id="143">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="29987" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="144">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="30293" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="30399" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="146">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="30865" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="30968" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="148">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="31565" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="31747" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="31935" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="151">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="31976" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="152">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="32006" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="30356" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="154">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="30450" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="155">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-02-14; 18:42</infon>
+        <location offset="30628" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

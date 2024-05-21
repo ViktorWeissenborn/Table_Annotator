@@ -1,0 +1,694 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-04-22</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.envpol.2020.116122</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">PHENYLUREAHERBICIDEDEGRADATIONNNITROSODIMETHYLAMINEFORMATIONUNDERVARIOUSOXIDATIONCONDITIONSRELATIONSHIPSTRANSFORMATIONPATHWAYS</infon>
+      <infon key="name_0">surname:WANG</infon>
+      <infon key="license">© 2020 Elsevier Ltd. All rights reserved.</infon>
+      <infon key="source">Environmental Pollution</infon>
+      <infon key="year">2020-11-21</infon>
+      <infon key="volume">269</infon>
+      <infon key="issue">0269-7491</infon>
+      <infon key="fpage">116122</infon>
+      <infon key="pub-id_doi">10.1016/j.envpol.2020.116122</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0269749120368111</infon>
+      <infon key="kwd">['Phenylurea herbicide', 'N-nitrosodimethylamine', 'Oxidants', 'Oxidation products', 'Transformation pathways', 'Water supply treatment']</infon>
+      <offset>0</offset>
+      <text>Phenylurea herbicide degradation and N-nitrosodimethylamine formation under various oxidation conditions: Relationships and transformation pathways</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>148</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>166</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>177</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>186</offset>
+      <text>Four phenylurea herbicides (PUHs) were assessed for degradation and transformation into N-nitrosodimethylamine (NDMA) under three oxidation conditions (chlorine (Cl2), chlorine dioxide (ClO2), and ozone (O3)) from an aqueous solution. Removal ratios correlated with the numbers of halogen elements contained in PUHs (isoproturon (0) &gt; chlorotoluron (1 Cl) &gt; diuron (2 Cl) &gt; fluometuron (3 F)), and the degradation efficiencies of oxidants from fastest to slowest were: O3, ClO2, and Cl2. NDMA can be generated directly from the ozonation of PUHs. Further, compared with chloramination alone, ozonation prominently promoted NDMA formation potential (NDMA-FP) during post-chloramination, and NDMA-FPs increased approximately 23–68 times than those during ozonation only at 2.5 mg/L O3 over 10 min; molar yields of NDMA from highest to lowest were 11.1% (isoproturon), 1.17% (chlorotoluron), 1.0% (diuron), and 0.73% (fluometuron). The PUH degradation kinetics data during ozonation agreed with the pseudo-first-order model. The rate constant kobs were 0.31 × 10−3–19.8 × 10−3 s−1. The kobs and removal ratios of PUHs during ozonation partially scaled with the mass, LogKow, and Henry’s constants of PUHs. Comparisons of measured NDMA-FPs with calculated NDMA-FPs from residual PUH after oxidation showed that the intermediates produced during ozonation facilitated NDMA-FPs; this contribution was also observed for chlorotoluron and isoproturon during ClO2 oxidation. Examination of reaction mechanisms revealed that tertiary amine ozonation, N-dealkylation, hydroxylation, the cleavage of N–C bonds, ammonification, and nitrification occurred during the ozonation of PUHs, and the dimethylamine (DMA) functional groups could be decomposed directly and transformed into NDMA via the formation of the intermediate unsymmetrical dimethylhydrazine. NDMA is also formed from the reaction between DMA and phenylamino-compounds. Clarifying primary degradation products of PUHs and transformation pathways of NDMA during oxidation processes is useful to optimize treatment processes for water supplies.</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="383" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1195" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2280</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2287</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749120368111-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2295</offset>
+      <text>Degradation of diuron, chlorotoluron, fluometuron, isoproturon, and formation of NDMA under different oxidation conditions. Cl2, ClO2, and O3 contact times were 2 h, 2 h, and 10 min, respectively; NDMA incubation time during chloramination was 24 h. The initial concentration of each PUH was 1.0 mg/L.</text>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2557" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749120368111-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2597</offset>
+      <text>Comparison of measured NDMA-FPs/calculated NDMA-FPs from residual PUH under different oxidation conditions. [PUH]0 = 1.0 mg/L; Cl2, ClO2, and O3 contact times were 2 h, 2 h, and 10 min, respectively. NDMA incubation time during chloramination was 24 h.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749120368111-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2850</offset>
+      <text>Effect of initial herbicide concentrations on its removal during ozonation at pH (7.0) and O3 dose of 2.5 mg/L (Insert: modeling of the kinetics by fitting to the pseudo-first-order reaction).</text>
+      <annotation id="4">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2928" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2878" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3026" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749120368111-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3043</offset>
+      <text>Effect of initial PUH concentration on NDMA formation during ozonation at pH = 7.0 and O3 dose of 2.5 mg/L.</text>
+      <annotation id="7">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3117" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3065" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749120368111-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3151</offset>
+      <text>The primary oxidation products of diuron and the proposed transformation pathway of NDMA during O3 oxidation.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749120368111-fx1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3261</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3262</offset>
+      <text>Graphical abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3281</offset>
+      <text>[]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3284</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3293</offset>
+      <text>['Phenylurea herbicide', 'N-nitrosodimethylamine', 'Oxidants', 'Oxidation products', 'Transformation pathways', 'Water supply treatment']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3431</offset>
+      <text>Author contribution</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3451</offset>
+      <text>Wanfeng Wang: Resources, Data curation, Writing—original draft, Methodology. Panqing Yang: Software, Data curation, Data curation. Yanling Guo: Writing—review and editing, Validation, Supervision. Haoran Ji: Investigation, Project administration. Fang Liang: Writing—review and editing, Supervision. All authors read and contributed to the manuscript. 1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3805</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3818</offset>
+      <text>Preoxidation is increasingly used by drinking water utilities to enhance coagulation and filtration ( ). Unfortunately, several disinfection byproducts (DBPs), including N-nitrosodimethylamine (NDMA), are generated during preoxidation processes ( ; ). NDMA, a well-studied nitrosamine, has received prominent attention because it is a human carcinogen and is detected frequently in water supplies ( ; ; ; ; ). However, only a few regulatory agencies have established standards for NDMA in drinking water (∼10 ng/L notification levels) ( ). Yet, there exists a considerable risk for drinking water because NDMA in many regions is above critical levels. The model compound dimethylamine (DMA) is the direct precursor of NDMA, which can transfer to NDMA directly during chloramination and ozonation ( ; , ; ; ). Other organic compounds containing the DMA functional groups also can form NDMA, despite different conversion yields ( ; ; ; ; ; ; ). Compared with secondary amines, several tertiary amines have higher NDMA formation potentials (NDMA-FPs), such as precursors containing aromatic groups and some amine-based pharmaceutical personal care products (PPCPs) ( ; ; ). Phenylurea derivatives, such as phenylurea herbicides (PUHs) containing aromatic and amine groups, are among the most widely applied herbicides and are used to inhibit the photosynthetic processes of broadleaf and grassy weeds in agriculture and treat impervious surfaces in urban environments ( ; ; ; ; ; ; ). In China, PUHs are mainly used in corn-wheat planting areas and include diuron, chlorotoluron, fluometuron, and isoproturon. These PUHs occur widely in associated water bodies ( ; ). In terms of the structure, PUHs can transform into NDMA during oxidation owing to their DMA functional groups. Therefore, these PUHs have great health and safety risks, as do their degradation products, in water supplies. Among the various preoxidation units, chlorine (Cl2), chlorine dioxide (ClO2), and ozone (O3) are widely used as oxidants ( ; ). Although preoxidation can effectively remove pollutants, it also adds a burden for subsequent treatment processes due to the earlier formation of DBPs. clarified that diuron could be degraded and transferred to NDMA during chlor(am)ination. Further, O3, with a prominent oxidation ability through releasing hydroxyl radical (·OH), is more effective in degrading organic contaminants and thus is a primary oxidant applied in advanced treatment processes. Many studies have reported a high removal ratio of diuron (&gt;99%) during ozonation, and a decrease in DBP-FPs observed during subsequent disinfection ( ; ; ). Yet, DBPs are compounds with complicated structures (i.e., containing a benzene or heterocyclic ring). Abundant intermediates containing various functional groups are generated and then transferred to corresponding DBPs during oxidation. This suggests that the intermediates with functional groups are critical to DBP formation during followed disinfection. The primary precursors of NDMA include DMA, tertiary amines, and quaternary amines; nevertheless, other precursors with complicated structures also can transfer to other compounds and decrease NDMA-FP during post-disinfection. Hence, primary oxidation transformation products and transformation pathways should be elucidated. Previous studies have investigated the degradation and transformation of diuron during preoxidation and subsequent disinfection in water treatment ( ; ; ). The transformation pathway of NDMA from diuron during chlorination is as follows. Diuron is oxidized and releases two primary molecular fragments, DMA and dichloroaniline (DCA), by breaking the two C–N bonds in diuron. Each of these two fragmented compounds could be further chlorinated or not. NDMA may be generated from the reaction between DMA and DCA, even between chlorinated DMA and chlorinated anilines ( ). The nitrogen atoms of diuron contribute to the N-nitroso group in NDMA. This explains NDMA formation during chlorination of diuron when ammonia or chloramine is not present, but it still obtains a low yield efficiency of NDMA at an ambient concentration ( ). The ·OH radical is a key player during the ozonation of diuron, and the degradation pathways include the oxidation of the alkyl side chain or aromatic ring and the substitution of Cl by OH groups ( ; ). reported that the degradation pathways included two mechanisms: oxygen transferred to nitrogen at the tertiary amine site and N-dealkylation from the tertiary amine site. Yet oxidation products could not be completely eliminated during ozonation, due to shorter contact time and complicated environmental conditions, as well as DBPs, are generated during subsequent disinfection. Further, previous studies have focused on factors influencing diuron degradation and the transformation pathways of NDMA; other PUHs have received little attention (e.g., chlorotoluron, fluometuron, isoproturon), particularly to identify other oxidation products and elucidate relationships and trends between PUHs in elimination and formation of NDMA. The objectives of this study were to: 1) evaluate the degradation of PUHs under the three oxidation conditions, and depict the profile of NDMA formation from the four PUHs; 2) clarify the association between the degradation and transformation of PUHs and their properties; and 3) identify the primary species of oxidation products in the elimination of PUHs and the transformation pathways of NDMA during the four oxidation conditions. The results will help explore a simple and economic way to avoid NDMA formation as DBPs in water supplies. 2</text>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5788" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="7941" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9441</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9463</offset>
+      <text>2.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9467</offset>
+      <text>Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9477</offset>
+      <text>Diuron, chlorotoluron, and isoproturon were purchased from Aladdin (Shanghai, China) and fluometuron from Anpel (Shanghai, China) ( ). NDMA (0.1 g) was acquired from Supelco (USA). [2H6] N-nitrosodimethylamine (NDMA-d6) was from Cambridge Isotope Laboratories (Andover, MA, USA) and used as an internal standard. Resprep EPA Method 521 cartridges (6 mL/2 g) were used as solid-phase extraction columns (Restek, Milford, MA, USA), glass fiber pads (GF/F, 0.7 μm) were from Whatman International Ltd. (Maidstone, UK). HPLC-grade hexane, methanol, and methylene chloride (J.T. Baker, USA) were used as an activator, eluent, and in the HPLC system. All other chemicals used in this study were of GR grade. Stock solutions for all standard substances were stored at −20 °C. 2.2</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10250</offset>
+      <text>Oxidant preparation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10270</offset>
+      <text>Cl2 solution was prepared by diluting a sodium hypochlorite (NaClO) solution, and the concentration was determined according to the APHA standard method before the experiments ( ). ClO2 solution was prepared by adding sulfuric acid to sodium chlorite (NaClO2) solution ( ). The concentration of ClO2 was determined by DPD colorimetry. NH2Cl solution was prepared according to previous studies ( ; ). NH2Cl solution was prepared fresh daily by adding stored Cl2 solution, dropwise, to a rapidly stirred ammonium chloride (NH4Cl) at a Cl/N mass ratio of 4:1 to reduce breakpoint chlorination resulting from local excess of ClO− within a sealed 250 mL headspace glass Erlenmeyer flask. The pH was maintained at 8.3 to minimize the disproportionation of NH2Cl to dichloramine (NHCl2). NH2Cl concentration was measured using the N,N-diethyl-p-phenylenediamine ferrous ammonium sulfate (DPD-FAS) method ( ). O3 was continuously generated by electrical discharges of pure oxygen in a Laboratory Ozone Generator (HW-ET-I-10G, Guangzhou, China). An O3 colorimetric analyzer (S-101, Guangzhou, China), with measurement based on 254 nm absorbance, was used to monitor O3 liquid phase concentration. Analyses of PUHs, NDMA, and oxidation products were then conducted after residual Cl2, ClO2, O3, and NH2Cl were quenched with sodium thiosulfate. 2.3</text>
+      <annotation id="11">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10957" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10356" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10548" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11057" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11258" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11443" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11608</offset>
+      <text>Experimental procedures</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11632</offset>
+      <text>Each oxidation experiment was conducted in a sealed 1000 mL headspace glass Erlenmeyer flask using deionized water (Milli-Q, Millipore) at a uniform temperature (25 °C) and pH 7.0 using a phosphate buffer solution (2 mL, 61% 0.2 mol/L Na2HPO4 and 39% 0.3 mol/L NaH2PO4). To explore the oxidation reaction mechanism, each PUH was studied individually. The PUH initial concentration was 1.0 mg/L. Each oxidation was carried out with three concentration levels ( ). For each concentration level, the three oxidant dosages were expressed by equal electron-accepting ability. The electron transfer of O3, Cl2, and ClO2 was as follows: (6e) O3 + 6e → 3O2− (4e) 2ClO− (Cl2) + 4e → 2Cl- (5e) ClO2 + 5e → Cl− The numbers of electron transfer of O3, Cl2, and ClO2 were 6e, 4e, and 5e, respectively. In the current study, the added dosages of O3 were 0.5, 1.0, and 2.5 mg/L. The corresponding dosages of Cl2 and ClO2 were calculated based on equal electron-accepting ability and listed in . Additionally, to further study NDMA-FP from the ozonation of PUHs, the high dosage of O3 (5.0 mg/L) was selected to explore the effect. The Cl2 (/ClO2) oxidation experiments were conducted with 550 mL initial PUH solution in each flask at pH 7.0 and 25 °C, and then the oxidant stock solution was added directly into the reaction flask, using oxidant dosages shown in . After 2 h oxidation, sodium thiosulfate was added to quench the reaction. After filtration using glass fiber pads, 10 mL of the sample was prepared for residual PUH and a 500 mL reaction solution was analyzed for NDMA. The O3 oxidation experiments began with continuous sparging of O3 gas (10 min) into the reactor containing 550 mL initial PUH solution at pH 7.0 and 25 °C; the added O3 dosages are shown in . To further study the reaction mechanism of PUHs during ozonation, effects of PUH concentration (0.5, 1.0, and 5.0 mg/L) and reaction time (0.5, 1.0, 4, 7, 10, and 15 min) on PUH degradation and NDMA formation during ozonation (O3: 2.5 mg/L) were evaluated. NDMA-FP experiments were as follows. Each PUH (1.0 mg/L, diuron, chlorotoluron, fluometuron, and isoproturon) reacted with chloramine (6 mg/L) at 25 °C for 24 h. Additionally, parallel experiments were conducted in which each PUH was first oxidized under Cl2 (2 h), ClO2 (2 h), or O3 (10 min), and the extra step was continuous chloramination (6 mg/L) for 24 h after Cl2 (/ClO2/O3) oxidation. The reaction solutions were prepared for PUH and NDMA-FP analysis. Additional batch experiments were conducted to identify oxidation transfer products of PUHs. Each PUH was studied individually. A 250 mL solution containing a high concentration of PUH (50 mg/L) and 0.1 mL phosphate buffer solution was reacted with oxidant (Cl2 = 100 mg/L, ClO2 = 50 mg/L, and O3 = 10 mg/L) at pH 7.0 and 25 °C. The contact times were 30, 60, 90, 120, and 240 min during chlorination or chloramination, and 0.5, 1.0, 4, 7, 10, and 15 min during ozonation. After the reaction, the oxidation products were identified using high-performance liquid chromatography with quadrupole time-of-flight mass spectrometry (HPLC-Q-TOF-MS). The samples (200 mL) were analyzed for the DMA degradation products using a GC-2010 gas chromatograph equipped with a GCMS-QP2010 plus mass spectrometer (GC/MS, SHIMADZU, Japan). The maximum molar yields (Ym) of NDMA from PUHs under various oxidation conditions were calculated based on Equation : (1) Ym = [NDMA]m/ [PUH]0 × 100% Where [NDMA]m (mmol/L) is the maximum concentration of NDMA formed during oxidation and [PUH]0 (mmol/L) is the initial PUH concentration. 2.4</text>
+      <annotation id="17">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11805" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12851" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13339" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14421" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11781" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11999" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12069" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12104" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13474" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14274" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15121" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15206" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15225</offset>
+      <text>Analysis methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15242</offset>
+      <text>PUHs were analyzed using a Waters ACQUITY UPLC with Tunable UV (TUV) Detector (Waters, USA). Chromatographic separation of the compounds was performed at 35 °C using an ACQUITY UPLC BEH C18 (150 mm × 2.1 mm, 1.7 μm particle size) (Waters, USA). The mobile phase was methanol/water (6:4, v/v). The flow rate was 0.2 mL/min and the injection volume was 30 μL. The detected wavelengths for diuron, chlorotoluron, fluometuron, and isoproturon were 249 nm, 241 nm, 243 nm, and 241 nm, respectively. NDMA was analyzed using UPLC-MS/MS according to our previously developed method (MDL = 0.7 ng/L for a finished water sample and 0.5 ng/L for ultrapure water sample; LOQ = 2.2 ng/L for a finished water sample and 1.5 ng/L for ultrapure water sample) ( ). The oxidation products in the solution were identified by HPLC-Q-TOF-MS (Supplementary Material). The degradation product DMA in solution was identified by GC/MS according to our previous study ( ). 3</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16191</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16214</offset>
+      <text>3.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16218</offset>
+      <text>Degradation of PUHs during oxidations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16256</offset>
+      <text>Degradation curves of diuron with the three oxidants (Cl2, ClO2, and O3) paralleled each other at the lower dosages; ∼20–100% of diuron was removed within the contact times of 2 h, 2 h, and 10 min ( a1, b1, c1). The four PUHs were degraded completely by the high dosage of O3 (5.0 mg/L) ( c1-4). Diuron was more sensitive to the higher dosage of ClO2 (4.2 mg/L), which decreased by 46% ( b1). Compared with diuron, more chlorotoluron was degraded by ClO2 and low dosages of O3 (0.5–2.5 mg/L) ( b2, c2), whereas the removal ratio was only 21.9% by Cl2 (5.5 mg/L) ( a2). Fluometuron was more sensitive to O3 than Cl2 and ClO2 ( a3, b3, c3)—44.3% of fluometuron was degraded at 0.5 mg/L of O3. Nevertheless, the removal ratios increased somewhat with a higher dosage of O3 (1.0–2.5 mg/L) ( c3). In a comparison of the three PUHs, the higher removal ratios were obtained during ClO2 and O3 oxidation of isoproturon, and almost all of it was removed at oxidant doses of 1.7 mg/L (ClO2) and 2.5 mg/L (O3) ( b4, c4). Compared with the other two oxidants, isoproturon was more difficult to degrade by Cl2, whereas only 20.1% of isoproturon was removed even at a high dosage of Cl2 (5.5 mg/L) ( a4). In terms of oxidation abilities, the order from strongest to weakest was ClO2, O3, and Cl2 for degrading diuron, chlorotoluron, and isoproturon; nevertheless, fluometuron was more sensitive to O3 than ClO2 ( b3, c3). The standard electrode potential (EP) of ClO2 and O3 in alkaline solution were as follows: ClO2 (g) + H+ + e− = HClO2 (aq) E = 1.277 v HClO2 (aq) + 2H+ + 2e− = HClO (aq) + H2O (aq) E = 1.6457 v ClO− (aq) + H2O (l) + 2e− = Cl− (aq) + 2OH− (aq) E = 0.89 v O3 (g) + H2O (l) + 2e− = O2 (g) + 2OH− (aq) E = 1.246 v In theory, O3 had a stronger oxidation ability than ClO2, releasing ·OH radicals, whereas the effective chlorine released by ClO2 was 2.6 times of Cl2 in an aqueous solution. The EP of ClO2 transforming into HClO2 was higher than that of O3, and the EP from HClO2 transforming into ClO− was even high (E = 1.6457v); hence, the actual oxidation activity of ClO2 exceeded O3 at the same concentration level. This suggested high removal ratios of diuron, chlorotoluron, and isoproturon were obtained during ClO2 oxidation ( b1, b2, b4). The removal ratios of PUHs by ClO2 or O3 had the following order of degradation from fastest to slowest: isoproturon, chlorotoluron, diuron, fluometuron; whereas the same removal ratios of the four PUHs were observed during Cl2 oxidation. Concerning the structure of PUHs ( ), the degradation trends revealed that the PUH non-containing halogen element (isoproturon) was degraded faster than those PUHs containing Cl (diuron and chlorotoluron) and F (fluometuron) elements, and the removal efficiencies of PUHs containing the Cl element were faster than fluometuron with F elements. This was consistent with the numbers of halogen elements (chlorotoluron (1 Cl) &gt; diuron (2 Cl) &gt; fluometuron (3 F)) ( and ). A previous study ( ) found that the removal of diuron was thorough during ozonation, photocatalysis, and photocatalytic ozonation at a high dosage of O3 (10 mg/L) over 20 min. reported the degradation of four amine-based PPCP precursors of NDMA by four oxidants (Cl2, ClO2, O3, and KMnO4), and the results showed that oxidation with Cl2, O3, and ClO2 was effective in removing selected PPCPs. The highest removal of the four PPCPs was observed during ClO2 oxidation, followed by O3 and Cl2, which was consistent with the results obtained for diuron, chlorotoluron, and isoproturon in this study. However, the difference was in the higher removal ratios of PPCPs at the high dosage of Cl2 (7–14 mg/L). The difference in the PPCP structures containing heterocyclic or double benzene rings perhaps influenced their degradation during oxidation. 3.2</text>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18359" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17484" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18567" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>20062</offset>
+      <text>Transformation of NDMA from PUHs during oxidation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20112</offset>
+      <text>NDMA was not detected during Cl2 or ClO2 oxidation of the four PUHs, while NDMA was generated during ozonation, and the higher formation of NDMA was with higher dosages of O3 (0–2.5 mg/L) ( c1-4), especially from isoproturon ( c4). The highest concentration of NDMA was 148.1 ng/L at the O3 dose of 2.5 mg/L, and the molar yield was 0.041%. In the report of , NDMA could be detected from chlorination of diuron with the higher concentrations of diuron (20 mg/L) and Cl2 (245 mg/L), and the molar yield of NDMA was 0.33%. In another study, the molar yield of NDMA from chlortoluron chlorination was only 0.023% with the higher initial concentrations of chlortoluron (100 μmol/L) and free chlorine (300 μmol/L, 21.3 mg/L as Cl2) ( ). In the current study, the initial concentration of each PUH was 1.0 mg/L, the highest dosage of Cl2 and ClO2 were 5.5 mg/L and 4.2 mg/L, and the contact time was 2 h under neutral condition (pH = 7.0). Further, the acidic and neutral conditions hindered NDMA formation, whereas the positive result was obtained under alkaline condition ( ). Hence, these influencing factors led to no detection of NDMA during Cl2 or ClO2 oxidation in the current study. To further study the effect of O3 dosage on NDMA formation, the higher O3 dose of 5.0 mg/L was selected. Compared with the NDMA formation from diuron, chlorotoluron, and fluometuron during ozonation (0.5–2.5 mg/L), NDMA sustained an increase, whereas the molar yield of NDMA from isoproturon decreased by 43.9% compared to NDMA formation at the O3 dose of 2.5 mg/L ( c4). Isoproturon was degraded completely under 2.5 mg/L O3 oxidation, hence, the generated NDMA would be subsequently re-degraded under the higher dosage of O3 oxidation (5.0 mg/L). This result was consistent with previous reports ( ; ). Additionally, NDMA-FPs from the chloramination of PUHs, in the absence of preoxidation (Cl2, ClO2, and O3), showed that the four PUHs could transform into NDMA regardless of the different yields. Molar yields of NDMA from highest to lowest were 2.88% (isoproturon), 0.24% (diuron), 0.11% (chlorotoluron), and 0.06% (fluometuron). Previous studies also observed similar results, where the molar yields of NDMA from diuron were 0.33% (chlorination), 2.56% (chloramination) ( ), 0.15 ± 0.1% (chloramination) ( ), and 0.46% (chloramination) ( ). The values were 0.04% ( ) and 0.07–0.031% ( ) from chloramination of chlortoluron, and 0.34 ± 0.2% from chloramination of isoproturon ( ). In this study, NDMA-FPs increased prominently during chloramination in the presence of preozonation (0.5–2.5 mg/L) ( c1, c2, c3, c4), the highest molar yields being 11.1% (isoproturon), 1.17% (chlorotoluron), 1.0% (diuron), and 0.73% (fluometuron) at the O3 dose of 2.5 mg/L. The yields of NDMA tracked the halogen elements in corresponding PUHs ( ). However, Cl2, ClO2, or O3 (5.0 mg/L) preoxidation reduced NDMA-FPs during post-chloramination. also showed that NDMA-FP decreased prominently via the Cl2–NH2Cl oxidation of chlorotoluron relative to only chlorination. Compared with ozonation or chloramination alone, a greater formation of NDMA was obtained at the O3 doses of 0.5–2.5 mg/L in the O3–NH2Cl oxidation. The decreasing trend of NDMA formation from all the four PUHs under 5.0 mg/L O3 oxidation was obtained, and the molar yields of NDMA decreased by 99.4% (isoproturon), 93.1% (chlorotoluron), 84.8% (diuron), and 85.9% (fluometuron) compared to those obtained in the O3–NH2Cl oxidation at the O3 dose of 2.5 mg/L. This phenomenon was in contrast to the results obtained in previous studies, in which all the oxidants (Cl2, ClO2, O3, and KMnO4) could remove NDMA-FPs during post-chloramination. An explanation is that less than 5% DMA formed after even ozonation of several tertiary amines and 0.082–3% NDMA-FP was from DMA, making little contribution to NDMA-FPs ( ; ). Compared with structures of the selected PPCPs (ranitidine, nizatidine, doxylamine, and carbinoxamine) in the previous study ( ), all four PUHs selected in this study have C O bonds linking with a DMA functional group, which probably allowed for more decomposition of DMA under strong oxidation (O3). The PPCPs containing a C-five-member ring or C–C–O bond are perhaps easy to transform to other compounds. Additionally, a similar trend was observed that the molar yields of both the selected PPCPs and PUHs decreased when adding other elements (i.e., S, Cl, N, and F) to their structures. For the decrease of NDMA formation from PUH during O3–NH2Cl oxidation at 5.0 mg/L of O3, the result was consistent with that obtained during the specific O3 oxidation (5.0 mg/L) of PUHs. To further study the relationship between oxidation products and NDMA-FPs, the measured NDMA was compared with the calculated value of NDMA from residual PUHs under various oxidations. The calculated value of NDMA was based on Equation : (2) [NDMA]i = [PUH]i × [NDMA]0 / [PUH]0 Where [NDMA]0 and [PUH]0 were the measured values without oxidation, [PUH]i was the measured result after i mg/L oxidant oxidation, and [NDMA]i was the calculated value with residual PUH after i mg/L oxidant oxidation. The chlorination products from the four PUHs offered little to NDMA-FPs, with all the values of the measured NDMA/calculated NDMA below 1.0 ( a). The results indicated that most of the four PUHs were not degraded or transferred to other intermediates during chlorination, consistent with a previous study of chlortoluron chlorination ( ). Compared with chlorination of PUHs, the intermediates of isoproturon by ClO2 had more contribution to NDMA-FPs with the higher dosages of ClO2 (1.7 and 4.2 mg/L), whereas no notable trend was found for the other three PUHs, except for oxidation of chlorotoluron at the high dose of 4.2 mg/L ClO2 ( b). This can be attributed to a great deal of effective chlorine released and the higher EP at the high dosage of ClO2. The prominent positive effect on NDMA-FPs by the transformation products from PUHs was observed during ozonation. All the values of the measured NDMA/calculated NDMA obtained after O3 oxidation were above 1.0, which were ∼60 for chlorotoluron and ∼50 for isoproturon ( c). These results were in contrast to those in a previous study ( ), which demonstrated that ozonation products from PPCPs made little contribution to NDMA-FPs. Compared to ozonation products, the products after ClO2 oxidation made a higher contribution to NDMA-FPs. This contrasting finding may be attributed to different structures between PPCPs and PUHs, differences that warrant further study. 3.3</text>
+      <annotation id="32">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21035" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20356" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20539" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20746" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20878" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>26670</offset>
+      <text>Profile of PUH degradation and NDMA formation during ozonation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26733</offset>
+      <text>To further study the formation of NDMA from PUHs during ozonation, the effects of initial PUH concentration on its removal and NDMA formation were investigated. The degradation kinetics of the four PUHs during ozonation conformed more suitably to the pseudo-first-order model (R2 = 0.7691–0.977 for diuron, 0.9436–0.9805 for chlorotoluron, 0.9589–0.9722 for fluometuron, and 0.9137–0.9964 for isoproturon) ( ). Additionally, there was a notable relationship between the initial PUH concentrations and the quantities of PUH degradation by unit ozone (R2 &gt; 0.999) ( ). For the investigated C0 range, the removal ratios of the four PUHs during ozonation decreased with high C0, likely resulting from the fierce reaction competition between increasing PUHs and limited O3 and ·OH radicals. This means no prominent increase of PUH degradation with the increasing C0 and limited oxidant. The first-order rate constant kobs of PUH ozonation decreased from 19.8 × 10−3 to 8.77 × 10−3 s−1 for diuron, from 3.17 × 10−3 to 1.04 × 10−3 s−1 for chlorotoluron, from 1.22 × 10−3 to 0.31 × 10−3 s−1 for fluometuron, and from 13.5 × 10−3 to 3.88 × 10−3 s−1 for isoproturon with the initial PUH concentration increased from 0.5 to 5.0 mg/L ( ). The trend of kobs tracked the removal ratios of PUH during ozonation. The results exhibited a similar pattern from the previous reports ( ; ). The similar rate constants of diuron ozonation from were (3.05 ± 0.2) × 10−3 s−1, whereas it was found to be much lower than the results from , in which the rate constants were (566.7 ± 12.4) × 10−3 s−1 (393.5 ± 8.4 M−1 s−1) for chlorotoluron and (3155 ± 373) × 10−3 s−1 (2191 ± 259 M−1 s−1) for isoproturon, except for diuron ((23.8 ± 0.86) × 10−3 s−1 (16.5 ± 0.6 M−1 s−1)). The removal ratios of isoproturon were faster than these of diuron, chlorotoluron, and fluometuron at each concentration (0.5, 1.0, and 5.0 mg/L) when it reached a final removal equilibrium, which was consistent with its higher kobs. However, the rate constant kobs of diuron ozonation were the fastest in the initial 1 min; subsequently, the removal efficiency was found to increase slowly to a final removal equilibrium in the later reaction time. The highest ratios were 98% (kobs = 13.5 × 10−3 s−1) for isoproturon within 7 min, followed by 93.2% (kobs = 3.17 × 10−3 s−1) for chlorotoluron, 85.7% (kobs = 19.8 × 10−3 s−1) for diuron, and 68.6% (kobs = 1.22 × 10−3 s−1) for fluometuron within 15 min, at a concentration of 0.5 mg/L. In a comparison of the four PUHs, removal was highest in the order of isoproturon, chlorotoluron, diuron, and fluometuron. Additionally, the O3/DOC ratio plays an important role in the destruction of compounds—the transformation efficiency initially increased and then decreased with the range of O3/DMA ratio (M/M = 0.791–4.668) ( ). A similar result was obtained from the ozonation of PUHs by . In the current study, the molar ratios of O3/PUH were 10.74 (isoproturon), 11.08 (chlorotoluron), 12.09 (diuron), 12.1 (fluometuron), which was consistent with the removal efficiencies of PUHs. It inhibited the reaction rate and led to low NDMA formation during ozonation with the increase of O3/PUH ratios. reveals the effects of the initial PUH concentration on NDMA formation during ozonation. NDMA formation increased with a high C0 (5.0 mg/L), whereas lower levels were obtained at low C0 (0.5 and 1.0 mg/L). The highest concentrations of NDMA at each C0 (0.5 and 1.0 mg/L) were both under 50 ng/L, whereas they were 120.4 ng/L (from diuron), 666.3 ng/L (from chlorotoluron), 190 ng/L (from fluometuron), and 373.2 ng/L (from isoproturon) at the C0 of 5.0 mg/L and 2.5 mg/L O3. The highest molar yields of NDMA from diuron, chlorotoluron, fluometuron, and isoproturon during ozonation at the three C0 within 15 min were 0.14–0.22%, 0.28–0.66%, 0.2–0.57%, and 0.23–0.41%, respectively. In terms of O3/DOC ratio, compared with the molar yield of NDMA in the current study (O3/PUH = 10.74–12.08, M/M), reported that the DMA to NDMA conversion rate is also below 0.4% when the ranges of O3/DMA ratios are 0.791–4.668, and the reaction between DMA and O3 can be stopped at lower O3/DMA ratios. Another previous study identified a low NDMA conversion rate (0.00006–0.011%) from different compounds (PUHs, Mannich, cationic PAM, and polyamine) during ozonation with different O3/DOC ratios (M/M = 0.01–139.6) ( ; ; ; ; , ). Additionally, there was a prominent association between the initial PUH concentrations and corresponding NDMA formation (R2 &gt; 0.9641) ( ). Compared with the other three PUHs, NDMA formation from isoproturon initially increased and then decreased during ozonation; the maximum generation was detected after 10 min ozonation (C0 = 5.0 mg/L), and decreased ∼64% within the subsequent 5 min. Previously described results in this study showed that isoproturon was easily removed and transferred to NDMA during ozonation ( and 1c4), but the formed NDMA could also be decomposed by the subsequent ozonation or high concentration of O3 (5.0 mg/L, c1-4) resulting from degradation of NDMA by ·OH radicals ( ; ). Concerning the properties of PUHs, the conversion ratios and the rate constant (kobs) scaled consistently with the mass (MW), LogKow, and Henry’s constant of PUHs ( ). It was apparent between the conversion ratio (/kobs) and MW at the low concentrations of PUHs (R2 = 0.9561 [0.5 mg/L] and R2 = 0.715 [1.0 mg/L]), and notable for the conversion ratio (/kobs) and MW, LogKow, and Henry’s constant at the high dosage of PUHs (5.0 mg/L), especially with LogKow (R2 = 0.676). This can be attributed to the characterization of the matter and molecule distribution in different media according to Kow and Henry’s constant, which perhaps influenced the degradation of PUHs and transformation into NDMA at the high concentration of PUHs. 3.4</text>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="26827" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="27215" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="27276" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="27910" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="28586" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29188" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29959" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="30138" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="31206" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="31742" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="32076" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="32544" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="26997" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="27625" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29276" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>32571</offset>
+      <text>The degradation mechanism of PUHs and transformation pathways of NDMA during oxidation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32658</offset>
+      <text>Previous studies have explored the degradation pathways of the four PUHs during Cl2, ClO2, and NH2Cl oxidation ( ; , ; ; ). The main reactions included charge transfer complex and radical intermediate formation, the addition of OH on the aromatic ring or substitution of halogen elements, N-dealkylation on the DMA functional group, and cleavage of the N–C bond on the ureic side-chain. NDMA formed from PUHs during Cl2, ClO2, and NH2Cl oxidation in two ways. First, PUHs can be degraded by these oxidants producing DMA and phenylamino-compounds ( ; ) and the reaction between two intermediates (e.g., DMA and DCA) generate NDMA during Cl2 and ClO2 oxidation without other nitrogen-containing compounds via serving two nitrogen atoms in diuron for the N-nitroso reaction ( ). The other, the decomposed DMA from PUHs, reacts directly with NH2Cl during chloramination and generates NDMA ( ; ; ). The results from this study showed that Cl2 and ClO2 preoxidation reduced NDMA-FPs during post-chloramination. Structures of the intermediates during chlor(am)ination reported from previous studies also showed the useless products for NDMA-FPs. During the ozonation of PUHs, the results obtained in this study were not consistent with previous reports ( ). Hence, to further explore the reason for the increasing NDMA-FPs, the oxidation transformation products were identified by LC-Q-TOF-MS. Detailed descriptions for the four PUHs by O3 and O3–NH2Cl oxidation are provided herein ( , S4–S14). Oxygen transferred to the lone pair of electrons on the nitrogen of diuron, thereby forming an ozonide ammonium zwitterion (m/z 271 [233 + 23+O–H], MW: 248) after ozonation ( ), which later lost the dioxygen, yielding the N-oxide ( ; ). Oxygen transfer destroyed the DMA functional group of diuron leading to an NDMA decrease during constant ozonation. Also, the N–C bond cleavage product N-(3,4-dichloro-phenyl)-formamide (m/z 213 [189 + 23+H]) ( ) and DMA were detected, and then the N–C bond cleavage product further transferred to phenyl isocyanate (m/z 210, MW: 181) ( ), DCA (m/z 184, MW: 161) ( ), and 3,4-dichloronitrobenzene (m/z 214, MW: 191) ( ). Simultaneously, the radical evolved into intermediate 3-(4-chloro-3-hydroxy-phenyl)-1,1-dimethyl-urea (m/z 213) ( ) by the stepwise loss of Cl atoms and addition of hydroxyl at the chloro site on the aromatic ring ( ), which then transferred to DCA via breaking the N–C bond. also confirmed OH/Cl substitution during the radiolysis of PUHs by Density Functional Theory calculations. DMA released from diuron transferred to N,N-dimethyl-hydroxylamine (DMHA) and then formed N-methyl-hydroxylamine (MHA); MHA transferred to UDMH and finally formed NDMA by reacting with hydroxylamine during O2 and ·OH oxidation ( ). This classical formation pathway of NDMA was shown in our previous reports ( ) and other studies ( ; ; ). Further, according to previous results ( ), NDMA also can be generated from the reaction between DMA and DCA obtained by breaking the N–C bond in diuron. In the current study, NDMA formation from the reaction between DMA (1.0 mg/L) and DCA (1.0 mg/L) at 25 °C and pH = 7.0 was preliminarily investigated, and the molar yield of NDMA was about 0.003%. The interesting phenomenon is that NDMA formation from the four PUHs increased prominently during O3 and O3–NH2Cl oxidation ( ), probably because of three reasons: 1) more DMA was generated by stronger oxidation of O3; 2) NDMA was generated directly from the reaction between DMA and phenylamino-compounds (e.g. DCA); and 3) the intermediates were degraded completely and transferred to other N-contained materials (e.g., nitrite, nitrate, ammonia) ( ; ) which also contributed N atoms to the formation of NDMA during the chloramination of PUHs after preozonation ( ). Large values of measured NDMA-FP/calculated NDMA-FP from residual PUH after ozonation were also found ( ). DMA was obtained in chloramination of PUHs, but nitrate, nitrite, and ammonia were not detected in the ozonation of PUHs. Other N-contained materials such as DCA, 3,4-dichloronitrobenzene ( ) were detected; these N-contained materials may contribute to NDMA formation during O3 and O3–NH2Cl oxidation. However, NDMA was not detected during ozonation and post-chloramination of DCA in the current study; yet 1,4-dichloro-2-nitrobenzene was generated via the N-nitroso reaction. This phenomenon is perhaps attributed to the transformation of PUH into other N-containing compounds, which need further study. The oxidation products and transformation pathways of NDMA from the other three PUHs (chlorotoluron, fluometuron, and isoproturon) during ozonation are also described in the Supplementary Material. 4</text>
+      <annotation id="52">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="35790" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>37358</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37370</offset>
+      <text>PUH degradation was observed during Cl2, ClO2, and O3 oxidation, and the removal ratios of PUHs and molar yield of NDMA were closely related to the numbers of halogen elements contained in PUHs (isoproturon (0) &gt; chlorotoluron (1 Cl) &gt; diuron (2 Cl)&gt; fluometuron (3 F)). The degraded kinetics of PUHs conformed suitably to pseudo-first-order kinetics. NDMA was formed from the four PUHs only during ozonation and chloramination. Cl2, ClO2, and O3 (5.0 mg/L) preoxidation decreased NDMA-PFs during post-chloramination. Ozonation (low dosage of O3) was effective in increasing NDMA-FPs from the four PUHs, which can increase 23–68 times relative to ozonation only. NDMA formation during ozonation correlated with the properties of PUHs, especially for the mass, LogKow, Henry’s constant, and the conversion ratio (/kobs). Furthermore, the values of measured NDMA-FP/calculated NDMA-FP from residual PUH obtained during the three oxidations further confirmed the different contributions to NDMA-FPs from the oxidation products. Additional helpful intermediates obtained from the ozonation of PUHs contributed to higher NDMA-FPs. Tertiary amine ozonation, hydroxylation, the cleavage of N–C bond, N-dealkylation, ammonification, and nitrification occurred during oxidation of the four PUHs. DMA can transform into NDMA via the formation of the intermediate UDMH during ozonation, and NDMA also can be generated via the reaction between DMA and phenylamino-compounds during oxidation. Clarifying primary degradation products of PUHs and transformation pathways of NDMA during oxidation is useful to optimize treatment processes for water supply.</text>
+      <annotation id="53">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="37706" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>39011</offset>
+      <text>Declaration of competing interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>39045</offset>
+      <text>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. Appendix A</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>39227</offset>
+      <text>Supplementary data</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>39246</offset>
+      <text>Supplementary data to this article can be found online at https://doi.org/10.1016/j.envpol.2020.116122 .</text>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,1714 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-04-22</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.foodcont.2015.09.013</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">KINETICSTUDYAFLATOXINSDEGRADATIONINPRESENCEOZONE</infon>
+      <infon key="name_0">surname:AGRIOPOULOU</infon>
+      <infon key="license">Copyright © 2015 Elsevier Ltd. All rights reserved.</infon>
+      <infon key="source">Food Control</infon>
+      <infon key="year">2015-09-15</infon>
+      <infon key="volume">61</infon>
+      <infon key="issue">0956-7135</infon>
+      <infon key="fpage">221</infon>
+      <infon key="lpage">226. Link: https://sciencedirect.com/science/article/pii/S0956713515301924</infon>
+      <infon key="pub-id_doi">10.1016/j.foodcont.2015.09.013</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0956713515301924</infon>
+      <infon key="kwd">['Aflatoxins', 'Ozone', 'Degradation', 'Kinetics', '1']</infon>
+      <offset>0</offset>
+      <text>Kinetic study of aflatoxins' degradation in the presence of ozone</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="60" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>66</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>84</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>95</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>104</offset>
+      <text>The degradation of aflatoxins AFB1, AFB2, AFG1 and AFG2 after treatment of their solutions in triple distilled water with ozone was studied and the ability of ozone, even at low concentrations, to degrade aflatoxins was proved. Ozone concentrations of 8.5, 13.5, 20, 25 and 40 ppm were applied at different temperatures on aflatoxin solutions in triple distilled water of 10 ppb and 2 ppb and the complete and rapid elimination of AFB1 and AFG1 was observed while AFB2 and AFG2 remain more or less stable. The kinetic equations for the degradation procedure were calculated by applying ozone on neutral buffer solutions of aflatoxin at 298.15, 308.15, 318.15 and 328.15 K at ozone concentrations of 8.5, 13.5 and 20 ppm and the rate constants, were determined. The degradation of aflatoxins was described by a first order kinetic equation. Finally, the activation energies during degradation of aflatoxins were calculated from the Arrhenius equation.</text>
+      <annotation id="2">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="411" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="226" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="263" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="282" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="332" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="338" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="690" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="779" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="785" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="920" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1055</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Temperature (K)', '103\xa0×\xa0kapp AFB1 (s−1)', '103\xa0×\xa0kapp AFB1 (s−1)', '103\xa0×\xa0kapp AFB1 (s−1)', '103\xa0×\xa0kapp AFG1 (s−1)', '103\xa0×\xa0kapp AFG1 (s−1)', '103\xa0×\xa0kapp AFG1 (s−1)'], ['Temperature (K)', '8.5\xa0ppm O3', '13.5\xa0ppm O3', '20\xa0ppm O3', '8.5\xa0ppm O3', '13.5\xa0ppm O3', '20\xa0ppm O3'], ['298.15', '1.81', '1.51', '2.01', '1.62', '1.52', '4.50'], ['308.15', '1.60', '1.62', '3.03', '1.91', '1.81', '5.60'], ['318.15', '1.42', '1.83', '4.02', '2.01', '2.31', '7.11'], ['328.15', '1.33', '1.32', '6.60', '2.31', '2.63', '9.12']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Temperature (K)&lt;/td&gt;
+      &lt;td&gt;103 × kapp AFB1 (s−1)&lt;/td&gt;
+      &lt;td&gt;103 × kapp AFB1 (s−1)&lt;/td&gt;
+      &lt;td&gt;103 × kapp AFB1 (s−1)&lt;/td&gt;
+      &lt;td&gt;103 × kapp AFG1 (s−1)&lt;/td&gt;
+      &lt;td&gt;103 × kapp AFG1 (s−1)&lt;/td&gt;
+      &lt;td&gt;103 × kapp AFG1 (s−1)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Temperature (K)&lt;/td&gt;
+      &lt;td&gt;8.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;13.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;20 ppm O3&lt;/td&gt;
+      &lt;td&gt;8.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;13.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;20 ppm O3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298.15&lt;/td&gt;
+      &lt;td&gt;1.81&lt;/td&gt;
+      &lt;td&gt;1.51&lt;/td&gt;
+      &lt;td&gt;2.01&lt;/td&gt;
+      &lt;td&gt;1.62&lt;/td&gt;
+      &lt;td&gt;1.52&lt;/td&gt;
+      &lt;td&gt;4.50&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;308.15&lt;/td&gt;
+      &lt;td&gt;1.60&lt;/td&gt;
+      &lt;td&gt;1.62&lt;/td&gt;
+      &lt;td&gt;3.03&lt;/td&gt;
+      &lt;td&gt;1.91&lt;/td&gt;
+      &lt;td&gt;1.81&lt;/td&gt;
+      &lt;td&gt;5.60&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;318.15&lt;/td&gt;
+      &lt;td&gt;1.42&lt;/td&gt;
+      &lt;td&gt;1.83&lt;/td&gt;
+      &lt;td&gt;4.02&lt;/td&gt;
+      &lt;td&gt;2.01&lt;/td&gt;
+      &lt;td&gt;2.31&lt;/td&gt;
+      &lt;td&gt;7.11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;328.15&lt;/td&gt;
+      &lt;td&gt;1.33&lt;/td&gt;
+      &lt;td&gt;1.32&lt;/td&gt;
+      &lt;td&gt;6.60&lt;/td&gt;
+      &lt;td&gt;2.31&lt;/td&gt;
+      &lt;td&gt;2.63&lt;/td&gt;
+      &lt;td&gt;9.12&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1062</offset>
+      <text>Apparent rate constants (kapp) for the first order degradation of aflatoxins AFB1 and AFG1, in neutral buffer solutions, obtained by HPLC analysis, at various temperatures.</text>
+      <annotation id="12">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1221" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1107" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Temperature (K)', '10−3\xa0×\xa0H−1o3 (atm m3/kmol)'], ['298.15', '114.09'], ['308.15', '149.11'], ['318.15', '191.83'], ['328.15', '243.33']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Temperature (K)&lt;/td&gt;
+      &lt;td&gt;10−3 × H−1o3 (atm m3/kmol)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298.15&lt;/td&gt;
+      &lt;td&gt;114.09&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;308.15&lt;/td&gt;
+      &lt;td&gt;149.11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;318.15&lt;/td&gt;
+      &lt;td&gt;191.83&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;328.15&lt;/td&gt;
+      &lt;td&gt;243.33&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1235</offset>
+      <text>Henry's constants, H−1o3 for the decomposition of ozone in neutral buffer solutions at various temperatures.</text>
+      <annotation id="14">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1330" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1285" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Temperature (K)', '104\xa0×\xa0Caq (ppm)', '104\xa0×\xa0Caq (ppm)', '104\xa0×\xa0Caq (ppm)'], ['Temperature (K)', '8.5\xa0ppm O3', '13.5\xa0ppm O3', '20\xa0ppm O3'], ['298.15', '1.52', '2.41', '3.56'], ['308.15', '1.20', '1.90', '2.82'], ['318.15', '0.96', '1.53', '2.26'], ['328.15', '0.78', '1.24', '1.84']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Temperature (K)&lt;/td&gt;
+      &lt;td&gt;104 × Caq (ppm)&lt;/td&gt;
+      &lt;td&gt;104 × Caq (ppm)&lt;/td&gt;
+      &lt;td&gt;104 × Caq (ppm)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Temperature (K)&lt;/td&gt;
+      &lt;td&gt;8.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;13.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;20 ppm O3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298.15&lt;/td&gt;
+      &lt;td&gt;1.52&lt;/td&gt;
+      &lt;td&gt;2.41&lt;/td&gt;
+      &lt;td&gt;3.56&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;308.15&lt;/td&gt;
+      &lt;td&gt;1.20&lt;/td&gt;
+      &lt;td&gt;1.90&lt;/td&gt;
+      &lt;td&gt;2.82&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;318.15&lt;/td&gt;
+      &lt;td&gt;0.96&lt;/td&gt;
+      &lt;td&gt;1.53&lt;/td&gt;
+      &lt;td&gt;2.26&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;328.15&lt;/td&gt;
+      &lt;td&gt;0.78&lt;/td&gt;
+      &lt;td&gt;1.24&lt;/td&gt;
+      &lt;td&gt;1.84&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1344</offset>
+      <text>Dissolved ozone concentrations in water, Caq, for the kinetic study of the degradation of aflatoxins AFB1 and AFG1 in neutral buffer solutions at various temperatures.</text>
+      <annotation id="16">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1498" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1354" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1360" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Temperature (K)', 'ktrue AFB1 (s−1)', 'ktrue AFB1 (s−1)', 'ktrue AFB1 (s−1)', 'ktrue AFG1 (s−1)', 'ktrue AFG1 (s−1)', 'ktrue AFG1 (s−1)'], ['Temperature (K)', '8.5\xa0ppm O3', '13.5\xa0ppm O3', '20\xa0ppm O3', '8.5\xa0ppm O3', '13.5\xa0ppm O3', '20\xa0ppm O3'], ['298.15', '12.10', '6.22', '5.61', '11.00', '6.56', '12.62'], ['308.15', '13.49', '8.77', '10.64', '16.45', '9.64', '20.1'], ['318.15', '15.08', '11.80', '17.98', '20.81', '15.25', '31.69'], ['328.15', '17.05', '14.78', '35.86', '29.83', '21.5', '49.81']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Temperature (K)&lt;/td&gt;
+      &lt;td&gt;ktrue AFB1 (s−1)&lt;/td&gt;
+      &lt;td&gt;ktrue AFB1 (s−1)&lt;/td&gt;
+      &lt;td&gt;ktrue AFB1 (s−1)&lt;/td&gt;
+      &lt;td&gt;ktrue AFG1 (s−1)&lt;/td&gt;
+      &lt;td&gt;ktrue AFG1 (s−1)&lt;/td&gt;
+      &lt;td&gt;ktrue AFG1 (s−1)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Temperature (K)&lt;/td&gt;
+      &lt;td&gt;8.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;13.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;20 ppm O3&lt;/td&gt;
+      &lt;td&gt;8.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;13.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;20 ppm O3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;298.15&lt;/td&gt;
+      &lt;td&gt;12.10&lt;/td&gt;
+      &lt;td&gt;6.22&lt;/td&gt;
+      &lt;td&gt;5.61&lt;/td&gt;
+      &lt;td&gt;11.00&lt;/td&gt;
+      &lt;td&gt;6.56&lt;/td&gt;
+      &lt;td&gt;12.62&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;308.15&lt;/td&gt;
+      &lt;td&gt;13.49&lt;/td&gt;
+      &lt;td&gt;8.77&lt;/td&gt;
+      &lt;td&gt;10.64&lt;/td&gt;
+      &lt;td&gt;16.45&lt;/td&gt;
+      &lt;td&gt;9.64&lt;/td&gt;
+      &lt;td&gt;20.1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;318.15&lt;/td&gt;
+      &lt;td&gt;15.08&lt;/td&gt;
+      &lt;td&gt;11.80&lt;/td&gt;
+      &lt;td&gt;17.98&lt;/td&gt;
+      &lt;td&gt;20.81&lt;/td&gt;
+      &lt;td&gt;15.25&lt;/td&gt;
+      &lt;td&gt;31.69&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;328.15&lt;/td&gt;
+      &lt;td&gt;17.05&lt;/td&gt;
+      &lt;td&gt;14.78&lt;/td&gt;
+      &lt;td&gt;35.86&lt;/td&gt;
+      &lt;td&gt;29.83&lt;/td&gt;
+      &lt;td&gt;21.5&lt;/td&gt;
+      &lt;td&gt;49.81&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1512</offset>
+      <text>True rate constants (ktrue) for the degradation of aflatoxins AFB1 and AFG1, in neutral buffer solutions, obtained by HPLC analysis, at various temperatures.</text>
+      <annotation id="19">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1656" length="11"/>
+        <text>temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Aflatoxin', 'Eα (kJ/mol)', 'Eα (kJ/mol)', 'Eα (kJ/mol)'], ['Aflatoxin', '8.5\xa0ppm O3', '13.5\xa0ppm O3', '20\xa0ppm O3'], ['AFB1', '9.3\xa0±\xa00.3', '23.6\xa0±\xa01.1', '49.4\xa0±\xa02.3'], ['AFG1', '26.2\xa0±\xa01.6', '32.6\xa0±\xa01.1', '37.2\xa0±\xa00.5']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aflatoxin&lt;/td&gt;
+      &lt;td&gt;Eα (kJ/mol)&lt;/td&gt;
+      &lt;td&gt;Eα (kJ/mol)&lt;/td&gt;
+      &lt;td&gt;Eα (kJ/mol)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aflatoxin&lt;/td&gt;
+      &lt;td&gt;8.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;13.5 ppm O3&lt;/td&gt;
+      &lt;td&gt;20 ppm O3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AFB1&lt;/td&gt;
+      &lt;td&gt;9.3 ± 0.3&lt;/td&gt;
+      &lt;td&gt;23.6 ± 1.1&lt;/td&gt;
+      &lt;td&gt;49.4 ± 2.3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AFG1&lt;/td&gt;
+      &lt;td&gt;26.2 ± 1.6&lt;/td&gt;
+      &lt;td&gt;32.6 ± 1.1&lt;/td&gt;
+      &lt;td&gt;37.2 ± 0.5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1670</offset>
+      <text>Values of activation energy, Ea, for the degradation of aflatoxins AFB1 and AFG1, after treatment with various ozone concentrations, in neutral buffer solutions.</text>
+      <annotation id="20">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1781" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1787" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1832</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0956713515301924-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1840</offset>
+      <text>Schematic representation of ozone treatment system.</text>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1868" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0956713515301924-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1892</offset>
+      <text>Degradation of aflatoxins AFB1 (a) and AFG1 (b) with concentration of 2 ppb after treatment with 13.5 ppm O3 versus time, at different temperatures.</text>
+      <annotation id="23">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2027" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1945" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0956713515301924-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2041</offset>
+      <text>Degradation of aflatoxins AFB1 (c) and AFG1 (d) with concentration of 10 ppb after treatment with 13.5 ppm O3 versus time, at different temperatures.</text>
+      <annotation id="25">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2177" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2094" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0956713515301924-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2191</offset>
+      <text>Variation of ln (AFG1/ppb) with the time in buffer of neutral pH at a temperature of 328.15 K, after treatment with 13.5 ppm O3.</text>
+      <annotation id="27">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2253" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2261" length="11"/>
+        <text>temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0956713515301924-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2320</offset>
+      <text>Variation of ln (AFB1/ppb) with the time in buffer of neutral pH at a temperature of 328.15 K, after treatment with 13.5 ppm O3.</text>
+      <annotation id="29">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2382" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2390" length="11"/>
+        <text>temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0956713515301924-gr6.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2449</offset>
+      <text>Arrhenius plots (lnktrue versus 1/T) for the ozonolysis of aflatoxins AFG1 (a) and AFB1 (b) after treatment with 13.5 ppm O3 on neutral buffer solution.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2602</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2611</offset>
+      <text>['Aflatoxins', 'Ozone', 'Degradation', 'Kinetics', '1']</text>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2627" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2667</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2680</offset>
+      <text>Aflatoxins (AFs) are widely distributed mycotoxins produced by strains of Aspergillus flavus, Aspergillus parasiticus and Aspergillus nomius ( ). Additionally other species which produce aflatoxins are Aspergillus pseudotamarii, Aspergillus ochraceoroseus, Aspergillus rambellii, Aspergillus toxicarius, Emericella astellata, Emericella olivicola and Emericella venezuelensis ( ). Moreover other fungi of the genera Aspergillus (e.g., A. ochraceus and A. carbonarius) produce another important mycotoxin, ochratoxin A (OTA) ( ). Aflatoxins are extremely harmful to the health of humans and animals, as showing carcinogenic, mutagenic, teratogenic and immunosuppressive actions ( ). The known aflatoxins are about twenty, while the four main aflatoxins which are mainly found in tropical and subtropical climates ( ), are referred as aflatoxin B1 (AFB1), aflatoxin B2 (AFB2), aflatoxin G1 (AFG1) and aflatoxin G2 (AFG2). The aflatoxins M1 (AFM1) and M2 (AFM2), which are hydroxylated metabolites of AFB1 and AFB2, can be found in all kinds of milk and dairy products from animals that have consumed contaminated feed with aflatoxins ( ). Aflatoxins are frequently found in many human foodstuffs or animal feeds ( ). From all the food-contaminating aflatoxins, AFB1 is usually the predominant mycotoxin ( ) and the International Agency for Research on Cancer (IARC) has classified aflatoxin AFB1 in the most toxic group (1 carcinogen), which primarily affects the liver ( ). As food and health bodies have not established a tolerable daily intake (Tolerable Daily Intake, TDI) for humans, contamination in food, should be reduced to the lowest possible level ( ). Several factors have been reported as means of reducing the levels of aflatoxins. These are natural, such as mechanical separation of the clean product from the contaminated product ( ), heating at high temperatures, effects of radiation ( ) and light, grinding, washing, and use of adsorbents ( ) or chemicals, such as ammoniation ( ), influence of acids and bases, influence of oxidizing agents or with various inorganic and organic chemicals ( ). Between the oxidizing agents used for the reduction or elimination of aflatoxins, a powerful oxidant is ozone. Ozone is a highly unstable trioatomic oxygen molecule (O3) formed by the addition of an oxygen atom to a molecular diatomic oxygen (O2) that can be generated readily and economically for application to several commodities ( ). It is one of the most potential oxidants that has several advantages, most prominently the absence of detectable residues on treated products. Ozone can be generated on-site, eliminating the need to store or dispose of chemical containers. Ozone has been used to reduce various types of mycotoxins, including the aflatoxins ( ). Ozone reacts across the 8, 9 double bond of the terminal furan ring of aflatoxin through electrophilic attack, causing the formation of primary ozonides followed by rearrangement into monozonide derivatives such as aldehydes, ketones and organic acids ( ). Although there have been many studies on ozone reactions with aflatoxins at many important agricultural products, very little kinetic data have been reported. In order to effectively treat aflatoxins with ozone and design appropriate treatment processes, reaction kinetics must be determined. In the present study the influence of ozone on the degradation of aflatoxins AFB1, AFB2, AFG1 and AFG2 in triple distilled water was investigated, as well as the appropriate kinetic equations for the above procedure in neutral buffer solutions were determined. Determination of activation energy was also performed from the Arrhenius equation, for the degradation of aflatoxins AFB1 and AFG1, in the presence of ozone, in neutral buffer solutions. As far as we know rate constants and activation energies for the degradation of aflatoxins in the presence of ozone are calculated for the first time. 2</text>
+      <annotation id="32">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="4545" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="4896" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="4903" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5273" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5370" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5459" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5757" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5921" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="6047" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="6421" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="6567" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5878" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6610</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6632</offset>
+      <text>2.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6636</offset>
+      <text>Chemicals and reagents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6659</offset>
+      <text>Acetonitrile (ACN) and methanol (MeOH) (all of HPLC grade) were purchased from Merck (Darmstadt, Germany). Standards solutions of AFB1, AFB2, AFG1, AFG2, were obtained from the company R-Biopharm (Rhône Diagnostic Technologies Ltd., Glasgow, UK). All solutions were prepared with triple distilled water. Triple distilled water was prepared in a special ultra-clean water system (Purelab Ultra, Elga Labwater, Marlow, UK) for producing ASTM Type I. The freshly prepared mobile phase was degassed for 20 min before use with a Branson 2510 (Branson Ultrasonic Corp., CT, USA) ultrasonic bath. Phosphate buffer solution was prepared with potassium dihydrogen phosphate (34.02 g) and disodium hydrogen phosphate (35.40 g) (all purchased form Merck) in 1 L triple distilled water. The final pH of the solution was adjusting to 7 by adding a few drops of 0.5 M NaOH. The solution was then stored at 4 °C in a sealed flask until use. 2.2</text>
+      <annotation id="44">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="7445" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7590</offset>
+      <text>Aflatoxin standards in water</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7619</offset>
+      <text>In order to study the degradation of aflatoxins in triple distilled water in the presence of different concentrations of ozone, aflatoxin standards in water were prepared. The stock solution of the four aflatoxins AFB1, AFB2, AFG1 and AFG2, was reconstituted by dissolving the content of standard in 10 mL of pure acetonitrile, obtaining 5 μg/mL of total aflatoxins (2 μg/mL of each aflatoxin AFB1 and AFG1 and 0.5 μg/mL of each aflatoxin AFB2 and AFG2) and stored at 4 °C. The preparation of standard solutions of aflatoxins included in a first stage the preparation of a stock solution, concentration of 200 ng/mL in acetonitrile. From this solution, were prepared by appropriate dilutions in water, working solutions with concentration of 1, 1.5, 2.5, 5, 7.5 and 10 ng/mL and stored at 4 °C until use in order to construct the four calibration curves. Six-point calibration curves, with triplicate injections, covering the range of 1–10 ng/mL for each aflatoxin, were constructed. Calibration curves were drawn using the average response for each standard concentration employed. 2.3</text>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="7722" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="7740" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8208" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8344" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8678" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="7622" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8426" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8706</offset>
+      <text>Ozone production</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8723</offset>
+      <text>Ozone was produced by using an ozone generator (TG-10 Ozone Generator, Ozone Solutions, IA, USA) for the transformation of O2 molecules to O atoms and then forming O3 by using high voltage current. Ozone was canalized to a constant conditions environmental chamber (KBF 115, Binder, Tuttlingen, Germany) in order to control temperature and relative humidity and after that, through a two port valve, was lead to an ozone analyzer (Ozone analyzer Model UV-100, ECO SENSORS, INC.). When a constant concentration of ozone was measured, the gas stream was guided throw the two port valve to a jacked beaker which was maintained at a constant temperature by mean of a heating circulator (F12-ED, Julabo Seelbach, Germany), (cf. ). For the ozonolysis experiments an appropriate volume of a stock solution, containing all the aflatoxins in CH3CN, was added in 50 mL volumetric flask. Two different aflatoxin solutions in triply distilled water were prepared with final concentrations of 10 ppb for AFB1 and AFG1 and 2.5 ppb for AFB2 and AFG2 (first solution) and 2 ppb for AFB1 and AFG1 and 0.5 ppb for AFB2 and AFG2 (second solution). After that, each solution was added in the jacked beaker which was maintained at a constant temperature (298.15 K, 308.15 K, 318.15 K, 328.15 K and 338.15 K). Each aflatoxin solution in triple distilled water was exposed for 20 min on gaseous stream containing ozone at five different concentrations of 8.5, 13.5, 20, 25 and 40 ppm. In order to obtain kinetic results for the degradation procedure, instead of triply distilled water, buffer solution at pH 7 was used for preparing the aflatoxin solutions of the concentration of 10 and 2 ppb. In contrast to the use of five ozone concentrations that were used for the ozonolysis, for the kinetic study the first three concentrations were used, because the two largest gave no results due to the rapid rate of the phenomenon of degradation. In order to study the influence of ozone on aflatoxin concentration as well as to determine the kinetic equations, every two minutes, a sample of 500 μL, was collected and analyzed. For each experiment fresh aflatoxin solutions were prepared. The quantification of aflatoxins was calculated by the peak area according to the calibration curve. 2.4</text>
+      <annotation id="52">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10305" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9047" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9361" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9944" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8723" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8754" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8777" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8794" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8921" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9138" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9154" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9219" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9236" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9685" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10113" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10137" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10364" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10426" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10432" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10520" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10677" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10696" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9030" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10188" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10645" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10990</offset>
+      <text>HPLC analysis of aflatoxins</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11018</offset>
+      <text>The aflatoxin concentrations were determined by using an LC-20A Prominence HPLC system (Shimadzu, Kyoto, Japan) equipped with a spectrofluorometric detector (RF-20A/20Axs), a system controller (CBM-20A/20Alite), a column oven (CTO-20A/20AC), an autosampler (SIL-20AHT/20ACHT) and an on-line degasser (DGU-20A3/20A5). The spectrofluorometric detector was operated at an excitation wavelength of λex = 365 nm and an emission wavelength of λem = 430 nm. Water-methanol-acetronitrile (56:22:22 v/v/v) at a flow rate of 1 mL/min under isocratic conditions was used as mobile phase, the pressure was 113–115 bar and the total run time was 17 min. Separation was completed by MycotoxTM reversed-phase column (C18, 4.6 × 250 mm, 5 μm) (Pickering Laboratories Inc., California, USA). The column temperature was set to 42 °C and sample volumes of 10 μL were injected in triplicate. The samples were analyzed after post-column derivatization with a Pinnacle PCX instrument (Pickering Laboratories Inc., California, USA). The reagent used was iodine (100 mg/L of I2 in water), the volume of the reactor was 1.4 mL, the flow rate was 0.3 mL/min and the reactor temperature was 90 °C. The solution of iodine was degassed using a nitrogen gas stream for 15 min. Aflatoxin AFG2 was eluted first followed by AFG1, AFB2 and AFB1 with retention times of approximately 7.5, 8.6, 9.3 and 10.8 min, respectively. The chromatograms were analyzed by LC solution LC-Assist software (Shimadzu). Aflatoxin concentration was expressed in μg of aflatoxin per kg of each standard. 3</text>
+      <annotation id="77">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11804" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12166" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11032" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12497" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12571</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12594</offset>
+      <text>In order to investigate the behavior of the aqueous solutions of the four aflatoxins as well as the response of the detector of the HPLC, calibration curves of different aflatoxins' concentrations, described in the experimental section, against their peak area were produced. The correlation coefficients, R2, for all calibration curves were better than 0.994 which indicated a good linear fitting of the experimental data. From the ozonolysis experiments the time for the complete degradation of AFB1 and AFG1 as well as the % percentage of the degradation of AFB2 and AFG2 were found. From the results the less resistant to ozonolysis aflatoxins proved to be the AFG1 and AFB1, while the more resistant proved to be the AFG2 and AFB2. Also, aflatoxin AFG1 seems to be the less resistant aflatoxin, whilst aflatoxin AFB2 is the most resistant. The sensitivity of aflatoxins in ozone was AFG1 &gt; AFB1 &gt; AFG2 &gt; AFB2. AFB1 has the same behavior as AFG1 and AFB2 as AFG2. These differences in the degradation, agree with the literature ( ) and can be attributed to the different chemical structure of AFB1 and AFG1 and especially to the double bond between the 8 and 9 carbon atom of the furan ring in the molecule of aflatoxins AFB1 and AFG1, contrary to aflatoxins AFB2 and AFG2. Specifically, aflatoxins AFB1 and AFG1 with initial concentration of 2 ppb and 10 ppb after treatment with 13.5 ppm ozone rapidly degraded at any temperature, after 3–7 min and 3–4 min, respectively (cf. ). From the above two aflatoxins AFG1 was less resistant than the AFB1. The same behavior was observed when the concentrations of aflatoxins AFB1 and AFG1 increased 5 times from 2 to 10 ppb. In a study carried out by Maeba et al. ( ) although different solvent was used (4% dimethyl sulfoxide), AFB1 and AFG1 were sensitive to ozone and easily degraded with 1.1 mg/L of ozone within 5 min at room temperature. Regarding the ozonolysis of aflatoxins in all treatment temperatures, at all concentrations of ozone and to all initial concentrations of aflatoxins, AFB2 and AFG2, proved to be more resistant than aflatoxins AFB1 and AFG1. The more sensitive to the ozonolysis between aflatoxin AFB2 and AFG2 seemed to be the AFG2, while the more stable appeared to be the AFB2. Regarding the range of the degradation, for aflatoxin AFG2 was from 53.9% to 42.1%, whereas the AFB2 remained quite stable, after 20 min treatment and only a degradation from 29.6% to 17.4% was detected. The temperature at which the largest degradation appeared for both aflatoxins AFG2 and AFB2, was the temperature of 308.15 K, the concentration of ozone caused the greatest degradation in both aflatoxins was the concentration of 40 ppm, while the initial concentration caused the largest degradation was that of 0.5 ppb. In fact, during the degradation of aflatoxins AFB2 and AFG2, none of the examined conditions, were able to fully degrade both aflatoxins. In a study carried out by Maeba et al. ( ) aflatoxins AFB2 and AFG2 were rather resistant to ozone, requiring 50–60 min to degrade them completely with 34.3 mg/L of ozone. We consider that the reaction of the decomposition of aflatoxins by ozone in neutral buffer solutions is a first order reaction depending on the concentration of aflatoxins, as the concentration of ozone is in excess and remains stable during the experiments. By using the kinetic equation for the first order reactions (1) lnc=lnco−kappt the apparent rate constants (kapp) for the degradation of aflatoxins in neutral buffer solutions and at all the working temperatures were calculated from the slopes of the plots of lnc versus time t, where c is the aflatoxin concentration. Such plots are appeared in . The validity of the Eq. was verified from the experimental data. The R2 values were in the range 0.944–0.999. The apparent rate constants, (kapp), for the degradation of aflatoxins AFB1 and AFG1, in the whole working temperature range are quoted in . The true rate constants for the degradation of aflatoxins AFB1 and AFG1, were obtained by dividing the apparent rate constants, with the concentration of dissolved ozone in water. In order to estimate the concentrations of dissolved ozone in water, the Henry's constants for pH 7 for all the working temperatures were initially calculated with the aid of Eq. ( ): (2) H−1o3=6.91×108ρwater[OH−]0.0035exp(−2428T) where, H−1o3 is the constant of Henry's Law for ozone in water, ρwater is the density of water at the temperature of the experiment and T is the temperature. The values of the Henry constants are given in . Subsequently, we calculated the concentrations of dissolved ozone in water by using the Eq. (3) ( ): (3) Caq=H−1o3·Po3 where Po3 is the pressure of ozone. The values of dissolved ozone in water by the application of three ozone concentrations 8.5, 13.5 and 20 ppm in neutral buffer solution of aflatoxins AFB1 and AFG1, for all the working temperatures are given in . Finally, was calculated the true rate constants for the degradation of aflatoxins AFB1 and AFG1, by dividing the apparent rate constants, with the concentration of dissolved ozone in water according to the Eq. (cf. ): (4) ktrue=kappCaq The true rate constants that were observed during decomposition of aflatoxins AFB1 and AFG1, in the presence of ozone, at all temperatures were greater than those for the decomposition of aflatoxins AFB2 and AFG2. As one can see from , the true rate constants depend on temperature and increase with increasing temperature. Higher temperatures with ozone treatment substantially increased the degradation of aflatoxins AFB1 and AFG1. Although the true rate constants should be increase with the concentration of ozone this actually not happening. This can be attributed to the fact that as the concentration of ozone increases, the concentration of dissolved ozone in water increases, too. Therefore because the true values of the rate constants for the degradation of aflatoxins AFG1 and AFB1, were obtained by dividing the apparent rate constants with the concentration of dissolved ozone in water, these rate constants are normalized and do not increase as ozone concentration increases. The activation energies for the degradation of aflatoxins were calculated from the Arrhenius equation: (5) lnktrue=lnA−EaR·1T where A is the pre-exponential factor, Ea is the activation energy, R is the gas constant and T is the temperature value. Using the calculated values of the true rate constants for each ozone concentration and plotting ln ktrue vs 1/T (cf. ), the activation energies at each ozone concentration of the degradation of aflatoxins were determined from the slopes of the graphical representations. The activation energies for aflatoxin AFB1 and AFG1 are given in . From it can be concluded as the concentration of ozone increases, the activation energies increase too, for both aflatoxins. 4</text>
+      <annotation id="81">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16818" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14018" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14473" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14542" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15057" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15154" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16143" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16509" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16843" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17056" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17099" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17501" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17891" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18035" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18076" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18096" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18985" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12776" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13472" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13924" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13988" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14188" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14403" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14446" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14563" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14581" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14606" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15183" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15200" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15265" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15308" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="112">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15605" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15677" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15752" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15829" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15865" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15882" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16248" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16680" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16707" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16748" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="122">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16776" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17002" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17193" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17221" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17309" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17340" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="128">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17383" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="129">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17389" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="130">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17676" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17703" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17877" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="133">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18114" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18260" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="135">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18277" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="136">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18359" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18376" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="138">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18397" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="139">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18424" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="140">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18623" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18650" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="142">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18725" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18731" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="144">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19068" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19074" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="146">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19157" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19163" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="148">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19375" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19392" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12597" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="151">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15797" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="152">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15988" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16726" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>19470</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19481</offset>
+      <text>As a general conclusion one could say that the gaseous ozone was highly effective in the degradation mainly of aflatoxins AFB1 and AFG1, despite the degradation of aflatoxins AFB2 and AFG2. Especially, between the aflatoxins AFB1 and AFG1 more sensitive to treatment with ozone proved to be the AFG1, at the higher ozone concentration and the AFB1 at the lower concentrations. The found activation energies show that the degradation of aflatoxins is an activated process depending not only on the nature of the aflatoxins but also on the ozone concentration.</text>
+      <annotation id="154">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19536" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="155">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19753" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="156">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19796" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="157">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19802" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="158">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19842" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="159">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20019" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="160">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20025" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>
