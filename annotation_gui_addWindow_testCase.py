@@ -3,7 +3,7 @@ import customtkinter as ctk
 from customtkinter import CTkCanvas, CTkScrollbar, CTkScrollableFrame, IntVar, CTkOptionMenu, CTkTextbox, CTkButton, CTkFrame, StringVar, CTkLabel, CTkSwitch
 from tabledataextractor import Table
 import traceback
-
+from tkinter import scrolledtext
 """
 Hint:
 To use this app following things have to be added:
@@ -83,33 +83,46 @@ class TableWindow(ctk.CTk):
 class ProgressFrame(CTkFrame):
     def __init__(self, parent: TableWindow):
         super().__init__(parent)
-        self.grid(row=1, column=1, pady=(0, 10), padx=5, sticky="w")
+        self.grid(row=1, column=1, pady=(0, 10), sticky="w")
+
+        self.current_table_status = CTkLabel(self)
+        self.current_table_status.grid(row=0, column=0)
 
         self.heading = CTkLabel(self)
-        self.heading.grid(row=0, column=0)
+        self.heading.grid(row=1, column=0)
 
-        self.progressbar = ctk.CTkProgressBar(self, width=200)
-        self.progressbar.grid(row=1, column=0, padx=5, pady=5)
+        self.progressbar = ctk.CTkProgressBar(self, width=130)
+        self.progressbar.grid(row=2, column=0, padx=5, pady=5)
         self.progressbar.set(0)
 
 
-class CaptionFrame(CTkFrame):
+class CaptionFrame(CTkTextbox):
     def __init__(self, parent: TableWindow):
-        super().__init__(parent)
+        super().__init__(parent,
+                         width=625,
+                         height=74,
+                         wrap=ctk.WORD,
+                         state="disabled")
     
-        self.grid(row=1, column=0, padx=5, sticky="e")
+        self.grid(row=1, column=0, padx=5, pady=(0, 10), sticky="e")
     
-        self.heading = CTkLabel(self)
-        self.heading.grid(row=0, column=0, pady=0)
-
+        #self.heading = CTkLabel(self)
+        #self.heading.grid(row=0, column=0, pady=0)
+        """
         self.caption = CTkLabel(
             self,  
             wraplength=600, 
             justify="left"
             )
         self.caption.grid(row=1, column=0, pady=5, padx=5)
-        
+        """
         self.grid_remove()
+    
+    def insert_caption(self, heading, caption):
+        self.configure(state="normal")
+        self.delete("1.0", ctk.END)
+        self.insert("1.0", text=heading + " " + caption)
+        self.configure(state="disabled")
 
 
 class TransposeSwitch(CTkSwitch):
@@ -220,22 +233,23 @@ class GeneratorFrame(CTkFrame):
 
 
 
+    # Change (Is Table completed or not? --> change caption_frame to progress_frame)
     def set_caption(self):
         # Set count for tables which have been annotated
         annotated_tables_amount = sum(1 for state in self.tab_anno_state if state)
         #update progress window (bar and label)
-        self.parent.progress_frame.heading.configure(text=f"Progress: {annotated_tables_amount}/{self.n + 1} Tables")
+        self.parent.progress_frame.heading.configure(text=f"Total: {annotated_tables_amount}/{self.n + 1} Tables")
         self.parent.progress_frame.progressbar.set(int(annotated_tables_amount)/int(self.n + 1))
         # Count Tables according to order from paper and set header in caption frame
         heading = f"Table {self.i + 1}: "
         if self.tab_anno_state[self.i]:
-            self.parent.caption_frame.heading.configure(text=heading + "(Completed)")
+            self.parent.progress_frame.current_table_status.configure(text="Current: Completed")
         else:
-            self.parent.caption_frame.heading.configure(text=heading) 
+            self.parent.progress_frame.current_table_status.configure(text="Current: None") 
         # Get extracted caption and caption in caption frame
-        caption = self.parent.tables_from_main["tables"][self.i]["caption"]     
-        self.parent.caption_frame.caption.configure(text=caption)
-
+        caption = self.parent.tables_from_main["tables"][self.i]["caption"]
+        # This function handles the insertion of the caption in a way that the user cant change text via cursor
+        self.parent.caption_frame.insert_caption(heading, caption)
 
 
     def generate_table(self, event=None, transpose=False):
@@ -537,8 +551,8 @@ class TableFrame(CTkFrame):
         WIDTH = 1080
         HEIGHT = 600
         self.canvas = CTkCanvas(self, width=WIDTH, height=HEIGHT)
-        self.canvas.bind_all("<MouseWheel>", lambda event: self.canvas.yview_scroll(event.delta, "units"))
-        self.canvas.bind_all("<Shift MouseWheel>", lambda event: self.canvas.xview_scroll(event.delta, "units"))
+        self.canvas.bind("<MouseWheel>", lambda event: self.canvas.yview_scroll(event.delta, "units"))
+        self.canvas.bind("<Shift MouseWheel>", lambda event: self.canvas.xview_scroll(event.delta, "units"))
         self.button_frame = CTkFrame(self.canvas)
 
         self.v_s = CTkScrollbar(
