@@ -1,2 +1,7 @@
-# Ignore all .log files
-*.log
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore specific log file
+tde_log.txt
