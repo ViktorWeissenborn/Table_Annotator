@@ -158,7 +158,7 @@ class ListboxFrame(CTkFrame):
                     # Extract the table caption
                     caption = passage.find("./text").text.strip()
                     # Extract the raw table data
-                    raw_table_data = raw_table.text.strip()
+                    raw_table_data = eval(raw_table.text.strip())
                     # Append table information
                     tables["tables"].append({"caption": caption, "raw_table_data": raw_table_data})
         
