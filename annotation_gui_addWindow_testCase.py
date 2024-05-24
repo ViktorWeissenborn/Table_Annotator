@@ -434,6 +434,9 @@ class OverwritePopUp(ctk.CTkToplevel):
         #Show PopUp when everything is loaded
         self.deiconify()
 
+        # Ensure the window stays on top
+        self.keep_on_top()
+
     def overwrite_file(self, file_path, data):
         self.parent.write_anno_tab_to_json(file_path, data)
         self.destroy()
@@ -445,6 +448,13 @@ class OverwritePopUp(ctk.CTkToplevel):
         # Call collect function again to add table annotation to table_collection list
         self.parent.collect()
         self.destroy()
+    
+    def keep_on_top(self):
+        # Keep the window on top
+        self.attributes("-topmost", True)
+        self.lift()
+        # Repeat after 200 milliseconds
+        self.after(200, self.keep_on_top)
 
 
 class ErrorPopUp(ctk.CTkToplevel):
