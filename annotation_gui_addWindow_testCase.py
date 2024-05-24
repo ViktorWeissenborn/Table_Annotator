@@ -3,7 +3,8 @@ import customtkinter as ctk
 from customtkinter import CTkCanvas, CTkScrollbar, CTkScrollableFrame, IntVar, CTkOptionMenu, CTkTextbox, CTkButton, CTkFrame, StringVar, CTkLabel, CTkSwitch
 from tabledataextractor import Table
 import traceback
-from tkinter import scrolledtext
+import os
+import json
 """
 Hint:
 To use this app following things have to be added:
@@ -198,7 +199,7 @@ class GeneratorFrame(CTkFrame):
         self.collect_button = CTkButton(self, text="Collect", command=self.collect)
         self.collect_button.grid(row=0, column=3, padx=10, pady=10)
 
-        self.export_button = CTkButton(self, text="Export", state="disabled")
+        self.export_button = CTkButton(self, text="Export", state="disabled", command=self.export_annotations)
         self.export_button.grid(row=0, column=4, padx=10, pady=10)
         self.parent.bind(
             "<Return>", 
@@ -208,6 +209,39 @@ class GeneratorFrame(CTkFrame):
         # Create first table of list when window is opened.
         self.generate_table()
         self.set_caption()
+
+
+    def export_annotations(self):
+        folder_path = "./annotated_tables/"
+        # Document identifier related to doi
+        doc_id = self.parent.tables_from_main["doc_id"]
+        filename = doc_id + ".json"
+        data = {"doc_id":doc_id, "tables":self.table_collection}
+
+        if not os.path.exists(folder_path):
+            # Create the folder if it does not exist
+            os.makedirs(folder_path)
+            print(f"Folder '{folder_path}' created.")
+        else:
+            print(f"Folder '{folder_path}' already exists.")
+        
+        # Construct the full file path
+        file_path = os.path.join(folder_path, filename)
+        
+        # Check if the file already exists in the folder
+        if os.path.exists(file_path):
+            # Raise a warning if the file already exists
+            print(f"The file '{filename}' already exists in the folder '{folder_path}'.")
+            OverwritePopUp(self, specifier="file_overwrite", file_path=file_path, data=data)
+        else:
+            self.write_anno_tab_to_json(file_path, data)
+
+
+    def write_anno_tab_to_json(self, file_path, data):
+        with open(file_path, 'w') as json_file:
+            print("overwrote file")
+            json.dump(data, json_file, indent=4)
+        print(f"Data has been written to '{file_path}'.")
 
 
     def generate_button_action(self, next=False):
@@ -331,9 +365,13 @@ class GeneratorFrame(CTkFrame):
             self.set_caption()
             print(self.table_collection)
         else:
-            OverwritePopUp(self)
+            OverwritePopUp(self, specifier="tab_overwrite")
             print("Question PopUp: Warning")
 
+        if all(self.tab_anno_state):
+            self.parent.generator_frame.export_button.configure(state="normal")
+        else:
+            self.parent.generator_frame.export_button.configure(state="disabled")
         """
         Data format of Dreams:
        {
@@ -359,7 +397,7 @@ class GeneratorFrame(CTkFrame):
 
 
 class OverwritePopUp(ctk.CTkToplevel):
-    def __init__(self, parent: GeneratorFrame):
+    def __init__(self, parent: GeneratorFrame, specifier, file_path=None, data=None):
         super().__init__(parent)
         # Hide PopUp until its loaded
         self.withdraw()
@@ -372,9 +410,16 @@ class OverwritePopUp(ctk.CTkToplevel):
         self.attributes("-topmost", True)
         self.update()
 
+        if specifier == "tab_overwrite":
+            error_message = "This table has been annotated already. Are you sure you want to overwrite your annotation?"
+            overwrite_func = self.overwrite_table
+        elif specifier == "file_overwrite":
+            error_message = f"The filepath {file_path} already exists. Overwrite?"
+            overwrite_func = lambda: self.overwrite_file(file_path, data)
+
         self.error_label = ctk.CTkLabel(
             self, 
-            text="This table has been annotated already. Are you sure you want to overwrite your annotation?",
+            text=error_message,
             wraplength=300
         )
         self.error_label.pack(padx=20, pady=10)
@@ -382,13 +427,16 @@ class OverwritePopUp(ctk.CTkToplevel):
         self.cancel = CTkButton(self, text="Cancel", command=self.destroy)
         self.cancel.pack(side="left", padx=(10, 5), pady=10)
 
-        self.overwrite = CTkButton(self, text="Continue", command=self.overwrite_table)
+        self.overwrite = CTkButton(self, text="Continue", command=overwrite_func)
         self.overwrite.pack(side="right", padx=(5, 10), pady=10)
         # Center PopUp in MainWindow (parent.parent)
         Utilities.center_window(self, self.parent.parent)
         #Show PopUp when everything is loaded
         self.deiconify()
 
+    def overwrite_file(self, file_path, data):
+        self.parent.write_anno_tab_to_json(file_path, data)
+        self.destroy()
 
     def overwrite_table(self):
         # Set table annotation state for index back to False
@@ -522,11 +570,6 @@ class TableFrame(CTkFrame):
                     continue
                 button.configure(values=comp_off)
             self.stub_col = None
-
-        if "comp" in self.selected_cols.values() and set(comp_on) & set(self.selected_cols.values()):
-            self.parent.generator_frame.export_button.configure(state="normal")
-        else:
-            self.parent.generator_frame.export_button.configure(state="disabled")
 
         print(self.selected_cols)
         for x in self.table_cells:
