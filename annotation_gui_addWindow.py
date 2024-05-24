@@ -1,9 +1,11 @@
 import tkinter as tk
 import customtkinter as ctk
-from customtkinter import CTkCanvas, CTkScrollbar, CTkScrollableFrame, IntVar, CTkOptionMenu, CTkTextbox, CTkButton, CTkFrame, StringVar, CTkLabel, CTkSwitch
+from customtkinter import CTkCanvas, CTkScrollbar, CTkOptionMenu, CTkTextbox, CTkButton, CTkFrame, StringVar, CTkLabel, CTkSwitch
 from tabledataextractor import Table
 import traceback
-
+import os
+import json
+from utils import Utilities
 """
 Hint:
 To use this app following things have to be added:
@@ -13,55 +15,20 @@ to the folder with document id + table number = table id
 - To make this work the text input has to be altered in a way, 
 that it includes document id, caption, and table number
 """
-class Utilities:
-
-    @staticmethod
-    def invoke_button_with_key(event: tk.Event, button: CTkButton):
-        print(event.__dict__)
-        button.invoke()
-    
-    @staticmethod
-    def center_window(object: ctk.CTkToplevel, parent: None|ctk.CTkToplevel =None):
-        object.update_idletasks()
-
-        # Get the window's width and height
-        width = object.winfo_width()
-        height = object.winfo_height()
-
-        # Get the screen width and height
-        screen_width = object.winfo_screenwidth()
-        screen_height = object.winfo_screenheight()
-
-        # Calculate the position to center the window
-        if parent:
-            # Get Parent coordinates
-            parent_x_coord = parent.winfo_rootx()
-            parent_y_coord = parent.winfo_rooty()
-            # Get the width and height of the parent window
-            parent_width = parent.winfo_width()
-            parent_height = parent.winfo_height()
-            # Calculate the position to center the window
-            x = parent_x_coord + parent_width // 2 - width // 2
-            y = parent_y_coord + parent_height // 2 - height // 2
-        else:
-            x = (screen_width - width) // 2
-            y = (screen_height - height) // 2
-
-        # Set the position of the window
-        object.geometry(f"+{x}+{y}")
-        
 
 
 class TableWindow(ctk.CTkToplevel):
-    def __init__(self, tables):
+    def __init__(self, listbox_instance: CTkFrame):
         super().__init__()
         # Hide Window as long as everything is built
         self.withdraw()
         self.title("Table Annotator")
         self.bind("<Escape>", self.close_app)
 
+        self.listbox_instance = listbox_instance
+
         # Tables that were given to this top level window by main window
-        self.tables_from_main = tables
+        self.tables_from_main = listbox_instance.tables
 
         self.table_frame = TableFrame(self)
 
@@ -83,33 +50,46 @@ class TableWindow(ctk.CTkToplevel):
 class ProgressFrame(CTkFrame):
     def __init__(self, parent: TableWindow):
         super().__init__(parent)
-        self.grid(row=1, column=0, pady=(0, 10))
+        self.grid(row=1, column=1, pady=(0, 10), sticky="w")
+
+        self.current_table_status = CTkLabel(self)
+        self.current_table_status.grid(row=0, column=0)
 
         self.heading = CTkLabel(self)
-        self.heading.grid(row=0, column=0)
+        self.heading.grid(row=1, column=0)
 
-        self.progressbar = ctk.CTkProgressBar(self, width=200)
-        self.progressbar.grid(row=1, column=0, padx=5, pady=5)
+        self.progressbar = ctk.CTkProgressBar(self, width=130)
+        self.progressbar.grid(row=2, column=0, padx=5, pady=5)
         self.progressbar.set(0)
 
 
-class CaptionFrame(CTkFrame):
+class CaptionFrame(CTkTextbox):
     def __init__(self, parent: TableWindow):
-        super().__init__(parent)
+        super().__init__(parent,
+                         width=625,
+                         height=74,
+                         wrap=ctk.WORD,
+                         state="disabled")
     
-        self.grid(row=2, column=0)
+        self.grid(row=1, column=0, padx=5, pady=(0, 10), sticky="e")
     
-        self.heading = CTkLabel(self)
-        self.heading.grid(row=0, column=0, pady=0)
-
+        #self.heading = CTkLabel(self)
+        #self.heading.grid(row=0, column=0, pady=0)
+        """
         self.caption = CTkLabel(
             self,  
             wraplength=600, 
             justify="left"
             )
         self.caption.grid(row=1, column=0, pady=5, padx=5)
-        
+        """
         self.grid_remove()
+    
+    def insert_caption(self, heading, caption):
+        self.configure(state="normal")
+        self.delete("1.0", ctk.END)
+        self.insert("1.0", text=heading + " " + caption)
+        self.configure(state="disabled")
 
 
 class TransposeSwitch(CTkSwitch):
@@ -146,7 +126,7 @@ class TransposeSwitch(CTkSwitch):
 class GeneratorFrame(CTkFrame):
     def __init__(self, parent: TableWindow):
         super().__init__(parent)
-        self.grid(row=0, column=0, padx=10, pady=10)
+        self.grid(row=0, column=0, columnspan=2, padx=10, pady=10)
 
         self.parent = parent
         self.table_frame = parent.table_frame
@@ -162,7 +142,7 @@ class GeneratorFrame(CTkFrame):
         # Collected tables (all tables are collected and THEN exported, step by step)
         self.table_collection = [None for _ in range(self.n + 1)]
 
-        self.input_text = None
+        self.input_table = None
         # Is table transposed (True) or not (False)
         self.transpose_state = False
         
@@ -185,7 +165,7 @@ class GeneratorFrame(CTkFrame):
         self.collect_button = CTkButton(self, text="Collect", command=self.collect)
         self.collect_button.grid(row=0, column=3, padx=10, pady=10)
 
-        self.export_button = CTkButton(self, text="Export", state="disabled")
+        self.export_button = CTkButton(self, text="Export", state="disabled", command=self.export_button_command)
         self.export_button.grid(row=0, column=4, padx=10, pady=10)
         self.parent.bind(
             "<Return>", 
@@ -196,6 +176,47 @@ class GeneratorFrame(CTkFrame):
         self.generate_table()
         self.set_caption()
 
+
+    def export_annotations(self):
+        folder_path = "./annotated_tables/"
+        # Document identifier related to doi
+        doc_id = self.parent.tables_from_main["doc_id"]
+        filename = doc_id + ".json"
+        data = {"doc_id":doc_id, "tables":self.table_collection}
+
+        if not os.path.exists(folder_path):
+            # Create the folder if it does not exist
+            os.makedirs(folder_path)
+            print(f"Folder '{folder_path}' created.")
+        else:
+            print(f"Folder '{folder_path}' already exists.")
+        
+        # Construct the full file path
+        file_path = os.path.join(folder_path, filename)
+        
+        # Check if the file already exists in the folder
+        if os.path.exists(file_path):
+            # Raise a warning if the file already exists
+            print(f"The file '{filename}' already exists in the folder '{folder_path}'.")
+            OverwritePopUp(self, specifier="file_overwrite", file_path=file_path, data=data)
+        else:
+            self.write_anno_tab_to_json(file_path, data)
+
+
+    def write_anno_tab_to_json(self, file_path, data):
+        with open(file_path, 'w') as json_file:
+            print("overwrote file")
+            json.dump(data, json_file, indent=4)
+        print(f"Data has been written to '{file_path}'.")
+
+
+    def refresh_document_listbox_progress(self):
+        Utilities.refresh_processed_docs(self.parent.listbox_instance.document_listbox.listbox)
+
+
+    def export_button_command(self):
+        self.export_annotations()
+        self.refresh_document_listbox_progress()
 
     def generate_button_action(self, next=False):
         if (next and self.i < self.n) or (not next and self.i > 0):
@@ -220,22 +241,23 @@ class GeneratorFrame(CTkFrame):
 
 
 
+    # Change (Is Table completed or not? --> change caption_frame to progress_frame)
     def set_caption(self):
         # Set count for tables which have been annotated
         annotated_tables_amount = sum(1 for state in self.tab_anno_state if state)
         #update progress window (bar and label)
-        self.parent.progress_frame.heading.configure(text=f"Progress: {annotated_tables_amount}/{self.n + 1} Tables")
+        self.parent.progress_frame.heading.configure(text=f"Total: {annotated_tables_amount}/{self.n + 1} Tables")
         self.parent.progress_frame.progressbar.set(int(annotated_tables_amount)/int(self.n + 1))
         # Count Tables according to order from paper and set header in caption frame
         heading = f"Table {self.i + 1}: "
         if self.tab_anno_state[self.i]:
-            self.parent.caption_frame.heading.configure(text=heading + "(Completed)")
+            self.parent.progress_frame.current_table_status.configure(text="Current: Completed")
         else:
-            self.parent.caption_frame.heading.configure(text=heading) 
+            self.parent.progress_frame.current_table_status.configure(text="Current: None") 
         # Get extracted caption and caption in caption frame
-        caption = self.parent.tables_from_main["tables"][self.i]["caption"]     
-        self.parent.caption_frame.caption.configure(text=caption)
-
+        caption = self.parent.tables_from_main["tables"][self.i]["caption"]
+        # This function handles the insertion of the caption in a way that the user cant change text via cursor
+        self.parent.caption_frame.insert_caption(heading, caption)
 
 
     def generate_table(self, event=None, transpose=False):
@@ -248,19 +270,20 @@ class GeneratorFrame(CTkFrame):
             for child in self.table_frame.winfo_children():
                 child.destroy()
             
-            #self.input_text = self.parent.table_input_field.get("1.0", "end-1c")
-            self.input_text = self.parent.tables_from_main["tables"][self.i]["raw_table_data"]
+            #self.input_table = self.parent.table_input_field.get("1.0", "end-1c")
+            self.input_table = self.parent.tables_from_main["tables"][self.i]["raw_table_data"]
 
-            # Get table from text field as list of lists
-            self.table_frame.data = eval(self.input_text)
+            # Get table from xml selected via ctk_filemenu and create TDE object to pre-clean (delete empty lines and duplicates) table
+            tde_table_obj = Table(self.input_table)
+            self.table_frame.data = tde_table_obj.pre_cleaned_table.tolist()
             # If transpose is activated table will be generated transposed after switch is clicked
             if transpose:
-                self.table_frame.data = Table(self.table_frame.data).raw_table.transpose().tolist()
+                self.table_frame.data = tde_table_obj.raw_table.transpose().tolist()
                 self.transpose_state = True
 
         
             # Get label table of each cell in the table as list of lists
-            self.table_frame.labels = Table(self.table_frame.data).labels
+            self.table_frame.labels = tde_table_obj.labels
             self.table_frame.create_table()
             # Activate transpose switch after table is created
             self.transpose_switch.configure(state="normal")
@@ -316,9 +339,13 @@ class GeneratorFrame(CTkFrame):
             self.set_caption()
             print(self.table_collection)
         else:
-            OverwritePopUp(self)
+            OverwritePopUp(self, specifier="tab_overwrite")
             print("Question PopUp: Warning")
 
+        if all(self.tab_anno_state):
+            self.parent.generator_frame.export_button.configure(state="normal")
+        else:
+            self.parent.generator_frame.export_button.configure(state="disabled")
         """
         Data format of Dreams:
        {
@@ -344,7 +371,7 @@ class GeneratorFrame(CTkFrame):
 
 
 class OverwritePopUp(ctk.CTkToplevel):
-    def __init__(self, parent: GeneratorFrame):
+    def __init__(self, parent: GeneratorFrame, specifier, file_path=None, data=None):
         super().__init__(parent)
         # Hide PopUp until its loaded
         self.withdraw()
@@ -357,9 +384,16 @@ class OverwritePopUp(ctk.CTkToplevel):
         self.attributes("-topmost", True)
         self.update()
 
+        if specifier == "tab_overwrite":
+            error_message = "This table has been annotated already. Are you sure you want to overwrite your annotation?"
+            overwrite_func = self.overwrite_table
+        elif specifier == "file_overwrite":
+            error_message = f"The filepath {file_path} already exists. Overwrite?"
+            overwrite_func = lambda: self.overwrite_file(file_path, data)
+
         self.error_label = ctk.CTkLabel(
             self, 
-            text="This table has been annotated already. Are you sure you want to overwrite your annotation?",
+            text=error_message,
             wraplength=300
         )
         self.error_label.pack(padx=20, pady=10)
@@ -367,13 +401,20 @@ class OverwritePopUp(ctk.CTkToplevel):
         self.cancel = CTkButton(self, text="Cancel", command=self.destroy)
         self.cancel.pack(side="left", padx=(10, 5), pady=10)
 
-        self.overwrite = CTkButton(self, text="Continue", command=self.overwrite_table)
+        self.overwrite = CTkButton(self, text="Continue", command=overwrite_func)
         self.overwrite.pack(side="right", padx=(5, 10), pady=10)
         # Center PopUp in MainWindow (parent.parent)
         Utilities.center_window(self, self.parent.parent)
         #Show PopUp when everything is loaded
         self.deiconify()
+        self.update()
 
+        # Ensure the window stays on top
+        self.keep_on_top()
+
+    def overwrite_file(self, file_path, data):
+        self.parent.write_anno_tab_to_json(file_path, data)
+        self.destroy()
 
     def overwrite_table(self):
         # Set table annotation state for index back to False
@@ -382,6 +423,13 @@ class OverwritePopUp(ctk.CTkToplevel):
         # Call collect function again to add table annotation to table_collection list
         self.parent.collect()
         self.destroy()
+    
+    def keep_on_top(self):
+        # Keep the window on top
+        self.attributes("-topmost", True)
+        self.lift()
+        # Repeat after 200 milliseconds
+        self.after(200, self.keep_on_top)
 
 
 class ErrorPopUp(ctk.CTkToplevel):
@@ -421,7 +469,7 @@ class TableFrame(CTkFrame):
             #height=1080,
             #width=1920
         )
-        self.grid(row=3, column=0, padx=10, pady=10)
+        self.grid(row=3, column=0, columnspan=2, padx=10, pady=10)
         self.grid_remove()
         self.parent = parent
         self.init_attributes()
@@ -436,8 +484,9 @@ class TableFrame(CTkFrame):
         self.col_type_dd: list[CTkOptionMenu] = []
         self.extraction_length = []
         self.seg_list = ["none", "comp", "k", "k_O3"]
-        self.col_header_labels = ["StubHeader", "ColHeader"]
-        self.row_header_labels = ["StubHeader", "RowHeader"]
+        self.col_header_labels = ["StubHeader", "ColHeader", "TableTitle"]
+        # "Note" is something like a lose sentence in a table
+        self.row_header_labels = ["StubHeader", "RowHeader", "TableTitle", "Note"]
         self.stub_col = None
         self.canvas = None
         self.button_frame = None
@@ -507,11 +556,6 @@ class TableFrame(CTkFrame):
                 button.configure(values=comp_off)
             self.stub_col = None
 
-        if "comp" in self.selected_cols.values() and set(comp_on) & set(self.selected_cols.values()):
-            self.parent.generator_frame.export_button.configure(state="normal")
-        else:
-            self.parent.generator_frame.export_button.configure(state="disabled")
-
         print(self.selected_cols)
         for x in self.table_cells:
             for y in x:
@@ -537,8 +581,8 @@ class TableFrame(CTkFrame):
         WIDTH = 1080
         HEIGHT = 600
         self.canvas = CTkCanvas(self, width=WIDTH, height=HEIGHT)
-        self.canvas.bind_all("<MouseWheel>", lambda event: self.canvas.yview_scroll(event.delta, "units"))
-        self.canvas.bind_all("<Shift MouseWheel>", lambda event: self.canvas.xview_scroll(event.delta, "units"))
+        self.canvas.bind("<MouseWheel>", lambda event: self.canvas.yview_scroll(event.delta, "units"))
+        self.canvas.bind("<Shift MouseWheel>", lambda event: self.canvas.xview_scroll(event.delta, "units"))
         self.button_frame = CTkFrame(self.canvas)
 
         self.v_s = CTkScrollbar(
@@ -634,4 +678,4 @@ class TableFrame(CTkFrame):
 
 
 if __name__ == "__main__":
-     TableWindow()
+    TableWindow()

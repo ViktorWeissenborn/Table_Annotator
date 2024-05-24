@@ -5,8 +5,8 @@ from tkinter import ttk, Listbox
 import os
 import xml.etree.ElementTree as ET
 # Selfmade table annotator app
-import annotation_gui_addWindow
-from annotation_gui_addWindow import Utilities
+from annotation_gui_addWindow import TableWindow
+from utils import Utilities
 
 
 class MainWindow(ctk.CTk):
@@ -38,13 +38,6 @@ class MainWindow(ctk.CTk):
             command=self.open_table_annotate_window
             )
         self.annotate.grid(row=0, column=1, pady=10, padx=5)
-
-        self.save = CTkButton(
-            self.button_frame, 
-            text="Save progress",
-            state="disabled"
-            )
-        self.save.grid(row=1, column=0, pady=0, padx=5)
          
         # Bring window to center
         Utilities.center_window(self)
@@ -60,7 +53,7 @@ class MainWindow(ctk.CTk):
 
     def open_table_annotate_window(self):
         if self.listbox_frame.tables:
-            table_annotate_window = annotation_gui_addWindow.TableWindow(self.listbox_frame.tables)
+            table_annotate_window = TableWindow(self.listbox_frame)
             table_annotate_window.focus_set()
         else:
             print("Error: Table either not recognised, no tables found, or no document selected.")
@@ -106,7 +99,6 @@ class ListboxFrame(CTkFrame):
             elements=table_examples)
         self.table_listbox.listbox.bind("<<ListboxSelect>>", self.tab_listbox_select)
         self.table_listbox.grid(row=1, column=1, pady=10, padx=10)
-
 
     def tab_listbox_select(self, event=None):
         index = self.table_listbox.listbox.curselection()
@@ -178,6 +170,7 @@ class ListboxFrame(CTkFrame):
             if str(file).endswith(".xml"):
                 self.document_listbox.listbox.insert(tk.END, file)
                 self.xml_paths[file] = os.path.join(folder_path, file)
+        self.refresh_processed_docs(self.document_listbox.listbox)
         print(self.xml_paths)
 
 
@@ -185,12 +178,31 @@ class ListboxFrame(CTkFrame):
         self.table_listbox.listbox.delete(0, tk.END)
         captions = [(f"Table {n+1}:", table["caption"]) for n, table in enumerate(self.tables["tables"])]      
         self.table_listbox.listbox.insert(tk.END, *captions)
- 
+    
 
+    def refresh_processed_docs(self, xml_listbox: Listbox):
+        xml_listbox = self.document_listbox.listbox
+        anno_tab_dir = "./annotated_tables/"
 
+        if os.path.exists(anno_tab_dir):
+            files = [os.path.splitext(fname)[0] for fname in os.listdir(anno_tab_dir)]
+            num_items = xml_listbox.size()
+            # Get rid of filextension (.xml) and "_bioc" string in filename for comparison
+            all_items = []
 
+            for i in range(num_items):
+                # Get rid of file extension
+                fname: str = os.path.splitext(xml_listbox.get(i))[0]
+                # Get rid of bioc filename ending if present
+                if fname.endswith("_bioc"):
+                    fname = fname.replace("_bioc", "")
+                all_items.append(fname)
 
-
+            for index, item in enumerate(all_items):
+                if item in files:
+                    # Change color of processed items to green
+                    xml_listbox.itemconfig(index, {'bg': 'lightgreen'})
+                    xml_listbox.update()
 
 
 

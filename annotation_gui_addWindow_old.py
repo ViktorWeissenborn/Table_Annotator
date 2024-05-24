@@ -19,46 +19,95 @@ class Utilities:
     def invoke_button_with_key(event: tk.Event, button: CTkButton):
         print(event.__dict__)
         button.invoke()
+    
+    @staticmethod
+    def center_window(object: ctk.CTkToplevel, parent: None|ctk.CTkToplevel =None):
+        object.update_idletasks()
+
+        # Get the window's width and height
+        width = object.winfo_width()
+        height = object.winfo_height()
+
+        # Get the screen width and height
+        screen_width = object.winfo_screenwidth()
+        screen_height = object.winfo_screenheight()
+
+        # Calculate the position to center the window
+        if parent:
+            # Get Parent coordinates
+            parent_x_coord = parent.winfo_rootx()
+            parent_y_coord = parent.winfo_rooty()
+            # Get the width and height of the parent window
+            parent_width = parent.winfo_width()
+            parent_height = parent.winfo_height()
+            # Calculate the position to center the window
+            x = parent_x_coord + parent_width // 2 - width // 2
+            y = parent_y_coord + parent_height // 2 - height // 2
+        else:
+            x = (screen_width - width) // 2
+            y = (screen_height - height) // 2
+
+        # Set the position of the window
+        object.geometry(f"+{x}+{y}")
         
 
 
-class TableWindow(ctk.CTk):
-    def __init__(self):
+class TableWindow(ctk.CTkToplevel):
+    def __init__(self, tables):
         super().__init__()
+        # Hide Window as long as everything is built
+        self.withdraw()
         self.title("Table Annotator")
         self.bind("<Escape>", self.close_app)
 
-        self.table_input_field = TableInputField(self)
+        # Tables that were given to this top level window by main window
+        self.tables_from_main = tables
 
         self.table_frame = TableFrame(self)
 
-        self.generator_frame = GeneratorFrame(self)
+        self.progress_frame = ProgressFrame(self)
 
         self.caption_frame = CaptionFrame(self)
 
-        self.mainloop()
+        self.generator_frame = GeneratorFrame(self)
+    
+        # Show window when all objects are placed
+        self.deiconify()
     
     
     def close_app(self, event=None):
-        self.withdraw()  # Hide the window (if you want to bring it back later)
-        self.quit()
+        #self.withdraw()  # Hide the window (if you want to bring it back later)
         self.destroy()
+
+
+class ProgressFrame(CTkFrame):
+    def __init__(self, parent: TableWindow):
+        super().__init__(parent)
+        self.grid(row=1, column=0, pady=(0, 10))
+
+        self.heading = CTkLabel(self)
+        self.heading.grid(row=0, column=0)
+
+        self.progressbar = ctk.CTkProgressBar(self, width=200)
+        self.progressbar.grid(row=1, column=0, padx=5, pady=5)
+        self.progressbar.set(0)
 
 
 class CaptionFrame(CTkFrame):
     def __init__(self, parent: TableWindow):
         super().__init__(parent)
-
+    
         self.grid(row=2, column=0)
-        caption_example = """Machine learning is having a substantial effect on many areas of technology and science; examples of recent applied success stories include robotics and autonomous vehicle control (top left), speech processing and natural language processing (top right), neuroscience research (middle), and applications in computer vision (bottom). [The middle panel is adapted from (29). The images in the bottom panel are from the ImageNet database; object recognition annotation is by R. Girshick.]"""
-        
-        self.heading = CTkLabel(self, text="Caption").grid(row=0, column=0, pady=0)
+    
+        self.heading = CTkLabel(self)
+        self.heading.grid(row=0, column=0, pady=0)
+
         self.caption = CTkLabel(
-            self, 
-            text=caption_example, 
-            wraplength=800, 
+            self,  
+            wraplength=600, 
             justify="left"
-            ).grid(row=1, column=0, pady=5, padx=5)
+            )
+        self.caption.grid(row=1, column=0, pady=5, padx=5)
         
         self.grid_remove()
 
@@ -76,7 +125,7 @@ class TransposeSwitch(CTkSwitch):
             onvalue="on",
             offvalue="off")
         
-        self.grid(row=0, column=1, padx=10, pady=10)
+        self.grid(row=0, column=2, padx=10, pady=10)
 
         self.parent: GeneratorFrame = parent
 
@@ -94,49 +143,100 @@ class TransposeSwitch(CTkSwitch):
 
 
 
-class TableInputField(CTkTextbox):
-    def __init__(self, parent):
-        super().__init__(master=parent, width=800)
-        self.grid(row=0, column=0, padx=10, pady=10)
-        self.bind("<Button-1>", self.show_cursor)
-
-    def show_cursor(self, event):
-        self.configure(state="normal")
-
-
-
-
 class GeneratorFrame(CTkFrame):
     def __init__(self, parent: TableWindow):
         super().__init__(parent)
-        self.grid(row=1, column=0, padx=10, pady=10)
-        
+        self.grid(row=0, column=0, padx=10, pady=10)
+
         self.parent = parent
         self.table_frame = parent.table_frame
+
+        # Current Table Index
+        self.i = 0
+        # Length of table list
+        self.n = len(self.parent.tables_from_main["tables"]) - 1
+        # Tracker if table was annotated (True) or not (False) --> each table gets a true or false statement in list
+        self.tab_anno_state = [False for _ in range(self.n + 1)]
+        print("This command has been executedThis command has been executedThis command has been executedThis command has been executedThis command has been executedThis command has been executedThis command has been executed")
+
+        # Collected tables (all tables are collected and THEN exported, step by step)
+        self.table_collection = [None for _ in range(self.n + 1)]
 
         self.input_text = None
         # Is table transposed (True) or not (False)
         self.transpose_state = False
         
-        self.generate_table_button = CTkButton(
-            self, text="Generate Table", 
-            command=self.generate_button_action
+        # Buttons
+        self.previous_table = CTkButton(
+            self, text="Previous", 
+            command=self.generate_button_action,
+            state="disabled"
         )
-        self.generate_table_button.grid(row=0, column=0, padx=10, pady=10)
+        self.previous_table.grid(row=0, column=0, padx=10, pady=10)
+
+        self.next_table = CTkButton(
+            self, text="Next", 
+            command=lambda: self.generate_button_action(next=True)
+        )
+        self.next_table.grid(row=0, column=1, padx=10, pady=10)
 
         self.transpose_switch = TransposeSwitch(self)
 
-        self.export_button = CTkButton(self, text="Collect and Export (Enter)", command=self.export, state="disabled")
-        self.export_button.grid(row=0, column=2, padx=10, pady=10)
+        self.collect_button = CTkButton(self, text="Collect", command=self.collect)
+        self.collect_button.grid(row=0, column=3, padx=10, pady=10)
+
+        self.export_button = CTkButton(self, text="Export", state="disabled")
+        self.export_button.grid(row=0, column=4, padx=10, pady=10)
         self.parent.bind(
             "<Return>", 
             lambda event, b=self.export_button: Utilities.invoke_button_with_key(event, b)
         )
 
-
-    def generate_button_action(self):
+        # Create first table of list when window is opened.
         self.generate_table()
-        self.transpose_switch.deselect()
+        self.set_caption()
+
+
+    def generate_button_action(self, next=False):
+        if (next and self.i < self.n) or (not next and self.i > 0):
+            if next:
+                self.i += 1
+            else:
+                self.i -= 1
+            self.set_caption()
+            self.generate_table()
+            self.transpose_switch.deselect()
+        else:
+            print("Can not go back or past further")
+
+        # Disable prev or next button when end of table list is reached
+        if self.i == 0:
+            self.previous_table.configure(state="disabled")
+        elif self.i == self.n:
+            self.next_table.configure(state="disabled")
+        else:
+            self.previous_table.configure(state="normal")
+            self.next_table.configure(state="normal")
+
+
+
+    def set_caption(self):
+        # Set count for tables which have been annotated
+        annotated_tables_amount = sum(1 for state in self.tab_anno_state if state)
+        #update progress window (bar and label)
+        self.parent.progress_frame.heading.configure(text=f"Progress: {annotated_tables_amount}/{self.n + 1} Tables")
+        self.parent.progress_frame.progressbar.set(int(annotated_tables_amount)/int(self.n + 1))
+        # Count Tables according to order from paper and set header in caption frame
+        heading = f"Table {self.i + 1}: "
+        if self.tab_anno_state[self.i]:
+            self.parent.caption_frame.heading.configure(text=heading + "(Completed)")
+        else:
+            self.parent.caption_frame.heading.configure(text=heading) 
+        # Get extracted caption and caption in caption frame
+        caption = self.parent.tables_from_main["tables"][self.i]["caption"]     
+        self.parent.caption_frame.caption.configure(text=caption)
+
+
 
     def generate_table(self, event=None, transpose=False):
         # Parse the input text as a list of lists
@@ -148,9 +248,9 @@ class GeneratorFrame(CTkFrame):
             for child in self.table_frame.winfo_children():
                 child.destroy()
             
-            self.input_text = self.parent.table_input_field.get("1.0", "end-1c")
-            #self.input_text = """[['No.', '', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33'], ['Molecule', '', 'm-Trihydroxybenzene', 'Isatin', '2-Nitrophenol', '1,10-Phenanthroline monohydrate', 'Nitrobenzene', '2,4-Dichlorophenol', 'Phenol', '3,4-Dichloroaniline', 'o-Chlorophenol', 'Aniline', 'o-Cresol', '5-Chloro-2-methylbenzylamine', 'o-Nitroaniline', '2-Nitroso-1-naphthol', 'Orange G', 'p-Aminobenzene sulfonic acid', 'p-Phthalic acid', 'Chromotropic acid', 'm-Cresol purple', 'Metanil yellow', 'Bromophenol blue', 'Cresol red', 'Eriochrome blue black R', 'p-Dimethylaminobenzaldehyde', 'Methyl orange', 'Fuchsin basic', 'Methylene blue trihydrate', 'Azure I', 'Crystal violet', 'Methyl red', 'Rhodamine B', 'Bromocresol green', 'Indigo'], ['CAS no.', '', '6099-90-7', '91-56-5', '88-75-5', '5144-89-8', '98-95-3', '120-83-2', '108-95-2', '95-76-1', '95-57-8', '62-53-3', '95-48-7', '27917-13-1', '88-74-4', '132-53-6', '1934-20-9', '121-57-3', '100-21-0', '148-25-4', '62625-31-4', '4005-68-9', '115-39-9', '1733-12-6', '2538-85-4', '100-10-7', '547-58-0', '569-61-9', '7220-79-3', '531-53-3', '548-62-9', '493-52-7', '81-88-9', '76-60-8', '482-89-3'], ['Exp.', '', '−3.912', '−2.333', '−1.833', '−1.585', '−1.580', '−1.542', '−1.519', '−1.492', '−1.423', '−1.363', '−0.986', '−0.715', '−0.574', '−0.555', '−0.378', '−0.345', '−0.079', '−0.079', '0.049', '0.573', '0.665', '0.691', '0.696', '0.714', '0.739', '0.822', '0.907', '0.994', '1.062', '1.077', '1.234', '1.836', '2.428'], ['1', 'Pred.', '−1.862', '−1.580', '−1.250', '−0.026', '−0.685', '−1.392', '−2.051', '−1.297', '−1.721', '−1.721', '−1.533', '−1.062', '−0.215', '0.115', '0.350', '−0.780', '0.680', '0.021', '0.303', '0.962', '0.445', '−1.533', '0.774', '−1.533', '1.151', '0.303', '1.245', '1.386', '0.539', '0.492', '0.021', '0.303', '0.868'], ['1', 'Diff.', '2.050', '0.753', '0.583', '1.558', '0.894', '0.150', '−0.532', '0.194', '−0.298', '−0.358', '−0.547', '−0.347', '0.360', '0.670', '0.729', '−0.434', '0.759', '0.100', '0.254', '0.389', '−0.220', '−2.223', '0.078', '−2.247', '0.412', '−0.519', '0.338', '0.392', '−0.523', '−0.585', '−1.213', '−1.533', '−1.560'], ['2', 'Pred.', '−1.658', '−1.880', '−1.549', '−0.331', '−1.161', '−1.721', '−2.246', '−1.506', '−2.072', '−1.987', '−0.735', '−1.223', '−0.467', '−0.310', '0.153', '−0.793', '0.583', '−0.522', '0.969', '0.731', '0.224', '−0.676', '0.611', '−1.514', '1.053', '1.171', '1.409', '1.326', '0.734', '0.581', '0.846', '1.194', '0.663'], ['2', 'Diff.', '2.254', '0.453', '0.284', '1.253', '0.419', '−0.179', '−0.727', '−0.014', '−0.649', '−0.624', '0.251', '−0.508', '0.107', '0.246', '0.532', '−0.448', '0.662', '−0.443', '0.920', '0.158', '−0.440', '−1.367', '−0.084', '−2.228', '0.314', '0.349', '0.503', '0.332', '−0.327', '−0.496', '−0.388', '−0.642', '−1.765'], ['3', 'Pred.', '−2.945', '−1.790', '−2.507', '−0.266', '−1.142', '−1.445', '−2.315', '−1.362', '−2.008', '−1.845', '−0.534', '−0.692', '−0.435', '−0.489', '0.022', '−0.781', '0.513', '−0.759', '0.925', '0.633', '1.409', '−0.473', '0.251', '−0.452', '1.069', '1.401', '1.180', '1.118', '0.417', '0.329', '0.412', '1.348', '0.854'], ['3', 'Diff.', '0.967', '0.543', '−0.674', '1.319', '0.438', '0.097', '−0.796', '0.129', '−0.585', '−0.482', '0.453', '0.024', '0.140', '0.066', '0.400', '−0.436', '0.592', '−0.680', '0.877', '0.059', '0.744', '−1.164', '−0.444', '−1.166', '0.330', '0.578', '0.274', '0.124', '−0.645', '−0.748', '−0.822', '−0.488', '−1.574'], ['4', 'Pred.', '−2.905', '−2.379', '−2.997', '−0.367', '−1.620', '−1.176', '−2.121', '−1.286', '−1.864', '−1.055', '−0.829', '−0.963', '−0.103', '−0.598', '−0.266', '−0.342', '0.553', '−0.515', '0.622', '0.522', '1.423', '0.064', '0.092', '−0.757', '1.335', '1.390', '1.392', '1.357', '0.230', '0.168', '−0.188', '1.193', '1.063'], ['4', 'Diff.', '1.007', '−0.046', '−1.164', '1.218', '−0.040', '0.366', '−0.602', '0.205', '−0.441', '0.308', '0.157', '−0.247', '0.472', '−0.043', '0.112', '0.003', '0.632', '−0.436', '0.573', '−0.051', '0.759', '−0.626', '−0.604', '−1.471', '0.596', '0.568', '0.486', '0.363', '−0.831', '−0.909', '−1.422', '−0.643', '−1.365']]"""
-            
+            #self.input_text = self.parent.table_input_field.get("1.0", "end-1c")
+            self.input_text = self.parent.tables_from_main["tables"][self.i]["raw_table_data"]
+
             # Get table from text field as list of lists
             self.table_frame.data = eval(self.input_text)
             # If transpose is activated table will be generated transposed after switch is clicked
@@ -170,45 +270,54 @@ class GeneratorFrame(CTkFrame):
             print(error_message)
 
 
-    def export(self):
-        # This variable tells how many top rows are column headers (top down)
-        selected_cols = self.table_frame.selected_cols
-        # Dict holds fully annotated table data
-        entry = {}
-        entry["#-cols"] = self.table_frame.cols
-        entry["#-rows"] = self.table_frame.rows
-        entry["transposed"] = self.transpose_state
-        entry["data"] = []
-        entry["entities"] = {"headers": {}, "data_points": []}
+    def collect(self):
+        if not self.tab_anno_state[self.i]:
+            # This variable tells how many top rows are column headers (top down)
+            selected_cols = self.table_frame.selected_cols
+            # Dict holds fully annotated table data
+            entry = {}
+            entry["#-cols"] = self.table_frame.cols
+            entry["#-rows"] = self.table_frame.rows
+            entry["transposed"] = self.transpose_state
+            entry["data"] = []
+            entry["entities"] = {"headers": {}, "data_points": []}
 
-        for row in self.table_frame.table_cells:
+            for row in self.table_frame.table_cells:
 
-            entry["data"].append([])
-            # one data point conssists of at least compound and rate constant
-            data_points = entry["entities"]["data_points"]
-            data_point = []
+                entry["data"].append([])
+                # one data point conssists of at least compound and rate constant
+                data_points = entry["entities"]["data_points"]
+                data_point = []
 
-            for col in row:
-                # Add cell_data dict of every button to data, which acts as representation of whole annotated table
-                entry["data"][-1].append(col.cell_data)
-                # Define all variables
-                text = col.cell_data["text"]
-                entity_type = col.cell_data["type"]
-                headers = entry["entities"]["headers"]
+                for col in row:
+                    # Add cell_data dict of every button to data, which acts as representation of whole annotated table
+                    entry["data"][-1].append(col.cell_data)
+                    # Define all variables
+                    text = col.cell_data["text"]
+                    entity_type = col.cell_data["type"]
+                    headers = entry["entities"]["headers"]
+                    
+                    # Check if col_header is true --> is cell col_header?
+                    if col.cell_data["col_header"] and entity_type:
+                        if entity_type not in headers:
+                            headers[entity_type] = []
+                        headers[entity_type].append(text)
+                    # Check if col_header is false if type has an annotated_table_data --> is cell entity?
+                    elif entity_type:
+                        data_point.append({entity_type: text})
                 
-
-                # Check if col_header is true --> is cell col_header?
-                if col.cell_data["col_header"] and entity_type:
-                    if entity_type not in headers:
-                        headers[entity_type] = []
-                    headers[entity_type].append(text)
-                # Check if col_header is false if type has an annotated_table_data --> is cell entity?
-                elif entity_type:
-                    data_point.append({entity_type: text})
-            
-            if data_point:
-                data_points.append(data_point)
-        print(entry)
+                if data_point:
+                    data_points.append(data_point)
+            # Add an annotated table as dictionary to table collection in order
+            self.table_collection[self.i] = entry
+            # Change state of index for currently annotated table to True --> annotated
+            self.tab_anno_state[self.i] = True
+            # Refresh annotated table counter
+            self.set_caption()
+            print(self.table_collection)
+        else:
+            OverwritePopUp(self)
+            print("Question PopUp: Warning")
 
         """
         Data format of Dreams:
@@ -232,6 +341,47 @@ class GeneratorFrame(CTkFrame):
         "caption": ""
         }
         """
+
+
+class OverwritePopUp(ctk.CTkToplevel):
+    def __init__(self, parent: GeneratorFrame):
+        super().__init__(parent)
+        # Hide PopUp until its loaded
+        self.withdraw()
+        self.title("WARNING!")
+        Utilities.center_window(self)
+        self.parent = parent
+        # Avoid interaction with other windows
+        self.grab_set()
+        # Put window on top of others no matter where you click on screen
+        self.attributes("-topmost", True)
+        self.update()
+
+        self.error_label = ctk.CTkLabel(
+            self, 
+            text="This table has been annotated already. Are you sure you want to overwrite your annotation?",
+            wraplength=300
+        )
+        self.error_label.pack(padx=20, pady=10)
+    
+        self.cancel = CTkButton(self, text="Cancel", command=self.destroy)
+        self.cancel.pack(side="left", padx=(10, 5), pady=10)
+
+        self.overwrite = CTkButton(self, text="Continue", command=self.overwrite_table)
+        self.overwrite.pack(side="right", padx=(5, 10), pady=10)
+        # Center PopUp in MainWindow (parent.parent)
+        Utilities.center_window(self, self.parent.parent)
+        #Show PopUp when everything is loaded
+        self.deiconify()
+
+
+    def overwrite_table(self):
+        # Set table annotation state for index back to False
+        index = self.parent.i
+        self.parent.tab_anno_state[index] = False
+        # Call collect function again to add table annotation to table_collection list
+        self.parent.collect()
+        self.destroy()
 
 
 class ErrorPopUp(ctk.CTkToplevel):

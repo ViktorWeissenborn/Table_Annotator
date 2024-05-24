@@ -433,6 +433,7 @@ class OverwritePopUp(ctk.CTkToplevel):
         Utilities.center_window(self, self.parent.parent)
         #Show PopUp when everything is loaded
         self.deiconify()
+        self.update()
 
         # Ensure the window stays on top
         self.keep_on_top()
