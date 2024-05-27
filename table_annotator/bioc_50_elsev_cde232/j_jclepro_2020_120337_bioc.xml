@@ -1,0 +1,936 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-05-27</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.jclepro.2020.120337</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">INNOVATIVEPROCESSFORTOTALPETROLEUMHYDROCARBONSREDUCTIONOILREFINERYSLUDGETHROUGHMICROBUBBLEOZONATION</infon>
+      <infon key="name_0">surname:SUN</infon>
+      <infon key="license">© 2020 Elsevier Ltd. All rights reserved.</infon>
+      <infon key="source">Journal of Cleaner Production</infon>
+      <infon key="year">2020-02-03</infon>
+      <infon key="volume">256</infon>
+      <infon key="issue">0959-6526</infon>
+      <infon key="fpage">120337</infon>
+      <infon key="pub-id_doi">10.1016/j.jclepro.2020.120337</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S095965262030384X</infon>
+      <infon key="kwd">['Total petroleum hydrocarbons', 'Oily sludge', 'Microbubble ozonation', 'Flotation']</infon>
+      <offset>0</offset>
+      <text>Innovative process for total petroleum hydrocarbons reduction on oil refinery sludge through microbubble ozonation</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>115</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>133</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>144</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>153</offset>
+      <text>Oil refinery sludge is a complex mixture of hydrocarbons, water and sediments produced in the refining process, which is classified as a hazardous waste. The source reduction of sludge is inhibited by the combination of total petroleum hydrocarbons (TPH) and solid particles, and the decomposition of TPH is a critical step for oily sludge (OS) disposal. Microbubble ozonation was introduced to improve the efficiency for TPH removal in this work. 70.9% of TPH was found to be decomposed from OS with the initial pH of 3, ozone dosage of 0.27 gO3/gTS and total solid of 2% in 120 min. The corresponding reaction rate constant k for the rapid stage reached 0.0269 min−1, two times higher than the control system of macrobubble ozonation. The synergistic effect of oxidation and flotation was observed in the microbubble system by destroying the chemical bonds between petroleum hydrocarbons and particle surface and improving the adhesion probability between microbubbles and oily flocs. A broad-spectrum removal rate of 71.7–79.5% was observed for the middle or long chain hydrocarbons fractions (nC7-C10, nC11-C20, nC21-C30 and nC31-C40) in TPH. Most of heavy hydrocarbons (nC21-C40) in OS were oxidized and decomposed to the low boiling point hydrocarbons according to thermogravimetric results. The principal intermediates included 42.6% carboxylic acids, 18.8% phenolics and 13.9% alcohols and other gaseous byproducts. Microbubble ozonation is expected to be the first step for detoxification and decomposition of OS, thus reducing the generation of hazardous wastes.</text>
+      <annotation id="1">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="666" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="675" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1726</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1733</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S095965262030384X-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1741</offset>
+      <text>Scheme diagram of oily sludge ozonation equipment.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S095965262030384X-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1792</offset>
+      <text>Variations (a) and first-order kinetic plots (b) of TPH with time during microbubble and macrobubble ozonation. Data plotted as mean of duplicates and the error bars indicate data reproducibility. Reaction conditions: pH, 3.0 ± 0.1; initial TPH, 8000 ± 60 mg/kg; ozone concentration, 0.09 g/L; gas flow rate, 0.5 L/min.</text>
+      <annotation id="3">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2010" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2055" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2061" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1817" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S095965262030384X-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2112</offset>
+      <text>Carbon range of TPH with time during microbubble and macrobubble ozone aeration. Data plotted as mean of duplicates and the error bars indicate data reproducibility. Reaction conditions: pH, 3.0 ± 0.1; initial TPH, 8000 ± 60 mg/kg; ozone concentration, 0.09 g/L; gas flow rate, 0.5 L/min.</text>
+      <annotation id="7">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2299" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2177" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2344" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2350" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S095965262030384X-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2401</offset>
+      <text>Effect on TPH degradation based on different operating conditions: (a) initial pH, (b) ozone dosage and (c) sludge concentration. Reaction conditions: pH, 3.0 ± 0.1; initial TPH, 8000 ± 60 mg/kg; ozone concentration, 0.09 g/L; gas flow rate, 0.5 L/min.</text>
+      <annotation id="11">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2480" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2552" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2488" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2516" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2597" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2603" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S095965262030384X-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2654</offset>
+      <text>TG profiles (a) and DTG profiles (b) of raw and treated oily sludge after microbubble ozonation treatment.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S095965262030384X-gr6.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2761</offset>
+      <text>FT-IR Spectra of raw and treated oily sludge after microbubble ozonation treatment.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S095965262030384X-gr7.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2845</offset>
+      <text>TPH degradation process by microbubble ozonation.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S095965262030384X-fx1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2895</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2896</offset>
+      <text>Graphical abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2915</offset>
+      <text>[]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2918</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2927</offset>
+      <text>['Total petroleum hydrocarbons', 'Oily sludge', 'Microbubble ozonation', 'Flotation']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3013</offset>
+      <text>Abbreviations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3027</offset>
+      <text>OS Oily sludge TPH Total petroleum hydrocarbons TGA Thermogravimetric analyzer FT-IR Fourier transform infrared spectroscopy TS Total solid •OH Hydroxyl radicals HO2• Perhydroxyl radical LMW Low molecular weight DTG Derivative thermogravimetric</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3272</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3285</offset>
+      <text>Oily sludge (OS) is one of the notable solid waste pollutant substances generated in petroleum refineries (Chen et al., 2019; Roudneshin and Azadeh, 2019). Unlike sewage sludge, OS contains different quantities of total petroleum hydrocarbons (TPH) and other toxic components which are the major cause of environmental pollution according to U.S. Environmental Protection Agency (Zhang et al., 2020). The immobility of TPH in sludge makes it challenging for further disposal of sludge, and it is significant to develop effective and clean technology for TPH disintegration and source reduction of oily sludge . Advanced oxidation process is the attractive technology for sludge disposal due to the high oxidized potential, and Fenton (Ouriache et al., 2019), ultrasound (Gągol et al., 2018; Xu et al., 2009), supercritical water oxidation (Hamid et al., 2015), and photocatalysis (Da Rocha et al., 2010) have been introduced for OS disposal. Energy consumption, treatment efficiency and different additive approaches are summarized in Table S1 (Ludbrook et al., 2019; Udell et al., 2019). Both high oxidation potential and no sludge generation make ozonation an attractive method (Kannah R et al., 2019; Cosgun and Semerci, 2019). Ozonation can enhance the decomposition and mineralization of TPH by adding an oxygen atom to petroleum hydrocarbons (Chen et al., 2018; Ji et al., 2018). Ozone has been carried out for the removal of petroleum hydrocarbons and polycyclic aromatic hydrocarbons in soils (Maroušek et al., 2017; O’Mahony et al., 2006), and the biodegradability in oil-polluted soil improved with biodegradable short-chain alkanes, n-aldehydes and n-monocarboxylic acids appearing. Bubble size is the critical factor for the ozonation efficiency (Azuma et al., 2019; Li et al., 2018). Macrobubbles (mean bubble size of about 1 mm) used in the traditional ozonation process lead to the poor contact area of gas-liquid and low utilization efficiency, especially for the treatment of OS with the presence of surfactant and TPH (Khuntia et al., 2012). Changing the bubble size may be an effective way to improve the mass transfer efficiency, since it can enhance the solubility of ozone by improving the contact area and retention time (Fan et al., 2019; Hu and Xia, 2018; Liu et al., 2019). The microbubbles technology has been developed for the remediation of oil spill-contaminated beach sands (Agarwal et al., 2016; Sun et al., 2019). However, the detailed probing of individual hydrocarbons and the proposed degradation mechanisms during oxidation process have not been systematically stated. Microbubble ozonation will increase the contact area and chance of OS, thus improving the ozonation efficiency. The aim of this study is to determine the feasibility of removing and decomposing TPH from OS utilizing microbubble ozonation. The intermediate products were analyzed through the variations of fractions with different carbon chain, thermogravimetric analyzer (TGA) and Fourier transform infrared spectroscopy (FT-IR) combined. The decomposition pathways of TPH in OS were proposed finally. This research provided a green technology for reduction of OS and insights in microbubble ozonation process.</text>
+      <annotation id="17">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="4672" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="5476" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6504</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6526</offset>
+      <text>[]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6529</offset>
+      <text>Sludge source</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6543</offset>
+      <text>The experimental sludge was collected from an oil refinery in Shanghai, China. After retrieval, the sludge samples were centrifuged (8,000 rpm) for 10 min and then stored at 4 °C before being used in the following tests. The characteristics of the sludge were given in Table S2.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6822</offset>
+      <text>Experimental set-up</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6842</offset>
+      <text>The ozonation was carried out in a transparent rigid Plexiglas reactor with an inner diameter of 60 mm, height of 700 mm, and effective volume of 2 L (Fig. 1). Aeration devices with the size of 0.22–50 μm and 500–1000 μm were used to generate microbubbles and macrobubbles respectively (Wang et al., 2017). Ozone was produced by a corona-discharge ozone generator (Guo Lin, Qingdao, China) using oxygen as gas source and the operating pressure was 0.1 MPa. The flow rates of ozone were optimized to 0.5 L/min in the preliminary experiment. The ozone flow rate was controlled by a flow meter in ozone generator, and the flow meter was calibrated by maintenance of ozone generator regularly. The ozone gas concentration was monitored by an ozone concentration detector (Lontec, Qingdao, China) and calibrated by the iodometric method (Bader and Hoigné, 2013). The detector used a dual light channel sampling induction to accurately determine the concentration of ozone gas. The display range of the detector was 0–200 mg/L with an accuracy of 2%. Ozone discharged from the reactor was absorbed by gas absorption bottle containing sodium thiosulfate solution. For each batch experiment, 1 L OS was added into the reactor under 20 °C. Samples were collected at fixed intervals for analyses.</text>
+      <annotation id="19">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7149" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7190" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7317" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7386" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7436" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7505" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7536" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7546" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7580" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7586" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7787" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7804" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7888" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8130</offset>
+      <text>Total petroleum hydrocarbon extraction and measurement</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8185</offset>
+      <text>TPH extraction and analysis referred to the Chinese regulation of determination of extractable petroleum hydrocarbons-gas chromatography (MEEC, 2017) with some modification. The details were as follows: The collected samples (30 mL) were extracted with n-hexane by sonication (30 min) for three times, and the solvent layer was dehydrated and collected. Gas chromatographer with flame ionization detector (GC-FID, Shimadzu) endowed with a capillary column (HP-5 Agilent Technologies, 30 m × 0.25 mm × 0.25 μm) was used for TPH determination. The GC was operated with the nitrogen carrier gas at a flow rate of 2 mL/min. The injected temperature was 320 °C with split ratio of 1:2. The initial column temperature was maintained at 60 °C for 1 min and then increased to 290 °C at a rate of 8 °C/min, finally ramped to 320 °C at 30 °C/min for 20 min. The n-alkanes of C7 to C40 were used as the standard samples (An Pu, Shanghai, China) for hydrocarbon content determination. The obtained organic phase was also pipetted into a gas chromatograph-mass spectroscopy (GC-MS, QP2010, Shimadzu, Japan) to characterize the composition of generated products. More details were described in Text S1 (Supporting Information).</text>
+      <annotation id="32">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8818" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8885" length="11"/>
+        <text>temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9399</offset>
+      <text>Analytical methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9418</offset>
+      <text>Total solid (TS) was characterized according to the standard methods (APHA et al., 2012). The pH was detected with a pH meter (PHS-25, Leici Co., Shanghai, China). The thermo-gravimetric behaviors were measured using the thermogravimetric analyzer (TGA/DSC, Mettler Toledo, Shimadzu, Japan) under the air atmosphere with the flow rate of 100 mL/min through a tube furnace system. Around 10 mg of the received sample was tiled in an alumina crucible and was heated from 36 to 900 °C with a heating rate of 10 °C/min (Kariminezhad and Elektorowicz, 2018). Surface functional groups of sludge samples were analyzed using a Fourier transform infrared spectrophotometer (FTIR, Nicolet 6700, USA).</text>
+      <annotation id="34">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9512" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9535" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10110</offset>
+      <text>Statistical analyses</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10131</offset>
+      <text>Pearson’s correlation coefficient (R) under different conditions was conducted using the software SPSS 18.0. An analysis of variance (ANOVA) was carried out to evaluate the significance of the results. A 95% confidence interval (p &lt; 0.05) was considered to be statistically significant.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10418</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10441</offset>
+      <text>[]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10444</offset>
+      <text>Total petroleum hydrocarbons decomposition process under microbubble ozonation and macrobubble ozonation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10549</offset>
+      <text>[]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10552</offset>
+      <text>Evaluation of removal kinetics of total petroleum hydrocarbons</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10615</offset>
+      <text>The decomposition of TPH was investigated and compared between the microbubble ozonation and macrobubble ozonation processes (Fig. 2a). In the microbubble ozonation, 56% TPH was decomposed within 30 min and then it reached to 70.9% under the test condition of 120 min, while only 36.8% was observed in the macrobubble ozonation. This decrease in TPH was probably due to oxidation of some hydrocarbons by hydroxyl radicals and O3 during ozonation. Chen et al. (2018) obtained a TPH removal efficiency of only 60% using a preozonation in the case of soils containing weathered petroleum within 4 h, which was mainly attributed to a much greater concentration of dissolved ozone and a higher ozone utilization rate in microbubble ozonation. A pseudo-first-order kinetic modeling was employed to estimate the dissipation of TPH in the initiated phases (Fig. S1), especially in 30 min according to the Fig. 2b. The decomposition process could be described as the Eq. (1), assuming that O3 and •OH were the main radical chain species (Jean-Pierre Simonin, 2016; Moussout et al., 2018): Ct/C0=exp(−kt)=exp(kO3∫0tO3 dt+kOH∫0t⋅OH dt) where C0 (mg/L) and Ct (mg/L) are the TPH concentration at time 0 and t, respectively; k (min−1) is the overall apparent first-order rate constant; kO3 (min−1) and kOH (min−1) are the pseudo-first-order rate constants of overall ozone and •OH, respectively. The rate constant k was 0.0269 min−1 in the first stage of 30 min, two times higher than that in the macrobubble ozonation of 0.0116 min−1. The removal rate of microbubble ozonation was slightly higher than that of macrobubble ozonation. As Hu and Xia (2018) stated, the maximum removal rates of CODcr, NH3–N, and UV254 in refractory wet-spun acrylic fiber wastewater by the microbubble ozonation were 25%, 9%, and 35% higher than those achieved by the macrobubble ozonation. This happens due to more •OH being generated by microbubble ozonation, which was related to ionic accumulation around the collapsing microbubbles. More small size bubbles were generated in the microbubbles ozonation, and thus increased the contact area and mass transfer efficiency between ozone and TPH/OS (Temesgen et al., 2017).</text>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11258" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11285" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11304" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11782" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11969" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12764" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11368" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11867" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11937" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12806</offset>
+      <text>The distribution fractions of total petroleum hydrocarbons</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12865</offset>
+      <text>The distribution of TPH according to carbon chain length range was illustrated in Fig. 3. The nC7─C10 fraction of OS appeared to be more preferentially degraded, while part fraction of nC11─C40 was found to be increased in the macrobubble ozonation. It could be attributed to the conjugation addition reaction and polymerization of petroleum hydrocarbons and the restricted mass transferring efficiency of macrobubble ozonation (Chen et al., 2017). Ozone presented non-selective oxidation towards all petroleum hydrocarbons in microbubble ozonation system, and the reduction of nC7-C10, nC11-C20, nC21-C30 and nC31-C40 fraction was found to be in the range of 71.7–79.5% within 120 min. This observation indicated that all nC7─C40 fraction were prone to ozonation. Ozonation could convert the remaining hydrocarbons into compounds with smaller molecular weights and greater water solubility by inserting O groups into alkanes (Sutton et al., 2014). However, long chain alkanes have strong chemical resistance, which has been reported in the previous literature (Qin et al., 2019). This was in contrast with our results, which showed that the decomposition of long chain alkanes was not impeded by ozonation. Chen et al. (2017) also observed that ozonation was effective in removing petroleum hydrocarbons in soil, with an almost equal reduction for each range of carbon-chain length. Direct and indirect ozonation of alkanes resulted in the conversion of larger n-alkanes into smaller homologues, followed by further mineralization (Ji et al., 2018). The accumulation of nC7-C10 in the oil-containing systems could be attributed to the transformation of long-chain hydrocarbons into short-chain hydrocarbons based on the oxidization by microbubble ozonation (Chen et al., 2017). TPH adsorbed on soluble and colloidal matters strictly in OS, and ozonation might unlock the tight binding between TPH and sludge organic matter (Pan et al., 2012), which subsequently transferred TPH from the sludge solids into the aqueous phase. The main binding between TPH and sludge particles might be reduced by microbubble ozonation which destroyed the chemical bonds between petroleum hydrocarbons and particle surface (Li et al., 2017). The buoyancy of the bubbles increased the contact chances for pollutant attached to the bubble surface. The flotation with microbubble contributed to the removal of organic pollutants greatly (Etchepare et al., 2017; Liu et al., 2018). Microbubbles with large specific surface area enhance the adhesion efficiency between oily flocs and microbubbles, hence improving the separation efficiency of oil and sludge (Zhang and Guiraud, 2017). Due to the destruction of cavitations bubbles and the induction of free radical reaction by •OH in the interfacial and bulk regions, the subsequent effective degradation of TPH was achieved.</text>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13314" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15718</offset>
+      <text>Effects of pH, ozone dosage and total solid</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15762</offset>
+      <text>Fig. 4 shows the effects of single variables (initial pH, ozone dosage and total solid) on TPH reduction. Initial pH is a critical element for OS disintegration efficiency by affecting the yields of free radicals in the ozonation system. The corresponding TPH reduction efficiency was shown in Fig. 4.a. pH in acidification phase (i.e. pH 3) was suitable for TPH reduction, with the overall degradation rate of 69.2%, and more •OH accumulation could be generated in strong acidic medium, which induced more aggressive oxidation by the indirect reaction (Takahashi et al., 2007). The potential reaction processes were shown in Eqs. (Khuntia et al., 2015). The low rate constants of reaction between perhydroxyl radical (HO2•) and ozone as presented in Eq. (5) slowed down the ozone decomposition reactions in the acidic medium, thus enhancing the direct ozonation. Nevertheless, initial pH 5 caused more pronounced inhibition of TPH reduction efficiency, suggesting that low H+ in the solution limited the generation of •OH. O3⇌O+O2 O+H2O→2HO⋅ ⋅OH+O3→HO2⋅+O2k=1.1×108dm3mol−1s−1 HO2⋅+O3→⋅OH+2O2k&lt;104dm3mol−1s−1 HO2⋅⇌⋅O2−+H+pK=4.8 ⋅O3−+H+→⋅OH+O2k=9×1010dm3mol−1s−1 ⋅OH+HO2⋅→H2O+O23k=7×109dm3mol−1s−1 TPH reduction efficiency relied on pH greatly, and the acidic pH value of 3 showed better performance for TPH decomposition, compared to that in high pH values. At alkaline pH, direct and indirect ozonation were compromised due to more decomposition of molecular ozone and less generation of •OH, thereby retarding the performance of oxidation and yielding a less significant TPH reduction (Khuntia et al., 2015). When the ozone dosage increased from 0.09 to 0.27 gO3/gTS, the reduction rate of TPH increased from 25% to 77.4% (Fig. 4b). The significant difference in efficiency between 0.09 and 0.27 gO3/gTS indicated that certain ozone threshold existed, below which ozone oxidation of TPH was inefficient. A similar trend was observed in previous study, where a further increase in the ozone generation rate (i.e. more than 2.2 mg s−1) had little effect on the oxidation of diethyl phthalate (Jabesa and Ghosh, 2016). Considering TPH reduction and ozone cost, the optimal ozone dose was 0.27 gO3/gTS. When TS of OS was around 0.4%, TPH removal rate reached to 54.6%. The high ozonation efficiency was observed due to the low competition between sludge and TPH in the reactor (Fig. 4c). Increasing TS from 1.2 to 2.8% did not significantly affect the reduction rate of TPH. With the further increase of TS, the removal rate of TPH decreased to 31.5% at 120 min, since the high concentration of OS probably inhibited mass transfer efficiency of ozone (Saktaywin et al., 2005). The intense competition for the reactive species between free radical scavengers and oily flocs reduced the availability of radicals, consequently decreasing the efficiency of microbubble ozonation. From an economic point of view, the process would be feasible for 2% TS.</text>
+      <annotation id="46">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15816" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15876" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16066" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16098" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16648" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16995" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17022" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17110" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17133" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15820" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16491" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16537" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17223" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17383" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17592" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17629" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17749" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17911" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17935" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="18339" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="18406" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18710</offset>
+      <text>Mechanism of total petroleum hydrocarbons degradation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18764</offset>
+      <text>[]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18767</offset>
+      <text>Thermodynamic analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18790</offset>
+      <text>The mass loss rate on the TGA curves for raw sludge was higher than for ozonation sludge, which was probably attributed to the fact that more organic matters existed in raw sludge compared with ozonation sludge (Fig. 5a). A first period of mass decrease was found before 100 °C. The total weight loss percentage was accounting for about 2–3.5 wt% of raw sludge and ozonation sludge weight, which was mainly related to the volatilization of moisture and light hydrocarbon (Kariminezhad and Elektorowicz, 2018). The second interval was ranged from 130 to 350 °C for raw sludge and 130–315 °C for ozonation sludge, and the decomposition of light oil components and desorption of organic gases occurred. Compared with the ozonation sludge sample, the raw sample would produce more volatiles under the same conditions. The derivative thermogravimetric (DTG) curves also exhibited the largest peaks during this stage (Fig. 5b), and most weight loss rate was at 250–350 °C for raw sludge and 130–250 °C for ozonation sludge (around 22.7 wt% and 16.2 wt% of the original weight, respectively). One explanation could be that low boiling point hydrocarbons were increased by the oxidation of high boiling point heavy oil during microbubble ozonation. During the third interval, the TG curves showed a slight downward trend in the range of 350–500 °C for raw sludge and 315–500 °C for ozonation sludge, which involved the combustion of heavy oil components with high boiling point (Wang et al., 2018). The DTG curves during this stage for raw sludge were observed with several peaks. The reason might focus on that the complex fractions in sludge consisted of different boiling points (Shie et al., 2000). The extent of maximum weight loss rate was observed at 400–415 °C for raw sludge and 315–385 °C for ozonation sludge (around 14.9 wt% and 10.7 wt% of the original weight, respectively). This might be due to the secondary oxidation and decomposition of heavy hydrocarbons (nC21-C40) at a higher temperature, and the boiling point of raw sludge was higher than that of ozonated sludge obviously.</text>
+      <annotation id="67">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="20779" length="11"/>
+        <text>temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>20879</offset>
+      <text>Fourier transform infrared spectroscopy analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20928</offset>
+      <text>FT-IR spectroscopy was used to identify the distributions of functional groups in raw and ozonation sludge. Similar results were observed in the absorbance peak type of the two sludge samples as shown in Fig. 6. The peaks of the two samples appearing at 2853 and 2924 cm−1 were related to the symmetric and asymmetric C–H stretching vibrations of TPH in OS (Ma et al., 2017). The peak at 1460 cm−1 corresponded to –CH2 or –CH3 group (Zhu et al., 2019). Compared with raw sludge, the peak intensity of ozonation sludge was weakened, implying an obvious removal of TPH. Absorption peak at 3350 cm−1 corresponding to O–H was also detected, which demonstrated the existence of hydroxyl or carboxyl groups (Liu et al., 2015). The intensity of O–H decreased markedly due to the separation of water and sludge after ozonation. The stretching vibration (1714 cm−1) of the C O group in carboxylic acids was detected, and the intensity of this peak increased after treatment. This evidence demonstrated that the transformation of alcohols and aldehydes into carboxylic acids might occur during ozonation. The C–C (1038 cm−1) of ozonation sludge strengthened, and the stretching vibration peak of aromatic C C (1642 cm−1) decreased steadily during the ozonation process. This illustrated that ozone attacked the unsaturated and saturated structures of some fatty and aromatic compounds during ozonation (Chen et al., 2017).</text>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="22210" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>22341</offset>
+      <text>Total petroleum hydrocarbons degradation pathway</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22390</offset>
+      <text>The decomposition products of TPH were measured and shown in Fig. S2. The total area of peaks in treated sludge decreased to 61.8% compared with the raw sludge, and 27 compounds were removed after ozonation due to the high oxidation capacity with ozone and •OH. Some intermediates such as alkanes, olefins, esters, and ethers increased, and 18 newly compounds of acids, alcohols and aldehydes were also observed, which may be caused by the ring-open reaction of aromatic organics and the oxidization of hydrocarbons (Yu et al., 2007). Except for the main components of alkanes, the principal intermediates included 42.6% carboxylic acids, 18.8% phenolics and 13.9% alcohols. The gaseous products were shown in Fig. S3, and CO2, butylene oxide and methyl formate were the main byproducts with the occupancy rate of 55%, 18.0% and 13.4% respectively, meaning that more than half of the TPH was mineralized. The possible microbubble pathway for TPH were proposed in Fig. 7. Mechanism of TPH degradation was studied for microbubble ozonation treatment. The initial attack of ozone on alkanes focused on the σ-bonding between C and H atoms, leading to the formation of intermediates, such as ketones, alcohols and carboxylic acids (Hellman and Hamilton, 1974): RH+O3→R⋅HO⋅⋅O−O⋅↔R⋅⋅OOOH R⋅HO⋅⋅O−O⋅→R⋅+⋅HO+O2→O2R=O+ROOH+ROH R⋅HO⋅⋅O−O⋅/R⋅⋅OOOH→O2+ROH Alkanes react with hydroxyl radicals by extracting the hydrogen atoms of an alkane to form an alkyl radical, and then adding oxygen molecules to form an alkyl peroxy radical. RH+⋅HO→R+H2O According to the analysis of the above products, except for the degradation of alkanes discussed in section 3.1, other degradation products deriving from alkanes during ozonation mainly included acids, aldehydes and phenols. The saturated alkanes in OS could be converted into alcohols with microbubble ozonation by oxidizing the methyl group through 1,3-dipolar insertion and free radical reactions (Hellman and Hamilton, 1974). Saturated alkanes like undecane and tridecane were initiated by hydroxylation with molecular ozone or •OH attack, leading to the formation of undecanol-4 and tridecanol, 2-ethyl-2-methyl-. Alkanes like octane could convert into ketones and carboxylic acids, which further mineralized via indirect pathways by •OH. Under the action of hydroxylation, benzene releases singlet oxygen through ozone adduct followed by hydrogen transfer reaction. Alternatively, aromatization of ozone adducts after amphoteric deprotonation and protonation of phenol oxygen anion formed phenolic compounds (2, 4-ditert-butylphenol). In addition to the three main products, the system also produced a small amount of esters. Based on the same mechanism, compounds like tetradecane was oxidized and transformed into its ester by microbubble ozonation treatment. Hence, the microbubble ozonation technology could effectively degrade the TPH in oily sludge within a short treatment time. Most of the byproducts were the readily biodegradable products based upon the 6.8-fold increase in BOD5/SCOD (Fig. S4), and the enhanced solubility of higher carbon compounds was observed. Enhanced solubilization was advantageous since the soluble fractions would be readily amenable to chemical or biochemical oxidation resulting in better overall reduction of TPH. Combined with the component analysis of gaseous products, it was suggested that most TPH can be oxidized firstly into low molecular weight (LMW) intermediates which were harmless or biodegradable, and then finally decomposed into carbon dioxide and other low-molecular-weight gases. Further experiments where microbubble ozonation treatment processes are required to quantify and compare the overall degradation rates. The advanced oxidation followed by biodegradation can be used to reduce the treatment cost. Thus, applying microbubble ozonation as a pretreatment for OS might be cost-effective, especially in the case of treating toxic substances. Considering the selected ozone dosage (0.27 gO3/gTS), the operation fee of the power, the additive consumption and the labor fee, the operation fee for such a novel process were about 28.7 CNY/gTPH with air resource (Graessley et al., 2019; Rowlands et al., 2019). For the Fenton process for OS, it seems that most of them will generate amounts of sludge, such as Fenton, coagulation. As calculated in the previous study, the cost of Fenton was 1,070 CNY/kg TPH (Ouriache et al., 2019), while large amounts of sludge were generated and the disposal became a serious issue. For microbubble ozonation, there is no sludge generated and therefore favorable for most stakeholders. Although the efficiency of ultrasonic treatment is relatively low, it is not as efficient as microbubble ozonation.</text>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="22637" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="23461" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="24444" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="24740" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="24825" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="26356" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>27123</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27134</offset>
+      <text>Microbubble ozonation has been found to be an effective way to decompose TPH into more readily biodegradable intermediate products. The TPH degradation rate was greatly improved in microbubble ozonation since it has higher gas-liquid interface area and can produce more •OH. The synergetic effect of oxidation and flotation can decompose the TPH in OS due to the destruction of chemical bonds between petroleum hydrocarbons and particle surfaces and the increased adhesion between microbubbles and oily flocs. More heavy hydrocarbons (nC21-C40) was converted to light fractions in microbubble ozonation system. Most of the released products, such as carboxylic acids, phenolics and alcohols, were favorably biodegradable. Oily sludge can then be carried out by the conventional biological treatment to remove remaining organic matters. The combination of microbubble ozonation and biological treatment can achieve efficient mineralization of TPH at a low cost, and can achieve the goal of environmental cleanliness and pollution reduction. The optimized process will be addressed in the pilot scale reactors in the future work, to evaluate the potential cost and removal rate in the real situation.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28333</offset>
+      <text>CRediT authorship contribution statement</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28374</offset>
+      <text>Zhiyi Sun: Conceptualization, Methodology, Software, Investigation, Writing - original draft. Fujun Xia: Resources, Formal analysis, Writing - review &amp; editing. Ziyang Lou: Resources, Writing - review &amp; editing, Supervision. Xiaoliang Chen: Validation, Formal analysis, Visualization. Nanwen Zhu: Resources, Writing - review &amp; editing. Haiping Yuan: Formal analysis, Visualization. Yanwen Shen: Supervision, Visualization.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28797</offset>
+      <text>Declaration of competing interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28831</offset>
+      <text>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>29002</offset>
+      <text>Supplementary data</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29021</offset>
+      <text>Supplementary data to this article can be found online at https://doi.org/10.1016/j.jclepro.2020.120337.</text>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,1690 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-04-22</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.chemosphere.2014.05.068</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">QSARMODELSFORDEGRADATIONORGANICPOLLUTANTSINOZONATIONPROCESSUNDERACIDICCONDITION</infon>
+      <infon key="name_0">surname:ZHU</infon>
+      <infon key="license">Copyright © 2014 Elsevier Ltd. All rights reserved.</infon>
+      <infon key="source">Chemosphere</infon>
+      <infon key="year">2014-06-24</infon>
+      <infon key="volume">119</infon>
+      <infon key="issue">0045-6535</infon>
+      <infon key="fpage">65</infon>
+      <infon key="lpage">71. Link: https://sciencedirect.com/science/article/pii/S0045653514007140</infon>
+      <infon key="pub-id_doi">10.1016/j.chemosphere.2014.05.068</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0045653514007140</infon>
+      <infon key="kwd">['Ozonation process', 'Organic pollutants', 'QSAR', 'Fukui indices', 'Quantum chemistry', 'Reaction pathway', '1']</infon>
+      <offset>0</offset>
+      <text>QSAR models for degradation of organic pollutants in ozonation process under acidic condition</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>94</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>112</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>123</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>132</offset>
+      <text>Although some researches about the degradation of organic pollutants have been carried out during recent years, reaction rate constants are available only for homologue compounds with similar structures or components. Therefore, it is of great significance to find a universal relationship between reaction rate and certain parameters of several diverse organic pollutants. In this study, removal ratio and kinetics of 33 kinds of organic substances were investigated by ozonation process, including azo dyes, heterocyclic compounds, ionic compounds and so on. Most quantum chemical parameters were conducted by using Gaussian 09 at the DFT B3LYP/6-311G level, including μ, q H+, q(C)minq(C)max, ELUMO and EHOMO. Other descriptors, bond order (BO) as well as Fukui indices (f(+), f(−) and f(0)), were calculated by Material Studio 6.1 at Dmol3/GGA-BLYP/DNP(3.5) basis for each organic compound. The recommended model for predicting rate constants was ln k′ = 1.978 − 95.484f(0)x − 3.350q(C)min + 38.221f( + )x, which had the squared regression coefficient R2 = 0.763 and standard deviation SD = 0.716. The results of t test and the Fisher test suggested that the model exhibited optimum stability. Also, the model was validated by internal and external validations. Recommended QSAR model showed that the highest f(0) value of main-chain carbons (f(0)x) is more closely related to ln k′ than other quantum descriptors.</text>
+      <annotation id="1">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="869" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1551</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Molecule', 'μ (Debye)', 'q H+ (e)', 'q(C)min (e)', 'q(C)max (e)', 'ELUMO (eV)', 'EHOMO (eV)', 'BOn (–)', 'BOx (–)', 'f(+)x (e)', 'f(+)n (e)', 'f(−)x (e)', 'f(−)n (e)', 'f(0)x (e)', 'f(0)n (e)'], ['m-Trihydroxybenzene', '2.686', '0.462', '−0.411', '0.376', '0.010', '−0.222', '1.310', '1.336', '0.090', '0.087', '0.098', '0.058', '0.102', '0.074'], ['Isatin', '4.622', '0.409', '−0.254', '0.217', '−0.105', '−0.249', '0.878', '1.392', '0.119', '0.026', '0.076', '0.017', '0.096', '0.025'], ['2-Nitrophenol', '3.579', '0.492', '−0.251', '0.370', '−0.107', '−0.258', '1.213', '1.438', '0.083', '0.046', '0.125', '0.051', '0.089', '0.037'], ['1,10-Phenanthroline monohydrate', '3.198', '0.207', '−0.236', '0.193', '−0.061', '−0.238', '1.101', '1.570', '0.078', '0.022', '0.050', '0.018', '0.063', '0.020'], ['Nitrobenzene', '4.541', '0.238', '−0.191', '0.061', '−0.140', '−0.276', '1.323', '1.390', '0.094', '0.035', '0.060', '−0.002', '0.077', '0.016'], ['2,4-Dichlorophenol', '1.140', '0.476', '−0.243', '0.306', '−0.040', '−0.243', '1.259', '1.401', '0.119', '0.041', '0.079', '0.049', '0.092', '0.060'], ['Phenol', '1.344', '0.460', '−0.291', '0.338', '−0.012', '−0.229', '1.320', '1.399', '0.127', '0.053', '0.137', '0.068', '0.106', '0.072'], ['3,4-Dichloroaniline', '5.034', '0.381', '−0.279', '0.201', '−0.027', '−0.215', '1.272', '1.425', '0.113', '0.035', '0.081', '0.038', '0.090', '0.050'], ['o-Chlorophenol', '0.925', '0.474', '−0.240', '0.309', '−0.025', '−0.239', '1.260', '1.394', '0.122', '0.046', '0.109', '0.048', '0.099', '0.063'], ['Aniline', '1.715', '0.376', '−0.266', '0.190', '0.001', '−0.198', '1.288', '1.414', '0.124', '0.048', '0.125', '0.063', '0.099', '0.092'], ['o-Cresol', '1.070', '0.462', '−0.589', '0.334', '−0.010', '−0.223', '0.987', '1.395', '0.120', '0.032', '0.126', '0.054', '0.095', '0.029'], ['5-Chloro-2-methylbenzylamine', '3.827', '0.383', '−0.291', '0.205', '−0.010', '−0.208', '1.003', '1.379', '0.117', '0.026', '0.116', '0.022', '0.085', '0.024'], ['o-Nitroaniline', '4.726', '0.421', '−0.254', '0.213', '−0.087', '0.230', '1.199', '1.462', '0.082', '0.023', '0.115', '0.048', '0.067', '0.044'], ['2-Nitroso-1-naphthol', '3.933', '0.489', '−0.198', '0.437', '−0.106', '−0.226', '1.169', '1.547', '0.068', '0.020', '0.052', '0.013', '0.060', '0.021'], ['Orange G', '3.932', '0.458', '−0.265', '0.350', '−0.071', '−0.195', '1.198', '1.514', '0.063', '0.010', '0.047', '0.005', '0.055', '0.006'], ['p-Aminobenzene sulfonic acid', '5.869', '0.487', '−0.333', '0.215', '−0.038', '−0.237', '1.277', '1.438', '0.096', '0.051', '0.089', '0.048', '0.079', '0.058'], ['p-Phthalic acid', '15.057', '0.491', '−0.292', '0.396', '−0.073', '−0.196', '1.190', '1.443', '0.056', '0.014', '0.040', '0.003', '0.048', '0.014'], ['Chromotropic acid', '0.002', '0.482', '−0.163', '0.813', '−0.087', '−0.280', '1.000', '1.403', '0.069', '0.056', '0.057', '0.017', '0.062', '0.041'], ['m-Cresol purpl', '5.712', '0.507', '−0.529', '0.609', '0.040', '−0.303', '0.963', '1.659', '0.066', '−0.005', '0.053', '−0.010', '0.056', '−0.001'], ['Metanil yellow', '3.686', '0.382', '−0.248', '0.197', '−0.072', '−0.196', '1.296', '1.468', '0.048', '0.001', '0.042', '0.004', '0.042', '0.003'], ['Bromophenol blue', '7.656', '0.479', '−0.257', '0.290', '−0.068', '−0.252', '0.950', '1.405', '0.095', '−0.008', '0.039', '−0.010', '0.053', '0.002'], ['Cresol red', '5.981', '0.484', '−0.607', '0.470', '−0.102', '−0.223', '0.987', '1.395', '0.120', '0.047', '0.126', '0.054', '0.095', '0.068'], ['Eriochrome blue black R', '7.110', '0.497', '−0.271', '0.453', '−0.009', '−0.276', '1.187', '1.532', '0.046', '0.001', '0.039', '0.005', '0.046', '0.007'], ['p-Dimethylaminobenzaldehyde', '6.427', '0.218', '−0.351', '0.215', '−0.047', '−0.210', '1.055', '1.457', '0.143', '0.018', '0.080', '0.029', '0.095', '0.023'], ['Methyl orange', '8.801', '0.217', '−0.287', '0.254', '−0.009', '−0.284', '1.312', '1.459', '0.046', '0.015', '0.032', '0.016', '0.038', '0.015'], ['Fuchsin basic', '8.116', '0.383', '−0.591', '0.203', '−0.087', '−0.183', '1.006', '1.620', '0.073', '0.006', '0.046', '0.008', '0.056', '0.008'], ['Methylene blue trihydrate', '12.083', '0.239', '−0.366', '0.256', '−0.127', '−0.173', '1.038', '1.418', '0.037', '0.009', '0.037', '0.010', '0.036', '0.012'], ['Azure I', '14.245', '0.384', '−0.296', '0.477', '−0.016', '−0.279', '1.045', '1.579', '0.034', '0.014', '0.033', '0.012', '0.033', '0.012'], ['Crystal violet', '14.763', '0.271', '−0.383', '0.261', '−0.101', '−0.151', '1.103', '1.503', '0.053', '0.002', '0.050', '0.007', '0.051', '0.007'], ['Methyl red', '4.269', '0.474', '−0.351', '0.211', '−0.002', '−0.240', '0.977', '1.430', '0.056', '0.012', '0.042', '0.006', '0.052', '0.009'], ['Rhodamine B', '8.788', '0.482', '−0.581', '0.438', '−0.012', '−0.229', '0.962', '1.530', '0.063', '−0.005', '0.038', '−0.007', '0.062', '−0.006'], ['Bromocresol green', '6.139', '0.477', '−0.598', '0.294', '−0.066', '−0.246', '0.954', '1.409', '0.071', '−0.012', '0.035', '−0.009', '0.056', '0.002'], ['Indigo', '5.235', '0.388', '−0.257', '0.511', '−0.099', '−0.204', '0.964', '1.421', '0.058', '0.013', '0.050', '0.012', '0.044', '0.016']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Molecule&lt;/td&gt;
+      &lt;td&gt;μ (Debye)&lt;/td&gt;
+      &lt;td&gt;q H+ (e)&lt;/td&gt;
+      &lt;td&gt;q(C)min (e)&lt;/td&gt;
+      &lt;td&gt;q(C)max (e)&lt;/td&gt;
+      &lt;td&gt;ELUMO (eV)&lt;/td&gt;
+      &lt;td&gt;EHOMO (eV)&lt;/td&gt;
+      &lt;td&gt;BOn (–)&lt;/td&gt;
+      &lt;td&gt;BOx (–)&lt;/td&gt;
+      &lt;td&gt;f(+)x (e)&lt;/td&gt;
+      &lt;td&gt;f(+)n (e)&lt;/td&gt;
+      &lt;td&gt;f(−)x (e)&lt;/td&gt;
+      &lt;td&gt;f(−)n (e)&lt;/td&gt;
+      &lt;td&gt;f(0)x (e)&lt;/td&gt;
+      &lt;td&gt;f(0)n (e)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;m-Trihydroxybenzene&lt;/td&gt;
+      &lt;td&gt;2.686&lt;/td&gt;
+      &lt;td&gt;0.462&lt;/td&gt;
+      &lt;td&gt;−0.411&lt;/td&gt;
+      &lt;td&gt;0.376&lt;/td&gt;
+      &lt;td&gt;0.010&lt;/td&gt;
+      &lt;td&gt;−0.222&lt;/td&gt;
+      &lt;td&gt;1.310&lt;/td&gt;
+      &lt;td&gt;1.336&lt;/td&gt;
+      &lt;td&gt;0.090&lt;/td&gt;
+      &lt;td&gt;0.087&lt;/td&gt;
+      &lt;td&gt;0.098&lt;/td&gt;
+      &lt;td&gt;0.058&lt;/td&gt;
+      &lt;td&gt;0.102&lt;/td&gt;
+      &lt;td&gt;0.074&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Isatin&lt;/td&gt;
+      &lt;td&gt;4.622&lt;/td&gt;
+      &lt;td&gt;0.409&lt;/td&gt;
+      &lt;td&gt;−0.254&lt;/td&gt;
+      &lt;td&gt;0.217&lt;/td&gt;
+      &lt;td&gt;−0.105&lt;/td&gt;
+      &lt;td&gt;−0.249&lt;/td&gt;
+      &lt;td&gt;0.878&lt;/td&gt;
+      &lt;td&gt;1.392&lt;/td&gt;
+      &lt;td&gt;0.119&lt;/td&gt;
+      &lt;td&gt;0.026&lt;/td&gt;
+      &lt;td&gt;0.076&lt;/td&gt;
+      &lt;td&gt;0.017&lt;/td&gt;
+      &lt;td&gt;0.096&lt;/td&gt;
+      &lt;td&gt;0.025&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2-Nitrophenol&lt;/td&gt;
+      &lt;td&gt;3.579&lt;/td&gt;
+      &lt;td&gt;0.492&lt;/td&gt;
+      &lt;td&gt;−0.251&lt;/td&gt;
+      &lt;td&gt;0.370&lt;/td&gt;
+      &lt;td&gt;−0.107&lt;/td&gt;
+      &lt;td&gt;−0.258&lt;/td&gt;
+      &lt;td&gt;1.213&lt;/td&gt;
+      &lt;td&gt;1.438&lt;/td&gt;
+      &lt;td&gt;0.083&lt;/td&gt;
+      &lt;td&gt;0.046&lt;/td&gt;
+      &lt;td&gt;0.125&lt;/td&gt;
+      &lt;td&gt;0.051&lt;/td&gt;
+      &lt;td&gt;0.089&lt;/td&gt;
+      &lt;td&gt;0.037&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1,10-Phenanthroline monohydrate&lt;/td&gt;
+      &lt;td&gt;3.198&lt;/td&gt;
+      &lt;td&gt;0.207&lt;/td&gt;
+      &lt;td&gt;−0.236&lt;/td&gt;
+      &lt;td&gt;0.193&lt;/td&gt;
+      &lt;td&gt;−0.061&lt;/td&gt;
+      &lt;td&gt;−0.238&lt;/td&gt;
+      &lt;td&gt;1.101&lt;/td&gt;
+      &lt;td&gt;1.570&lt;/td&gt;
+      &lt;td&gt;0.078&lt;/td&gt;
+      &lt;td&gt;0.022&lt;/td&gt;
+      &lt;td&gt;0.050&lt;/td&gt;
+      &lt;td&gt;0.018&lt;/td&gt;
+      &lt;td&gt;0.063&lt;/td&gt;
+      &lt;td&gt;0.020&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nitrobenzene&lt;/td&gt;
+      &lt;td&gt;4.541&lt;/td&gt;
+      &lt;td&gt;0.238&lt;/td&gt;
+      &lt;td&gt;−0.191&lt;/td&gt;
+      &lt;td&gt;0.061&lt;/td&gt;
+      &lt;td&gt;−0.140&lt;/td&gt;
+      &lt;td&gt;−0.276&lt;/td&gt;
+      &lt;td&gt;1.323&lt;/td&gt;
+      &lt;td&gt;1.390&lt;/td&gt;
+      &lt;td&gt;0.094&lt;/td&gt;
+      &lt;td&gt;0.035&lt;/td&gt;
+      &lt;td&gt;0.060&lt;/td&gt;
+      &lt;td&gt;−0.002&lt;/td&gt;
+      &lt;td&gt;0.077&lt;/td&gt;
+      &lt;td&gt;0.016&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2,4-Dichlorophenol&lt;/td&gt;
+      &lt;td&gt;1.140&lt;/td&gt;
+      &lt;td&gt;0.476&lt;/td&gt;
+      &lt;td&gt;−0.243&lt;/td&gt;
+      &lt;td&gt;0.306&lt;/td&gt;
+      &lt;td&gt;−0.040&lt;/td&gt;
+      &lt;td&gt;−0.243&lt;/td&gt;
+      &lt;td&gt;1.259&lt;/td&gt;
+      &lt;td&gt;1.401&lt;/td&gt;
+      &lt;td&gt;0.119&lt;/td&gt;
+      &lt;td&gt;0.041&lt;/td&gt;
+      &lt;td&gt;0.079&lt;/td&gt;
+      &lt;td&gt;0.049&lt;/td&gt;
+      &lt;td&gt;0.092&lt;/td&gt;
+      &lt;td&gt;0.060&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Phenol&lt;/td&gt;
+      &lt;td&gt;1.344&lt;/td&gt;
+      &lt;td&gt;0.460&lt;/td&gt;
+      &lt;td&gt;−0.291&lt;/td&gt;
+      &lt;td&gt;0.338&lt;/td&gt;
+      &lt;td&gt;−0.012&lt;/td&gt;
+      &lt;td&gt;−0.229&lt;/td&gt;
+      &lt;td&gt;1.320&lt;/td&gt;
+      &lt;td&gt;1.399&lt;/td&gt;
+      &lt;td&gt;0.127&lt;/td&gt;
+      &lt;td&gt;0.053&lt;/td&gt;
+      &lt;td&gt;0.137&lt;/td&gt;
+      &lt;td&gt;0.068&lt;/td&gt;
+      &lt;td&gt;0.106&lt;/td&gt;
+      &lt;td&gt;0.072&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3,4-Dichloroaniline&lt;/td&gt;
+      &lt;td&gt;5.034&lt;/td&gt;
+      &lt;td&gt;0.381&lt;/td&gt;
+      &lt;td&gt;−0.279&lt;/td&gt;
+      &lt;td&gt;0.201&lt;/td&gt;
+      &lt;td&gt;−0.027&lt;/td&gt;
+      &lt;td&gt;−0.215&lt;/td&gt;
+      &lt;td&gt;1.272&lt;/td&gt;
+      &lt;td&gt;1.425&lt;/td&gt;
+      &lt;td&gt;0.113&lt;/td&gt;
+      &lt;td&gt;0.035&lt;/td&gt;
+      &lt;td&gt;0.081&lt;/td&gt;
+      &lt;td&gt;0.038&lt;/td&gt;
+      &lt;td&gt;0.090&lt;/td&gt;
+      &lt;td&gt;0.050&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;o-Chlorophenol&lt;/td&gt;
+      &lt;td&gt;0.925&lt;/td&gt;
+      &lt;td&gt;0.474&lt;/td&gt;
+      &lt;td&gt;−0.240&lt;/td&gt;
+      &lt;td&gt;0.309&lt;/td&gt;
+      &lt;td&gt;−0.025&lt;/td&gt;
+      &lt;td&gt;−0.239&lt;/td&gt;
+      &lt;td&gt;1.260&lt;/td&gt;
+      &lt;td&gt;1.394&lt;/td&gt;
+      &lt;td&gt;0.122&lt;/td&gt;
+      &lt;td&gt;0.046&lt;/td&gt;
+      &lt;td&gt;0.109&lt;/td&gt;
+      &lt;td&gt;0.048&lt;/td&gt;
+      &lt;td&gt;0.099&lt;/td&gt;
+      &lt;td&gt;0.063&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aniline&lt;/td&gt;
+      &lt;td&gt;1.715&lt;/td&gt;
+      &lt;td&gt;0.376&lt;/td&gt;
+      &lt;td&gt;−0.266&lt;/td&gt;
+      &lt;td&gt;0.190&lt;/td&gt;
+      &lt;td&gt;0.001&lt;/td&gt;
+      &lt;td&gt;−0.198&lt;/td&gt;
+      &lt;td&gt;1.288&lt;/td&gt;
+      &lt;td&gt;1.414&lt;/td&gt;
+      &lt;td&gt;0.124&lt;/td&gt;
+      &lt;td&gt;0.048&lt;/td&gt;
+      &lt;td&gt;0.125&lt;/td&gt;
+      &lt;td&gt;0.063&lt;/td&gt;
+      &lt;td&gt;0.099&lt;/td&gt;
+      &lt;td&gt;0.092&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;o-Cresol&lt;/td&gt;
+      &lt;td&gt;1.070&lt;/td&gt;
+      &lt;td&gt;0.462&lt;/td&gt;
+      &lt;td&gt;−0.589&lt;/td&gt;
+      &lt;td&gt;0.334&lt;/td&gt;
+      &lt;td&gt;−0.010&lt;/td&gt;
+      &lt;td&gt;−0.223&lt;/td&gt;
+      &lt;td&gt;0.987&lt;/td&gt;
+      &lt;td&gt;1.395&lt;/td&gt;
+      &lt;td&gt;0.120&lt;/td&gt;
+      &lt;td&gt;0.032&lt;/td&gt;
+      &lt;td&gt;0.126&lt;/td&gt;
+      &lt;td&gt;0.054&lt;/td&gt;
+      &lt;td&gt;0.095&lt;/td&gt;
+      &lt;td&gt;0.029&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5-Chloro-2-methylbenzylamine&lt;/td&gt;
+      &lt;td&gt;3.827&lt;/td&gt;
+      &lt;td&gt;0.383&lt;/td&gt;
+      &lt;td&gt;−0.291&lt;/td&gt;
+      &lt;td&gt;0.205&lt;/td&gt;
+      &lt;td&gt;−0.010&lt;/td&gt;
+      &lt;td&gt;−0.208&lt;/td&gt;
+      &lt;td&gt;1.003&lt;/td&gt;
+      &lt;td&gt;1.379&lt;/td&gt;
+      &lt;td&gt;0.117&lt;/td&gt;
+      &lt;td&gt;0.026&lt;/td&gt;
+      &lt;td&gt;0.116&lt;/td&gt;
+      &lt;td&gt;0.022&lt;/td&gt;
+      &lt;td&gt;0.085&lt;/td&gt;
+      &lt;td&gt;0.024&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;o-Nitroaniline&lt;/td&gt;
+      &lt;td&gt;4.726&lt;/td&gt;
+      &lt;td&gt;0.421&lt;/td&gt;
+      &lt;td&gt;−0.254&lt;/td&gt;
+      &lt;td&gt;0.213&lt;/td&gt;
+      &lt;td&gt;−0.087&lt;/td&gt;
+      &lt;td&gt;0.230&lt;/td&gt;
+      &lt;td&gt;1.199&lt;/td&gt;
+      &lt;td&gt;1.462&lt;/td&gt;
+      &lt;td&gt;0.082&lt;/td&gt;
+      &lt;td&gt;0.023&lt;/td&gt;
+      &lt;td&gt;0.115&lt;/td&gt;
+      &lt;td&gt;0.048&lt;/td&gt;
+      &lt;td&gt;0.067&lt;/td&gt;
+      &lt;td&gt;0.044&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2-Nitroso-1-naphthol&lt;/td&gt;
+      &lt;td&gt;3.933&lt;/td&gt;
+      &lt;td&gt;0.489&lt;/td&gt;
+      &lt;td&gt;−0.198&lt;/td&gt;
+      &lt;td&gt;0.437&lt;/td&gt;
+      &lt;td&gt;−0.106&lt;/td&gt;
+      &lt;td&gt;−0.226&lt;/td&gt;
+      &lt;td&gt;1.169&lt;/td&gt;
+      &lt;td&gt;1.547&lt;/td&gt;
+      &lt;td&gt;0.068&lt;/td&gt;
+      &lt;td&gt;0.020&lt;/td&gt;
+      &lt;td&gt;0.052&lt;/td&gt;
+      &lt;td&gt;0.013&lt;/td&gt;
+      &lt;td&gt;0.060&lt;/td&gt;
+      &lt;td&gt;0.021&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Orange G&lt;/td&gt;
+      &lt;td&gt;3.932&lt;/td&gt;
+      &lt;td&gt;0.458&lt;/td&gt;
+      &lt;td&gt;−0.265&lt;/td&gt;
+      &lt;td&gt;0.350&lt;/td&gt;
+      &lt;td&gt;−0.071&lt;/td&gt;
+      &lt;td&gt;−0.195&lt;/td&gt;
+      &lt;td&gt;1.198&lt;/td&gt;
+      &lt;td&gt;1.514&lt;/td&gt;
+      &lt;td&gt;0.063&lt;/td&gt;
+      &lt;td&gt;0.010&lt;/td&gt;
+      &lt;td&gt;0.047&lt;/td&gt;
+      &lt;td&gt;0.005&lt;/td&gt;
+      &lt;td&gt;0.055&lt;/td&gt;
+      &lt;td&gt;0.006&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;p-Aminobenzene sulfonic acid&lt;/td&gt;
+      &lt;td&gt;5.869&lt;/td&gt;
+      &lt;td&gt;0.487&lt;/td&gt;
+      &lt;td&gt;−0.333&lt;/td&gt;
+      &lt;td&gt;0.215&lt;/td&gt;
+      &lt;td&gt;−0.038&lt;/td&gt;
+      &lt;td&gt;−0.237&lt;/td&gt;
+      &lt;td&gt;1.277&lt;/td&gt;
+      &lt;td&gt;1.438&lt;/td&gt;
+      &lt;td&gt;0.096&lt;/td&gt;
+      &lt;td&gt;0.051&lt;/td&gt;
+      &lt;td&gt;0.089&lt;/td&gt;
+      &lt;td&gt;0.048&lt;/td&gt;
+      &lt;td&gt;0.079&lt;/td&gt;
+      &lt;td&gt;0.058&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;p-Phthalic acid&lt;/td&gt;
+      &lt;td&gt;15.057&lt;/td&gt;
+      &lt;td&gt;0.491&lt;/td&gt;
+      &lt;td&gt;−0.292&lt;/td&gt;
+      &lt;td&gt;0.396&lt;/td&gt;
+      &lt;td&gt;−0.073&lt;/td&gt;
+      &lt;td&gt;−0.196&lt;/td&gt;
+      &lt;td&gt;1.190&lt;/td&gt;
+      &lt;td&gt;1.443&lt;/td&gt;
+      &lt;td&gt;0.056&lt;/td&gt;
+      &lt;td&gt;0.014&lt;/td&gt;
+      &lt;td&gt;0.040&lt;/td&gt;
+      &lt;td&gt;0.003&lt;/td&gt;
+      &lt;td&gt;0.048&lt;/td&gt;
+      &lt;td&gt;0.014&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Chromotropic acid&lt;/td&gt;
+      &lt;td&gt;0.002&lt;/td&gt;
+      &lt;td&gt;0.482&lt;/td&gt;
+      &lt;td&gt;−0.163&lt;/td&gt;
+      &lt;td&gt;0.813&lt;/td&gt;
+      &lt;td&gt;−0.087&lt;/td&gt;
+      &lt;td&gt;−0.280&lt;/td&gt;
+      &lt;td&gt;1.000&lt;/td&gt;
+      &lt;td&gt;1.403&lt;/td&gt;
+      &lt;td&gt;0.069&lt;/td&gt;
+      &lt;td&gt;0.056&lt;/td&gt;
+      &lt;td&gt;0.057&lt;/td&gt;
+      &lt;td&gt;0.017&lt;/td&gt;
+      &lt;td&gt;0.062&lt;/td&gt;
+      &lt;td&gt;0.041&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;m-Cresol purpl&lt;/td&gt;
+      &lt;td&gt;5.712&lt;/td&gt;
+      &lt;td&gt;0.507&lt;/td&gt;
+      &lt;td&gt;−0.529&lt;/td&gt;
+      &lt;td&gt;0.609&lt;/td&gt;
+      &lt;td&gt;0.040&lt;/td&gt;
+      &lt;td&gt;−0.303&lt;/td&gt;
+      &lt;td&gt;0.963&lt;/td&gt;
+      &lt;td&gt;1.659&lt;/td&gt;
+      &lt;td&gt;0.066&lt;/td&gt;
+      &lt;td&gt;−0.005&lt;/td&gt;
+      &lt;td&gt;0.053&lt;/td&gt;
+      &lt;td&gt;−0.010&lt;/td&gt;
+      &lt;td&gt;0.056&lt;/td&gt;
+      &lt;td&gt;−0.001&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Metanil yellow&lt;/td&gt;
+      &lt;td&gt;3.686&lt;/td&gt;
+      &lt;td&gt;0.382&lt;/td&gt;
+      &lt;td&gt;−0.248&lt;/td&gt;
+      &lt;td&gt;0.197&lt;/td&gt;
+      &lt;td&gt;−0.072&lt;/td&gt;
+      &lt;td&gt;−0.196&lt;/td&gt;
+      &lt;td&gt;1.296&lt;/td&gt;
+      &lt;td&gt;1.468&lt;/td&gt;
+      &lt;td&gt;0.048&lt;/td&gt;
+      &lt;td&gt;0.001&lt;/td&gt;
+      &lt;td&gt;0.042&lt;/td&gt;
+      &lt;td&gt;0.004&lt;/td&gt;
+      &lt;td&gt;0.042&lt;/td&gt;
+      &lt;td&gt;0.003&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bromophenol blue&lt;/td&gt;
+      &lt;td&gt;7.656&lt;/td&gt;
+      &lt;td&gt;0.479&lt;/td&gt;
+      &lt;td&gt;−0.257&lt;/td&gt;
+      &lt;td&gt;0.290&lt;/td&gt;
+      &lt;td&gt;−0.068&lt;/td&gt;
+      &lt;td&gt;−0.252&lt;/td&gt;
+      &lt;td&gt;0.950&lt;/td&gt;
+      &lt;td&gt;1.405&lt;/td&gt;
+      &lt;td&gt;0.095&lt;/td&gt;
+      &lt;td&gt;−0.008&lt;/td&gt;
+      &lt;td&gt;0.039&lt;/td&gt;
+      &lt;td&gt;−0.010&lt;/td&gt;
+      &lt;td&gt;0.053&lt;/td&gt;
+      &lt;td&gt;0.002&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cresol red&lt;/td&gt;
+      &lt;td&gt;5.981&lt;/td&gt;
+      &lt;td&gt;0.484&lt;/td&gt;
+      &lt;td&gt;−0.607&lt;/td&gt;
+      &lt;td&gt;0.470&lt;/td&gt;
+      &lt;td&gt;−0.102&lt;/td&gt;
+      &lt;td&gt;−0.223&lt;/td&gt;
+      &lt;td&gt;0.987&lt;/td&gt;
+      &lt;td&gt;1.395&lt;/td&gt;
+      &lt;td&gt;0.120&lt;/td&gt;
+      &lt;td&gt;0.047&lt;/td&gt;
+      &lt;td&gt;0.126&lt;/td&gt;
+      &lt;td&gt;0.054&lt;/td&gt;
+      &lt;td&gt;0.095&lt;/td&gt;
+      &lt;td&gt;0.068&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Eriochrome blue black R&lt;/td&gt;
+      &lt;td&gt;7.110&lt;/td&gt;
+      &lt;td&gt;0.497&lt;/td&gt;
+      &lt;td&gt;−0.271&lt;/td&gt;
+      &lt;td&gt;0.453&lt;/td&gt;
+      &lt;td&gt;−0.009&lt;/td&gt;
+      &lt;td&gt;−0.276&lt;/td&gt;
+      &lt;td&gt;1.187&lt;/td&gt;
+      &lt;td&gt;1.532&lt;/td&gt;
+      &lt;td&gt;0.046&lt;/td&gt;
+      &lt;td&gt;0.001&lt;/td&gt;
+      &lt;td&gt;0.039&lt;/td&gt;
+      &lt;td&gt;0.005&lt;/td&gt;
+      &lt;td&gt;0.046&lt;/td&gt;
+      &lt;td&gt;0.007&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;p-Dimethylaminobenzaldehyde&lt;/td&gt;
+      &lt;td&gt;6.427&lt;/td&gt;
+      &lt;td&gt;0.218&lt;/td&gt;
+      &lt;td&gt;−0.351&lt;/td&gt;
+      &lt;td&gt;0.215&lt;/td&gt;
+      &lt;td&gt;−0.047&lt;/td&gt;
+      &lt;td&gt;−0.210&lt;/td&gt;
+      &lt;td&gt;1.055&lt;/td&gt;
+      &lt;td&gt;1.457&lt;/td&gt;
+      &lt;td&gt;0.143&lt;/td&gt;
+      &lt;td&gt;0.018&lt;/td&gt;
+      &lt;td&gt;0.080&lt;/td&gt;
+      &lt;td&gt;0.029&lt;/td&gt;
+      &lt;td&gt;0.095&lt;/td&gt;
+      &lt;td&gt;0.023&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Methyl orange&lt;/td&gt;
+      &lt;td&gt;8.801&lt;/td&gt;
+      &lt;td&gt;0.217&lt;/td&gt;
+      &lt;td&gt;−0.287&lt;/td&gt;
+      &lt;td&gt;0.254&lt;/td&gt;
+      &lt;td&gt;−0.009&lt;/td&gt;
+      &lt;td&gt;−0.284&lt;/td&gt;
+      &lt;td&gt;1.312&lt;/td&gt;
+      &lt;td&gt;1.459&lt;/td&gt;
+      &lt;td&gt;0.046&lt;/td&gt;
+      &lt;td&gt;0.015&lt;/td&gt;
+      &lt;td&gt;0.032&lt;/td&gt;
+      &lt;td&gt;0.016&lt;/td&gt;
+      &lt;td&gt;0.038&lt;/td&gt;
+      &lt;td&gt;0.015&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fuchsin basic&lt;/td&gt;
+      &lt;td&gt;8.116&lt;/td&gt;
+      &lt;td&gt;0.383&lt;/td&gt;
+      &lt;td&gt;−0.591&lt;/td&gt;
+      &lt;td&gt;0.203&lt;/td&gt;
+      &lt;td&gt;−0.087&lt;/td&gt;
+      &lt;td&gt;−0.183&lt;/td&gt;
+      &lt;td&gt;1.006&lt;/td&gt;
+      &lt;td&gt;1.620&lt;/td&gt;
+      &lt;td&gt;0.073&lt;/td&gt;
+      &lt;td&gt;0.006&lt;/td&gt;
+      &lt;td&gt;0.046&lt;/td&gt;
+      &lt;td&gt;0.008&lt;/td&gt;
+      &lt;td&gt;0.056&lt;/td&gt;
+      &lt;td&gt;0.008&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Methylene blue trihydrate&lt;/td&gt;
+      &lt;td&gt;12.083&lt;/td&gt;
+      &lt;td&gt;0.239&lt;/td&gt;
+      &lt;td&gt;−0.366&lt;/td&gt;
+      &lt;td&gt;0.256&lt;/td&gt;
+      &lt;td&gt;−0.127&lt;/td&gt;
+      &lt;td&gt;−0.173&lt;/td&gt;
+      &lt;td&gt;1.038&lt;/td&gt;
+      &lt;td&gt;1.418&lt;/td&gt;
+      &lt;td&gt;0.037&lt;/td&gt;
+      &lt;td&gt;0.009&lt;/td&gt;
+      &lt;td&gt;0.037&lt;/td&gt;
+      &lt;td&gt;0.010&lt;/td&gt;
+      &lt;td&gt;0.036&lt;/td&gt;
+      &lt;td&gt;0.012&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Azure I&lt;/td&gt;
+      &lt;td&gt;14.245&lt;/td&gt;
+      &lt;td&gt;0.384&lt;/td&gt;
+      &lt;td&gt;−0.296&lt;/td&gt;
+      &lt;td&gt;0.477&lt;/td&gt;
+      &lt;td&gt;−0.016&lt;/td&gt;
+      &lt;td&gt;−0.279&lt;/td&gt;
+      &lt;td&gt;1.045&lt;/td&gt;
+      &lt;td&gt;1.579&lt;/td&gt;
+      &lt;td&gt;0.034&lt;/td&gt;
+      &lt;td&gt;0.014&lt;/td&gt;
+      &lt;td&gt;0.033&lt;/td&gt;
+      &lt;td&gt;0.012&lt;/td&gt;
+      &lt;td&gt;0.033&lt;/td&gt;
+      &lt;td&gt;0.012&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crystal violet&lt;/td&gt;
+      &lt;td&gt;14.763&lt;/td&gt;
+      &lt;td&gt;0.271&lt;/td&gt;
+      &lt;td&gt;−0.383&lt;/td&gt;
+      &lt;td&gt;0.261&lt;/td&gt;
+      &lt;td&gt;−0.101&lt;/td&gt;
+      &lt;td&gt;−0.151&lt;/td&gt;
+      &lt;td&gt;1.103&lt;/td&gt;
+      &lt;td&gt;1.503&lt;/td&gt;
+      &lt;td&gt;0.053&lt;/td&gt;
+      &lt;td&gt;0.002&lt;/td&gt;
+      &lt;td&gt;0.050&lt;/td&gt;
+      &lt;td&gt;0.007&lt;/td&gt;
+      &lt;td&gt;0.051&lt;/td&gt;
+      &lt;td&gt;0.007&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Methyl red&lt;/td&gt;
+      &lt;td&gt;4.269&lt;/td&gt;
+      &lt;td&gt;0.474&lt;/td&gt;
+      &lt;td&gt;−0.351&lt;/td&gt;
+      &lt;td&gt;0.211&lt;/td&gt;
+      &lt;td&gt;−0.002&lt;/td&gt;
+      &lt;td&gt;−0.240&lt;/td&gt;
+      &lt;td&gt;0.977&lt;/td&gt;
+      &lt;td&gt;1.430&lt;/td&gt;
+      &lt;td&gt;0.056&lt;/td&gt;
+      &lt;td&gt;0.012&lt;/td&gt;
+      &lt;td&gt;0.042&lt;/td&gt;
+      &lt;td&gt;0.006&lt;/td&gt;
+      &lt;td&gt;0.052&lt;/td&gt;
+      &lt;td&gt;0.009&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rhodamine B&lt;/td&gt;
+      &lt;td&gt;8.788&lt;/td&gt;
+      &lt;td&gt;0.482&lt;/td&gt;
+      &lt;td&gt;−0.581&lt;/td&gt;
+      &lt;td&gt;0.438&lt;/td&gt;
+      &lt;td&gt;−0.012&lt;/td&gt;
+      &lt;td&gt;−0.229&lt;/td&gt;
+      &lt;td&gt;0.962&lt;/td&gt;
+      &lt;td&gt;1.530&lt;/td&gt;
+      &lt;td&gt;0.063&lt;/td&gt;
+      &lt;td&gt;−0.005&lt;/td&gt;
+      &lt;td&gt;0.038&lt;/td&gt;
+      &lt;td&gt;−0.007&lt;/td&gt;
+      &lt;td&gt;0.062&lt;/td&gt;
+      &lt;td&gt;−0.006&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bromocresol green&lt;/td&gt;
+      &lt;td&gt;6.139&lt;/td&gt;
+      &lt;td&gt;0.477&lt;/td&gt;
+      &lt;td&gt;−0.598&lt;/td&gt;
+      &lt;td&gt;0.294&lt;/td&gt;
+      &lt;td&gt;−0.066&lt;/td&gt;
+      &lt;td&gt;−0.246&lt;/td&gt;
+      &lt;td&gt;0.954&lt;/td&gt;
+      &lt;td&gt;1.409&lt;/td&gt;
+      &lt;td&gt;0.071&lt;/td&gt;
+      &lt;td&gt;−0.012&lt;/td&gt;
+      &lt;td&gt;0.035&lt;/td&gt;
+      &lt;td&gt;−0.009&lt;/td&gt;
+      &lt;td&gt;0.056&lt;/td&gt;
+      &lt;td&gt;0.002&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Indigo&lt;/td&gt;
+      &lt;td&gt;5.235&lt;/td&gt;
+      &lt;td&gt;0.388&lt;/td&gt;
+      &lt;td&gt;−0.257&lt;/td&gt;
+      &lt;td&gt;0.511&lt;/td&gt;
+      &lt;td&gt;−0.099&lt;/td&gt;
+      &lt;td&gt;−0.204&lt;/td&gt;
+      &lt;td&gt;0.964&lt;/td&gt;
+      &lt;td&gt;1.421&lt;/td&gt;
+      &lt;td&gt;0.058&lt;/td&gt;
+      &lt;td&gt;0.013&lt;/td&gt;
+      &lt;td&gt;0.050&lt;/td&gt;
+      &lt;td&gt;0.012&lt;/td&gt;
+      &lt;td&gt;0.044&lt;/td&gt;
+      &lt;td&gt;0.016&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1558</offset>
+      <text>Molecular descriptors of organic pollutants.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['No.', 'Molecule', 'CAS no.', 'Exp.', '1', '1', '2', '2', '3', '3', '4', '4'], ['', '', '', '', 'Pred.', 'Diff.', 'Pred.', 'Diff.', 'Pred.', 'Diff.', 'Pred.', 'Diff.'], ['1', 'm-Trihydroxybenzene', '6099-90-7', '−3.912', '−1.862', '2.050', '−1.658', '2.254', '−2.945', '0.967', '−2.905', '1.007'], ['2', 'Isatin', '91-56-5', '−2.333', '−1.580', '0.753', '−1.880', '0.453', '−1.790', '0.543', '−2.379', '−0.046'], ['3', '2-Nitrophenol', '88-75-5', '−1.833', '−1.250', '0.583', '−1.549', '0.284', '−2.507', '−0.674', '−2.997', '−1.164'], ['4', '1,10-Phenanthroline monohydrate', '5144-89-8', '−1.585', '−0.026', '1.558', '−0.331', '1.253', '−0.266', '1.319', '−0.367', '1.218'], ['5', 'Nitrobenzene', '98-95-3', '−1.580', '−0.685', '0.894', '−1.161', '0.419', '−1.142', '0.438', '−1.620', '−0.040'], ['6', '2,4-Dichlorophenol', '120-83-2', '−1.542', '−1.392', '0.150', '−1.721', '−0.179', '−1.445', '0.097', '−1.176', '0.366'], ['7', 'Phenol', '108-95-2', '−1.519', '−2.051', '−0.532', '−2.246', '−0.727', '−2.315', '−0.796', '−2.121', '−0.602'], ['8', '3,4-Dichloroaniline', '95-76-1', '−1.492', '−1.297', '0.194', '−1.506', '−0.014', '−1.362', '0.129', '−1.286', '0.205'], ['9', 'o-Chlorophenol', '95-57-8', '−1.423', '−1.721', '−0.298', '−2.072', '−0.649', '−2.008', '−0.585', '−1.864', '−0.441'], ['10', 'Aniline', '62-53-3', '−1.363', '−1.721', '−0.358', '−1.987', '−0.624', '−1.845', '−0.482', '−1.055', '0.308'], ['11', 'o-Cresol', '95-48-7', '−0.986', '−1.533', '−0.547', '−0.735', '0.251', '−0.534', '0.453', '−0.829', '0.157'], ['12', '5-Chloro-2-methylbenzylamine', '27917-13-1', '−0.715', '−1.062', '−0.347', '−1.223', '−0.508', '−0.692', '0.024', '−0.963', '−0.247'], ['13', 'o-Nitroaniline', '88-74-4', '−0.574', '−0.215', '0.360', '−0.467', '0.107', '−0.435', '0.140', '−0.103', '0.472'], ['14', '2-Nitroso-1-naphthol', '132-53-6', '−0.555', '0.115', '0.670', '−0.310', '0.246', '−0.489', '0.066', '−0.598', '−0.043'], ['15', 'Orange G', '1934-20-9', '−0.378', '0.350', '0.729', '0.153', '0.532', '0.022', '0.400', '−0.266', '0.112'], ['16', 'p-Aminobenzene sulfonic acid', '121-57-3', '−0.345', '−0.780', '−0.434', '−0.793', '−0.448', '−0.781', '−0.436', '−0.342', '0.003'], ['17', 'p-Phthalic acid', '100-21-0', '−0.079', '0.680', '0.759', '0.583', '0.662', '0.513', '0.592', '0.553', '0.632'], ['18', 'Chromotropic acid', '148-25-4', '−0.079', '0.021', '0.100', '−0.522', '−0.443', '−0.759', '−0.680', '−0.515', '−0.436'], ['19', 'm-Cresol purple', '62625-31-4', '0.049', '0.303', '0.254', '0.969', '0.920', '0.925', '0.877', '0.622', '0.573'], ['20', 'Metanil yellow', '4005-68-9', '0.573', '0.962', '0.389', '0.731', '0.158', '0.633', '0.059', '0.522', '−0.051'], ['21', 'Bromophenol blue', '115-39-9', '0.665', '0.445', '−0.220', '0.224', '−0.440', '1.409', '0.744', '1.423', '0.759'], ['22', 'Cresol red', '1733-12-6', '0.691', '−1.533', '−2.223', '−0.676', '−1.367', '−0.473', '−1.164', '0.064', '−0.626'], ['23', 'Eriochrome blue black R', '2538-85-4', '0.696', '0.774', '0.078', '0.611', '−0.084', '0.251', '−0.444', '0.092', '−0.604'], ['24', 'p-Dimethylaminobenzaldehyde', '100-10-7', '0.714', '−1.533', '−2.247', '−1.514', '−2.228', '−0.452', '−1.166', '−0.757', '−1.471'], ['25', 'Methyl orange', '547-58-0', '0.739', '1.151', '0.412', '1.053', '0.314', '1.069', '0.330', '1.335', '0.596'], ['26', 'Fuchsin basic', '569-61-9', '0.822', '0.303', '−0.519', '1.171', '0.349', '1.401', '0.578', '1.390', '0.568'], ['27', 'Methylene blue trihydrate', '7220-79-3', '0.907', '1.245', '0.338', '1.409', '0.503', '1.180', '0.274', '1.392', '0.486'], ['28', 'Azure I', '531-53-3', '0.994', '1.386', '0.392', '1.326', '0.332', '1.118', '0.124', '1.357', '0.363'], ['29', 'Crystal violet', '548-62-9', '1.062', '0.539', '−0.523', '0.734', '−0.327', '0.417', '−0.645', '0.230', '−0.831'], ['30', 'Methyl red', '493-52-7', '1.077', '0.492', '−0.585', '0.581', '−0.496', '0.329', '−0.748', '0.168', '−0.909'], ['31', 'Rhodamine B', '81-88-9', '1.234', '0.021', '−1.213', '0.846', '−0.388', '0.412', '−0.822', '−0.188', '−1.422'], ['32', 'Bromocresol green', '76-60-8', '1.836', '0.303', '−1.533', '1.194', '−0.642', '1.348', '−0.488', '1.193', '−0.643'], ['33', 'Indigo', '482-89-3', '2.428', '0.868', '−1.560', '0.663', '−1.765', '0.854', '−1.574', '1.063', '−1.365']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;No.&lt;/td&gt;
+      &lt;td&gt;Molecule&lt;/td&gt;
+      &lt;td&gt;CAS no.&lt;/td&gt;
+      &lt;td&gt;Exp.&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Pred.&lt;/td&gt;
+      &lt;td&gt;Diff.&lt;/td&gt;
+      &lt;td&gt;Pred.&lt;/td&gt;
+      &lt;td&gt;Diff.&lt;/td&gt;
+      &lt;td&gt;Pred.&lt;/td&gt;
+      &lt;td&gt;Diff.&lt;/td&gt;
+      &lt;td&gt;Pred.&lt;/td&gt;
+      &lt;td&gt;Diff.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;m-Trihydroxybenzene&lt;/td&gt;
+      &lt;td&gt;6099-90-7&lt;/td&gt;
+      &lt;td&gt;−3.912&lt;/td&gt;
+      &lt;td&gt;−1.862&lt;/td&gt;
+      &lt;td&gt;2.050&lt;/td&gt;
+      &lt;td&gt;−1.658&lt;/td&gt;
+      &lt;td&gt;2.254&lt;/td&gt;
+      &lt;td&gt;−2.945&lt;/td&gt;
+      &lt;td&gt;0.967&lt;/td&gt;
+      &lt;td&gt;−2.905&lt;/td&gt;
+      &lt;td&gt;1.007&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;Isatin&lt;/td&gt;
+      &lt;td&gt;91-56-5&lt;/td&gt;
+      &lt;td&gt;−2.333&lt;/td&gt;
+      &lt;td&gt;−1.580&lt;/td&gt;
+      &lt;td&gt;0.753&lt;/td&gt;
+      &lt;td&gt;−1.880&lt;/td&gt;
+      &lt;td&gt;0.453&lt;/td&gt;
+      &lt;td&gt;−1.790&lt;/td&gt;
+      &lt;td&gt;0.543&lt;/td&gt;
+      &lt;td&gt;−2.379&lt;/td&gt;
+      &lt;td&gt;−0.046&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;2-Nitrophenol&lt;/td&gt;
+      &lt;td&gt;88-75-5&lt;/td&gt;
+      &lt;td&gt;−1.833&lt;/td&gt;
+      &lt;td&gt;−1.250&lt;/td&gt;
+      &lt;td&gt;0.583&lt;/td&gt;
+      &lt;td&gt;−1.549&lt;/td&gt;
+      &lt;td&gt;0.284&lt;/td&gt;
+      &lt;td&gt;−2.507&lt;/td&gt;
+      &lt;td&gt;−0.674&lt;/td&gt;
+      &lt;td&gt;−2.997&lt;/td&gt;
+      &lt;td&gt;−1.164&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;1,10-Phenanthroline monohydrate&lt;/td&gt;
+      &lt;td&gt;5144-89-8&lt;/td&gt;
+      &lt;td&gt;−1.585&lt;/td&gt;
+      &lt;td&gt;−0.026&lt;/td&gt;
+      &lt;td&gt;1.558&lt;/td&gt;
+      &lt;td&gt;−0.331&lt;/td&gt;
+      &lt;td&gt;1.253&lt;/td&gt;
+      &lt;td&gt;−0.266&lt;/td&gt;
+      &lt;td&gt;1.319&lt;/td&gt;
+      &lt;td&gt;−0.367&lt;/td&gt;
+      &lt;td&gt;1.218&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;Nitrobenzene&lt;/td&gt;
+      &lt;td&gt;98-95-3&lt;/td&gt;
+      &lt;td&gt;−1.580&lt;/td&gt;
+      &lt;td&gt;−0.685&lt;/td&gt;
+      &lt;td&gt;0.894&lt;/td&gt;
+      &lt;td&gt;−1.161&lt;/td&gt;
+      &lt;td&gt;0.419&lt;/td&gt;
+      &lt;td&gt;−1.142&lt;/td&gt;
+      &lt;td&gt;0.438&lt;/td&gt;
+      &lt;td&gt;−1.620&lt;/td&gt;
+      &lt;td&gt;−0.040&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;2,4-Dichlorophenol&lt;/td&gt;
+      &lt;td&gt;120-83-2&lt;/td&gt;
+      &lt;td&gt;−1.542&lt;/td&gt;
+      &lt;td&gt;−1.392&lt;/td&gt;
+      &lt;td&gt;0.150&lt;/td&gt;
+      &lt;td&gt;−1.721&lt;/td&gt;
+      &lt;td&gt;−0.179&lt;/td&gt;
+      &lt;td&gt;−1.445&lt;/td&gt;
+      &lt;td&gt;0.097&lt;/td&gt;
+      &lt;td&gt;−1.176&lt;/td&gt;
+      &lt;td&gt;0.366&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;Phenol&lt;/td&gt;
+      &lt;td&gt;108-95-2&lt;/td&gt;
+      &lt;td&gt;−1.519&lt;/td&gt;
+      &lt;td&gt;−2.051&lt;/td&gt;
+      &lt;td&gt;−0.532&lt;/td&gt;
+      &lt;td&gt;−2.246&lt;/td&gt;
+      &lt;td&gt;−0.727&lt;/td&gt;
+      &lt;td&gt;−2.315&lt;/td&gt;
+      &lt;td&gt;−0.796&lt;/td&gt;
+      &lt;td&gt;−2.121&lt;/td&gt;
+      &lt;td&gt;−0.602&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;3,4-Dichloroaniline&lt;/td&gt;
+      &lt;td&gt;95-76-1&lt;/td&gt;
+      &lt;td&gt;−1.492&lt;/td&gt;
+      &lt;td&gt;−1.297&lt;/td&gt;
+      &lt;td&gt;0.194&lt;/td&gt;
+      &lt;td&gt;−1.506&lt;/td&gt;
+      &lt;td&gt;−0.014&lt;/td&gt;
+      &lt;td&gt;−1.362&lt;/td&gt;
+      &lt;td&gt;0.129&lt;/td&gt;
+      &lt;td&gt;−1.286&lt;/td&gt;
+      &lt;td&gt;0.205&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;o-Chlorophenol&lt;/td&gt;
+      &lt;td&gt;95-57-8&lt;/td&gt;
+      &lt;td&gt;−1.423&lt;/td&gt;
+      &lt;td&gt;−1.721&lt;/td&gt;
+      &lt;td&gt;−0.298&lt;/td&gt;
+      &lt;td&gt;−2.072&lt;/td&gt;
+      &lt;td&gt;−0.649&lt;/td&gt;
+      &lt;td&gt;−2.008&lt;/td&gt;
+      &lt;td&gt;−0.585&lt;/td&gt;
+      &lt;td&gt;−1.864&lt;/td&gt;
+      &lt;td&gt;−0.441&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;Aniline&lt;/td&gt;
+      &lt;td&gt;62-53-3&lt;/td&gt;
+      &lt;td&gt;−1.363&lt;/td&gt;
+      &lt;td&gt;−1.721&lt;/td&gt;
+      &lt;td&gt;−0.358&lt;/td&gt;
+      &lt;td&gt;−1.987&lt;/td&gt;
+      &lt;td&gt;−0.624&lt;/td&gt;
+      &lt;td&gt;−1.845&lt;/td&gt;
+      &lt;td&gt;−0.482&lt;/td&gt;
+      &lt;td&gt;−1.055&lt;/td&gt;
+      &lt;td&gt;0.308&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;o-Cresol&lt;/td&gt;
+      &lt;td&gt;95-48-7&lt;/td&gt;
+      &lt;td&gt;−0.986&lt;/td&gt;
+      &lt;td&gt;−1.533&lt;/td&gt;
+      &lt;td&gt;−0.547&lt;/td&gt;
+      &lt;td&gt;−0.735&lt;/td&gt;
+      &lt;td&gt;0.251&lt;/td&gt;
+      &lt;td&gt;−0.534&lt;/td&gt;
+      &lt;td&gt;0.453&lt;/td&gt;
+      &lt;td&gt;−0.829&lt;/td&gt;
+      &lt;td&gt;0.157&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;5-Chloro-2-methylbenzylamine&lt;/td&gt;
+      &lt;td&gt;27917-13-1&lt;/td&gt;
+      &lt;td&gt;−0.715&lt;/td&gt;
+      &lt;td&gt;−1.062&lt;/td&gt;
+      &lt;td&gt;−0.347&lt;/td&gt;
+      &lt;td&gt;−1.223&lt;/td&gt;
+      &lt;td&gt;−0.508&lt;/td&gt;
+      &lt;td&gt;−0.692&lt;/td&gt;
+      &lt;td&gt;0.024&lt;/td&gt;
+      &lt;td&gt;−0.963&lt;/td&gt;
+      &lt;td&gt;−0.247&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;o-Nitroaniline&lt;/td&gt;
+      &lt;td&gt;88-74-4&lt;/td&gt;
+      &lt;td&gt;−0.574&lt;/td&gt;
+      &lt;td&gt;−0.215&lt;/td&gt;
+      &lt;td&gt;0.360&lt;/td&gt;
+      &lt;td&gt;−0.467&lt;/td&gt;
+      &lt;td&gt;0.107&lt;/td&gt;
+      &lt;td&gt;−0.435&lt;/td&gt;
+      &lt;td&gt;0.140&lt;/td&gt;
+      &lt;td&gt;−0.103&lt;/td&gt;
+      &lt;td&gt;0.472&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;2-Nitroso-1-naphthol&lt;/td&gt;
+      &lt;td&gt;132-53-6&lt;/td&gt;
+      &lt;td&gt;−0.555&lt;/td&gt;
+      &lt;td&gt;0.115&lt;/td&gt;
+      &lt;td&gt;0.670&lt;/td&gt;
+      &lt;td&gt;−0.310&lt;/td&gt;
+      &lt;td&gt;0.246&lt;/td&gt;
+      &lt;td&gt;−0.489&lt;/td&gt;
+      &lt;td&gt;0.066&lt;/td&gt;
+      &lt;td&gt;−0.598&lt;/td&gt;
+      &lt;td&gt;−0.043&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;Orange G&lt;/td&gt;
+      &lt;td&gt;1934-20-9&lt;/td&gt;
+      &lt;td&gt;−0.378&lt;/td&gt;
+      &lt;td&gt;0.350&lt;/td&gt;
+      &lt;td&gt;0.729&lt;/td&gt;
+      &lt;td&gt;0.153&lt;/td&gt;
+      &lt;td&gt;0.532&lt;/td&gt;
+      &lt;td&gt;0.022&lt;/td&gt;
+      &lt;td&gt;0.400&lt;/td&gt;
+      &lt;td&gt;−0.266&lt;/td&gt;
+      &lt;td&gt;0.112&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;p-Aminobenzene sulfonic acid&lt;/td&gt;
+      &lt;td&gt;121-57-3&lt;/td&gt;
+      &lt;td&gt;−0.345&lt;/td&gt;
+      &lt;td&gt;−0.780&lt;/td&gt;
+      &lt;td&gt;−0.434&lt;/td&gt;
+      &lt;td&gt;−0.793&lt;/td&gt;
+      &lt;td&gt;−0.448&lt;/td&gt;
+      &lt;td&gt;−0.781&lt;/td&gt;
+      &lt;td&gt;−0.436&lt;/td&gt;
+      &lt;td&gt;−0.342&lt;/td&gt;
+      &lt;td&gt;0.003&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;p-Phthalic acid&lt;/td&gt;
+      &lt;td&gt;100-21-0&lt;/td&gt;
+      &lt;td&gt;−0.079&lt;/td&gt;
+      &lt;td&gt;0.680&lt;/td&gt;
+      &lt;td&gt;0.759&lt;/td&gt;
+      &lt;td&gt;0.583&lt;/td&gt;
+      &lt;td&gt;0.662&lt;/td&gt;
+      &lt;td&gt;0.513&lt;/td&gt;
+      &lt;td&gt;0.592&lt;/td&gt;
+      &lt;td&gt;0.553&lt;/td&gt;
+      &lt;td&gt;0.632&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;Chromotropic acid&lt;/td&gt;
+      &lt;td&gt;148-25-4&lt;/td&gt;
+      &lt;td&gt;−0.079&lt;/td&gt;
+      &lt;td&gt;0.021&lt;/td&gt;
+      &lt;td&gt;0.100&lt;/td&gt;
+      &lt;td&gt;−0.522&lt;/td&gt;
+      &lt;td&gt;−0.443&lt;/td&gt;
+      &lt;td&gt;−0.759&lt;/td&gt;
+      &lt;td&gt;−0.680&lt;/td&gt;
+      &lt;td&gt;−0.515&lt;/td&gt;
+      &lt;td&gt;−0.436&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;m-Cresol purple&lt;/td&gt;
+      &lt;td&gt;62625-31-4&lt;/td&gt;
+      &lt;td&gt;0.049&lt;/td&gt;
+      &lt;td&gt;0.303&lt;/td&gt;
+      &lt;td&gt;0.254&lt;/td&gt;
+      &lt;td&gt;0.969&lt;/td&gt;
+      &lt;td&gt;0.920&lt;/td&gt;
+      &lt;td&gt;0.925&lt;/td&gt;
+      &lt;td&gt;0.877&lt;/td&gt;
+      &lt;td&gt;0.622&lt;/td&gt;
+      &lt;td&gt;0.573&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;Metanil yellow&lt;/td&gt;
+      &lt;td&gt;4005-68-9&lt;/td&gt;
+      &lt;td&gt;0.573&lt;/td&gt;
+      &lt;td&gt;0.962&lt;/td&gt;
+      &lt;td&gt;0.389&lt;/td&gt;
+      &lt;td&gt;0.731&lt;/td&gt;
+      &lt;td&gt;0.158&lt;/td&gt;
+      &lt;td&gt;0.633&lt;/td&gt;
+      &lt;td&gt;0.059&lt;/td&gt;
+      &lt;td&gt;0.522&lt;/td&gt;
+      &lt;td&gt;−0.051&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;Bromophenol blue&lt;/td&gt;
+      &lt;td&gt;115-39-9&lt;/td&gt;
+      &lt;td&gt;0.665&lt;/td&gt;
+      &lt;td&gt;0.445&lt;/td&gt;
+      &lt;td&gt;−0.220&lt;/td&gt;
+      &lt;td&gt;0.224&lt;/td&gt;
+      &lt;td&gt;−0.440&lt;/td&gt;
+      &lt;td&gt;1.409&lt;/td&gt;
+      &lt;td&gt;0.744&lt;/td&gt;
+      &lt;td&gt;1.423&lt;/td&gt;
+      &lt;td&gt;0.759&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;Cresol red&lt;/td&gt;
+      &lt;td&gt;1733-12-6&lt;/td&gt;
+      &lt;td&gt;0.691&lt;/td&gt;
+      &lt;td&gt;−1.533&lt;/td&gt;
+      &lt;td&gt;−2.223&lt;/td&gt;
+      &lt;td&gt;−0.676&lt;/td&gt;
+      &lt;td&gt;−1.367&lt;/td&gt;
+      &lt;td&gt;−0.473&lt;/td&gt;
+      &lt;td&gt;−1.164&lt;/td&gt;
+      &lt;td&gt;0.064&lt;/td&gt;
+      &lt;td&gt;−0.626&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;Eriochrome blue black R&lt;/td&gt;
+      &lt;td&gt;2538-85-4&lt;/td&gt;
+      &lt;td&gt;0.696&lt;/td&gt;
+      &lt;td&gt;0.774&lt;/td&gt;
+      &lt;td&gt;0.078&lt;/td&gt;
+      &lt;td&gt;0.611&lt;/td&gt;
+      &lt;td&gt;−0.084&lt;/td&gt;
+      &lt;td&gt;0.251&lt;/td&gt;
+      &lt;td&gt;−0.444&lt;/td&gt;
+      &lt;td&gt;0.092&lt;/td&gt;
+      &lt;td&gt;−0.604&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;p-Dimethylaminobenzaldehyde&lt;/td&gt;
+      &lt;td&gt;100-10-7&lt;/td&gt;
+      &lt;td&gt;0.714&lt;/td&gt;
+      &lt;td&gt;−1.533&lt;/td&gt;
+      &lt;td&gt;−2.247&lt;/td&gt;
+      &lt;td&gt;−1.514&lt;/td&gt;
+      &lt;td&gt;−2.228&lt;/td&gt;
+      &lt;td&gt;−0.452&lt;/td&gt;
+      &lt;td&gt;−1.166&lt;/td&gt;
+      &lt;td&gt;−0.757&lt;/td&gt;
+      &lt;td&gt;−1.471&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;Methyl orange&lt;/td&gt;
+      &lt;td&gt;547-58-0&lt;/td&gt;
+      &lt;td&gt;0.739&lt;/td&gt;
+      &lt;td&gt;1.151&lt;/td&gt;
+      &lt;td&gt;0.412&lt;/td&gt;
+      &lt;td&gt;1.053&lt;/td&gt;
+      &lt;td&gt;0.314&lt;/td&gt;
+      &lt;td&gt;1.069&lt;/td&gt;
+      &lt;td&gt;0.330&lt;/td&gt;
+      &lt;td&gt;1.335&lt;/td&gt;
+      &lt;td&gt;0.596&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;Fuchsin basic&lt;/td&gt;
+      &lt;td&gt;569-61-9&lt;/td&gt;
+      &lt;td&gt;0.822&lt;/td&gt;
+      &lt;td&gt;0.303&lt;/td&gt;
+      &lt;td&gt;−0.519&lt;/td&gt;
+      &lt;td&gt;1.171&lt;/td&gt;
+      &lt;td&gt;0.349&lt;/td&gt;
+      &lt;td&gt;1.401&lt;/td&gt;
+      &lt;td&gt;0.578&lt;/td&gt;
+      &lt;td&gt;1.390&lt;/td&gt;
+      &lt;td&gt;0.568&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt;Methylene blue trihydrate&lt;/td&gt;
+      &lt;td&gt;7220-79-3&lt;/td&gt;
+      &lt;td&gt;0.907&lt;/td&gt;
+      &lt;td&gt;1.245&lt;/td&gt;
+      &lt;td&gt;0.338&lt;/td&gt;
+      &lt;td&gt;1.409&lt;/td&gt;
+      &lt;td&gt;0.503&lt;/td&gt;
+      &lt;td&gt;1.180&lt;/td&gt;
+      &lt;td&gt;0.274&lt;/td&gt;
+      &lt;td&gt;1.392&lt;/td&gt;
+      &lt;td&gt;0.486&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;28&lt;/td&gt;
+      &lt;td&gt;Azure I&lt;/td&gt;
+      &lt;td&gt;531-53-3&lt;/td&gt;
+      &lt;td&gt;0.994&lt;/td&gt;
+      &lt;td&gt;1.386&lt;/td&gt;
+      &lt;td&gt;0.392&lt;/td&gt;
+      &lt;td&gt;1.326&lt;/td&gt;
+      &lt;td&gt;0.332&lt;/td&gt;
+      &lt;td&gt;1.118&lt;/td&gt;
+      &lt;td&gt;0.124&lt;/td&gt;
+      &lt;td&gt;1.357&lt;/td&gt;
+      &lt;td&gt;0.363&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;29&lt;/td&gt;
+      &lt;td&gt;Crystal violet&lt;/td&gt;
+      &lt;td&gt;548-62-9&lt;/td&gt;
+      &lt;td&gt;1.062&lt;/td&gt;
+      &lt;td&gt;0.539&lt;/td&gt;
+      &lt;td&gt;−0.523&lt;/td&gt;
+      &lt;td&gt;0.734&lt;/td&gt;
+      &lt;td&gt;−0.327&lt;/td&gt;
+      &lt;td&gt;0.417&lt;/td&gt;
+      &lt;td&gt;−0.645&lt;/td&gt;
+      &lt;td&gt;0.230&lt;/td&gt;
+      &lt;td&gt;−0.831&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;Methyl red&lt;/td&gt;
+      &lt;td&gt;493-52-7&lt;/td&gt;
+      &lt;td&gt;1.077&lt;/td&gt;
+      &lt;td&gt;0.492&lt;/td&gt;
+      &lt;td&gt;−0.585&lt;/td&gt;
+      &lt;td&gt;0.581&lt;/td&gt;
+      &lt;td&gt;−0.496&lt;/td&gt;
+      &lt;td&gt;0.329&lt;/td&gt;
+      &lt;td&gt;−0.748&lt;/td&gt;
+      &lt;td&gt;0.168&lt;/td&gt;
+      &lt;td&gt;−0.909&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;31&lt;/td&gt;
+      &lt;td&gt;Rhodamine B&lt;/td&gt;
+      &lt;td&gt;81-88-9&lt;/td&gt;
+      &lt;td&gt;1.234&lt;/td&gt;
+      &lt;td&gt;0.021&lt;/td&gt;
+      &lt;td&gt;−1.213&lt;/td&gt;
+      &lt;td&gt;0.846&lt;/td&gt;
+      &lt;td&gt;−0.388&lt;/td&gt;
+      &lt;td&gt;0.412&lt;/td&gt;
+      &lt;td&gt;−0.822&lt;/td&gt;
+      &lt;td&gt;−0.188&lt;/td&gt;
+      &lt;td&gt;−1.422&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;Bromocresol green&lt;/td&gt;
+      &lt;td&gt;76-60-8&lt;/td&gt;
+      &lt;td&gt;1.836&lt;/td&gt;
+      &lt;td&gt;0.303&lt;/td&gt;
+      &lt;td&gt;−1.533&lt;/td&gt;
+      &lt;td&gt;1.194&lt;/td&gt;
+      &lt;td&gt;−0.642&lt;/td&gt;
+      &lt;td&gt;1.348&lt;/td&gt;
+      &lt;td&gt;−0.488&lt;/td&gt;
+      &lt;td&gt;1.193&lt;/td&gt;
+      &lt;td&gt;−0.643&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;33&lt;/td&gt;
+      &lt;td&gt;Indigo&lt;/td&gt;
+      &lt;td&gt;482-89-3&lt;/td&gt;
+      &lt;td&gt;2.428&lt;/td&gt;
+      &lt;td&gt;0.868&lt;/td&gt;
+      &lt;td&gt;−1.560&lt;/td&gt;
+      &lt;td&gt;0.663&lt;/td&gt;
+      &lt;td&gt;−1.765&lt;/td&gt;
+      &lt;td&gt;0.854&lt;/td&gt;
+      &lt;td&gt;−1.574&lt;/td&gt;
+      &lt;td&gt;1.063&lt;/td&gt;
+      &lt;td&gt;−1.365&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1603</offset>
+      <text>Experimental and four predicted lnk′ of organic pollutants under acidic condition.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['No.', 'Model', 'R2', 'SD', 'q2', 'F'], ['1', 'lnk′=2.940-47.079f(0)x', '0.586', '0.908', '0.516', '36.860'], ['2', 'lnk′=1.965-48.711f(0)x-3.273q(C)min', '0.682', '0.812', '0.587', '26.869'], ['3', 'lnk′=1.978-95.484f(0)x-3.350q(C)min+38.221f(+)x', '0.763', '0.716', '0.620', '25.714'], ['4', 'lnk′=2.489+21.117f(0)n-126.519f(0)x-3.852q(C)min+48.501f(+)x', '0.802', '0.668', '0.658', '23.354']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;No.&lt;/td&gt;
+      &lt;td&gt;Model&lt;/td&gt;
+      &lt;td&gt;R2&lt;/td&gt;
+      &lt;td&gt;SD&lt;/td&gt;
+      &lt;td&gt;q2&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;lnk′=2.940-47.079f(0)x&lt;/td&gt;
+      &lt;td&gt;0.586&lt;/td&gt;
+      &lt;td&gt;0.908&lt;/td&gt;
+      &lt;td&gt;0.516&lt;/td&gt;
+      &lt;td&gt;36.860&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;lnk′=1.965-48.711f(0)x-3.273q(C)min&lt;/td&gt;
+      &lt;td&gt;0.682&lt;/td&gt;
+      &lt;td&gt;0.812&lt;/td&gt;
+      &lt;td&gt;0.587&lt;/td&gt;
+      &lt;td&gt;26.869&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;lnk′=1.978-95.484f(0)x-3.350q(C)min+38.221f(+)x&lt;/td&gt;
+      &lt;td&gt;0.763&lt;/td&gt;
+      &lt;td&gt;0.716&lt;/td&gt;
+      &lt;td&gt;0.620&lt;/td&gt;
+      &lt;td&gt;25.714&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;lnk′=2.489+21.117f(0)n-126.519f(0)x-3.852q(C)min+48.501f(+)x&lt;/td&gt;
+      &lt;td&gt;0.802&lt;/td&gt;
+      &lt;td&gt;0.668&lt;/td&gt;
+      &lt;td&gt;0.658&lt;/td&gt;
+      &lt;td&gt;23.354&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1686</offset>
+      <text>Regression models for calculating lnk′of organic pollutants.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['', 'lnk′', 'f(0)x', 'q(C)min', 'f(+)x'], ['lnk′', '1.000', '–', '–', '–'], ['f(0)x', '−0.766', '1.000', '–', '–'], ['q(C)min', '−0.244', '0.054', '1.000', '–'], ['f(+)x', '−0.621', '−0.937', '−0.026', '1.000']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;lnk′&lt;/td&gt;
+      &lt;td&gt;f(0)x&lt;/td&gt;
+      &lt;td&gt;q(C)min&lt;/td&gt;
+      &lt;td&gt;f(+)x&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lnk′&lt;/td&gt;
+      &lt;td&gt;1.000&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;f(0)x&lt;/td&gt;
+      &lt;td&gt;−0.766&lt;/td&gt;
+      &lt;td&gt;1.000&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;q(C)min&lt;/td&gt;
+      &lt;td&gt;−0.244&lt;/td&gt;
+      &lt;td&gt;0.054&lt;/td&gt;
+      &lt;td&gt;1.000&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;f(+)x&lt;/td&gt;
+      &lt;td&gt;−0.621&lt;/td&gt;
+      &lt;td&gt;−0.937&lt;/td&gt;
+      &lt;td&gt;−0.026&lt;/td&gt;
+      &lt;td&gt;1.000&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1747</offset>
+      <text>Correlation coefficient(r) matrix for variables of model (3).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['', 'Regression coefficients', 't', 'Sig.', 'VIF'], ['Constant', '1.978', '3.700', '0.001', '–'], ['f(0)x', '−95.484 ± 1.553', '−5.447', '0.000', '8.195'], ['q(C)min', '−3.350 ± 0.319', '−3.191', '0.004', '1.001'], ['f(+)x', '38.221 ± 0.811', '2.848', '0.009', '1.003']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Regression coefficients&lt;/td&gt;
+      &lt;td&gt;t&lt;/td&gt;
+      &lt;td&gt;Sig.&lt;/td&gt;
+      &lt;td&gt;VIF&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Constant&lt;/td&gt;
+      &lt;td&gt;1.978&lt;/td&gt;
+      &lt;td&gt;3.700&lt;/td&gt;
+      &lt;td&gt;0.001&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;f(0)x&lt;/td&gt;
+      &lt;td&gt;−95.484 ± 1.553&lt;/td&gt;
+      &lt;td&gt;−5.447&lt;/td&gt;
+      &lt;td&gt;0.000&lt;/td&gt;
+      &lt;td&gt;8.195&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;q(C)min&lt;/td&gt;
+      &lt;td&gt;−3.350 ± 0.319&lt;/td&gt;
+      &lt;td&gt;−3.191&lt;/td&gt;
+      &lt;td&gt;0.004&lt;/td&gt;
+      &lt;td&gt;1.001&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;f(+)x&lt;/td&gt;
+      &lt;td&gt;38.221 ± 0.811&lt;/td&gt;
+      &lt;td&gt;2.848&lt;/td&gt;
+      &lt;td&gt;0.009&lt;/td&gt;
+      &lt;td&gt;1.003&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1809</offset>
+      <text>Checking statistical values for model (3).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1852</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653514007140-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1860</offset>
+      <text>The kinetic constants of colour removal in acid condition. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0045653514007140-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2050</offset>
+      <text>Four QSAR models for degradation of organic pollutants in acidic condition.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2126</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2135</offset>
+      <text>['Ozonation process', 'Organic pollutants', 'QSAR', 'Fukui indices', 'Quantum chemistry', 'Reaction pathway', '1']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2250</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2263</offset>
+      <text>With the development of modern industry, a variety of organic pollutants with high toxicity arise in wastewater. They are often hardly degraded by microorganism or even inhibit biochemical reactions owing to their complex structures, including double bonds, activated aromatic rings, and specific ring atoms ( ). Meanwhile, better water quality and more strict emission laws are proposed in China, forcing people to seek more efficient wastewater treatment plants (WWTP). Compared with conventional WWTP, ozonation is an advanced treatment to degrade organic compounds into CO2 and H2O due to its stronger oxidation and less selectivity ( ). Considerable advanced ozonation processes have been developed to improve oxidation efficiency. ( ) investigated the kinetics and mechanisms in oxidizing dibutylsulfide in aqueous solution with ozone and hydrogen peroxide. It was demonstrated that ionic and radical were two mechanisms of dibutylsulfide oxidation present depending on pH values. ( ) compared the efficiency of ozone processes for the degradation of pharmaceutical compound sulfamethoxazole and explored the kinetics and mechanisms involved in these processes. ( ) studied degradation mechanisms of herbicide 2,4-dichlorophenoxy solution by ozonation and concluded that in acidic condition removal of 2,4-dichlorophenoxy is mainly dominated by direct oxidation by molecular ozone. A number of studies have revealed that oxidation efficiency by ozone is higher in acidic condition ( ). Moreover, theoretical predicted methods were sometimes applied to estimating rate constants and give some insight into the reaction mechanisms. Quantitative Structure Activity Relationship (QSAR) models, one of the theoretical predicted methods, have gained increasingly attention ( ). It is considered as a rapid and cost-effective alternative to experimental evaluation. In fact, several QSAR studies with respects to organic compounds were found sporadically in recent publications, although most of these studies aimed at a certain or homologous series (e.g aromatic pollutants) ( ). In addition, certain molecular parameters of structural descriptors and quantum chemical parameters have been considered in recent years ( ). ( ) developed a model containing 14 quantum chemical descriptors and 18 molecular fragments. Energy of the highest occupied molecular orbital (EHOMO) and energy of the lowest unoccupied molecular orbital (ELUMO) were also reported to influence ozonation at the molecular orbital level ( ). Fukui indices are defined as the derivative of the electron density with respect to the number of electrons at constant molecular geometry ( ), and have been established as the key region selectivity indicators for chemical reactions. They might describe the preferred reaction energetics and thus kinetics in terms of the properties of the reagents, and give insight into generalized acid/base reactions ( ). However, Fukui indices are seldom found in QSAR analysis as variables. This study focused on involving Fukui indices in QSAR analysis. It is important to choose appropriate descriptors as model variables which are relevant to ozonation mechanism. The aim of the work is to explore universal ozone degradation rules for complex organic compounds under acidic condition. 2</text>
+      <annotation id="2">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3239" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3098" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3281" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3644" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3714" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5476" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5556</offset>
+      <text>Experimental methods and computation details</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5601</offset>
+      <text>2.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5605</offset>
+      <text>Experimental methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5626</offset>
+      <text>Ozone was generated by an ozone generator (Op-10g, Qingdao Guolin Industry Co., td., China). The experiments were conducted in a 2000 mL reactor. During experiments, ozone was continuously introduced into the reactor and maintained at a constant concentration (8.64 g h−1). The initial concentration of each organic compound was determined by oxygen consumption. The oxidized time, 4 min, could be figured out by stoichiometric relationship theoretically when organic pollutants were completely oxidized by ozone. Through experiments, experimental conditions in this paper were suitable for calculating the rate constants. The reaction process was in accordance with the first-order kinetic reaction equation, and the kinetic constants were calculated. Excess ozone in the outlet gas was absorbed by 10% sodium thiosulfate solution. All experiments were carried out at room temperature (298.15 K). During the reaction process, the concentrations of compounds were detected after different residence time periods by UV spectrophotometer at their maximum absorption wavelengths. Color was analysed by U-3010 Spectrophotometer (Hitachi, Japan). 2.2</text>
+      <annotation id="8">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="6500" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5626" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5652" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5792" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5872" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5912" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="6133" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="6386" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="6557" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="6303" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6772</offset>
+      <text>Computation details</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6792</offset>
+      <text>This work selected 33 organic compounds to study the relationship between oxidation efficiency and molecular descriptors. Two softwares were used in accordance with their convenience and versatility. One is Gaussian 09 (DFT B3LYP/6-311G level) and the other is Material Studio 6.1 (Dmol3/GGA-BLYP/DNP(3.5) basis). Structure optimization and the total energy calculations of the optimized geometries were based on B3LYP method. Firstly, their structures were optimized by using chemical density functional theory (DFT) B3LYP/6-311G method in Gaussian 09. In the calculation process, exchange and correlation terms are considered with a B3LYP function (6-311G basis set). Meanwhile, natural population analysis (NPA) of atomic charge was gotten by the same method. Finally, most quantum descriptors were obtained directly from the Gaussian 09 output files. They included dipole moment (μ), most positive partial charge on a hydrogen atom (qH+), most negative partial charge on a carbon atom (qC), EHOMO and ELUMO. Bond order (BO) and Fukui indices (f(+), f(−) and f(0)) were analyzed specifically by Material Studio 6.1. BO is the number of chemical bonds between a pair of atoms, suggesting the stability of a bond. For all compounds whose BO is under four, molecule tends to be more stable if its BO is larger. Fukui indices are significant for analysis of site reactive selectivity among the oxidation paths, as hydrogen substitution by oxidant radicals, and addition of oxidant group to double bonds are the most events. All the calculations and the localized double numerical basis sets with polarization functional (DNP) were adopted, as implemented in DMol3 code in the Material Studio 6.1. The self-consistent field procedure was carried out with a convergence criterion of 10−6 a.u. on energy and electron density. Density mixing was set at 0.2 charge and 0.5 spin. The smearing of electronic occupations was set as 0.005 Ha. Organic compounds were all geometry optimized with the same setup. In this work, BOn and BOx refer to the minimum and maximum of bond order values in the molecule respectively. Similarly, f(+)x, f(−)x and f(0)x stand for the maximum values of nucleophilic attack, electrophilic attack and OH radical attack respectively. f(+)n, f(−)n and f(0)n do for their respective minimum values on main-chain carbon atom. 2.3</text>
+      <annotation id="18">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="7809" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="8859" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9139</offset>
+      <text>QSAR model and validation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9165</offset>
+      <text>With the aim to obtain optimum number of variables for the correlation model, stepwise regression procedure was used to build QSAR models by the SPSS 17.0 for windows program. The quality of derived QSAR was evaluated in accordance with the squared regression coefficient (R2), the standard deviation (SD) as well as t test and the Fisher test. The internal validation was performed by leave-one-out cross-validation (q2), and the external validation was also computed (QEXT2). In both validation methods, a validation value of greater than 0.5 indicates a robust and predictive model ( ). 3</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9757</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9780</offset>
+      <text>The degradation of 33 kinds of organic pollutants at pH 4 was investigated during the ozonation processes. The experiments of ozonation process showed that after continuously infusing O3 into the organic solution for about 1 h, removal ratio of almost all substances reached 80% or even 100% in acidic condition. The reaction equations for ozone degradation of organic compounds can be expressed as follows. (1) Organic Pollutants+O3→Ps(products and intermediates) Based on Eq. , the ozone degradation rate equation can be presented as follows. (2) -dCt/dt=kCtmCO3n where Ct(M) and CO3(M) are the concentrations of organic pollutants and ozone in aqueous solution, respectively, at residence time t; k is the reaction rate constant, and m and n are the reaction orders of organic pollutants and ozone, respectively. Because the concentration of ozone was always saturated in the ozonation process, it can be regarded as a constant, assuming that CO3 has no influence on the ozone diffusion rate under stirring in aqueous solution. Thus Eq. can be simplified as Eq. . (3) -dCt/dt=k′Ctm where k′ is an apparent reaction rate constant and m is the total reaction order. When m is one, the reaction equation can be shown as Eq. . (4) ln(C0/Ct)=-k′t where C0 is the initial concentration of organic compounds in the reaction system ( ). Generally, colour removal tends to be higher with longer residence time. As shown in , k′ value of each compound was obviously distinguished, ranging from 0.02 (of m-Trihydroxybenzene) to 11.34 (of Indigo). The largest reaction rate constant is 500 times as large as that of the smallest one, indicating the huge diversity of their structures. In fact, the 33 organic pollutants in this study are different and complex, which represent various compounds among dyes, fertilizers, pharmaceutical and refinery wastewater. However, it is meaningful to set up a QSAR model which can predict oxidization activities of various organic molecules with different structures. In recent years, most researches target on some substances or homologue with QSAR analysis, whose structures or components are quite similar. In particular, ( ) have studied 39 common aromatic compounds including 1-Aminonaphthalene, 3-Chloroaniline, 2,6-Dinitrobenzene and so on. Their observed results showed that the mean of -logk′ values is 6.042, and the changes are only about ±10%. ( ) have carried out a research on oxidation characteristics of 26 kinds of substituted phenols by ozonation process, suggesting some basic principles of related chemical reactions. Based on the two studies, it might be noticeable that QSAR models focused on homologue have major limitations in application and promotion. There is not an appropriate universal QSAR model available for diverse compounds in ozonation system. Therefore, it is of great significance and difficulties to find out a QSAR model of several kinds of common organic pollutants with various structures. All organic pollutants and their 14 respective molecular parameters are listed in . These theoretical parameters are important to observe which sites are active to be attacked and which bonds are sensitive to be ruptured. Specifically, EHOMO and ELUMO are acronyms for energy of highest occupied molecular orbital and lowest unoccupied molecular orbital, respectively. As shown in , the average level of parameters EHOMO and ELUMO are −0.231 eV and −0.053 eV respectively. The largest values of EHOMO and ELUMO reach −0.151 eV (of Crystal Violet) and 0.040 eV (of m-Cresol Purple) respectively, while the smallest ones of EHOMO and ELUMO are −0.303 eV (of m-Cresol Purple) and −0.140 eV (of Nitrobenzene) respectively. Moreover, a method of NPA has been developed to calculate atomic charges and orbital populations of molecular wave functions in general atomic orbital basis sets. The NPA is an alternative to conventional Mulliken population analysis, and seems to exhibit improved numerical stability and to better describe the electron distribution in compounds of high ionic character. qH+ is considered as charge of hydrogen atoms in the molecule structure system NPA. q(C)min and q(C)max, refer to the minimum and maximum of most negative partial charge on a main-chain carbon atom in the molecule. In this study, qH+, q(C)min and q(C)max have the average values of 0.410e, −0.334e and 0.323e respectively. At the same time, The maximum of qH+, q(C)min and q(C)max reach 0.507e, −0.163e and 0.813e respectively, while the minimum of them are 0.207e, −0.607e and 0.061e respectively. It is also noticeable that the distinguish between the largest value to the smallest of q(C)min is 0.444e, which is a wide range for compounds, leading the challenges and innovation of this study. Fukui indices, frontier molecular orbits, bond orders are key concepts to portray the decomposition sequence of organic structure in oxidation. Eqs. are three main basis points of nucleophilic attack, electrophilic attack and radical attack. (5) f(+)=ρN+1(r)-ρN(r) (6) f(-)=ρN(r)-ρN-1(r) (7) f(0)=1/2[ρN+1(r)-ρN-1(r)] where ρN + 1(r), ρN(r) and ρN − 1(r) are the electron densities of the N + 1, N, and N − 1 electron system, respectively. The average levels of parameters f(+)x, f(−)x and f(0)x are 0.083e, 0.070e, and 0.069e respectively, while those of f(+)n, f(−)n and f(0)n are 0.024e, 0.023e and 0.028e, respectively. The variation of each Fukui indices is extremely huge. The largest values of f(+)x, f(−)x and f(0)x reach 0.143e, 0.137e, and 0.106e respectively, while the smallest ones of f(+)x, f(−)x and f(0)x are 0.034e, 0.032e and 0.033e, respectively. Similarly, the largest values of f(+)n, f(−)n and f(0)n reach 0.087e, 0.068e, and 0.092e respectively, while the smallest ones of f(+)n, f(−)n and f(0)n −0.012e, −0.010e, and −0.006e respectively. Moreover, it is easy to observe that Phenol and Aniline always have high values in all Fukui indices. All the predictable values of lnk′ (Pred.) by four QSAR models, the differences between experimental values and predicted values (Diff.) as well as CAS numbers are listed in . Using the obtained molecular descriptors as variables, the correlation models of the predictable rate constants were developed by SPSS 17.0 for window program. The QSAR models for degradation of organic pollutants in ozonation process under acidic condition along with the associated statistical indices such as R2, SD and q2 are listed in . According to the predictable performance, favorable options are two-variable-model and three-variable-model. They are generally determined by regression coefficient (R2 and q2). Among the four QSAR models, model (2) and (3) fit well, with both ideal squared regression coefficient (R2 &gt; 0.65) and internal validation (q2 &gt; 0.50). As shown in , R2 almost increase with the number of variables. However, there is no obvious growth of R2 in model (4) compared with that in model (3). Apparently model (4) is not the best option. Moreover, with the reference of model (2) and (3), model (3) has higher R2 value and lower SD value. F value also suggests that model (3) has obvious statistic significance. Above all, model (3) is recommended. Additionally, it can be seen from that model (3) had good fitting curve between the predicted and experimental data. Observed lnk′ values increase almost linearly with all organic pollutants. Most predicted lnk′ values by optimum model are evenly distributed around regression line. In this view, it is worthwhile and reasonable to predict degradation rules by model (3). In this study, the molecular descriptors which influenced the QSAR models were: f(0)n, f(0)x, q(C)min and f(+)x. The optimum model (3) contains three variables f(+)x, f(0)x and q(C)min. Each descriptor plays an important role in the degradation of ozone. Together with them, it is useful to reveal the reaction rules. f(+) is a measurement of the ability of nucleophilic attack. Generally a molecule is susceptible to nucleophilic attack at sites where f(+) is large. In DFT, the Fukui functions are the key region selectivity indicators for electron-transfer controlled reactions. When f(+)x is larger, it is easier of main-chain carbon at the site to be attacked. Most compounds with high f(+)x values have weak endurance to ozone. For instance, p-Dimethylaminobenzaldehyde is calculated with large f(+)x value (0.143e), attributing to its reaction rate lnk′ of 0.714. On the other hand, when f(0)x is larger, it is harder for C–H bonds of aliphatic hydrocarbons and N–H bonds of amines to be ruptured. Compounds with high f(0)x values have strong tolerance to ozone since they had a higher barrier to OH radical attack. Although it is not a common conclusion from previous work, we might consider it as a further study in the future. The electrostatic descriptor q(C) reflects characteristic of the charge distribution of the molecular. This descriptor is related to the most negatively charged atom in the molecule that is usually connected to the electron withdrawing. The negative sign of any descriptor in models means that it is in inverse proportion to the reactivity of compounds in ozone degradation. The lower q(C)min is, the more of negative values carbon atom has. Take Bromocresol Green for example, it is calculated with low q(C)min value(−0.598e), leading to its fast reaction rate with lnk′ of 1.836. To check the stability of optimum model, pairwise correlation coefficients, t test and Fisher test are employed. Pairwise correlation coefficients of model (3) are shown in . The correlation coefficients order between the tested values of lnk′ and independent variables are as follows: f(0)x &gt; f(+)x &gt; q(C)min . The standard regression coefficients and t values of independent variables for model (3) are listed in , and all the absolute t values are larger than the standard one. It indicates that three variables are able to accept. Furthermore, multicollinearity between the descriptors of recommended model was checked by calculating their variation inflation factors (VIF) to evaluate the correlation degree of each independent variable in the equation in the present study. Here, VIF = 1/(1 − r2), in which r is the correlation coefficient of multiple regressions between one variable and the others in the equation. If VIF = 1.0, no inter correlation exists for each variable; if VIF ranges from 1.0 to 5.0, the related equation is acceptable; and if VIF is larger than 10.0, the regression equation is unstable and recheck is necessary. It can be seen from that the max-VIF for model (3) is 8.195, suggesting model (3) has statistic significance. An external validation of suggested model has been performed for five compounds, which are not involved in the model-building process. A test set was randomly selected with interval of seven, including 2-Nitrophenol, Aniline, p-Phthalic Acid, p-Dimethylaminobenzaldehyde and Rhodamine B. The QEXT2 value of 0.767 (&gt;0.50) indicates that suggested model has good predictive potential. 4</text>
+      <annotation id="20">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9833" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10120" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10264" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10377" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10418" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10575" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10608" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10625" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10754" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11049" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17568" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18047" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18383" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18913" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10542" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10940" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14575" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19343" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>20779</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20791</offset>
+      <text>QSAR models focusing on Fukui indices and O3 for 33 kinds of organic compounds in aqueous solutions were developed in acidic condition. k′ value and lnk′ were experimentally determined, suggesting that ozonation reaction order was one. More important, as each structure was different, complex and distinctive, it was considered to focus on figuring out common rules in organic pollutants. Based on the calculations of molecular parameters by Gaussian 09 and Material Studio 6.1, f(+)x, q(C)min and f(0)x appeared in most QSAR models, which indicated they were significant in understanding ozonation mechanism. Models for reaction rate constants were developed by stepwise regression method. The optimum model had the squared regression coefficient R2 = 0.763 and standard deviation SD = 0.716. The results of t test and Fisher test suggested that the model exhibited optimum stability. Both internal and external validations shown its robustness and predictive capacity. Furthermore, the recommended QSAR model provides some insights into molecular parameter. f(0)x is related closer to the ozonation rate constants of different organic pollutants under acidic condition.</text>
+      <annotation id="38">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21012" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,1313 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-05-27</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.jhazmat.2007.08.009</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">KINETICSMECHANISMDEGRADATIONPCHLORONITROBENZENEINWATERBYOZONATION</infon>
+      <infon key="name_0">surname:SHEN</infon>
+      <infon key="license">Copyright © 2007 Elsevier B.V. All rights reserved.</infon>
+      <infon key="source">Journal of Hazardous Materials</infon>
+      <infon key="year">2007-08-08</infon>
+      <infon key="volume">152</infon>
+      <infon key="issue">0304-3894</infon>
+      <infon key="fpage">1325</infon>
+      <infon key="lpage">1331. Link: https://sciencedirect.com/science/article/pii/S0304389407011673</infon>
+      <infon key="pub-id_doi">10.1016/j.jhazmat.2007.08.009</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0304389407011673</infon>
+      <infon key="kwd">['Ozonation', 'p-Chloronitrobenzene (pCNB)', 'Hydroxyl radical', 'Reaction mechanism', 'Competing reaction kinetics']</infon>
+      <offset>0</offset>
+      <text>Kinetics and mechanism of degradation of p-chloronitrobenzene in water by ozonation</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>84</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>102</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>113</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>122</offset>
+      <text>The kinetics and mechanism of p-chloronitrobenzene (pCNB) degradation by ozone were investigated. With reference compounds, nitrobenzene (NB) and chlorobenzene (CB), reaction rate constants of pCNB with O3 and  OH were measured by means of competition kinetics (mixtures of pCNB and NB, or pCNB and CB), with the rate constants being, 1.6 L mol−1 s−1, 2.6 × 109 L mol−1 s−1, respectively. During the ozonation process of pCNB, an increase of chloride and nitrate ions in the water sample solution was observed, which is consistent with the decrease in pCNB concentration. But the total organic carbon (TOC) removal rate is not consistent with the pCNB elimination rate indicating only part of pCNB was mineralized and thus presumably some intermediate products were formed. The pCNB degradation intermediate products were analyzed by gas chromatography–mass spectrometry (GC–MS), liquid chromatography–mass spectrometry (LC–MS), high performance liquid chromatography (HPLC) and ion chromatography (IC). The main intermediate products were phenol, p-chlorophenol, p-nitrophenol, 2-chloro-5-nitrophenol, 5-chloro-2-nitrophenol, 5-nitro-catechol, para-benzoquinone, 5-nitro-1,2,3-trihydroxy phenol, trihydroxy semiquinone, glycolic acid, oxalic acid, hydroxybutanoic acid, mesoxalic acid, tartrouic acid, malonic acid, maleic acid, hydroxymalonic acid, tartaric acid, malic acid, ketoglutaric acid and muconic acid. From the identified reaction products, a possible degradation pathway for the ozonation of pCNB has been proposed.</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="195" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="679" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1651</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Matter', 'KM- OH\n× 109 (L mol−1\ns−1)', 'KM- OH\n× 109 (L mol−1\ns−1)', 'kM−O3 (L mol−1\ns−1)', 'kM−O3 (L mol−1\ns−1)'], ['', 'Measured', 'Ref.', 'Measured', 'Ref.'], ['CB', '6.4 ± 0.2', '6.5', '–', '–'], ['NB', '–', '3.9', '1.1 ± 0.1', '2.2 , 0.075'], ['pCNB', '2.6 ± 0.2', '–', '1.6 ± 0.2', '–'], ['HCO3−', '–', '0.0085', '–', '–'], ['CO32−', '–', '0.4', '–', '–'], ['HOOCCOOH', '–', '0.0014', '–', '0.04'], ['HOOCCOO−', '–', '0.0077', '–', '–']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Matter&lt;/td&gt;
+      &lt;td&gt;KM- OH\n× 109 (L mol−1\ns−1)&lt;/td&gt;
+      &lt;td&gt;KM- OH\n× 109 (L mol−1\ns−1)&lt;/td&gt;
+      &lt;td&gt;kM−O3 (L mol−1\ns−1)&lt;/td&gt;
+      &lt;td&gt;kM−O3 (L mol−1\ns−1)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Measured&lt;/td&gt;
+      &lt;td&gt;Ref.&lt;/td&gt;
+      &lt;td&gt;Measured&lt;/td&gt;
+      &lt;td&gt;Ref.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CB&lt;/td&gt;
+      &lt;td&gt;6.4 ± 0.2&lt;/td&gt;
+      &lt;td&gt;6.5&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;NB&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;3.9&lt;/td&gt;
+      &lt;td&gt;1.1 ± 0.1&lt;/td&gt;
+      &lt;td&gt;2.2 , 0.075&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pCNB&lt;/td&gt;
+      &lt;td&gt;2.6 ± 0.2&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;1.6 ± 0.2&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;HCO3−&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;0.0085&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CO32−&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;0.4&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;HOOCCOOH&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;0.0014&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;0.04&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;HOOCCOO−&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;0.0077&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1658</offset>
+      <text>Rate constants for ozone and hydroxyl radical with some substances</text>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1677" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['RT (min)', 'Authentic chemical formula', 'Q(%)'], ['3.81', 'HOCH2COOH (glycolic acid)', '64'], ['4.61', 'CH3CH2OHCOOH (hydracrylic acid)', '83'], ['5.78', 'CH2COCHOOH (pyruvic acid)', '72'], ['6.50', 'HO(CH2)3COOH (hydroxyl butanoic acid)', '93'], ['7.91', '(COOH)2 (oxalic acid)', '91'], ['8.20', 'C6H5OH (phenol)', '95'], ['9.47', 'HOOCHCH2CHOOH (malonic acid)', '90'], ['12.65', 'C6H4O2 (p-benzoquinone)', '90'], ['13.53', 'HOOC(CH2)2COOH (succinic acid)', '75'], ['14.38', 'HOOCCH2CHOHCOOH (malic acid)', '59'], ['16.48', 'HOOCH2COCHOOH (mesoxalic acid)', '72'], ['23.51', 'HOOCHCH(OH)COOH (tartrouic acid)', '86'], ['25.53', 'C6H4OHCl (p-chlorophenol)', '97'], ['27.23', 'HOOCCHCHCOOH (maleic aid)', '74'], ['28.84', 'HOOC(CH2)3COO (glutaric acid)', '59'], ['33.35', 'HOC6H4OH (quinol)', '90'], ['35.25', 'COH(COOH)2 (hydroxyl malonic acid)', '65'], ['36.72', 'C6H4OHNO2 (p-nitrophenol)', '96'], ['38.50', 'HOOC(CHOH)2COOH (tartaric acid)', '72'], ['44.59', 'HOOC(CH)4COOH (muconic acid)', '65'], ['55.06', 'HOOC(CH2)4COOH (adipic acid)', '64'], ['64.10', 'C6H3(OH)2NO2 (5-nitro-resorcinol)', '91'], ['64.35', 'C6H3(OH)2NO2 (5-nitro-catechol)', '83'], ['72.10', 'C6H3OHClNO2 (5-chloro-2-nitrophenol)', '91'], ['73.85', 'C6H3OHClNO2 (2-chloro-5-nitrophenol)', '–']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RT (min)&lt;/td&gt;
+      &lt;td&gt;Authentic chemical formula&lt;/td&gt;
+      &lt;td&gt;Q(%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3.81&lt;/td&gt;
+      &lt;td&gt;HOCH2COOH (glycolic acid)&lt;/td&gt;
+      &lt;td&gt;64&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4.61&lt;/td&gt;
+      &lt;td&gt;CH3CH2OHCOOH (hydracrylic acid)&lt;/td&gt;
+      &lt;td&gt;83&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5.78&lt;/td&gt;
+      &lt;td&gt;CH2COCHOOH (pyruvic acid)&lt;/td&gt;
+      &lt;td&gt;72&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6.50&lt;/td&gt;
+      &lt;td&gt;HO(CH2)3COOH (hydroxyl butanoic acid)&lt;/td&gt;
+      &lt;td&gt;93&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7.91&lt;/td&gt;
+      &lt;td&gt;(COOH)2 (oxalic acid)&lt;/td&gt;
+      &lt;td&gt;91&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8.20&lt;/td&gt;
+      &lt;td&gt;C6H5OH (phenol)&lt;/td&gt;
+      &lt;td&gt;95&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9.47&lt;/td&gt;
+      &lt;td&gt;HOOCHCH2CHOOH (malonic acid)&lt;/td&gt;
+      &lt;td&gt;90&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12.65&lt;/td&gt;
+      &lt;td&gt;C6H4O2 (p-benzoquinone)&lt;/td&gt;
+      &lt;td&gt;90&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;13.53&lt;/td&gt;
+      &lt;td&gt;HOOC(CH2)2COOH (succinic acid)&lt;/td&gt;
+      &lt;td&gt;75&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14.38&lt;/td&gt;
+      &lt;td&gt;HOOCCH2CHOHCOOH (malic acid)&lt;/td&gt;
+      &lt;td&gt;59&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;16.48&lt;/td&gt;
+      &lt;td&gt;HOOCH2COCHOOH (mesoxalic acid)&lt;/td&gt;
+      &lt;td&gt;72&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;23.51&lt;/td&gt;
+      &lt;td&gt;HOOCHCH(OH)COOH (tartrouic acid)&lt;/td&gt;
+      &lt;td&gt;86&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;25.53&lt;/td&gt;
+      &lt;td&gt;C6H4OHCl (p-chlorophenol)&lt;/td&gt;
+      &lt;td&gt;97&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;27.23&lt;/td&gt;
+      &lt;td&gt;HOOCCHCHCOOH (maleic aid)&lt;/td&gt;
+      &lt;td&gt;74&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;28.84&lt;/td&gt;
+      &lt;td&gt;HOOC(CH2)3COO (glutaric acid)&lt;/td&gt;
+      &lt;td&gt;59&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;33.35&lt;/td&gt;
+      &lt;td&gt;HOC6H4OH (quinol)&lt;/td&gt;
+      &lt;td&gt;90&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;35.25&lt;/td&gt;
+      &lt;td&gt;COH(COOH)2 (hydroxyl malonic acid)&lt;/td&gt;
+      &lt;td&gt;65&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;36.72&lt;/td&gt;
+      &lt;td&gt;C6H4OHNO2 (p-nitrophenol)&lt;/td&gt;
+      &lt;td&gt;96&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;38.50&lt;/td&gt;
+      &lt;td&gt;HOOC(CHOH)2COOH (tartaric acid)&lt;/td&gt;
+      &lt;td&gt;72&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;44.59&lt;/td&gt;
+      &lt;td&gt;HOOC(CH)4COOH (muconic acid)&lt;/td&gt;
+      &lt;td&gt;65&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;55.06&lt;/td&gt;
+      &lt;td&gt;HOOC(CH2)4COOH (adipic acid)&lt;/td&gt;
+      &lt;td&gt;64&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;64.10&lt;/td&gt;
+      &lt;td&gt;C6H3(OH)2NO2 (5-nitro-resorcinol)&lt;/td&gt;
+      &lt;td&gt;91&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;64.35&lt;/td&gt;
+      &lt;td&gt;C6H3(OH)2NO2 (5-nitro-catechol)&lt;/td&gt;
+      &lt;td&gt;83&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;72.10&lt;/td&gt;
+      &lt;td&gt;C6H3OHClNO2 (5-chloro-2-nitrophenol)&lt;/td&gt;
+      &lt;td&gt;91&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;73.85&lt;/td&gt;
+      &lt;td&gt;C6H3OHClNO2 (2-chloro-5-nitrophenol)&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1725</offset>
+      <text>Identified intermediates of degradation of pCNB by ozone</text>
+      <annotation id="4">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1776" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1782</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0304389407011673-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1790</offset>
+      <text>Schematic diagram of experiment system.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0304389407011673-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1830</offset>
+      <text>Determination of the rate constants of the direct reaction between pCNB &amp; NB and O3. (A) Ozone average concentration 2.13 mg L−1, S.D. = 0.15, NB, pCNB initial concentration 2.5 mg L−1, t-BuOH initial concentration 250 mg L−1, pH 2.0. Linear regression: NB: R2
+= 0.9869, K
+=
+K′/[O3] = 1.21 ± 0.14. pCNB: R2
+= 0.9803, K
+=
+K′/[O3] = 1.58 ± 0.20. (B) Ozone average concentration 4.14 mg L−1, S.D. = 0.21, NB, pCNB initial concentration 10 mg L−1, t-BuOH initial concentration 500 mg L−1, pH 2.0. Linear regression: NB: R2
+= 0.9893, K
+=
+K′/[O3] = 1.10 ± 0.10. pCNB: R2
+= 0.9782, K
+=
+K′/[O3] = 1.62 ± 0.22.</text>
+      <annotation id="5">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2057" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2315" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1919" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1933" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1990" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2031" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2178" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2192" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2249" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2289" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0304389407011673-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2432</offset>
+      <text>Indirect determination of the rate constants of pCNB with  OH by competition kinetics (kpCNB=ln([pCNB]0/[pCNB])/ln([NB]0/[NB])⋅kNB=2.6±0.2,kCB=ln([CB]0/[CB])/ln([NB]0/[NB])⋅kNB=6.4±0.2).</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0304389407011673-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2619</offset>
+      <text>Process of degradation of pCNB (initial concentration of pCNB 0.31 mmol L−1 (TOC 23 mg L−1); O3/O2 flow 60 L h−1, initial pH value 7.0).</text>
+      <annotation id="15">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2741" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2659" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="NA" alt="IMAGE"&gt;</infon>
+      <offset>2756</offset>
+      <text>Possible pathway of the ozonation degradation of pCNB. (★) Compounds measured to gain in examination.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2858</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2867</offset>
+      <text>['Ozonation', 'p-Chloronitrobenzene (pCNB)', 'Hydroxyl radical', 'Reaction mechanism', 'Competing reaction kinetics']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2985</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2998</offset>
+      <text>p-Chloronitrobenzene (pCNB) were widely used in the production of pesticide, herbicide, dyes, lumber preservatives, pharmaceuticals, photograph film, antioxidants, gasoline additives, corrosion inhibitors and other industrial chemicals. It has been known that pCNB is toxic and is not readily biodegraded. Some developed countries have decreased or ceased the production of pCNB since the 1980s and now import pCNB from China and other Asian countries. The average yield of pCNB in China was about 250,000 t/a in 2003 and 2004, 60% of the total annual global production . It has been reported that pCNB was the main cause for methemoglobinemia and/or anemia because of its genotoxicity and carcinogenic potential . Therefore, pCNB is considered as one of the pollutants that need to be immediately controlled in China and its maximum concentration is regulated to 500 μg L−1 in surface water and 50 μg L−1 in drinking water. Recently, pCNB has been found in some lakes and rivers in China , but the methods and processes of removal of pCNB in water have not extensively been reported. Advanced oxidation processes (AOPs) have been widely investigated, and proved to be a promising method for the elimination of toxic and bio-resistant organic and inorganic compounds . Most nitro and/or chloro-aromatic compounds have been proven to be toxic and bio-resistant, and their removal from water has been investigated by using AOPs such as ozonation, catalytic ozonation, UV photolysis, H2O2-UV and electrocatalysis. Degradation of chlorobenzene using various photoinduced oxidation processes such as UV, UV-H2O2, UV-O3, and UV-H2O2-O3 was investigated by Dilmeghani and Jaher . Kinetics and mechanisms of the degradation process were studied and mechanistic schemes for the formation of various intermediates were also proposed. Andreozzi Marotta studied the ozonation of p-chlorophenol in aqueous solution and concluded that the pH influenced the system reactivity and that only a partial chlorine release was observed. A proper mathematical model had been developed and used to simulate the system behavior. Yang et al. investigated the ozonation of nitrobenzene catalyzed by nano-titanium dioxide particles and concluded that the removal efficiency of nitrobenzene was significantly promoted in the presence of catalyst compared with ozone alone. Different experimental conditions like catalyst dose, ozone dosage, initial nitrobenzene concentration and pH had been examined. The mechanism of catalytic ozonation was also discussed. Hofmann et al. studied the degradation of chlorobenzene, 4-chlorophenol, 4-chloroaniline and pCNB in ground water by heterogeneous catalytic oxidation with hydrogen peroxide. It had been demonstrated that the type of catalyst and oxidation agent as well as the reaction parameters affected the degradation rate. According to the research results of Lu et al. , pCNB in aqueous solution could be smoothly oxidized and eventually degraded to carbon dioxide by contact glow discharge electrolysis. Concentration and voltage played an important role, pH value had no appreciable effect on the degradation of pCNB, and Fe2+ had a remarkable catalytic effect. O3-H2O2 was applied for the removal of aromatic compounds from a groundwater at a 450 L h−1 pilot plant by Duguet et al. , and reduction of pCNB from 1900 μg L−1 to less than 20 μg L−1 could be reached by the application of 8 mg O3 L−1 and 3 mg H2O2 L−1 with a 20 min contact time. The degradation of pCNB by H2O2 photolysis was studied by Guittonneau et al. , and a kinetic model was given. A comparative study was also carried out on the degradation of pCNB by H2O2-UV and O3-UV oxidation processes and the efficiency under different conditions was compared . Stockinger et al. studied the removal of 10 chloro and nitro aromatic pollutants including pCNB in a synthetic wastewater by batch ozonation and a continuous combined ozonation–biodegradation system. Since the wastewater is a mixture of 10 compounds, it is difficult to determine a specific degradation pathway and the reaction mechanism of these compounds. Recently, a series of nitroaromatic compounds including 4-chloro-3,5-dinitrobenzoic acid, 1-chloro-2,4-dinitrobenzene, 1,3-dinitrobenzene, 2,4-dinitrophenol, nitrobenzene, 3-nitrophenol, 2-nitrophenol, 4-nitrophenol, 3-nitrotoluene and 4-nitrotoluene in the UV/H2O2 process have been investigated by García Einschlag et al. , rate constants for hydroxyl radicals with these nitro aromatic compounds were obtained from competitive experiments. Since pCNB is now a pollutant of concern in water bodies in China and ozonation advanced oxidation process is more and more used in drinking water supply works, relevant basic research work is essential to develop effective treatment processes for removal of pCNB. The purpose of this work is to study the kinetics and mechanisms of degradation of pCNB in water by ozonation.</text>
+      <annotation id="17">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="4923" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="5450" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="6076" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="3832" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="5330" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="5397" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="5432" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="6024" length="13"/>
+        <text>Concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7923</offset>
+      <text>Experiment and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7946</offset>
+      <text>[]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7949</offset>
+      <text>Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7959</offset>
+      <text>pCNB (99.5%), chlorobenzene (CB) (99.5%) and nitrobenzene(NB) (90%),were purchased from USA Chem Service and China Shanghai Reagent Co. All reagents were used without further purification. Hexane and MTBE for extraction were of HPLC grade and were purchased from the USA DIKMA Co. Water used for sample preparation was purified with a Millipore Milli-Q system (≥18.0 MΩ cm). Na2SO4 was calcined for 4 h before using as ionic strength increasing agent and dehydration agent in experiment. All other reagents were analytical grade or higher.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8499</offset>
+      <text>Experiment process</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8518</offset>
+      <text>Ozonation experiments were performed in a 1 L bench-scale globose glass reactor (Fig. 1). Ozone was supplied from a corona ozone generator (DHX-IIB model, Harbin Jiujiu ECE&amp;T Co.) with a maximum ozone production of 9 g h−1. The feed gas O2 was dried and purified with silica gel prior to entering the instrument. The O2/O3 mixture was delivered into the reactor via a medium porosity glass frit. Ozone concentration was regulated by varying the voltage and oxygen flow rate. The gas flow rate was monitored by a gas flow meter. There were two reaction modes of ozonation process in this study: batch and semi-batch. In semi-batch ozonation the desired ozone concentration of the ozone–oxygen mixture was introduced into the reactor first. The experiment then began after reactants and other substances were introduced into reactor. During batch ozonation a fixed ozone concentration of the ozone–oxygen mixture was continuously introduced into the reactor, and the ozone concentration of tail gas was determined by KI method. The amount of ozone consumed in the reaction was calculated from the ozone concentration in the tail gas. Reaction solutions pH were adjusted to 2 with phosphatic acid for determination the reaction rate constants of pCNB with O3 and to 10 with sodium hydroxide for determination the reaction rate constants of pCNB with OH. A 0.1 mol L−1 Na2S2O3 solution was used to cease the reaction after sampling at various intervals. The treated samples were then analyzed.</text>
+      <annotation id="25">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9669" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8608" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8641" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8713" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8914" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8920" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9170" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9176" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9197" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9381" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9387" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9408" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9483" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9489" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9558" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9613" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9619" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10008</offset>
+      <text>Analysis method and equipment</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10038</offset>
+      <text>The concentrations of pCNB, CB and NB in aqueous solution were determined by gas chromatography (GC). The intermediate products were identified by gas chromatography–mass spectrometry (GC–MS). Total organic carbon (TOC) content was measured using a Japan SHIMADZU TOC-VCPN. Inorganic ion (Cl− and NO3−) concentrations in aqueous solution were measured using a Dionex Series DX 100 Ion Chromatography (IC) with conductivity detector and Dionex AG4A-SC column. The eluent was a mixture of Na2CO3 (2.0 mmol L−1) and NaHCO3 (0.75 mmol L−1). The eluent flow rate was 1.0 mL min−1. In quantitative experiment, samples with a volume of 10 mL were withdrawn from the reactor at pre-selected intervals and the reaction was quenched with Na2S2O3 (0.1 mol L−1). Nitrobenzene and other aromatic intermediates were analyzed by liquid chromatography–mass spectrometry (LC–MS) using a LCQ DECA XP MAX (Finnigan, USA) with a reverse phase ASB C-18 analytical column (4.6 cm × 150 mm, 5 μm, Agele Inc., USA). Concentrations of ozone in gas phase and in aqueous solution were determined with the iodimetry method and the indigo method , respectively. The pH in the system was monitored by a pHS-3C model pH meter (Shanghai, Leici Co., China). The remaining ozone in the water samples was flushed out by N2, and pH was adjusted to 10 with NaOH (2 mol L−1). The samples were then decompression distilled under 50 °C to approximately 10 mL using revolving film evaporator. The concentrated samples were then adjusted to pH 0.5 using H2SO4 (2 mol L−1). Na2SO4 (5 g) was added to increase the ionic strength of the solution and the solution was shaken until it was fully dissolved. MTBE (4 mL) was added and the mixture was shaken vigorously for 3 min. The organic layer was dehydrated with Na2SO4, then condensed to 0.5 mL under a gentle stream of nitrogen, and was analyzed with GC–MS after diazomethane derivation.</text>
+      <annotation id="42">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11175" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11211" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11224" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11331" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11537" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="10042" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="10341" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11030" length="13"/>
+        <text>Concentration</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11048" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11277" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11933</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11956</offset>
+      <text>pCNB was likely to react directly with ozone or indirectly with OH formed during ozone decomposition in the ozone-aqueous solution system. The reaction can be expressed as : d[pCNB]dt=kO3⋅[pCNB][O3]+k OH[pCNB][ OH] An experiment was carried out to determine kO3 and k OH through a competition kinetics method.</text>
+      <annotation id="52">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11995" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12037" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12064" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12266</offset>
+      <text>Determination of reaction rate constant of pCNB with ozone</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12325</offset>
+      <text>A semi-continuous flow reaction was used to determine the rate constant of pCNB directly. Ozone was fed into reactor continuously in order to achieve a constant concentration during reaction. A volume of pCNB solution much less than that of ozone/water solution was then added, surveying variations in ozone and pCNB concentration in succession. At an acidic pH range, when the concentration of t-BuOH in the ozonation system was higher than that of pCNB, molecular ozone reacted with organics predominantly, and the influence of OH radicals could be ignored. Eq. (1) can be rewritten into: d[pCNB]dt=kO3⋅[pCNB][O3] It is still difficult to obtain rate constants from Eq. (2) when the concentration of ozone is not constant. The aeration mode and the flow rate needed to be controlled so that ozone concentration in reaction system can reach equilibrium. When ozone concentration was steady, a second order reaction was transformed into a quasi-first-order reaction, and Eq. (2) is thus converted to Eq. (3): ln[pCNB]0[pCNB]=KO3[O3]⋅t KO3[O3]=K′ (K′, apparent rate constant, s−1). K′ can be obtained by measuring concentration of object at various times. Fig. 2A and B show K′ at different concentrations of ozone and pCNB or NB, and the same results could be obtained when concentration of ozone and pCNB changed. To determine the rate constant of pCNB reacting with ozone, reaction rate constant of NB and ozone was determined first and compared with literature data. The measured rate constant of NB and ozone in this experiment was 1.2 L mol−1 s−1, which is close to the result reported by Beltran et al. but very different from data reported by Honigé et al. (Table 1). Results reported by Beltran et al are several orders of magnitude higher than that of Honigé et al., which may be due to experimental design differences. A static experimental model was adopted by Honigé et al. in which definite amount of ozone, NB and radical inhibitor were added into the reactor simultaneously, and the concentration of NB was inspected during reaction. Ozone concentration was considered constant if it changed less than 20%. Since the decomposition of ozone in the process was not taken into account, the result was lower. Beltran et al. carried out the experiment with continuous flow, where ozone concentration was considered constant as well. Compared two results above, the one of Beltran et al. was thought to be more reasonable. Both radical inhibition and ozone decomposition were considered in this study. Ozone concentration was kept constant during the whole process so the second order reaction could be transformed into quasi-first-order reaction. And the rate constant of pCNB reacting with ozone was determined to be 1.6 L mol−1 s−1.</text>
+      <annotation id="55">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12684" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12415" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12486" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12566" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12627" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12642" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12703" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12791" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13010" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13027" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13118" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13124" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13185" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13191" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13438" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13515" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13533" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13599" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13616" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13693" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13733" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13832" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14242" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14326" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14377" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14383" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14477" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14618" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14624" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14788" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14839" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14845" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15029" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12458" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13226" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13276" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14047" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14916" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14969" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15073</offset>
+      <text>Determination of reaction rate constant of pCNB with  OH</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15130</offset>
+      <text>Under alkaline conditions, k OH⋅Rct≫kO3, the dominant reaction is the indirect reaction of OH and organics, the reaction of molecular can be ignored. Since the reaction of OH and organics is very fast, the rate constant of pCNB and OH is difficult to determine directly, but can be determined by using competition kinetics method. The pH of the pure water sample in a series of volumetric flask (100 mL) was adjusted to 10, and different concentrations of the objectives (mixtures of pCNB and NB, or pCNB and CB) were added to the water samples. A specific volume of water with definite concentration of ozone was added immediately. The concentration of objective was examined at different intervals. When two substances were present in OH oxidation system, they reacted with OH competitively. The reaction rate formula could be determined as follows: d[m1]dt=km1⋅[m1]⋅[ OH] d[m2]dt=km2⋅[m2]⋅[ OH] d[m1]d[m2]=(km1⋅[m1])(km2⋅[m2]) km1=ln([m1]0/[m1])ln([m2]0/[m2])⋅km2 where [m1]0, [m2]0 and [m1], [m2] were concentrations of m1, m2 before and after reaction, respectively; [ OH] was concentration of the hydroxyl radical; km1, km2 were the rate constants of OH reacting with m1, m2. There has been much research work on NB and CB since they are familiar non-degradable substance, so kinetics data for these two chemicals are available. Therefore NB and CB were used as reference compounds in this work to determine the rate constant of pCNB and OH. In literatures, the rate constants of the hydroxyl radical reacting with CB and NB were 6.5 × 109 L mol−1 s−1 and 3.9 × 109 L mol−1 s−1, respectively. The measured value of ln(CB)0/(CB)/ln(NB)0/(NB) in this study was about 1.65 (Fig. 3), which agrees with the above literature ratio 1.7. The measured rate constants of pCNB reacted with OH was 2.6 × 109 L mol−1 s−1 (see Table 1).</text>
+      <annotation id="94">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15465" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15568" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15717" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15734" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15767" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16136" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16212" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16959</offset>
+      <text>Mineralization extent of pCNB</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16989</offset>
+      <text>At the beginning of ozonation process, the concentration of pCNB rapidly decreased (from Fig. 4), then pCNB was almost completely removed after 20 min. The total organic carbon (TOC) concentration in the water sample solution decreased rapidly during the first 5 min and then decreased much more slowly, until after 20 min only 38% of the TOC had been removed. This is not consistent with the pCNB elimination rate, indicating only part of pCNB was mineralized and thus presumably some degradation intermediate products were formed during the ozonation of pCNB. The pH of reaction system decreased to almost 4, so the degradation products of pCNB by ozonation may be low molecular carboxylic acids and CO2. In water, CO2 existed in the form of CO32− and/or HCO3− which are radical scavengers themselves. The reaction rate constant of low molecular carboxylic acid and OH was smaller than or close to that of CO32−/HCO3− and OH , and thus could inhibit the further oxidation of reaction intermediate products.</text>
+      <annotation id="101">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17555" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17032" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17172" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>17998</offset>
+      <text>Degradation intermediates and pathway</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18036</offset>
+      <text>Cl− and NO3− were detected from the beginning of the reaction (Fig. 4). During the reaction process, the increased concentration of chloride ion and nitrate ion were nearly equal to the reduced concentration of pCNB. It was likely that chloro- and nitro-groups were displaced by OH, with a variety of phenols being generated by OH attack on pCNB. The LC–MS analysis of intermediates of pCNB ozonation showed negative ion peaks at m/z 127, 138 and two peaks at m/z 172. This indicated that the products of degradation of pCNB may be chlorophenols (molecular weight = 128), nitrophenols (molecular weight = 139) and nitro-chlorophenols(molecular weight = 173). Intermediate products detected by GC–MS were, phenol, p-chlorophenol, p-nitrophenol, paradioxybenzene, p-benzoquinone, 5-nitro-1,2,3-trihydroxy phenol, oxalic acid, succinic acid, maleic acid and others (shown in Table 2). They can be generally divided into two classes: phenols and fatty acids. By these products, the process of ozonation pCNB can be confirmed: OH can substitute the six carbons of benzene ring of pCNB to form many kinds of phenols. Phenols can undergo ring-opening reactions to yield various kinds of carboxylic acids by further oxidation. OH is an electron deficient group which had strong electrophilic property and high redox potential, so the reaction between OH and aromatic ring compounds do not obey general orientation rules. OH may directly substitute groups of the aromatic ring to generate phenols, or directly capture hydrogen atoms of aromatic ring to generate aromatic ring free radicals . When OH attacked substituted benzene, it was not clear whether ring was opened or substituting groups were captured. The reaction between pCNB and OH may be similar to aromatic electrophilic substitution reaction. As Fig. 5 shows, after OH attacked pCNB, OH formed π-complex with π-electron of benzene ring of pCNB rapidly, and π-complex still maintained the structure of benzene ring. OH was further directly linked with a carbon atom of benzene ring to form σ-complex, and sp2 hybrid orbital of the carbon atom became sp3 hybrid orbital. The benzene ring composed of six π-electrons gave a pair of electrons to the carbon atom, so the other four electrons delocalized in the electron deficienct conjugated system formed by the other five carbons yielded cyclohexadiene free radical intermediates . The difference between OH and general electrophilic reagents was that OH had high electron affinity (569.3 kJ mol−1) which was far higher than activation energy needed to form a variety of other intermediates. According to electrophilic substitution orientation rule, general electrophilic reagents should substitute the meta hydrogen atom of benzene ring of pCNB to generate 2-chlor-5-nitrophenol, but OH reacted with pCNB to generate a variety of phenols. This shows that the chance of substitution or addition at every functional group in the benzene ring is equal. Cl− and NO3− were detected at the beginning of the reaction indicating that OH could displace substitution groups of the benzene ring before ring opening. In addition, the increased concentration of chloride and nitrate ions was nearly equal to the reduced concentration of pCNB which explains as that OH could displace substitution groups of benzene ring unselectively. Intermediates detected by GC–MS at different oxidation stages, such as p-chlorophenol, p-nitrophenol, p-dioxybenzene and chloronitrophenol, suggest that OH may substitute substituting groups of aromatic ring to produce corresponding phenols, and also may capture hydrogen atoms of benzene ring to generate corresponding phenols. The phenols can be ring-opened to generate low molecular carboxylic acids and CO2.</text>
+      <annotation id="104">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="18151" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="18230" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="21170" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="21245" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21771</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21782</offset>
+      <text>By means of competition kinetics, the measured rate constants of reactions between pCNB and OH/O3 were 2.6 × 109 L mol−1 s−1 and 1.6 L mol−1 s−1, respectively. Intermediate products during pCNB ozonation were analyzed and identified by GC–MS, LC–MS, HPLC and IC. The intermediate products were, phenol, p-chlorophenol, p-nitrophenol, 2-chloro-5-nitrophenol, 5-chloro-2-nitrophenol, 5-nitro-catechol, para-benzoquinone, 5-nitro-1,2,3-trihydroxyphenol, trihydroxy semiquinone, glycolic acid, oxalic acid, hydroxy butanoic acid, mesoxalic acid, tartrouic acid, malonic acid, maleic acid, hydroxymalonic acid, tartaric acid, malic acid, ketoglutaric acid, muconic acid and other compounds. During the ozonation process of pCNB, the increased concentration of chloride and nitrate ions was nearly equal to the reduced concentration of pCNB. The reaction substitutes the six carbons of the benzene ring of pCNB to form various kinds of phenols. The phenols can undergo ring-opening reactions to produce low molecular carboxylic acids and CO2 finally. Oxidation products, carboxylic acids and CO32−/HCO3−, existed in the same ozonation system. The radical scavengers CO32−/HCO3− inhibited the carboxylic acids being further mineralized to CO2, so the TOC of the water sample solution decreased very slowly at the latter period of pCNB ozonation.</text>
+      <annotation id="108">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="22520" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="22595" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

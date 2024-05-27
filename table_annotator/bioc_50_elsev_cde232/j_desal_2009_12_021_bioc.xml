@@ -1,0 +1,1563 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-05-27</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.desal.2009.12.021</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">INFLUENCESPHTEMPERATUREACTIVATEDCARBONPROPERTIESINTERACTIONOZONEACTIVATEDCARBONFORAWASTEWATERTREATMENTPROCESS</infon>
+      <infon key="name_0">surname:DEHOULI</infon>
+      <infon key="license">Copyright © 2010 Elsevier B.V. All rights reserved.</infon>
+      <infon key="source">Desalination</infon>
+      <infon key="year">2010-01-13</infon>
+      <infon key="volume">254</infon>
+      <infon key="issue">0011-9164</infon>
+      <infon key="fpage">12</infon>
+      <infon key="lpage">16. Link: https://sciencedirect.com/science/article/pii/S0011916409013708</infon>
+      <infon key="pub-id_doi">10.1016/j.desal.2009.12.021</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0011916409013708</infon>
+      <infon key="kwd">['Ozone', 'Activated carbon', 'Kinetics', 'Radical pathway']</infon>
+      <offset>0</offset>
+      <text>Influences of pH, temperature and activated carbon properties on the interaction ozone/activated carbon for a wastewater treatment process</text>
+      <annotation id="1">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="18" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="81" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>139</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>157</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>168</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>177</offset>
+      <text>The influence of experimental parameters (T, pH) and activated carbon (AC) properties on the intensity and the nature (molecular or radical) of the ozone (O3) /AC interaction was studied to optimize an O3/AC wastewater treatment process. This interaction was investigated by studying the dissolved O3 decomposition kinetics in the presence of two commercial AC (Pica 150 and Picaflo), whose chemical and structural properties were previously determined by using different analyses (Boehm method, nitrogen adsorption at 77 K). The kinetic study showed that a first order model is the most suitable to describe O3 decomposition in water (r2 &gt; 0.981). Moreover, the influence of the experimental parameters was demonstrated. An increase in temperature limits the O3/AC interaction by favouring ozone self decomposition in water. An increase in pH leads to deprotonated surface groups (when pH &gt; pHPZC) which favour radical mechanisms but limits the interaction by electrostatic repulsion. Further, the contribution of the radical mechanism in ozone decomposition was evaluated by adding terbutyl alcohol (tBuOH) as radical scavenger. This contribution varied with the pH and the nature of the AC: it operates from 7% (pH = 3) to 76% (pH = 7) for Pica 150 and from 10% (pH = 3) to 86% (pH = 7) for Picaflo. The comparison of kinetic rate constants obtained in the presence of both types of AC revealed the importance of the chemical and structural properties of AC, especially the number of acid functions.</text>
+      <annotation id="4">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="222" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1018" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1064" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1069" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1342" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1392" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1408" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1443" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1459" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="914" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="325" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="968" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1217" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="741" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1680</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['AC', 'W0 (cm3\ng− 1)', 'L0 (nm)', 'Sext (m2\ng− 1)', 'Dmoy (µm)'], ['Pica 150', '0.75', '2.43', '630', '1042'], ['Picaflo', '0.63', '2.67', '840', '1018']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AC&lt;/td&gt;
+      &lt;td&gt;W0 (cm3\ng− 1)&lt;/td&gt;
+      &lt;td&gt;L0 (nm)&lt;/td&gt;
+      &lt;td&gt;Sext (m2\ng− 1)&lt;/td&gt;
+      &lt;td&gt;Dmoy (µm)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pica 150&lt;/td&gt;
+      &lt;td&gt;0.75&lt;/td&gt;
+      &lt;td&gt;2.43&lt;/td&gt;
+      &lt;td&gt;630&lt;/td&gt;
+      &lt;td&gt;1042&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Picaflo&lt;/td&gt;
+      &lt;td&gt;0.63&lt;/td&gt;
+      &lt;td&gt;2.67&lt;/td&gt;
+      &lt;td&gt;840&lt;/td&gt;
+      &lt;td&gt;1018&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1687</offset>
+      <text>Textural properties of Pica 150 and Picaflo.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['', 'Carboxylic (meq g− 1)', 'Lactone (meq g− 1)', 'Phenolic (meq g− 1)', 'Acid groups (meq g− 1)', 'Basic groups (meq g− 1)', 'pHPZC'], ['Pica 150', '0.87', '0.75', '0.64', '2.51', '0.23', '2.2'], ['Picaflo', '0.51', '0.51', '0.27', '1.34', '0.34', '2.6']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Carboxylic (meq g− 1)&lt;/td&gt;
+      &lt;td&gt;Lactone (meq g− 1)&lt;/td&gt;
+      &lt;td&gt;Phenolic (meq g− 1)&lt;/td&gt;
+      &lt;td&gt;Acid groups (meq g− 1)&lt;/td&gt;
+      &lt;td&gt;Basic groups (meq g− 1)&lt;/td&gt;
+      &lt;td&gt;pHPZC&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pica 150&lt;/td&gt;
+      &lt;td&gt;0.87&lt;/td&gt;
+      &lt;td&gt;0.75&lt;/td&gt;
+      &lt;td&gt;0.64&lt;/td&gt;
+      &lt;td&gt;2.51&lt;/td&gt;
+      &lt;td&gt;0.23&lt;/td&gt;
+      &lt;td&gt;2.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Picaflo&lt;/td&gt;
+      &lt;td&gt;0.51&lt;/td&gt;
+      &lt;td&gt;0.51&lt;/td&gt;
+      &lt;td&gt;0.27&lt;/td&gt;
+      &lt;td&gt;1.34&lt;/td&gt;
+      &lt;td&gt;0.34&lt;/td&gt;
+      &lt;td&gt;2.6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1732</offset>
+      <text>Chemical properties of Pica 150 and Picaflo.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['m', 'T (°C)', 'kD(B) (mol1−m Lm−1\ns− 1)', 'r2', 'kD(AC) (mol1−m Lm−1\ns− 1)', 'r2'], ['1', '10', '0.030', '0.987', '0.075', '0.992'], ['1', '15', '0.036', '0.989', '0.082', '0.981'], ['1', '20', '0.053', '0.981', '0.103', '0.995'], ['1', '25', '0.069', '0.998', '0.130', '0.993'], ['1', '30', '0.097', '0.994', '0.180', '0.995'], ['1.5', '10', '0.017', '0.976', '0.051', '0.984'], ['1.5', '15', '0.023', '0.992', '0.051', '0.988'], ['1.5', '20', '0.034', '0.949', '0.080', '0.980'], ['1.5', '25', '0.069', '0.948', '0.137', '0.979'], ['1.5', '30', '0.122', '0.963', '0.195', '0.967'], ['2', '10', '0.009', '0.981', '0.029', '0.986'], ['2', '15', '0.014', '0.994', '0.034', '0.905'], ['2', '20', '0.029', '0.963', '0.065', '0.932'], ['2', '25', '0.047', '0.958', '0.107', '0.938'], ['2', '30', '0.114', '0.993', '0.256', '0.895']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;m&lt;/td&gt;
+      &lt;td&gt;T (°C)&lt;/td&gt;
+      &lt;td&gt;kD(B) (mol1−m Lm−1\ns− 1)&lt;/td&gt;
+      &lt;td&gt;r2&lt;/td&gt;
+      &lt;td&gt;kD(AC) (mol1−m Lm−1\ns− 1)&lt;/td&gt;
+      &lt;td&gt;r2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;0.030&lt;/td&gt;
+      &lt;td&gt;0.987&lt;/td&gt;
+      &lt;td&gt;0.075&lt;/td&gt;
+      &lt;td&gt;0.992&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;0.036&lt;/td&gt;
+      &lt;td&gt;0.989&lt;/td&gt;
+      &lt;td&gt;0.082&lt;/td&gt;
+      &lt;td&gt;0.981&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;0.053&lt;/td&gt;
+      &lt;td&gt;0.981&lt;/td&gt;
+      &lt;td&gt;0.103&lt;/td&gt;
+      &lt;td&gt;0.995&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;0.069&lt;/td&gt;
+      &lt;td&gt;0.998&lt;/td&gt;
+      &lt;td&gt;0.130&lt;/td&gt;
+      &lt;td&gt;0.993&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;0.097&lt;/td&gt;
+      &lt;td&gt;0.994&lt;/td&gt;
+      &lt;td&gt;0.180&lt;/td&gt;
+      &lt;td&gt;0.995&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.5&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;0.017&lt;/td&gt;
+      &lt;td&gt;0.976&lt;/td&gt;
+      &lt;td&gt;0.051&lt;/td&gt;
+      &lt;td&gt;0.984&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.5&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;0.023&lt;/td&gt;
+      &lt;td&gt;0.992&lt;/td&gt;
+      &lt;td&gt;0.051&lt;/td&gt;
+      &lt;td&gt;0.988&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.5&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;0.034&lt;/td&gt;
+      &lt;td&gt;0.949&lt;/td&gt;
+      &lt;td&gt;0.080&lt;/td&gt;
+      &lt;td&gt;0.980&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.5&lt;/td&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;0.069&lt;/td&gt;
+      &lt;td&gt;0.948&lt;/td&gt;
+      &lt;td&gt;0.137&lt;/td&gt;
+      &lt;td&gt;0.979&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.5&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;0.122&lt;/td&gt;
+      &lt;td&gt;0.963&lt;/td&gt;
+      &lt;td&gt;0.195&lt;/td&gt;
+      &lt;td&gt;0.967&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;0.009&lt;/td&gt;
+      &lt;td&gt;0.981&lt;/td&gt;
+      &lt;td&gt;0.029&lt;/td&gt;
+      &lt;td&gt;0.986&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;0.014&lt;/td&gt;
+      &lt;td&gt;0.994&lt;/td&gt;
+      &lt;td&gt;0.034&lt;/td&gt;
+      &lt;td&gt;0.905&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;0.029&lt;/td&gt;
+      &lt;td&gt;0.963&lt;/td&gt;
+      &lt;td&gt;0.065&lt;/td&gt;
+      &lt;td&gt;0.932&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;0.047&lt;/td&gt;
+      &lt;td&gt;0.958&lt;/td&gt;
+      &lt;td&gt;0.107&lt;/td&gt;
+      &lt;td&gt;0.938&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;0.114&lt;/td&gt;
+      &lt;td&gt;0.993&lt;/td&gt;
+      &lt;td&gt;0.256&lt;/td&gt;
+      &lt;td&gt;0.895&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1777</offset>
+      <text>Modelling of ozone decomposition kinetics at pH = 7.</text>
+      <annotation id="18">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1822" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1790" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['', '10 °C', '15 °C', '20 °C', '25 °C', '30 °C'], ['δAC (%)', '60', '56', '49', '47', '46']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;10 °C&lt;/td&gt;
+      &lt;td&gt;15 °C&lt;/td&gt;
+      &lt;td&gt;20 °C&lt;/td&gt;
+      &lt;td&gt;25 °C&lt;/td&gt;
+      &lt;td&gt;30 °C&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;δAC (%)&lt;/td&gt;
+      &lt;td&gt;60&lt;/td&gt;
+      &lt;td&gt;56&lt;/td&gt;
+      &lt;td&gt;49&lt;/td&gt;
+      &lt;td&gt;47&lt;/td&gt;
+      &lt;td&gt;46&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1830</offset>
+      <text>Temperature effect on the O3/AC interaction at pH = 7.</text>
+      <annotation id="20">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1877" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1830" length="11"/>
+        <text>Temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['', 'Blank', 'Blank', 'Pica 150', 'Pica 150', 'Pica 150', 'Pica 150', 'Picaflo', 'Picaflo', 'Picaflo', 'Picaflo'], ['pH', 'kD(B) (min− 1)', 'r2', 'kD(AC) (min− 1)', 'r2', 'kD(AC\n+ I) (min− 1)', 'r2', 'kD(AC) (min− 1)', 'r2', 'kD(AC\n+ I) (min− 1)', 'r2'], ['3', '–', '–', '0.084', '0.996', '0.079', '0.989', '0.046', '0.995', '0.043', '0.996'], ['4', '0.007', '0.978', '0.091', '0.997', '0.074', '0.984', '0.052', '0.999', '0.044', '0.991'], ['5', '0.008', '0.999', '0.113', '0.997', '0.068', '0.995', '0.061', '0.998', '0.050', '0.993'], ['6', '0.024', '0.995', '0.120', '0.991', '0.064', '0.992', '0.072', '0.988', '0.052', '0.998'], ['7', '0.069', '0.998', '0.130', '0.993', '0.083', '0.996', '0.085', '0.987', '0.070', '0.996']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Blank&lt;/td&gt;
+      &lt;td&gt;Blank&lt;/td&gt;
+      &lt;td&gt;Pica 150&lt;/td&gt;
+      &lt;td&gt;Pica 150&lt;/td&gt;
+      &lt;td&gt;Pica 150&lt;/td&gt;
+      &lt;td&gt;Pica 150&lt;/td&gt;
+      &lt;td&gt;Picaflo&lt;/td&gt;
+      &lt;td&gt;Picaflo&lt;/td&gt;
+      &lt;td&gt;Picaflo&lt;/td&gt;
+      &lt;td&gt;Picaflo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pH&lt;/td&gt;
+      &lt;td&gt;kD(B) (min− 1)&lt;/td&gt;
+      &lt;td&gt;r2&lt;/td&gt;
+      &lt;td&gt;kD(AC) (min− 1)&lt;/td&gt;
+      &lt;td&gt;r2&lt;/td&gt;
+      &lt;td&gt;kD(AC\n+ I) (min− 1)&lt;/td&gt;
+      &lt;td&gt;r2&lt;/td&gt;
+      &lt;td&gt;kD(AC) (min− 1)&lt;/td&gt;
+      &lt;td&gt;r2&lt;/td&gt;
+      &lt;td&gt;kD(AC\n+ I) (min− 1)&lt;/td&gt;
+      &lt;td&gt;r2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;0.084&lt;/td&gt;
+      &lt;td&gt;0.996&lt;/td&gt;
+      &lt;td&gt;0.079&lt;/td&gt;
+      &lt;td&gt;0.989&lt;/td&gt;
+      &lt;td&gt;0.046&lt;/td&gt;
+      &lt;td&gt;0.995&lt;/td&gt;
+      &lt;td&gt;0.043&lt;/td&gt;
+      &lt;td&gt;0.996&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0.007&lt;/td&gt;
+      &lt;td&gt;0.978&lt;/td&gt;
+      &lt;td&gt;0.091&lt;/td&gt;
+      &lt;td&gt;0.997&lt;/td&gt;
+      &lt;td&gt;0.074&lt;/td&gt;
+      &lt;td&gt;0.984&lt;/td&gt;
+      &lt;td&gt;0.052&lt;/td&gt;
+      &lt;td&gt;0.999&lt;/td&gt;
+      &lt;td&gt;0.044&lt;/td&gt;
+      &lt;td&gt;0.991&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0.008&lt;/td&gt;
+      &lt;td&gt;0.999&lt;/td&gt;
+      &lt;td&gt;0.113&lt;/td&gt;
+      &lt;td&gt;0.997&lt;/td&gt;
+      &lt;td&gt;0.068&lt;/td&gt;
+      &lt;td&gt;0.995&lt;/td&gt;
+      &lt;td&gt;0.061&lt;/td&gt;
+      &lt;td&gt;0.998&lt;/td&gt;
+      &lt;td&gt;0.050&lt;/td&gt;
+      &lt;td&gt;0.993&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;0.024&lt;/td&gt;
+      &lt;td&gt;0.995&lt;/td&gt;
+      &lt;td&gt;0.120&lt;/td&gt;
+      &lt;td&gt;0.991&lt;/td&gt;
+      &lt;td&gt;0.064&lt;/td&gt;
+      &lt;td&gt;0.992&lt;/td&gt;
+      &lt;td&gt;0.072&lt;/td&gt;
+      &lt;td&gt;0.988&lt;/td&gt;
+      &lt;td&gt;0.052&lt;/td&gt;
+      &lt;td&gt;0.998&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0.069&lt;/td&gt;
+      &lt;td&gt;0.998&lt;/td&gt;
+      &lt;td&gt;0.130&lt;/td&gt;
+      &lt;td&gt;0.993&lt;/td&gt;
+      &lt;td&gt;0.083&lt;/td&gt;
+      &lt;td&gt;0.996&lt;/td&gt;
+      &lt;td&gt;0.085&lt;/td&gt;
+      &lt;td&gt;0.987&lt;/td&gt;
+      &lt;td&gt;0.070&lt;/td&gt;
+      &lt;td&gt;0.996&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1885</offset>
+      <text>Influence of pH and tBuOH on the ozone decomposition rate constant at 25 °C.</text>
+      <annotation id="22">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1898" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1918" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['', 'Pica 150', 'Pica 150', 'Picaflo', 'Picaflo'], ['pH', 'δAC (%)', 'δHO  (%)', 'δAC (%)', 'δHO  (%)'], ['3', '93', '7', '88', '10'], ['4', '92', '18', '86', '17'], ['5', '92', '43', '86', '21'], ['6', '80', '58', '67', '41'], ['7', '47', '76', '19', '86']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Pica 150&lt;/td&gt;
+      &lt;td&gt;Pica 150&lt;/td&gt;
+      &lt;td&gt;Picaflo&lt;/td&gt;
+      &lt;td&gt;Picaflo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pH&lt;/td&gt;
+      &lt;td&gt;δAC (%)&lt;/td&gt;
+      &lt;td&gt;δHO  (%)&lt;/td&gt;
+      &lt;td&gt;δAC (%)&lt;/td&gt;
+      &lt;td&gt;δHO  (%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;93&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;88&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;92&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;86&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;92&lt;/td&gt;
+      &lt;td&gt;43&lt;/td&gt;
+      &lt;td&gt;86&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;80&lt;/td&gt;
+      &lt;td&gt;58&lt;/td&gt;
+      &lt;td&gt;67&lt;/td&gt;
+      &lt;td&gt;41&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;47&lt;/td&gt;
+      &lt;td&gt;76&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;86&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1962</offset>
+      <text>Influence of pH on O3/AC interaction for Pica 150 and Picaflo at 25 °C.</text>
+      <annotation id="24">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="1975" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2034</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0011916409013708-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2042</offset>
+      <text>First order kinetics model for ozone decomposition in water at different temperatures (a) without AC and (b) with Pica 150. 10 °C (◊), 15 °C (□), 20 °C (Δ), 25 °C (о) and 30 °C (X).</text>
+      <annotation id="25">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2115" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2073" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2048" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0011916409013708-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2224</offset>
+      <text>First order kinetics model for ozone decomposition in water at different pH in presence of Pica 150 (a) without tBuOH and (b) with tbuOH. pH 3 (O), pH 4 (□), pH 5 (◊), pH 6(Δ) and pH 7 (x).</text>
+      <annotation id="28">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2297" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2362" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2372" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2382" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2392" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2404" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2255" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2230" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0011916409013708-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2414</offset>
+      <text>First order kinetics model for ozone decomposition in water at different pH in presence of Picaflo (a) without tBuOH and (b) with tBuOH. pH 3 (O), pH 4 (□), pH 5 (◊), pH 6 (Δ) and pH 7 (x).</text>
+      <annotation id="36">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2487" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2551" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2561" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2571" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2581" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2594" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2445" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2420" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0011916409013708-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2604</offset>
+      <text>Evolution of first order kinetic constant of O3 decomposition at different pH with distilled water (○), Pica 150 (□), Pica 150 + tBuOH (■), Picaflo (Δ), Picaflo+ tBuOH (▲).</text>
+      <annotation id="44">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2679" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2623" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2777</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2786</offset>
+      <text>['Ozone', 'Activated carbon', 'Kinetics', 'Radical pathway']</text>
+      <annotation id="46">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="2788" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2847</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2860</offset>
+      <text>With wastewater regulations becoming more stringent, it is necessary to develop new treatment technologies or to optimize existing methods. Ozonation has been used for over a century in water treatment. O3 can act by direct (molecular) way or indirect (radical) way . The direct way consists of an ozone molecules attack on both nucleophilic sites and unsaturated bonds. This action is selective and generally incomplete. The indirect way consists of the generation of hydroxyl radicals (HO•) which are strong oxidants allowing the degradation of a large number of pollutants . This last action is not selective and can lead to complete mineralization of the pollutant. The formation of hydroxyl radicals from ozone can be performed in alkaline conditions or by the interaction of ozone with a compound (H2O2, TiO2, AC) or in the presence of UV . Processes based on the generation of HO• are called advanced oxidation processes . By coupling ozone and activated carbon (AC) the actions of both O3 and AC can be combined to generate HO• by interactions between O3 and AC and to oxidize adsorbed pollutants . Previous studies on this type of process showed its great potential, especially on compounds refractory to ozonation . However, depending both on the systems and on experimental conditions, the process cannot yet be easily controlled and it is very important to understand and optimize the interactions between O3 and the AC. The aim of this work was to determine the experimental conditions (pH, T) and AC properties favoring the radical interaction of O3 and AC. This interaction was investigated by studying the dissolved O3 decomposition kinetics in the presence of AC. Experiments were first performed with a commercial AC (Pica 150) to determine the kinetic parameters of O3 decomposition and to study the influence of the temperature on the kinetics. The influence of pH on ozone decomposition was then determined by performing experiments at various pH (3 to 7). The radical mechanisms contribution was estimated by introducing a radical scavenger, tertbutyl alcohol (tBuOH). A second commercial AC, Picaflo LB 103, was also used to study the influence of both chemical and textural properties of the adsorbent material on its interaction with O3. These properties were determined by Boehm titration and nitrogen adsorption at 77 K.</text>
+      <annotation id="47">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="4360" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="4742" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="4825" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="4696" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="3158" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="3570" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="3641" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="3802" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="4748" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5208</offset>
+      <text>Material and method</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5228</offset>
+      <text>[]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5231</offset>
+      <text>Activated carbons characterization</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5266</offset>
+      <text>The ACs used in this study were Picachem 150 and Picaflo 103 LB supplied by the Pica company (Vierzon, France). The porous properties of ACs were determined by nitrogen adsorption isotherms at 77 K by PROMES (UPR 8521, Perpignan, France) using a Micromeritics ASAP 2000 M. The samples were previously degassed at 250 °C for 24 h under a residual vacuum of less than 10− 4 Pa. The nitrogen adsorption isotherms were analyzed according to Dubinin's theory .The specific microporous volume W0 (cm3 g− 1) and the mean pore size L0 (nm) were estimated from the linear part of the Dubinin–Radushkevich (D–R) plot . The Sing αS plots were used to determine the external specific surface Sext (m2 g− 1). Determination of the average diameters of ACs particles was achieved using a laser granulometer (Coulter LS 230). Boehm titration was used to determine the oxygen surface groups and determination of the pHPZC was obtained by the method proposed by Rivera-Utrilla et al. .</text>
+      <annotation id="56">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="6165" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6234</offset>
+      <text>Ozone decomposition kinetics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6263</offset>
+      <text>No general agreement has yet been reached on the kinetics of ozone decomposition in water . In a perfectly stirred batch reactor, the kinetics can be modelled following the expression: −d[O3]dt=kD×[O3]m where [O3] is the concentration of dissolved O3 (mol L− 1) at time t (min), kD is the rate constant of O3 decomposition (mol1 − m Lm − 1 s− 1), m is the reaction order with regard to O3 and t is the time. Several values of m are proposed in the literature, the orders most frequently used being included between 1 and 2 . The decomposition of O3 can be achieved by self-decomposition in water or by interaction with the AC, with molecular or radical mechanisms. The contribution of the interactions between O3 and AC (δAC (%)) on the O3 decomposition kinetics can be estimated by the following relation : δAC=kD(AC)−kD(B)kD(AC)×100 where kD(B) and kD(AC) are the rate constants of O3 decomposition respectively with and without AC (mol1 − m Lm − 1 s− 1). The addition of a radical scavenger allows the determination of the contribution of radical mechanisms in the interaction between O3 and AC (δHO• (%)), according to the following relation: δHO•=(kD(AC)−kD(B))−(kD(AC+I)−kD(B))kD(AC)−kD(B)×100 where kD(AC + I) is the rate constant of O3 decomposition in the presence of AC and tBuOH (mol1 −m Lm − 1 s− 1).</text>
+      <annotation id="57">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="6324" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="6484" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="6628" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="6727" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7576</offset>
+      <text>Experimental</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7589</offset>
+      <text>The experiments were carried out in a 1.5 L stirred batch reactor supplied with mechanical agitation and provided with a pH-meter (Eutech escoscan pH 5). The reactor was introduced into a thermostatic bath (10 °C &lt; T &lt; 30 °C, ± 0.2 °C). O3 was produced from pure oxygen by a LABO LOX ozone generator and was fed to the reactor through a porous plate at the reactor bottom. The O3 concentration in the inlet gas was measured by a U.V. spectrophotometer (Messtechnick BMT 961) at λ = 254 nm. The pH was initially adjusted by using sodium hydroxide or sulphuric acid. O3 was continuously fed to achieve saturation of the solution, monitored by the Carmin Indigo method proposed by Bader and Hoigné . Experiments began when ozone saturation was obtained: the ozone supply was cut off and, depending on experimental conditions, tBuOH and AC could be introduced. Samples were withdrawn at suitable intervals of time and dissolved ozone concentrations were determined by the Carmin Indigo method.</text>
+      <annotation id="61">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7710" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7736" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8083" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7873" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="7969" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8310" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8345" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8514" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="8520" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8580</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8603</offset>
+      <text>[]</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8606</offset>
+      <text>Structural and chemical properties of activated carbons</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8662</offset>
+      <text>The textural characterization of ACs, presented on Table 1, shows that Pica 150 exhibits a larger microporous volume than Picaflo (respectively 0.75 and 0.63 cm3 g− 1) and a narrower mean pore size (respectively 2.43 nm and 2.67 nm). Picaflo exhibits a mean pore size close to mesoporosity . This AC is proved to be less microporous than Pica 150. Pica 150 presents a smaller specific external surface than Picaflo (respectively 630 and 840 m2 g− 1). The average particle diameters of both granular ACs are equivalent (1042 μm for Pica 150 and 1018 μm for Picaflo). Analysis of surface functional groups obtained by Boehm titration (Table 2) showed that Pica 150 had a greater number of total surface acid groups than the Picaflo (respectively 2.51 and 1.34 meq g− 1) and a number of basic surface groups relatively close (respectively 0.23 and 0.34 meq g− 1). These results were confirmed by measuring pHPZC respectively 2.2 and 2.6 for Pica 150 and Picaflo. Thus, Pica 150 is more acidic than Picaflo.</text>
+      <annotation id="70">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9565" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9666</offset>
+      <text>Temperature effect</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9685</offset>
+      <text>Experiments were performed at temperatures between 10 °C and 30 °C at pH = 7, to determine the influence of temperature on the O3/AC interaction and to choose the appropriate kinetic model. A first series of experiments was conducted without AC (Fig. 1a), and a second series with addition of 1 g of Pica 150 (Fig. 1b). Different kinetic models were tested (Table 3). Comparison of the correlation coefficients obtained for each model showed that a first order model is the most suitable (r2 &gt; 0.981). The integrated form of Eq. (1) with m = 1 is: ln([O3]t[O3]0)=−kD.t where [O3]0 and [O3]t are ozone dissolved concentrations respectively at the initial time and at the instant t (mol L− 1). The values of kD(B) obtained in this study (Table 3) were in good agreement with those obtained by various authors cited in the review concerning the self-decomposition of O3 in water: 0.030 min− 1 &lt; kD(B) &lt; 0.120 min− 1 at pH = 7 and 20 °C . Increasing the temperature promotes the decomposition of ozone: kD(B) increased from 0.030 min− 1 to 0.097 min− 1 and kD(AC) from 0.075 to 0.180 min− 1 when the temperature increased from 10 °C to 30 °C. However, the results presented in Table 4 show a decrease in the contribution of AC to the decomposition of O3 when the temperature increased: δAC decreased from 60% (10 °C) to 46% (30 °C). This trend could be explained by a significant increase in ozone self-decomposition in water with temperature which became the dominant way of ozone decomposition, limiting the O3/AC interaction. Thus, increasing the temperature leads to a decrease in the O3/AC interaction. Results presented on Table 3 show that the presence of AC significantly increased the O3 decomposition kinetics in water. Moreover, the determination of activation energy by Arrhenius' law, Ea(B) = 42 kJ mol− 1 and Ea(AC) = 31 kJ mol− 1, shows a decrease in the energy barrier of the ozone decomposition reaction due to the presence of AC (the value obtained for Ea(B) is in agreement with literature values ). These results confirm the involvement of AC in O3 decomposition. Several hypotheses have been proposed to explain the phenomenon. According to Valdes et al. , this is mainly due to the interaction between O3 and the acidic surface oxygen groups of the AC. On the contrary, according to Faria et al. it is mainly due to the basic functions of the AC. In this study, the determination of chemical properties of Pica 150 showed that there were a high number of surface oxygen groups and a small number of basic functions (Table 2). Thus, the significant acceleration of the decomposition of O3 in the presence of Pica 150 seems to show that the acidic surface oxygen groups play an important role in the interaction O3/AC. To verify this assumption, experiments were carried out with another AC which presents different properties (Picaflo).</text>
+      <annotation id="71">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9755" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="10601" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9715" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="9793" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="10635" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="10781" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="10944" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11112" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11231" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="10280" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="10296" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="10677" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11073" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11157" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="11573" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="10140" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12539</offset>
+      <text>Influences of pH and AC properties</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12574</offset>
+      <text>Experiments were carried out with or without tBuOH as radical scavenger at initial pH ranging from 3 to 7 and T = 25 °C to estimate the contribution of radical mechanisms in O3 decomposition (). For the experiments carried out without AC, the O3 decomposition rate constant kD(B) increased from 0.007 min− 1 to 0.069 min− 1 when the initial pH evolved from 4 to 7 (Table 5). These results are in agreement with those found in the literature . The rate constant value at pH = 3 was too weak (&lt; 0.001 min− 1 according to Zaror ) to be estimated with this method (experimental uncertainty was estimated at 0.002 min− 1). In the presence of AC, the O3 decomposition rate constant increased from 0.084 min− 1 to 0.130 min− 1 and from 0.046 min− 1 to 0.085 min− 1 respectively for Pica 150 and Picaflo when the initial pH increased from 3 to 7. Ozone dissolved decomposition was favored by a decrease in acidity. However, this phenomenon was mainly due to the interaction between ozone and the hydroxide ions (HO−) present in the solution. Indeed for both ACs, δAC decreased from 93% to 47% for Pica 150 and from 88% to 19% for Picaflo when pH evolved from 3 to 7 (Table 6). The effects of electrostatic repulsion between the AC and HO־ ions could explain this trend. According to Faria et al. and Hans and Hoigné , O3 decomposition in the presence of AC is preceded by an adsorption step and reaction of both O3 and HO− ions on the AC surface. The adsorption of HO− requires an interaction with the surface functions of the AC. In this study, the pH of the solution was higher than the pHPZC, implying a negatively charged AC surface. This leads to a repulsion of HO− and could explain the decrease in δAC. Thus, the O3/AC interaction was not favored at pH &gt; pHPZC and O3 is preferentially consumed by the reaction with HO־ ions in the liquid phase. The pH control and the determination of the pHPZC are very important to obtain effective interaction between O3 and AC. The introduction of tBuOH led to a decrease in kD(AC) showing the role of free radical mechanisms in the decomposition of O3. The evolution of δHO• (Table 5) shows that the contribution of these radical mechanisms increased (from 7% to 76% for Pica 150 and from 10% to 86% for Picaflo) when the initial pH evolved from 3 to 7 (Table 6). The contribution of the radical mechanisms predominated for pH between 5 and 6 for PICA 150 and between 6 and 7 for Picaflo. Several studies indicate that when pH &gt; pHPZC, some deprotonated surface groups can act as initiators of radical reactions , which could explain in this study the significant contribution of radical mechanisms even at acidic pH. It is therefore important to optimize the pH of the solution or to choose an AC with an appropriate pHPZC in order to obtain effective interactions for the generation of radicals. The O3 decomposition kinetics was also studied in the presence of ACs Pica 150 and Picaflo to determine the influence of the AC properties on the O3/AC interaction. Fig. 4 shows that the ozone decomposition rate constant was higher in the presence of Pica 150 than in the presence of Picaflo. These results show that the AC properties can affect its interaction with O3. The factors influencing this interaction are subject to controversy. Several studies show that the decomposition of ozone by AC depends on their chemical properties . According to Sanchez-Polo et al. , O3 decomposition in the AC depends on the presence of basic functional groups on the surface of AC and on its structural properties including a large external surface. According to Valdes et al. , ozone decomposition is mainly due to surface chemical functions (acid and alkaline) of AC. In this study, Pica150 had a lower external surface (Table 1), an equivalent number of basic functions and more acidic functions (Table 2) than Picaflo. It thus appears in this study that the acid functions play an important role in the O3/AC interaction, confirming the previous results.</text>
+      <annotation id="87">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12657" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="12915" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13044" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13387" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13709" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14117" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14156" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14324" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14329" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14424" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14464" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14843" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="14937" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15037" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15042" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15227" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15273" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15331" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13413" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="13548" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15598" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15898" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16181" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="15340" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16561</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16572</offset>
+      <text>The O3 decomposition kinetics in the presence of AC, correctly described by a first order kinetic model, was studied. The influence of operating parameters (temperature and pH) on the decomposition was determined. An increase in temperature leads to an acceleration of O3 decomposition. However, this phenomenon is accompanied by a decrease in the AC contribution to ozone decomposition (decreased δAC): O3 self-decomposition in the aqueous phase becomes dominant and limits the O3/AC interaction. An increase in the pH of the solution also leads to enhancing ozone decomposition. However, at pH &gt; 5, a significant decrease in O3/AC interactions was observed (decrease in δAC). This phenomenon could be explained by an electrostatic repulsion effect between the species in solution and the AC surface, the latter being negatively charged when pH &gt; pHPZC. Nevertheless, the pH must be maintained at a value which favours radical interaction for the formation of hydroxyl radicals. Thus, the use of a coupling O3/AC requires optimization of these operating parameters to obtain an efficient process. In addition, this study showed that the extent of the O3/AC interaction is based on both textural and chemical properties of the AC, especially the number of acid functions.</text>
+      <annotation id="111">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16745" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="112">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17089" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17165" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17415" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17420" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17445" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16729" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16801" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16939" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="17132" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-05-27; 15:1</infon>
+        <location offset="16656" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

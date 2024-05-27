@@ -1,0 +1,1734 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1352231003008057</prism:url><dc:identifier>doi:10.1016/j.atmosenv.2003.09.043</dc:identifier><eid>1-s2.0-S1352231003008057</eid><prism:doi>10.1016/j.atmosenv.2003.09.043</prism:doi><pii>S1352-2310(03)00805-7</pii><dc:title>The humidity dependence of ozone deposition onto a variety of building surfaces </dc:title><prism:publicationName>Atmospheric Environment</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13522310</prism:issn><prism:volume>38</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>59</prism:startingPage><prism:endingPage>68</prism:endingPage><prism:pageRange>59-68</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2004-01-31</prism:coverDate><prism:coverDisplayDate>January 2004</prism:coverDisplayDate><prism:copyright>Copyright © 2003 Elsevier Science Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Science Ltd.</prism:publisher><dc:creator>Grøntoft, Terje</dc:creator><dc:creator>Henriksen, Jan F.</dc:creator><dc:creator>Seip, Hans M.</dc:creator><dc:description>
+                  Measurements of the dry deposition velocity of O3 to material samples of calcareous stone, concrete and wood at varying humidity of the air, were performed in a deposition chamber. Equilibrium surface deposition velocities were found for various humidity values by fitting a model to the time-dependent deposition data. A deposition velocity-humidity model was derived giving three separate rate constants for the surface deposition velocities, i.e. on the dry surface, on the first mono-layer of adsorbed water and on additional surface water. The variation in the dry air equilibrium surface deposition velocities among the samples correlated with variations in effective areas, with larger effective areas giving higher measured deposition velocities. A minimum for the equilibrium surface deposition velocity was generally measured at an intermediate humidity close to the humidity found to correspond to one mono-layer of water molecules on the surfaces. At low air humidity the equilibrium surface deposition velocity of O3 was found to decrease as more adsorbed water prevented direct contact of the O3 molecules with the surface. This was partly compensated by an increase as more adsorbed water became available for reaction with O3. At high air humidity the equilibrium surface deposition velocity was found to increase as the mass of water on the surface increased. The deposition velocity on bulk de-ionised water at RH=90% was an order of magnitude lower than on the sample surfaces.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Humidity</dcterms:subject><dcterms:subject>Deposition velocity</dcterms:subject><dcterms:subject>Modelling</dcterms:subject><dcterms:subject>Surface reaction</dcterms:subject><dcterms:subject>Ozone decomposition</dcterms:subject><dcterms:subject>Calcareous stone</dcterms:subject><dcterms:subject>Concrete</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1352231003008057" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1352231003008057" rel="scidir"/></coredata><objects><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="165" height="17" size="697">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="177" height="18" size="749">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="68" height="13" size="318">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="88" size="5426">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="224" size="44277">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="87" size="6985">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="222" size="50685">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="85" size="7623">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="217" size="54411">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="85" size="7400">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="218" size="50427">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="85" size="7441">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="217" size="55330">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="85" size="7484">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="217" size="51789">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="84" size="2667">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="211" height="141" size="4721">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr7.gif?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="78" size="2663">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="214" height="134" size="5070">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr8.gif?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="83" size="2826">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="213" height="142" size="5175">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr9.gif?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="84" size="2919">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="211" height="142" size="5449">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr10.gif?httpAccept=%2A%2F%2A</object><object ref="gr11" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="83" size="2527">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr11.sml?httpAccept=%2A%2F%2A</object><object ref="gr11" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="214" height="142" size="4599">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr11.gif?httpAccept=%2A%2F%2A</object><object ref="gr12" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="82" size="2316">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr12.sml?httpAccept=%2A%2F%2A</object><object ref="gr12" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="214" height="141" size="3934">https://api.elsevier.com/content/object/eid/1-s2.0-S1352231003008057-gr12.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>0344420029</scopus-id><scopus-eid>2-s2.0-0344420029</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0344420029" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271798</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291767</xocs:ssid>
+         <xocs:ssid type="subj">291769</xocs:ssid>
+         <xocs:ssid type="subj">291801</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Atmospheric Environment</xocs:srctitle>
+      <xocs:normalized-srctitle>ATMOSPHERICENVIRONMENT</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20031021">2003-10-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20031021">2003-10-21</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-13T07:59:47</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1352231003008057</xocs:eid>
+      <xocs:pii-formatted>S1352-2310(03)00805-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1352231003008057</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.atmosenv.2003.09.043</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1352231000X02853</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T05:35:53.857891-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20040101</xocs:date-search-begin>
+      <xocs:date-search-end>20040131</xocs:date-search-end>
+      <xocs:year-nav>2004</xocs:year-nav>
+      <xocs:indexeddate epoch="1066694400">2003-10-21T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1352-2310</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13522310</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>38</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>38</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 38, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>8</xocs:sort-order>
+      <xocs:first-fp>59</xocs:first-fp>
+      <xocs:last-lp>68</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>59</xocs:first-page>
+         <xocs:last-page>68</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200401</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>January 2004</xocs:cover-date-text>
+      <xocs:cover-date-start>2004-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2004-01-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2004</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2003 Elsevier Science Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>HUMIDITYDEPENDENCEOZONEDEPOSITIONAVARIETYBUILDINGSURFACES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GRONTOFT</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Theory</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Reaction mechanism</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The humidity dependent deposition velocity</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chamber experiments</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>BET surface area measurements</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Equilibrium surface deposition velocity</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Modelling of the humidity dependence</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Uncertainty</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>7</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion and practical implications</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ATKINS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHYSICALCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2"/>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BRIMBLECOMBE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>CANORUIZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2039</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2050</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>GRAEDEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ATMOSPHERICCORROSIONELECTROCHEMICALSOCIETYSERIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>GRONTOFT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5661</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5670</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7"/>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>KLENO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2548</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2553</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>MUELLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>342</xocs:ref-first-fp>
+            <xocs:ref-last-lp>346</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>NAZAROFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>81</xocs:ref-first-fp>
+            <xocs:ref-last-lp>104</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MODELINGINDOORAIRQUALITYEXPOSUREASTMSTP1205</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>CRITIQUEUSEDEPOSITIONVELOCITYINMODELINGINDOORAIRQUALITY</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>SABERSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>347</xocs:ref-first-fp>
+            <xocs:ref-last-lp>353</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>SEHESTED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1589</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1596</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>THOMSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MUSEUMENVIRONMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>WESCHLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>269</xocs:ref-first-fp>
+            <xocs:ref-last-lp>288</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GRONTOFTX2004X59</xocs:refkey3>
+         <xocs:refkey4lp>GRONTOFTX2004X59X68</xocs:refkey4lp>
+         <xocs:refkey4ai>GRONTOFTX2004X59XT</xocs:refkey4ai>
+         <xocs:refkey5>GRONTOFTX2004X59X68XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1352-2310(03)00805-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1352231003008057</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1352231003008057</xocs:eid>
+         <xocs:doi>10.1016/j.atmosenv.2003.09.043</xocs:doi>
+         <xocs:cid>271798</xocs:cid>
+         <xocs:timestamp>2010-12-22T17:13:10.847459-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2004-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2004-01-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/MAIN/application/pdf/9e6ba4f15367a150165f301ebe68c778/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/MAIN/application/pdf/9e6ba4f15367a150165f301ebe68c778/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>595520</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>10</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1352231003008057-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/PREVIEW/image/png/f9c86637c4deb88466021fed975b1262/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/PREVIEW/image/png/f9c86637c4deb88466021fed975b1262/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64969</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/STRIPIN/image/gif/475b2d6811565893222d273ae836cd5c/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/STRIPIN/image/gif/475b2d6811565893222d273ae836cd5c/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>697</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>165</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/STRIPIN/image/gif/4a71605f444d964857c7103ecf3cf591/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/STRIPIN/image/gif/4a71605f444d964857c7103ecf3cf591/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>749</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>177</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/STRIPIN/image/gif/fab5696ddcae206be93d0a42c5e0682e/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/STRIPIN/image/gif/fab5696ddcae206be93d0a42c5e0682e/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>318</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>68</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr1/THUMBNAIL/image/gif/a3fcb34e5ce9bb38837fa9cd746f4653/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr1/THUMBNAIL/image/gif/a3fcb34e5ce9bb38837fa9cd746f4653/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5426</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr1/DOWNSAMPLED/image/jpeg/935c4e9ff8e5baa42212a38a1615cc67/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr1/DOWNSAMPLED/image/jpeg/935c4e9ff8e5baa42212a38a1615cc67/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>44277</xocs:filesize>
+               <xocs:pixel-height>224</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr2/THUMBNAIL/image/gif/189d166ec6197b5b95b460121ee4a6f5/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr2/THUMBNAIL/image/gif/189d166ec6197b5b95b460121ee4a6f5/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6985</xocs:filesize>
+               <xocs:pixel-height>87</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr2/DOWNSAMPLED/image/jpeg/2396999f43020340a616bf4ea9e9086a/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr2/DOWNSAMPLED/image/jpeg/2396999f43020340a616bf4ea9e9086a/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>50685</xocs:filesize>
+               <xocs:pixel-height>222</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr3/THUMBNAIL/image/gif/3d7f76d3ee34876a107367f65f4977ca/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr3/THUMBNAIL/image/gif/3d7f76d3ee34876a107367f65f4977ca/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7623</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr3/DOWNSAMPLED/image/jpeg/2325987ac2413595fec0160aa88d0d06/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr3/DOWNSAMPLED/image/jpeg/2325987ac2413595fec0160aa88d0d06/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>54411</xocs:filesize>
+               <xocs:pixel-height>217</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr4/THUMBNAIL/image/gif/85e38b90b165cb19b587d00b3b186132/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr4/THUMBNAIL/image/gif/85e38b90b165cb19b587d00b3b186132/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7400</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr4/DOWNSAMPLED/image/jpeg/df58022070f018964b85bf2ce1bfef00/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr4/DOWNSAMPLED/image/jpeg/df58022070f018964b85bf2ce1bfef00/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>50427</xocs:filesize>
+               <xocs:pixel-height>218</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr5/THUMBNAIL/image/gif/01730358a731214eb3ca8f0c9e1f8572/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr5/THUMBNAIL/image/gif/01730358a731214eb3ca8f0c9e1f8572/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7441</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr5/DOWNSAMPLED/image/jpeg/7cfa2007cddd8abd99d296ced4fbcf23/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr5/DOWNSAMPLED/image/jpeg/7cfa2007cddd8abd99d296ced4fbcf23/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>55330</xocs:filesize>
+               <xocs:pixel-height>217</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr6/THUMBNAIL/image/gif/1cdb8022bfbf75a526b35ebec4a9a712/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr6/THUMBNAIL/image/gif/1cdb8022bfbf75a526b35ebec4a9a712/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7484</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr6/DOWNSAMPLED/image/jpeg/e6eb4fa4fcd89404f15e8bd32a523e8f/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr6/DOWNSAMPLED/image/jpeg/e6eb4fa4fcd89404f15e8bd32a523e8f/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>51789</xocs:filesize>
+               <xocs:pixel-height>217</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr7/THUMBNAIL/image/gif/0c3bf15ade55d7907690fc90a58912ff/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr7/THUMBNAIL/image/gif/0c3bf15ade55d7907690fc90a58912ff/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2667</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr7/DOWNSAMPLED/image/gif/c8e06ab88056f535896a27049901d2e1/gr7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr7/DOWNSAMPLED/image/gif/c8e06ab88056f535896a27049901d2e1/gr7.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>4721</xocs:filesize>
+               <xocs:pixel-height>141</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr8/THUMBNAIL/image/gif/4312da19f0675c130406c3a2bb18184f/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr8/THUMBNAIL/image/gif/4312da19f0675c130406c3a2bb18184f/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2663</xocs:filesize>
+               <xocs:pixel-height>78</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr8/DOWNSAMPLED/image/gif/e914e55fac2a1278fc9da16f9b61feec/gr8.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr8/DOWNSAMPLED/image/gif/e914e55fac2a1278fc9da16f9b61feec/gr8.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5070</xocs:filesize>
+               <xocs:pixel-height>134</xocs:pixel-height>
+               <xocs:pixel-width>214</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr9/THUMBNAIL/image/gif/dfa48c373d39cf8245d78528fec3e4fb/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr9/THUMBNAIL/image/gif/dfa48c373d39cf8245d78528fec3e4fb/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2826</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr9/DOWNSAMPLED/image/gif/d921657adc73b48137e36d25fc3798b8/gr9.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr9/DOWNSAMPLED/image/gif/d921657adc73b48137e36d25fc3798b8/gr9.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5175</xocs:filesize>
+               <xocs:pixel-height>142</xocs:pixel-height>
+               <xocs:pixel-width>213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr10/THUMBNAIL/image/gif/acc63db5846d389f6c337f3b7797527a/gr10.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr10/THUMBNAIL/image/gif/acc63db5846d389f6c337f3b7797527a/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2919</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr10/DOWNSAMPLED/image/gif/2d780772e52dd2ef8f0919628a4dae0f/gr10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr10/DOWNSAMPLED/image/gif/2d780772e52dd2ef8f0919628a4dae0f/gr10.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5449</xocs:filesize>
+               <xocs:pixel-height>142</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr11.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr11/THUMBNAIL/image/gif/97d7508555721fcc978b06a403855261/gr11.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr11/THUMBNAIL/image/gif/97d7508555721fcc978b06a403855261/gr11.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2527</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr11.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr11/DOWNSAMPLED/image/gif/0c083cc9886d5fc585c229039e02b1ef/gr11.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr11/DOWNSAMPLED/image/gif/0c083cc9886d5fc585c229039e02b1ef/gr11.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>4599</xocs:filesize>
+               <xocs:pixel-height>142</xocs:pixel-height>
+               <xocs:pixel-width>214</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr12.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr12/THUMBNAIL/image/gif/c5aff09ce78d72207c33c41127a5cf03/gr12.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr12/THUMBNAIL/image/gif/c5aff09ce78d72207c33c41127a5cf03/gr12.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2316</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1352231003008057-gr12.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1352231003008057/gr12/DOWNSAMPLED/image/gif/db985a436aa245cabe2d19cf059b7d15/gr12.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1352231003008057/gr12/DOWNSAMPLED/image/gif/db985a436aa245cabe2d19cf059b7d15/gr12.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3934</xocs:filesize>
+               <xocs:pixel-height>141</xocs:pixel-height>
+               <xocs:pixel-width>214</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>AEA</jid>
+            <aid>4775</aid>
+            <ce:pii>S1352-2310(03)00805-7</ce:pii>
+            <ce:doi>10.1016/j.atmosenv.2003.09.043</ce:doi>
+            <ce:copyright type="full-transfer" year="2003">Elsevier Science Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Carrara marble sample, ×16.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Spruce whole wood board sample, ×16.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="FIG3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Maltese limestone sample, ×16.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="FIG4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Vicenza calcareous stone sample, ×16.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="FIG5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Hard concrete floor tile sample, ×16.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="FIG6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Softer concrete floor tile sample, ×16.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="FIG7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Spruce whole wood board.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="FIG8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Maltese limestone.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="FIG9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Vicenza calcareous stone.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:figure id="FIG10">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Hard concrete floor tile+de-ionised water at RH=90%.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr10"/>
+            </ce:figure>
+            <ce:figure id="FIG11">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Softer concrete floor tile.</ce:simple-para>
+                  <ce:simple-para view="all">
+                     <ce:cross-refs refid="FIG7 FIG8 FIG9 FIG10 FIG11">Figs. 7–11</ce:cross-refs>. Modelling of the humidity dependent equilibrium surface deposition velocity of the surface decomposition reaction of O<ce:inf loc="post">3</ce:inf> on the material samples. <ce:italic>v</ce:italic>
+                     <ce:inf loc="post">d</ce:inf>(48<ce:hsp sp="0.16"/>h) values are measurements of the total O<ce:inf loc="post">3</ce:inf> deposition velocity on the samples after 48<ce:hsp sp="0.16"/>h runs. <ce:italic>v</ce:italic>
+                     <ce:inf loc="post">s,eq.</ce:inf> are equilibrium surface deposition velocities at <ce:italic>t</ce:italic>→∞ found from modelling to the experimental time-dependent O<ce:inf loc="post">3</ce:inf> deposition on the samples (see <ce:cross-ref refid="SEC4">Section 4</ce:cross-ref> and <ce:cross-ref refid="BIB7">Grøntoft, 2003</ce:cross-ref>). <ce:italic>T</ce:italic>=22°C in all measurements except for sample no. 5 in <ce:cross-ref refid="FIG10">Fig. 10</ce:cross-ref> which shows results at 22°C and 30°C. In <ce:cross-ref refid="FIG8">Fig. 8</ce:cross-ref> the model curves are marked with the terms from <ce:cross-refs refid="EQ2 EQ3">Eqs. (2) and (3)</ce:cross-refs>. An arrow (⇓), marks the humidity point of one mono-layer of adsorbed water, <ce:italic>m</ce:italic>=1. The pseudo-first-order rate constants given in the figures are <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">dry</ce:inf>=<ce:italic>v</ce:italic>
+                     <ce:inf loc="post">s,eq.</ce:inf> (<ce:italic>m</ce:italic>=0), <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">ads</ce:inf>=<ce:italic>v</ce:italic>
+                     <ce:inf loc="post">s,eq.</ce:inf> (<ce:italic>m</ce:italic>=1) and <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">wet</ce:inf> which is used for <ce:italic>m</ce:italic>&gt;1. Uncertainties are calculated from assumed experimental uncertainties in the single runs at each air-humidity (see <ce:cross-ref refid="SEC5">Section 5</ce:cross-ref>). Deposition velocities are related to the geometric areas.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr11"/>
+            </ce:figure>
+            <ce:figure id="FIG12">
+               <ce:label>Fig. 12</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Correlation of the equilibrium surface deposition velocity of O<ce:inf loc="post">3</ce:inf>, <ce:italic>v</ce:italic>
+                     <ce:inf loc="post">s,eq.</ce:inf>, with the real area, <ce:italic>A</ce:italic>
+                     <ce:inf loc="post">rea<ce:italic>l</ce:italic>
+                     </ce:inf>/<ce:italic>A</ce:italic>
+                     <ce:inf loc="post">geom</ce:inf> measured on small sample pieces (0.3×0.3×0.3<ce:hsp sp="0.16"/>cm<ce:sup loc="post">3</ce:sup>) in dry air using the BET isotherm. The numbers above the figure are sample numbers.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr12"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Samples and sample properties</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Description</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col3" nameend="col4" rowsep="1">Sample dimensions</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Density, <italic>ρ</italic> (g<hsp sp="0.16"/>cm<sup loc="post">−3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>A</italic>
+                           <inf loc="post">real</inf>/<italic>A</italic>
+                           <inf loc="post">geom</inf> (BET) (m<sup loc="post">2</sup>
+                           <inf loc="post">real</inf>
+                           <hsp sp="0.16"/>m<sup loc="post">−2</sup>
+                           <inf loc="post">geom.</inf>)</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Thickness (cm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Geometric areas (cm<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1. Carrara marble</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Hard bright white marble with large crystals.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">≈1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2. Spruce whole wood board</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rough cut untreated old (ca. 100 years) wood board.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.5–2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">122–148</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.44</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100±10</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3. Maltese limestone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Yellow calcareous stone with smaller pores.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.2–1.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">41–92</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1000±100</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4. Vicenza calcareous stone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Light grey calcareous stone with larger pores.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40–70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.89</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">200±20</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5. Hard concrete floor tile</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Dark smooth plane ground concrete with small pebbles from silicate stone, of diameter 0.5–3<hsp sp="0.16"/>mm, covering ≈30% of the total surface.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.8–1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">76–87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">650±65</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6. Softer concrete floor tile</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Light plane ground concrete with small pebbles from different rock species, of diameter 2–5<hsp sp="0.16"/>mm, covering ≈50% of the total surface.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.4–2.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">58–119</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.96</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1200±120</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7. De-ionised water</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">De-ionised to conductivity between 0.5 and 1<hsp sp="0.16"/>μS<hsp sp="0.16"/>cm<sup loc="post">−1</sup>. Ca. 20<hsp sp="0.16"/>ml</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para view="all">The 10% uncertainty in the areas is the standard deviation calculated from two BET measurements on the Vicenza Calcareous Stone.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL2" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Equilibrium surface deposition velocities of O<ce:inf loc="post">3</ce:inf> on materials tested in a deposition chamber, modelled with a Langmuir model including diffusion into the material</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Material</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1">RH/%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1"/>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">90</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col6">Equilibrium surface deposition velocity (cm<hsp sp="0.16"/>s<sup loc="post">−1</sup>)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1. Carrara marble</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">≈0<cross-ref refid="TBLFN2B">
+                              <sup loc="post">b</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">≈0<cross-ref refid="TBLFN2B">
+                              <sup loc="post">b</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">≈0<cross-ref refid="TBLFN2B">
+                              <sup loc="post">b</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.019±0.005</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2. Spruce whole wood board</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.005±0.003</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.004±0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.010±0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.017±0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.065±0.004</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3. Maltese limestone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.071±0.007</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.055±0.007</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.026±0.005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.039±0.005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.043±0.005</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4. Vicenza calcareous stone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.088±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.056±0.009</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.033±0.007</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.012±0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.031±0.006</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5a. Hard concrete floor tile, 22°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048±0.007 0.031±0.004<cross-ref refid="TBLFN2A">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.028±0.005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0003±0.0001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.004±0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.021±0.004</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5b. Hard concrete floor tile, 30°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.012±0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.015±0.003</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.004±0.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.015±0.006</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.024±0.004</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6. Softer Concrete floor tile</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.075±0.008</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.058±0.008</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0020±0.0002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.005±0.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.035±0.003</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7. De-ionised water</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0035±0.0008</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para view="all">The values are related to the geometric areas. Uncertainty values at separate humidities are calculated from assumed experimental uncertainties, and the relative uncertainties at equilibrium were set equal to those calculated at 48<ce:hsp sp="0.16"/>h. <ce:italic>T</ce:italic>=22°C for all but one series at <ce:italic>T</ce:italic>=30°C on the Hard Concrete Floor Tile.</ce:simple-para>
+               </ce:legend>
+               <ce:table-footnote id="TBLFN2A">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>The sample was predried at 110°C for 24h before conditioning in the chamber and exposure to O<ce:inf loc="post">3</ce:inf>.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="TBLFN2B">
+                  <ce:label>b</ce:label>
+                  <ce:note-para>0±0.005 for the total deposition velocity measured at 48h.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL3" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Rate constants for the heterogeneous decomposition of ozone on material samples found from modelling</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>K</italic>
+                           <inf loc="post">dry</inf> (cm<hsp sp="0.16"/>s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>K</italic>
+                           <inf loc="post">ads</inf> (cm<hsp sp="0.16"/>s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>K</italic>
+                           <inf loc="post">wet</inf> (cm<hsp sp="0.16"/>s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Δ<inf loc="post">des</inf>
+                           <italic>H</italic>
+                           <inf loc="post">H<inf loc="post">2</inf>O</inf> (kJ<hsp sp="0.16"/>mol<sup loc="post">−1</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1. Carrara marble</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0031</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">40.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2. Spruce whole wood board</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0047</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0069</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">48.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3. Maltese limestone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.071</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.032</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0013</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">44.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4. Vicenza calcareous stone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.088</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0028</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">43.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5. Hard concrete floor tile</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.048</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0003</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0026</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">44.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6. Softer concrete floor tile</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.075</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0042</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">43.5</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para view="all">Desorption (bonding) enthalpies of adsorbed water, Δ<ce:inf loc="post">des</ce:inf>
+                     <ce:italic>H</ce:italic>
+                     <ce:inf loc="post">H<ce:inf loc="post">2</ce:inf>O</ce:inf> (from the humidity-deposition velocity modelling). <ce:italic>K</ce:italic>-values are related to the geometric areas.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>The humidity dependence of ozone deposition onto a variety of building surfaces</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:indexed-name>Grontoft</ce:indexed-name>
+                  <ce:given-name>Terje</ce:given-name>
+                  <ce:surname>Grøntoft</ce:surname>
+                  <ce:cross-ref refid="AFFA">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="CORAST">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:initials>J.F.</ce:initials>
+                  <ce:given-name>Jan F.</ce:given-name>
+                  <ce:surname>Henriksen</ce:surname>
+                  <ce:cross-ref refid="AFFA">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:initials>H.M.</ce:initials>
+                  <ce:given-name>Hans M.</ce:given-name>
+                  <ce:surname>Seip</ce:surname>
+                  <ce:cross-ref refid="AFFB">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFFA">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Norwegian Institute for Air Research, P.O. Box 100, NO-2027 Kjeller, Norway</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFFB">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Chemistry, University of Oslo, P.O. Box 1033 Blindern, 0315 Oslo, Norway</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="CORAST">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author. Fax: +47-63-89-80-50</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="14" month="5" year="2003"/>
+            <ce:date-accepted day="10" month="9" year="2003"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Measurements of the dry deposition velocity of O<ce:inf loc="post">3</ce:inf> to material samples of calcareous stone, concrete and wood at varying humidity of the air, were performed in a deposition chamber. Equilibrium surface deposition velocities were found for various humidity values by fitting a model to the time-dependent deposition data. A deposition velocity-humidity model was derived giving three separate rate constants for the surface deposition velocities, i.e. on the dry surface, on the first mono-layer of adsorbed water and on additional surface water. The variation in the dry air equilibrium surface deposition velocities among the samples correlated with variations in effective areas, with larger effective areas giving higher measured deposition velocities. A minimum for the equilibrium surface deposition velocity was generally measured at an intermediate humidity close to the humidity found to correspond to one mono-layer of water molecules on the surfaces. At low air humidity the equilibrium surface deposition velocity of O<ce:inf loc="post">3</ce:inf> was found to decrease as more adsorbed water prevented direct contact of the O<ce:inf loc="post">3</ce:inf> molecules with the surface. This was partly compensated by an increase as more adsorbed water became available for reaction with O<ce:inf loc="post">3</ce:inf>. At high air humidity the equilibrium surface deposition velocity was found to increase as the mass of water on the surface increased. The deposition velocity on bulk de-ionised water at RH=90% was an order of magnitude lower than on the sample surfaces.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Humidity</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Deposition velocity</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Modelling</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Surface reaction</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ozone decomposition</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Calcareous stone</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Concrete</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Tropospheric ozone has potential negative health effects and can deteriorate valuable materials. This has been described by several researchers (<ce:cross-ref refid="BIB14">Weschler, 2000</ce:cross-ref>; <ce:cross-ref refid="BIB2">Blades et al., 2000</ce:cross-ref>; <ce:cross-ref refid="BIB3">Brimblecombe, 1988</ce:cross-ref>; <ce:cross-ref refid="BIB13">Thomson, 1986</ce:cross-ref>). <ce:cross-ref refid="BIB14">Weschler (2000)</ce:cross-ref> described the factors affecting indoor ozone concentrations. Deposition to, and decomposition on, indoor surfaces significantly reduces the indoor ozone concentration from that present outdoors. The deposition velocity of ozone on various indoor building materials has been measured in flow reactors and experimental chambers of various designs (<ce:cross-ref refid="BIB8">Klenø et al., 2001</ce:cross-ref>; <ce:cross-ref refid="BIB9">Mueller et al., 1973</ce:cross-ref>; <ce:cross-ref refid="BIB11">Sabersky et al., 1973</ce:cross-ref>). A high deposition velocity may be wanted to reduce indoor ozone concentrations if hazardous compounds are not produced, and results from deposition velocity measurements can serve as one guideline in the choice of building materials.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-refs refid="BIB6 BIB7">Grøntoft (2002, 2003)</ce:cross-refs> presented a methodology for measuring total and surface deposition velocities, and for modelling the time-dependent deposition of ozone to various building materials. The measurement of near equilibrium values and modelling of equilibrium values for the deposition velocities were discussed. This article will discuss the second-order dependence of the ozone deposition velocity to material surfaces on O<ce:inf loc="post">3</ce:inf> air concentration and on the surface coverage of water or a reactive species proportional to the water coverage. Modelled equilibrium values for the surface deposition velocity of O<ce:inf loc="post">3</ce:inf> at varying relative humidity (RH) of the air will be presented. A hypothesis as to how the observed humidity dependence of the equilibrium surface deposition velocity can be understood and modelled for some materials will be presented and discussed. The model is based on a number of simplifying assumptions, but gives a semi-quantitative explanation of how humidity affects the ozone deposition. The model would make predictions of humidity dependent deposition velocities of O<ce:inf loc="post">3</ce:inf>, based on chemical principles, possible over a continuous range of humidity. This is of interest in modelling indoor O<ce:inf loc="post">3</ce:inf> concentrations. It is then essential to know the O<ce:inf loc="post">3</ce:inf> deposition velocity in the actual indoor setting.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Theory</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Reaction mechanism</ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="BIB10">Nazaroff et al. (1993)</ce:cross-ref> hypothesised that when dangling or unsaturated carbon bonds are not present, “enough water may be associated with accumulated particles on soiled indoor surfaces that the dominant decomposition pathway for ozone is water-assisted dissociation.” The heterogeneous decomposition mechanism for O<ce:inf loc="post">3</ce:inf> is supposed to be initiated by an elementary reaction with the hydroxide ion, OH<ce:sup loc="post">−</ce:sup>, in alkaline solution or reaction with water, H<ce:inf loc="post">2</ce:inf>O, in acidic solution (<ce:cross-ref refid="BIB12">Sehested et al., 1991</ce:cross-ref>). Rate constants for the alkaline decomposition reaction and for the acidic decomposition in distilled water, were reported by <ce:cross-ref refid="BIB12">Sehested et al. (1991)</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">The O<ce:inf loc="post">3</ce:inf> deposition velocities measured at high air humidity in this work were much too high to be explained by these rate constants given the low solubility of O<ce:inf loc="post">3</ce:inf> and the very thin water films present on surfaces. This can be explained by the different nature of the heterogeneous surface reaction of O<ce:inf loc="post">3</ce:inf> in the surface water from that of dissolved O<ce:inf loc="post">3</ce:inf> in the distilled water. In the heterogeneous reaction the O<ce:inf loc="post">3</ce:inf> molecules hit a surface with some water adsorbed on it. Some O<ce:inf loc="post">3</ce:inf> molecules may decompose on the surface to O<ce:inf loc="post">2</ce:inf> and O atoms, which could recombine directly to O<ce:inf loc="post">2</ce:inf>. The adsorbed surface water that could react with O<ce:inf loc="post">3</ce:inf> would have different characteristics from those of bulk water. In addition other surface species dissolved in surface water at higher air humidity could affect the O<ce:inf loc="post">3</ce:inf> reaction with adsorbed OH<ce:sup loc="post">−</ce:sup> ions or H<ce:inf loc="post">2</ce:inf>O molecules. Dissolved transition metal ions such as Mn<ce:sup loc="post">2+</ce:sup> and Fe<ce:sup loc="post">2+</ce:sup> may catalyse heterogeneous O<ce:inf loc="post">3</ce:inf> decomposition. Surface reactions of O<ce:inf loc="post">3</ce:inf> with unsaturated carbon bonds in organic materials (<ce:cross-ref refid="BIB14">Weschler, 2000</ce:cross-ref>) and with dangling carbon bonds (<ce:cross-ref refid="BIB10">Nazaroff et al., 1993</ce:cross-ref>) have been reported, but were considered not to happen on the materials used in this work.</ce:para>
+                     <ce:para view="all">The surface water may be acidic or alkaline depending on the material. On the untreated wood board sample used in this work one would expect slightly acidic surface water. On the calcareous stone and concrete samples one would expect alkaline surface water. As a simplifying assumption in the modelling performed in this work the mass of OH<ce:sup loc="post">−</ce:sup> in surface water is set to be proportional to the mass of surface water. The rate constants for the possible reaction of O<ce:inf loc="post">3</ce:inf> with OH<ce:sup loc="post">−</ce:sup> is then simply derived by multiplying the rate constants found for the reaction of O<ce:inf loc="post">3</ce:inf> with water with a constant=0.018×10<ce:sup loc="post">(pH-14)</ce:sup>. The activity of the surface water is then set equal to 55.6, and the OH<ce:sup loc="post">−</ce:sup> concentration is determined by the pH in the surface water. Henceforth, when OH<ce:sup loc="post">−</ce:sup> is not the subject in the discussion, only the reaction of O<ce:inf loc="post">3</ce:inf> with water will be described. However, it should be kept in mind that this may be a reaction partly or wholly with OH<ce:sup loc="post">−</ce:sup> ions in alkaline surface water.</ce:para>
+                     <ce:para view="all">The water molecules directly in contact with the material surface would be bonded to the surface as an adsorbed mono-layer. The water molecules in the next two mono-layers would be progressively less bonded and beyond that the properties of the water in the surface film would approach those of bulk water (<ce:cross-ref refid="BIB5">Graedel and Leygraf, 2000</ce:cross-ref>). Probably O<ce:inf loc="post">3</ce:inf> reacts on a surface with a continuum of more or less strongly bonded water molecules. As a simplification it is assumed here that ozone reacts with the dry surface, with directly adsorbed water and with additional surface water, as three separate sinks. It is further assumed that the equilibrium surface deposition velocity at a given air humidity can be expressed as a weighed mean of two of the above mentioned sinks. The sizes of the two sinks depend on the humidity of the air and the resulting thickness of the surface water film determined from the BET isotherm.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>The humidity dependent deposition velocity</ce:section-title>
+                     <ce:para view="all">The usual expression for the deposition velocity of a gas on a surface is (see e.g. <ce:cross-ref refid="BIB4">Cano-Ruiz et al., 1993</ce:cross-ref>):<display>
+                           <formula>
+                              <ce:label>(1)</ce:label>
+                              <math altimg="si1.gif">r=v<inf loc="post">
+                                    <rm>d</rm>
+                                 </inf>C<inf loc="post">
+                                    <rm>ch</rm>
+                                 </inf>,</math>
+                           </formula>
+                        </display>where <ce:italic>r</ce:italic> is the total reaction rate (ng<ce:hsp sp="0.16"/>cm<ce:sup loc="post">−2</ce:sup>
+                        <ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup>), <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">d</ce:inf> is the deposition velocity (cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup>), <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">ch</ce:inf> is the gas concentration in the deposition chamber (ng<ce:hsp sp="0.16"/>cm<ce:sup loc="post">−3</ce:sup>). <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">d</ce:inf>=<ce:italic>v</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>, the surface deposition velocity, when <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">d</ce:inf> is small and the transport resistance in the air ≈0. <ce:cross-refs refid="BIB6 BIB7">Grøntoft (2002, 2003)</ce:cross-refs> showed that <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> could probably be expressed as a pseudo-first-order rate constant for heterogeneous O<ce:inf loc="post">3</ce:inf> decomposition at constant humidity and pH, in agreement with the first-order dependence found by several researchers (e.g. <ce:cross-ref refid="BIB9">Mueller et al., 1973</ce:cross-ref>; <ce:cross-ref refid="BIB11">Sabersky et al., 1973</ce:cross-ref>). The total deposition rate is humidity dependent. The humidity range will be divided into one of low humidity and one of high humidity. The low humidity range will be defined from dry air to the humidity giving exactly one mono-layer of water on the material surface according to the BET isotherm. Higher values constitute the high humidity range. The BET isotherm gives the numbers of mono-layers of a gaseous species physisorbed on a surface as a function of its vapour pressure, which for water is given by the relative air humidity, and as a function of its bond strength to the surface (see e.g. <ce:cross-ref refid="BIB1">Atkins, 1998</ce:cross-ref>).</ce:para>
+                     <ce:para view="all">A simple mathematical model describing the humidity dependence of the total heterogeneous reaction rate of O<ce:inf loc="post">3</ce:inf> on material surfaces will be derived here. The model is based on the assumption that H<ce:inf loc="post">2</ce:inf>O molecules are fully adsorbed in the first mono-layer on a surface. Designating the number of mono-layers of water on a surface <ce:italic>m</ce:italic>, the amount of fully adsorbed water would then vary from 0 to <ce:italic>m</ce:italic>=1, while the mass of additional surface water would vary from 0 to <ce:italic>m</ce:italic>−1 (<ce:italic>m</ce:italic>&gt;1).</ce:para>
+                     <ce:para view="all">In the low humidity range ozone may react with both the dry surface and with directly adsorbed water. Assuming one reaction rate constant for each of the two surface sinks, the total surface deposition velocity with varying air humidity and mass of adsorbed surface water may be written as:<display>
+                           <formula id="EQ2">
+                              <ce:label>(2)</ce:label>
+                              <math altimg="si2.gif">v<inf loc="post">
+                                    <rm>s</rm>
+                                 </inf>=K<inf loc="post">
+                                    <rm>dry</rm>
+                                 </inf>(1−m)+K<inf loc="post">
+                                    <rm>ads</rm>
+                                 </inf>m,</math>
+                           </formula>
+                        </display>where <ce:italic>m</ce:italic>⩽1 is the number of mono-layers of water calculated from the BET isotherm. <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">dry</ce:inf> is the reaction rate constant on the dry surface, equal to <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> at RH=0% (cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup>), <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">ads</ce:inf> is the reaction rate constant on adsorbed water, equal to <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> at <ce:italic>m</ce:italic>=1 (cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup>).</ce:para>
+                     <ce:para view="all">The surface deposition velocity in the high humidity range is hypothesised to be directly proportional to the amount of surface water. Adsorbed ozone may react both with the first mono-layer of fully adsorbed water and with the additional surface water. The rate with the fully adsorbed water, <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">ads</ce:inf>, would then be a constant as one mono-layer of water is adsorbed directly on the surface in the whole range. The total rate with the additional surface water would be a function, <ce:italic>f</ce:italic> (<ce:italic>m</ce:italic>−1), of the mass of water that is not directly adsorbed on the surface. The activity of the additional water is likely to change from the inner to the outer mono-layers as the properties of the water change from those of adsorbed water to those of bulk water. However, in the model it is assumed that the reaction rate with this water has a fixed value over all the additional mono-layers of water, different from that of the fully adsorbed surface water. A reaction rate constant can then be assumed for the additional surface water and the total surface deposition velocity in the high humidity range would only depend on the mass of surface water, with <ce:italic>m</ce:italic>&gt;1:<display>
+                           <formula id="EQ3">
+                              <ce:label>(3)</ce:label>
+                              <math altimg="si3.gif">v<inf loc="post">
+                                    <rm>s</rm>
+                                 </inf>=K<inf loc="post">
+                                    <rm>ads</rm>
+                                 </inf>+K<inf loc="post">
+                                    <rm>wet</rm>
+                                 </inf>(m−1),</math>
+                           </formula>
+                        </display>where <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">wet</ce:inf> is the reaction rate constant for additional surface water (cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup>). <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">dry</ce:inf> in <ce:cross-ref refid="EQ2">Eq. (2)</ce:cross-ref> should be a true first-order rate constant if the reaction is uni-molecular decomposition of O<ce:inf loc="post">3</ce:inf>. All the three constants are second order when they determine the rate of reaction of O<ce:inf loc="post">3</ce:inf> with H<ce:inf loc="post">2</ce:inf>O. It could be argued that <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">ads</ce:inf> and <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">wet</ce:inf> are pseudo-first-order constants at constant humidity with a constant amount of adsorbed water on the surface. Some variability in the “constants” depending on the humidity may be expected as the changes in the properties of the absorbed water, OH<ce:sup loc="post">−</ce:sup> ions and other species with increasing air humidity would not be fully represented by the mass increase of the water. The changing surface water coverage in the range from 0 to 1 mono-layer of adsorbed water and changing properties of the inner mono-layer as more water adds on to the surface could change <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">ads</ce:inf>. Changes in the activity of water, OH<ce:sup loc="post">−</ce:sup> ions and/or other active species in the adsorbed water, as the thickness of the water layer increases above one mono-layer in the high humidity range, would change <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">wet</ce:inf>. One should be aware of these possible limitations when the modelling is evaluated.</ce:para>
+                     <ce:para view="all">Curve fitting was performed for the whole humidity range using <ce:cross-ref refid="EQ2">Eq. (2)</ce:cross-ref> for <ce:italic>m</ce:italic>⩽1, and <ce:cross-ref refid="EQ3">Eq. (3)</ce:cross-ref> for <ce:italic>m</ce:italic>&gt;1. <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">dry</ce:inf> was found as the equilibrium surface deposition velocity measured at RH=0%. That is <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">dry</ce:inf>=<ce:italic>v</ce:italic>
+                        <ce:inf loc="post">s,eq.,RH=0%</ce:inf>. <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">ads</ce:inf> is the equilibrium surface deposition velocity at intermediate humidity of the air, at <ce:italic>m</ce:italic>=1. <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">ads</ce:inf> was found from curve fitting to the experimental data. <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">wet</ce:inf> is an equilibrium surface deposition velocity per mono-layer of additional surface water, having a thickness of ≈0.3×10<ce:sup loc="post">−9</ce:sup>
+                        <ce:hsp sp="0.16"/>m. <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">wet</ce:inf> was found from the equilibrium surface deposition velocity at RH=90% using <ce:cross-ref refid="EQ3">Eq. (3)</ce:cross-ref> and the value of <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">ads</ce:inf> found from curve fitting. The curve fitting of the model was performed manually by changing the parameter for the adsorption enthalpy, the bonding strength, of water to the surface in the mathematical expression for the BET isotherm. This determined the relative air humidity where the surface would be covered with one mono-layer of adsorbed water, <ce:italic>m</ce:italic>=1 in <ce:cross-refs refid="EQ2 EQ3">Eqs. (2) and (3)</ce:cross-refs>, and gave the value of <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">ads</ce:inf>. The position of <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">ads</ce:inf>, turned out to correspond to the minimum equilibrium surface deposition velocity in all the model curves (<ce:cross-refs refid="FIG7 FIG8 FIG9 FIG10 FIG11">Figs. 7–11</ce:cross-refs>).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Chamber experiments</ce:section-title>
+                     <ce:para view="all">The experimental set up and procedure were as explained in detail by <ce:cross-ref refid="BIB6">Grøntoft (2002)</ce:cross-ref>. The experiments presented here were performed at varying RH of the air. Different amounts of dry and wet air were mixed using flow meters to give a RH of 0%, 30%, 50%, 70%, or 90% in the deposition chamber. Measurements were made at 22(±0.5)°C for all the samples. All samples were conditioned for 24<ce:hsp sp="0.16"/>h at the humidity of the subsequent run. For one sample, the Hard Concrete Floor Tile, no. 5, measurements were made over the whole humidity range at both 22°C and 30°C, and one experiment was made on a sample pre-dried at 110°C for 24<ce:hsp sp="0.16"/>h. before measuring O<ce:inf loc="post">3</ce:inf> deposition at RH=0%. Different samples were used in each experiment, e.g. for each value of RH. In one run the deposition velocity was measured at RH=90% and <ce:italic>T</ce:italic>=22°C on de-ionised bulk water covering the bottom of a flat glass baker. The measured O<ce:inf loc="post">3</ce:inf> concentration reduction in the empty chamber increased from 0<ce:hsp sp="0.16"/>ppb at 0% RH to 1<ce:hsp sp="0.16"/>ppb at 50% RH. The same value was found at higher RHs. Measured values were corrected for this deposition. <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">t</ce:inf> in the chamber was measured to ≈0.75<ce:hsp sp="0.16"/>cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup>. A constant <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">d</ce:inf>≈<ce:italic>v</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>=0.07<ce:hsp sp="0.16"/>cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup> was measured for one sample over a range of air velocities. The total deposition velocities measured were so small (&lt; 0.1<ce:hsp sp="0.16"/>cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup>) that they could be regarded as near surface velocities little influenced by transport resistance in the air (<ce:cross-ref refid="BIB6">Grøntoft, 2002</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>BET surface area measurements</ce:section-title>
+                     <ce:para view="all">Besides using the BET isotherm to model water adsorbed on the sample surfaces the BET isotherm was used to calculate the areas of the samples at the molecular level. A standard set up for measuring N<ce:inf loc="post">2</ce:inf> adsorption on the dried and evacuated materials was used. The real(BET) areas were calculated in a standard procedure of curve fitting of the N<ce:inf loc="post">2</ce:inf> adsorption data to the BET isotherm. The N<ce:inf loc="post">2</ce:inf> adsorption measurements were performed on 45 small pieces of the samples, cubes of 0.3×0.3×0.3<ce:hsp sp="0.16"/>cm<ce:sup loc="post">3</ce:sup> for each sample. The measurements gave values for the real exposed areas of these small pieces per geometric area, <ce:italic>A</ce:italic>
+                        <ce:inf loc="post">real</ce:inf>/<ce:italic>A</ce:italic>
+                        <ce:inf loc="post">geom</ce:inf> (m<ce:sup loc="post">2</ce:sup>
+                        <ce:inf loc="post">real</ce:inf> m<ce:sup loc="post">−2</ce:sup>
+                        <ce:inf loc="post">geometric</ce:inf>). The actual real exposed areas of the individual samples at different air humidity were not measured directly.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Samples</ce:section-title>
+                     <ce:para view="all">The samples used in the O<ce:inf loc="post">3</ce:inf> deposition measurements were square flat pieces 0.8–2.5<ce:hsp sp="0.16"/>cm thick and with geometric areas ranging from 40 to 148<ce:hsp sp="0.16"/>cm<ce:sup loc="post">2</ce:sup>. The size variation was less for each single sample material. The properties of the samples are given in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="TBL1"/>. <ce:cross-refs refid="FIG1 FIG2 FIG3 FIG4 FIG5 FIG6">Figs. 1–6</ce:cross-refs>
+                        <ce:float-anchor refid="FIG1"/>
+                        <ce:float-anchor refid="FIG2"/>
+                        <ce:float-anchor refid="FIG3"/>
+                        <ce:float-anchor refid="FIG4"/>
+                        <ce:float-anchor refid="FIG5"/>
+                        <ce:float-anchor refid="FIG6"/> show optical photographies of the samples 16 times enlarged.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="SEC4" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Results</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title>Equilibrium surface deposition velocity</ce:section-title>
+                     <ce:para view="all">The recorded results were curves of O<ce:inf loc="post">3</ce:inf> concentration in the airflow out of the chamber against time. The results used in the modelling and discussion of the humidity dependence of the O<ce:inf loc="post">3</ce:inf>-deposition, were the estimated equilibrium surface deposition velocities (<ce:cross-ref refid="BIB7">Grøntoft, 2003</ce:cross-ref>). The values were obtained using a model that includes Langmuir adsorption, desorption, surface reaction and diffusion into the material. A simpler two parameter model including only direct reaction and diffusion into the material gave significantly better fit in the end phase after the O<ce:inf loc="post">3</ce:inf> generator was turned off and it was concluded in <ce:cross-ref refid="BIB7">Grøntoft (2003)</ce:cross-ref> that this model gave the more correct description of the reaction mechanism. The four-parameter Langmuir model did however generally give better curve fits to the experimental time-dependent surface deposition throughout the runs and thus a better measure for the equilibrium surface deposition velocities for the materials tested (<ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="TBL2"/>).</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title>Modelling of the humidity dependence</ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-refs refid="FIG7 FIG8 FIG9 FIG10 FIG11">Figs. 7–11</ce:cross-refs>
+                        <ce:float-anchor refid="FIG7"/>
+                        <ce:float-anchor refid="FIG8"/>
+                        <ce:float-anchor refid="FIG9"/>
+                        <ce:float-anchor refid="FIG10"/>
+                        <ce:float-anchor refid="FIG11"/> show the best model fits for the humidity-dependent surface deposition velocity, <ce:cross-refs refid="EQ2 EQ3">Eqs. (2) and (3)</ce:cross-refs>, to the equilibrium values for the surface deposition velocity of O<ce:inf loc="post">3</ce:inf>, <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">s,eq.</ce:inf>, obtained from the observations as described above. No model for humidity dependence of the deposition velocity of O<ce:inf loc="post">3</ce:inf> to the Carrara Marble sample no. 1, is shown, as a significant deposition velocity was only measured at the relative air humidity of 90% for this sample (<ce:cross-refs refid="TBL2 TBL3">Tables 2 and 3</ce:cross-refs>
+                        <ce:float-anchor refid="TBL3"/>). The total modelled equilibrium surface deposition velocity over the range of humidity is given as the upper curve in the figures. The total equilibrium surface deposition velocity is the sum of the curves shown for the three separate reactions, with the dry surface, with adsorbed surface water up to one mono-layer coverage and with additional surface water. Expressions for the separate deposition processes are included in <ce:cross-ref refid="FIG8">Fig. 8</ce:cross-ref>. The equilibrium surface deposition velocities on the dry surface, <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">dry</ce:inf> at RH=0%, on adsorbed water, <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">ads</ce:inf> at <ce:italic>m</ce:italic>=1, and on additional surface water, <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">wet</ce:inf>, found from the modelling are given in <ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>. A deposition minimum was observed for all materials (<ce:cross-refs refid="FIG7 FIG8 FIG9 FIG10 FIG11">Figs. 7–11</ce:cross-refs>), close to the modelled coverage of one mono-layer of adsorbed surface water (<ce:italic>m</ce:italic>=1). <ce:cross-ref refid="FIG10">Fig. 10</ce:cross-ref> shows deposition velocities measured over the whole humidity range at both 22°C and 30°C. The figure also shows the equilibrium deposition velocities measured on a pre-dried sample at RH=0% and on bulk de-ionised water at RH=90%. In <ce:cross-ref refid="FIG12">Fig. 12</ce:cross-ref>
+                        <ce:float-anchor refid="FIG12"/> equilibrium surface deposition velocities found at RH=0% and 70% are plotted against the ratio of the real (BET) surface area to the geometric area for the six materials.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="SEC5" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title>Uncertainty</ce:section-title>
+                  <ce:para view="all">Increased uncertainty was seen in the BET area measurements for the samples with low N<ce:inf loc="post">2</ce:inf> adsorption and <ce:italic>A</ce:italic>
+                     <ce:inf loc="post">real</ce:inf>/<ce:italic>A</ce:italic>
+                     <ce:inf loc="post">geom.</ce:inf>&lt;∼1000. The uncertainty in the humidity-deposition velocity modelling was determined by the uncertainties in the equilibrium surface deposition velocity data, in the model approximations and in the manual modelling procedure. In <ce:cross-ref refid="BIB6">Grøntoft (2002)</ce:cross-ref> it was argued that the uncertainty in the experimental measurements was probably more important than uncertainty in the manual modelling of the experimental time-dependent curves in calculating the equilibrium deposition velocities. This was based on experience with the variation in the estimated equilibrium deposition velocity for the range of possible variations in model parameters. The uncertainties in the deposition velocity data given in the <ce:cross-refs refid="FIG7 FIG8 FIG9 FIG10 FIG11">Figs. 7–11</ce:cross-refs> were therefore calculated from the assumed experimental uncertainties of the measured parameters used in the calculation of the deposition velocities. These uncertainties were estimated to 0.5<ce:hsp sp="0.16"/>ppb for every direct concentration measurement, 5% in the geometric area of the samples and 1% in the volumetric airflow velocity in the chamber. The uncertainty in the 48<ce:hsp sp="0.16"/>h values was found to be in the range 0.005–0.015<ce:hsp sp="0.16"/>cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup> varying between samples. The uncertainty in the blind measurements, =8×10<ce:sup loc="post">−5</ce:sup>
+                     <ce:hsp sp="0.16"/>cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup>, on the large area (≈75<ce:hsp sp="0.16"/>dm<ce:sup loc="post">2</ce:sup>) of the glass chamber, was estimated to be about the same as the deposition velocity; 6×10<ce:sup loc="post">−5</ce:sup>
+                     <ce:hsp sp="0.16"/>cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup> with 0.5<ce:hsp sp="0.16"/>ppb deposition loss and 1.1<ce:hsp sp="0.16"/>10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.16"/>cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup> with 1.0<ce:hsp sp="0.16"/>ppb deposition loss. Repeated measurements on stable curves representing small concentration differences did however make the uncertainty in the blind measurements smaller than this. A stable concentration decrease of 1<ce:hsp sp="0.16"/>ppb in the blind runs was easily observed. The relative uncertainty for the equilibrium values from the modelling (<ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>) was set equal to the relative uncertainty calculated for the higher values measured at 48<ce:hsp sp="0.16"/>h. The uncertainty in the RH values is low. It depends on RH of dry air being close to zero and RH for wet air being close to 100%, a condition found to be fulfilled, and on the accuracy of the flow-meters used to mix dry and wet air. The uncertainty caused by model approximations is more difficult to evaluate. However a modelling error related to the nature of the BET isotherm is apparent at RH&gt;90%, where the modelled deposition velocity increases to ∞ as there is no limit to the amount of water that could condense on the surface. Clearly, on a real surface there would be a limit. Some other possible reasons for model deviation from the experimental results are discussed below. There is additional uncertainty associated with the manual modelling approach in the humidity-deposition velocity modelling. This modelling did however only determine the position of one point, <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">ads</ce:inf> at <ce:italic>m</ce:italic>=1, which is given by the break in the total deposition velocity curves clearly seen at RH≈50% in <ce:cross-refs refid="FIG8 FIG9 FIG10 FIG11">Figs. 8–11</ce:cross-refs>. Even if the manual curve fitting did not give quantitative measures for the curve fit, visual inspection of the <ce:italic>v</ce:italic>
+                     <ce:inf loc="post">d</ce:inf>-curves in <ce:cross-refs refid="FIG7 FIG8 FIG9 FIG10 FIG11">Figs. 7–11</ce:cross-refs> should give a good picture of the possible deviation from the equilibrium surface deposition velocities.</ce:para>
+               </ce:section>
+               <ce:section id="SEC6" view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title>Discussion</ce:section-title>
+                  <ce:para view="all">The dry air equilibrium surface deposition velocity, <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">dry</ce:inf>, calculated using the geometric areas of the samples, correlated positively with the real areas determined in the BET measurements, except for sample no. 4 (<ce:cross-ref refid="TBL1">Table 1</ce:cross-ref> and <ce:cross-ref refid="FIG12">Fig. 12</ce:cross-ref>). From visual/microscopic observation, sample no. 4 (<ce:cross-ref refid="FIG4">Fig. 4</ce:cross-ref>) seemed to have a structure with larger pores than the other samples. It may be that the sample pieces used in the BET measurement for this material were totally permeated by N<ce:inf loc="post">2</ce:inf>. The measured BET-area for this material would then underestimate the real area of the larger sample exposed in the deposition experiments. This could explain the much higher <ce:italic>v</ce:italic>
+                     <ce:inf loc="post">s,eq</ce:inf> value for this sample than expected based on the relationship between <ce:italic>v</ce:italic>
+                     <ce:inf loc="post">s,eq</ce:inf> and <ce:italic>A</ce:italic>
+                     <ce:inf loc="post">real</ce:inf>/<ce:italic>A</ce:italic>
+                     <ce:inf loc="post">geom.</ce:inf> for the other samples (<ce:cross-ref refid="FIG12">Fig. 12</ce:cross-ref>). Two samples, the Carrara Marble and the Spruce Whole Wood Board, had dry deposition velocities equal or close to zero. The other calcareous stones and concrete samples all had higher dry deposition velocities. Smaller real areas of the Carrara Marble sample (<ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>) with its dense crystalline surface and of the Spruce Whole Wood Board sample (<ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>), may explain their lower dry air deposition velocities. Some caution should be showed in comparison of the stone samples with the Spruce Whole Wood Board, which had a very different anisotropic structure with long cell pores from cut ends. The more porous samples possibly could retain some occluded water available for reaction with ozone in micro-pores. The run on the hard concrete floor tile sample at the higher temperature of 30°C (<ce:cross-ref refid="FIG10">Fig. 10</ce:cross-ref>) showed a lower dry air deposition velocity, indicating removal of occluded water.</ce:para>
+                  <ce:para view="all">The samples with a high dry air deposition velocity all showed a deposition minimum at intermediate humidity. According to the model, the measured minima are close to the air humidity giving one mono-layer of adsorbed water and therefore only one sink. At this point the equilibrium surface deposition velocity on adsorbed water, modelled as the rate constant <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">ads</ce:inf>, equalled the total equilibrium surface deposition velocity. At higher humidity <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">ads</ce:inf> is assumed to be constant (<ce:cross-refs refid="FIG7 FIG8 FIG9 FIG10 FIG11">Figs. 7–11</ce:cross-refs>). One could hypothesise that at low, but increasing humidity the O<ce:inf loc="post">3</ce:inf> molecules would increasingly have to compete for space with the more densely packed adsorbed H<ce:inf loc="post">2</ce:inf>O molecules. Without direct access for O<ce:inf loc="post">3</ce:inf> to the dry surface uni-molecular decomposition and recombination or reaction with the adsorbed water molecules after decomposition on the dry surface, is likely to be more difficult. At the same time water adsorption would probably block and/or fill up pores in the material and so decrease the real area exposed to O<ce:inf loc="post">3</ce:inf>. The equilibrium surface deposition velocities measured in the range 50–90% RH showed no clear correlation with the measured real areas in dry air (<ce:cross-ref refid="FIG12">Fig. 12</ce:cross-ref> for RH=70%). This lack of correlation can probably be explained by the proposed change in the reaction pathways and corresponding rate of the O<ce:inf loc="post">3</ce:inf> reaction on the materials at increased air humidity and by a change in total really exposed areas with increased water adsorption. O<ce:inf loc="post">3</ce:inf> may be consumed as it diffuses into the material and even in dry air the really exposed area may be somewhat smaller than that measured in the BET experiments. In <ce:cross-ref refid="BIB7">Grøntoft (2003)</ce:cross-ref> a decrease in the diffusion coefficient was observed for the best fitting model in the range from RH=0% to 50%, reaching an approximately constant value in the range from 50% to 90%. If the really exposed areas can be linearly correlated with the value of the diffusion coefficient this would mean a 3.7 times (calculation from data in <ce:cross-ref refid="BIB7">Grøntoft (2003)</ce:cross-ref>) smaller exposed area and correspondingly larger <ce:italic>v</ce:italic>
+                     <ce:inf loc="post">s,eq.</ce:inf>, <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">ads</ce:inf> and <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">wet</ce:inf> at RH=50–90% than at RH=0% for sample no. 5, <ce:cross-ref refid="FIG10">Fig. 10</ce:cross-ref> and <ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>. One would suppose that corrections in the same direction could be made to the parameter values for the other materials (<ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>). More research is however needed to describe the effect of water adsorption on <ce:italic>A</ce:italic>
+                     <ce:inf loc="post">real</ce:inf>/<ce:italic>A</ce:italic>
+                     <ce:inf loc="post">geom</ce:inf>.</ce:para>
+                  <ce:para view="all">The assumption of a fixed reaction rate constant at high humidity, <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">wet</ce:inf>, that does not depend on the air humidity and the number of mono-layers of water on the surface, is probably inaccurate. The deposition velocity of O<ce:inf loc="post">3</ce:inf> on pure de-ionised water was measured to 0.0035<ce:hsp sp="0.16"/>cm<ce:hsp sp="0.16"/>s<ce:sup loc="post">−1</ce:sup> (<ce:cross-ref refid="FIG10">Fig. 10</ce:cross-ref> and <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>). This is more than an order of magnitude less than that measured at RH=90% on most of the samples (<ce:cross-ref refid="TBL2">Table 2</ce:cross-ref> and <ce:cross-refs refid="FIG7 FIG8 FIG9 FIG10 FIG11">Figs. 7–11</ce:cross-refs>). From this it seems that the increasing deposition velocity on the samples at increasing air humidity cannot be explained by more bulk water on the surface. Rather the adsorbed state of the additional added mono-layers of water or the activity of OH<ce:sup loc="post">−</ce:sup> in the water, or possibly other species dissolved in the water, probably explains the measured increase in the deposition velocity. One could hypothesise that the deposition velocity on adsorbed water would decrease as more water with close to bulk properties adds on to the surface at high air humidity. Similarly the activity of OH<ce:sup loc="post">−</ce:sup> ions or other possibly catalytic species in the surface water may decrease due to dilution, as more water add on at higher humidity. This would mean that <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">wet</ce:inf> should probably decrease with increasing mass of water on the surface, and that the model curves at high humidity (<ce:cross-refs refid="FIG7 FIG8 FIG9 FIG10 FIG11">Figs. 7–11</ce:cross-refs>), should be less convex. A model deviation in this direction is seen for the Maltese Limestone sample no. 3 (<ce:cross-ref refid="FIG8">Fig. 8</ce:cross-ref>). The approximation of a constant <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">wet</ce:inf> does, however, in general give a quite good fit for the samples. This indicates that the total reaction rate is determined by a species with an amount largely proportional to the thickness of the surface water layer, <ce:italic>m</ce:italic>, in <ce:cross-ref refid="EQ3">Eq. (3)</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">The softer concrete floor tile sample no. 6 (<ce:cross-ref refid="FIG11">Fig. 11</ce:cross-ref>), showed a deviating high deposition velocity after 48<ce:hsp sp="0.16"/>h at RH=50%, whereas the modelled equilibrium value was very low. This aggregate concrete sample was the least uniform of the samples and different properties affecting diffusion into the sample pieces, like cracking, surface area of pebbles, etc., could explain the irregularity.</ce:para>
+                  <ce:para view="all">The variation in the <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">wet</ce:inf> values (<ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>) is within a narrow range for the stone materials. A somewhat higher <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">wet</ce:inf> was measured on the wood sample. Variation in <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">wet</ce:inf> among the materials can probably be explained by variations in the bonding strength of water to the surfaces, Δ<ce:inf loc="post">des</ce:inf>
+                     <ce:italic>H</ce:italic>
+                     <ce:inf loc="post">H<ce:inf loc="post">2</ce:inf>O</ce:inf> (<ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>), and/or the activity of OH<ce:sup loc="post">−</ce:sup> ions and other species dissolved in the adsorbed water at high air humidity.</ce:para>
+                  <ce:para view="all">In <ce:cross-ref refid="FIG10">Fig. 10</ce:cross-ref> it can be seen that the deposition velocity of O<ce:inf loc="post">3</ce:inf> on the hard concrete floor tile decreased at low air humidity and increased at high air humidity, when the temperature was increased from 22°C to 30°C. The increase at high humidity may be explained with a typical Arrhenius increase in the surface reaction rate constant for an activated reaction when the temperature is increased. The decrease at low air humidity needs a different explanation. Less water should be present in pores in the material in dry air and at low humidity at the higher temperature. This could give a lower deposition velocity. Or O<ce:inf loc="post">3</ce:inf> possibly decomposes directly to O<ce:inf loc="post">2</ce:inf> on the surface in dry air without reacting with H<ce:inf loc="post">2</ce:inf>O, and the thermodynamics of this reaction gave the negative temperature dependence. This however needs further investigation.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>7</ce:label>
+                  <ce:section-title>Conclusion and practical implications</ce:section-title>
+                  <ce:para view="all">This work has shown that humidity modelling, using the BET isotherm to describe surface water adsorption, makes prediction of the O<ce:inf loc="post">3</ce:inf> equilibrium surface deposition velocities to materials possible over a humidity range from RH=0% to ≈90%. The value of the O<ce:inf loc="post">3</ce:inf> equilibrium surface deposition velocity could be modelled as a combination of two pathways, deposition on the dry surface and on directly adsorbed water at low RH, and on directly adsorbed water and on additional surface water at high RH. The weight and possibly the rate of each pathway would depend on the strength of the bonding between water and surface, which would determine the surface water coverage. The deposition minimum observed at intermediate humidity fitted well with the position of one mono-layer of adsorbed water on the surfaces determined from the BET isotherm. An order of magnitude lower deposition velocity was measured on bulk de-ionised water than on the sample materials at RH=90%, indicating that the O<ce:inf loc="post">3</ce:inf> surface reaction at high air humidity did not happen with bulk water as such. Rather it probably depended on the adsorbed nature of the water and/or OH<ce:sup loc="post">−</ce:sup> ions or other dissolved species in the surface water. When the air temperature was raised from 22°C to 30°C measured deposition velocities of O<ce:inf loc="post">3</ce:inf> on a hard concrete floor tile decreased at low air humidity and increased at high air humidity.</ce:para>
+                  <ce:para view="all">High deposition velocities may be wanted to reduce indoor concentrations of O<ce:inf loc="post">3</ce:inf>. It is well known that increased porosity of material surfaces and increased air humidity may increase the deposition velocity. However, for spruce wood, calcareous stone and concrete materials a monotonous positive effect of increased real (BET) area over all the materials, excepting the special case of sample no. 4 (see <ce:cross-ref refid="SEC6">Section 6</ce:cross-ref>), is only seen at relative air humidity below ≈30% in this study. A positive correlation between air humidity and deposition velocity has been generally assumed. This study however shows that for porous calcareous stone and concrete materials this is not the case over the whole humidity range. Increased deposition velocities with decreasing RH were observed at lower humidity. This means that such materials should be well suited as indoor building materials in dry environments when reduction of concentrations of O<ce:inf loc="post">3</ce:inf> and possibly of other gaseous contaminants is a concern. Samples showing a high dry air deposition velocity all showed a deposition velocity minimum at some intermediate humidity. The RH in indoor air is most often kept at intermediate recommended values of ≈40–60%, where the deposition velocities measured on the porous calcareous stone and concrete materials were the lowest. This implies that little indoor ozone reduction would usually be expected from deposition to these materials at equilibrium. In real situations, when ozone concentrations fluctuate, the equilibrium situation may however not be reached resulting in higher mean deposition velocities.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">I will thank NILU, the Norwegian Institute for Air Research, for making it possible to do this work. The instrument laboratory was helpful in setting up the equipment and Tor Ofstad operated the equipment in most runs. This work has been performed as a part of the EU-project IMPACT. Contract No. EVK4-CT-2000-00031.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>Atkins (1998)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Atkins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Physical Chemistry</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1998</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Oxford University Press</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>Blades et al. (2000)</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Blades, N., Oreszczyn, T., Bordass, B., Cassar, M., 2000. Guidelines on pollution control in museum buildings. Published by the Museum Association and distributed with Museum Practice, 15, November, London.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>Brimblecombe (1988)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Brimblecombe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The composition of museum atmospheres</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Atmospheric Environment</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24B</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>Cano-Ruiz et al. (1993)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Cano-Ruiz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Balas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Nazaroff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Removal of reactive gases at indoor surfaces. Combining mass transport and surface kinetics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Atmospheric Environment</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27A</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>13</sb:issue-nr>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2039</sb:first-page>
+                              <sb:last-page>2050</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>Graedel and Leygraf (2000)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Graedel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Leygraf</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Atmospheric Corrosion. Electrochemical Society Series</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2000</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>Grøntoft (2002)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Grøntoft</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dry deposition of ozone on building materials. Chamber measurements and modelling of the time dependent deposition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Atmospheric Environment</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>36–37</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5661</sb:first-page>
+                              <sb:last-page>5670</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>Grøntoft (2003)</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Grøntoft, T., 2003. Measurements and modelling of ozone deposition velocity to concrete tiles, including the effect of diffusion. Atmospheric Environment, in press, <ce:inter-ref xlink:href="doi:10.1016/j.atmosenv.2003.09.004." xlink:type="simple">doi:10.1016/j.atmosenv.2003.09.004.</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>Klenø et al. (2001)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Klenø</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Clausen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Weschler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wolkof</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of ozone removal rates by selected building products using the FLEC emission cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environmental Science and Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2548</sb:first-page>
+                              <sb:last-page>2553</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>Mueller et al. (1973)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.X.</ce:given-name>
+                                 <ce:surname>Mueller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Leopold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Mapes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Decomposition rates of ozone in living areas</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environmental Science and Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>342</sb:first-page>
+                              <sb:last-page>346</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>Nazaroff et al. (1993)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Nazaroff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Gadgil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Weschler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Critique of the use of deposition velocity in modeling Indoor air quality</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>N.L.</ce:given-name>
+                                    <ce:surname>Nagda</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Modeling of Indoor Air Quality and Exposure. ASTM STP 1205</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1993</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Society for Testing and Materials</sb:name>
+                                 <sb:location>Philadelphia</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>81</sb:first-page>
+                              <sb:last-page>104</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>Sabersky et al. (1973)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Sabersky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Sinema</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Shair</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Concentrations, decay rates, and removal of ozone and their relation to establishing clean indoor air</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environmental Science and Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>347</sb:first-page>
+                              <sb:last-page>353</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>Sehested et. al. (1991)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sehested</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Corfitzen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Holcman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Fischer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.J.</ce:given-name>
+                                 <ce:surname>Hart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The primary reaction in the decomposition of ozone in acidic aqueous solutions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environmental Science and Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1589</sb:first-page>
+                              <sb:last-page>1596</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>Thomson (1986)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Thomson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>The Museum Environment</sb:maintitle>
+                              </sb:title>
+                              <sb:edition>2nd Edition</sb:edition>
+                              <sb:date>1986</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Butterworths</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>Weschler (2000)</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Weschler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ozone in indoor environments</sb:maintitle>
+                              <sb:subtitle>concentration and chemistry</sb:subtitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Indoor Air</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>269</sb:first-page>
+                              <sb:last-page>288</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

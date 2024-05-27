@@ -1,0 +1,1635 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-04-22</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.envres.2020.109889</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">INDIVIDUALSIMULTANEOUSDEGRADATIONSULFAMETHOXAZOLETRIMETHOPRIMBYOZONEOZONEHYDROGENPEROXIDEOZONEPERSULFATEPROCESSESACOMPARATIVESTUDY</infon>
+      <infon key="name_0">surname:ADIL</infon>
+      <infon key="license">© 2020 Elsevier Inc. All rights reserved.</infon>
+      <infon key="source">Environmental Research</infon>
+      <infon key="year">2020-07-12</infon>
+      <infon key="volume">189</infon>
+      <infon key="issue">0013-9351</infon>
+      <infon key="fpage">109889</infon>
+      <infon key="pub-id_doi">10.1016/j.envres.2020.109889</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0013935120307842</infon>
+      <infon key="kwd">['Sulfamethoxazole', 'Trimethoprim', 'Ozonation', 'Persulfate', 'Hydrogen peroxide', 'Transformation products', '1']</infon>
+      <offset>0</offset>
+      <text>Individual and simultaneous degradation of sulfamethoxazole and trimethoprim by ozone, ozone/hydrogen peroxide and ozone/persulfate processes: A comparative study</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="80" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="87" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="115" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>163</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>181</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>192</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>201</offset>
+      <text>This study investigates the individual and simultaneous degradation and mineralization of the antibiotics, sulfamethoxazole (SMX) and trimethoprim (TMP) in aqueous solution by ozonation, ozone-activated persulfate (PS) and hydrogen peroxide (H2O2) processes. The trials were carried out in a semi-continuous column bubble reactor with an ozone diffuser located at the bottom of the column for a period of 2 h. Furthermore, the efficiency of studied processes were evaluated at two different initial pH and various doses of oxidants. The target compounds degradation observed pseudo-first-order rate constants (kobs) and removal of total organic carbon (TOC) using ozone-based oxidation processes were compared. Irrespective of the applied processes, the mineralization of target compounds was less effective than their degradation in both individual and simultaneous systems. The highest antibiotics degradation rate constants were observed for individual oxidation of TMP (kobs = 0.379 min−1) and SMX (kobs = 0.367 min−1) at alkaline initial pH (pH0) in the O3/H2O2 system at an [antibiotic]/H2O2 molar ratio of 1/1. Irrespective of the antibiotic studied, the most effective TOC removal (~44%) was observed after a 2-h treatment with the O3/H2O2 system at an [antibiotic]/H2O2 molar ratio of 1/5 (pH0 10.9). The O3/PS system at an [antibiotic]/PS molar ratio of 1/5 (pH0 10.9) proved the most effective system for both mineralization and degradation (kobs values of 0.294 min−1 and 0.266 min−1) of TMP and SMX, respectively, during the simultaneous oxidation of SMX-TMP. The decomposition by-products of SMX and TMP in studied ozone-based processes were identified using LC-MS analysis. The results of this study strongly suggest that using the O3/PS process is a promising solution to reduce SMX-TMP contamination in water matrices.</text>
+      <annotation id="4">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="700" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1244" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1248" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1500" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1570" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="388" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="539" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="865" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="1830" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="789" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2037</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Process', 'Antibiotic', '[antibiotic]/[oxidant], molar ratio', 'pH0', 'pHfinal', '[H2O2], μM'], ['O3', 'TMP', '–', '7.7', '3.06', '82'], ['O3', 'SMX', '–', '7.7', '2.96', '72'], ['O3', 'TMP', '–', '10.9', '3.06', '22'], ['O3', 'SMX', '–', '10.9', '3.03', '24'], ['O3/PS', 'TMP', '1/1', '7.7', '2.94', '84'], ['O3/PS', 'TMP', '1/5', '7.7', '3.02', '84'], ['O3/PS', 'SMX', '1/1', '7.7', '2.94', '30'], ['O3/PS', 'SMX', '1/5', '7.7', '2.91', '29'], ['O3/PS', 'TMP', '1/1', '10.9', '3.08', '22'], ['O3/PS', 'TMP', '1/5', '10.9', '3.04', '21'], ['O3/PS', 'SMX', '1/1', '10.9', '3.08', '16'], ['O3/PS', 'SMX', '1/5', '10.9', '2.95', '19'], ['O3/H2O2', 'TMP', '1/1', '7.7', '2.92', '181'], ['O3/H2O2', 'TMP', '1/5', '7.7', '3.08', '494'], ['O3/H2O2', 'SMX', '1/1', '7.7', '2.97', '89'], ['O3/H2O2', 'SMX', '1/5', '7.7', '2.94', '328'], ['O3/H2O2', 'TMP', '1/1', '10.9', '3.04', '21'], ['O3/H2O2', 'TMP', '1/5', '10.9', '3.03', '71'], ['O3/H2O2', 'SMX', '1/1', '10.9', '3.03', '71'], ['O3/H2O2', 'SMX', '1/5', '10.9', '2.93', '51']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Process&lt;/td&gt;
+      &lt;td&gt;Antibiotic&lt;/td&gt;
+      &lt;td&gt;[antibiotic]/[oxidant], molar ratio&lt;/td&gt;
+      &lt;td&gt;pH0&lt;/td&gt;
+      &lt;td&gt;pHfinal&lt;/td&gt;
+      &lt;td&gt;[H2O2], μM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;3.06&lt;/td&gt;
+      &lt;td&gt;82&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.96&lt;/td&gt;
+      &lt;td&gt;72&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.06&lt;/td&gt;
+      &lt;td&gt;22&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.03&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.94&lt;/td&gt;
+      &lt;td&gt;84&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;3.02&lt;/td&gt;
+      &lt;td&gt;84&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.94&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.91&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.08&lt;/td&gt;
+      &lt;td&gt;22&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.04&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.08&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;2.95&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.92&lt;/td&gt;
+      &lt;td&gt;181&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;3.08&lt;/td&gt;
+      &lt;td&gt;494&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.97&lt;/td&gt;
+      &lt;td&gt;89&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.94&lt;/td&gt;
+      &lt;td&gt;328&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.04&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.03&lt;/td&gt;
+      &lt;td&gt;71&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.03&lt;/td&gt;
+      &lt;td&gt;71&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;2.93&lt;/td&gt;
+      &lt;td&gt;51&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>2044</offset>
+      <text>pHfinal and measured H2O2 concentrations in O3, O3/H2O2, and O3/PS systems under various treatment conditions ([O3] = 5.5 mg/min, [TMP]0 = [SMX]0 = 80 μM, t = 2 h).</text>
+      <annotation id="14">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2044" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2070" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Process', 'Antibiotic', '[antibiotic]/[oxidant], molar ratio', 'pH0', 'pHfinal', '[H2O2], μM'], ['O3', 'SMX-TMP', '–', '7.7', '2.85', '97.5'], ['O3', 'SMX-TMP', '–', '10.9', '3.01', '38.5'], ['O3/PS', 'SMX-TMP', '1/1', '7.7', '2.85', '97'], ['O3/PS', 'SMX-TMP', '1/5', '7.7', '2.71', '89'], ['O3/PS', 'SMX-TMP', '1/1', '10.9', '3.1', '40'], ['O3/PS', 'SMX-TMP', '1/5', '10.9', '3.05', '30'], ['O3/H2O2', 'SMX-TMP', '1/1', '7.7', '2.86', '129'], ['O3/H2O2', 'SMX-TMP', '1/5', '7.7', '2.73', '481'], ['O3/H2O2', 'SMX-TMP', '1/1', '10.9', '3.02', '61'], ['O3/H2O2', 'SMX-TMP', '1/5', '10.9', '3.06', '128']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Process&lt;/td&gt;
+      &lt;td&gt;Antibiotic&lt;/td&gt;
+      &lt;td&gt;[antibiotic]/[oxidant], molar ratio&lt;/td&gt;
+      &lt;td&gt;pH0&lt;/td&gt;
+      &lt;td&gt;pHfinal&lt;/td&gt;
+      &lt;td&gt;[H2O2], μM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;SMX-TMP&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.85&lt;/td&gt;
+      &lt;td&gt;97.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;SMX-TMP&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.01&lt;/td&gt;
+      &lt;td&gt;38.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;SMX-TMP&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.85&lt;/td&gt;
+      &lt;td&gt;97&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;SMX-TMP&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.71&lt;/td&gt;
+      &lt;td&gt;89&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;SMX-TMP&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.1&lt;/td&gt;
+      &lt;td&gt;40&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/PS&lt;/td&gt;
+      &lt;td&gt;SMX-TMP&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.05&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;SMX-TMP&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.86&lt;/td&gt;
+      &lt;td&gt;129&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;SMX-TMP&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;2.73&lt;/td&gt;
+      &lt;td&gt;481&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;SMX-TMP&lt;/td&gt;
+      &lt;td&gt;1/1&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.02&lt;/td&gt;
+      &lt;td&gt;61&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/H2O2&lt;/td&gt;
+      &lt;td&gt;SMX-TMP&lt;/td&gt;
+      &lt;td&gt;1/5&lt;/td&gt;
+      &lt;td&gt;10.9&lt;/td&gt;
+      &lt;td&gt;3.06&lt;/td&gt;
+      &lt;td&gt;128&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>2209</offset>
+      <text>pHfinal and measured H2O2 concentrations in O3, O3/H2O2, and O3/PS systems under various treatment conditions ([O3] = 5.5 mg/min, [TMP]0 = [SMX]0 = 80 μM, t = 2 h).</text>
+      <annotation id="16">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2209" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2235" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Product', 'Structure', 'Molecular ion (m/z)', 'MW (g/mol)', 'Proposed formula', 'Peak abundance', 'By-products detected by other authors'], ['SMX', 'Image 1', '254', '253', 'C10H11N3O3S', '', ''], ['S1', 'Image 2', '99', '98', 'C4H6N2O', 'H', '( ;  ;  ;  ;  )'], ['S2', 'Image 3', '158', '157', 'C6H7NO2S', 'H', ''], ['S3', 'Image 4', '173', '172', 'C6H9N2O2S', 'M', '( ;  ;  )'], ['S4', 'Image 5', '198', '197', 'C3H6N2O6S', 'H', '( ;  )'], ['S5', 'Image 6', '270', '269', 'C10H11N3O4S', 'H', '( ;  ;  ;  )'], ['S6', 'Image 7', '272', '271', 'C10H14N3O4S', 'M', ''], ['S7', 'Image 8', '284', '283', 'C10H9N3O5S', 'H', ''], ['S8', 'Image 9', '288', '287', 'C10H14N3O5S', 'L', '( ;  )']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Product&lt;/td&gt;
+      &lt;td&gt;Structure&lt;/td&gt;
+      &lt;td&gt;Molecular ion (m/z)&lt;/td&gt;
+      &lt;td&gt;MW (g/mol)&lt;/td&gt;
+      &lt;td&gt;Proposed formula&lt;/td&gt;
+      &lt;td&gt;Peak abundance&lt;/td&gt;
+      &lt;td&gt;By-products detected by other authors&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;Image 1&lt;/td&gt;
+      &lt;td&gt;254&lt;/td&gt;
+      &lt;td&gt;253&lt;/td&gt;
+      &lt;td&gt;C10H11N3O3S&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;S1&lt;/td&gt;
+      &lt;td&gt;Image 2&lt;/td&gt;
+      &lt;td&gt;99&lt;/td&gt;
+      &lt;td&gt;98&lt;/td&gt;
+      &lt;td&gt;C4H6N2O&lt;/td&gt;
+      &lt;td&gt;H&lt;/td&gt;
+      &lt;td&gt;( ;  ;  ;  ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;S2&lt;/td&gt;
+      &lt;td&gt;Image 3&lt;/td&gt;
+      &lt;td&gt;158&lt;/td&gt;
+      &lt;td&gt;157&lt;/td&gt;
+      &lt;td&gt;C6H7NO2S&lt;/td&gt;
+      &lt;td&gt;H&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;S3&lt;/td&gt;
+      &lt;td&gt;Image 4&lt;/td&gt;
+      &lt;td&gt;173&lt;/td&gt;
+      &lt;td&gt;172&lt;/td&gt;
+      &lt;td&gt;C6H9N2O2S&lt;/td&gt;
+      &lt;td&gt;M&lt;/td&gt;
+      &lt;td&gt;( ;  ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;S4&lt;/td&gt;
+      &lt;td&gt;Image 5&lt;/td&gt;
+      &lt;td&gt;198&lt;/td&gt;
+      &lt;td&gt;197&lt;/td&gt;
+      &lt;td&gt;C3H6N2O6S&lt;/td&gt;
+      &lt;td&gt;H&lt;/td&gt;
+      &lt;td&gt;( ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;S5&lt;/td&gt;
+      &lt;td&gt;Image 6&lt;/td&gt;
+      &lt;td&gt;270&lt;/td&gt;
+      &lt;td&gt;269&lt;/td&gt;
+      &lt;td&gt;C10H11N3O4S&lt;/td&gt;
+      &lt;td&gt;H&lt;/td&gt;
+      &lt;td&gt;( ;  ;  ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;S6&lt;/td&gt;
+      &lt;td&gt;Image 7&lt;/td&gt;
+      &lt;td&gt;272&lt;/td&gt;
+      &lt;td&gt;271&lt;/td&gt;
+      &lt;td&gt;C10H14N3O4S&lt;/td&gt;
+      &lt;td&gt;M&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;S7&lt;/td&gt;
+      &lt;td&gt;Image 8&lt;/td&gt;
+      &lt;td&gt;284&lt;/td&gt;
+      &lt;td&gt;283&lt;/td&gt;
+      &lt;td&gt;C10H9N3O5S&lt;/td&gt;
+      &lt;td&gt;H&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;S8&lt;/td&gt;
+      &lt;td&gt;Image 9&lt;/td&gt;
+      &lt;td&gt;288&lt;/td&gt;
+      &lt;td&gt;287&lt;/td&gt;
+      &lt;td&gt;C10H14N3O5S&lt;/td&gt;
+      &lt;td&gt;L&lt;/td&gt;
+      &lt;td&gt;( ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>2374</offset>
+      <text>Proposed structures of by-products of SMX degradation in the O3, O3/PS, and O3/H2O2 systems by LC-MS analysis.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Product', 'Structure', 'Molecular ion (m/z)', 'MW (g/mol)', 'Proposed formula', 'Peak abundance', 'By-products detected by other authors'], ['TMP', 'Image 10', '291', '290', 'C14H18N4O3', '-', '-'], ['T1', 'Image 11', '141', '140', 'C5H8N4O', 'M', ''], ['T2', 'Image 12', '277', '276', 'C13H16N4O3', 'M', '( ;  ;  )'], ['T3', 'Image 13', '295', '294', 'C12H15N4O5', 'H', '( ;  ;  )'], ['T4', 'Image 14', '307', '306', 'C14H19N4O4', 'M', '( ;  ;  ;  ;  )'], ['T5', 'Image 15', '305', '304', 'C14H18N4O3', 'M', '( ;  ;  ;  )'], ['T6', 'Image 16', '323', '322', 'C14H19N4O5', 'H', '( ;  ;  ;  )'], ['T7', 'Image 17', '325', '324', 'C14H19N4O7', 'H', '( ;  ;  )'], ['T8', 'Image 18', '339', '338', 'C14H18N4O6', 'H', ''], ['T9', 'Image 19', '355', '354', 'C14H18N4O7', 'H', '']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Product&lt;/td&gt;
+      &lt;td&gt;Structure&lt;/td&gt;
+      &lt;td&gt;Molecular ion (m/z)&lt;/td&gt;
+      &lt;td&gt;MW (g/mol)&lt;/td&gt;
+      &lt;td&gt;Proposed formula&lt;/td&gt;
+      &lt;td&gt;Peak abundance&lt;/td&gt;
+      &lt;td&gt;By-products detected by other authors&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;TMP&lt;/td&gt;
+      &lt;td&gt;Image 10&lt;/td&gt;
+      &lt;td&gt;291&lt;/td&gt;
+      &lt;td&gt;290&lt;/td&gt;
+      &lt;td&gt;C14H18N4O3&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T1&lt;/td&gt;
+      &lt;td&gt;Image 11&lt;/td&gt;
+      &lt;td&gt;141&lt;/td&gt;
+      &lt;td&gt;140&lt;/td&gt;
+      &lt;td&gt;C5H8N4O&lt;/td&gt;
+      &lt;td&gt;M&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T2&lt;/td&gt;
+      &lt;td&gt;Image 12&lt;/td&gt;
+      &lt;td&gt;277&lt;/td&gt;
+      &lt;td&gt;276&lt;/td&gt;
+      &lt;td&gt;C13H16N4O3&lt;/td&gt;
+      &lt;td&gt;M&lt;/td&gt;
+      &lt;td&gt;( ;  ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T3&lt;/td&gt;
+      &lt;td&gt;Image 13&lt;/td&gt;
+      &lt;td&gt;295&lt;/td&gt;
+      &lt;td&gt;294&lt;/td&gt;
+      &lt;td&gt;C12H15N4O5&lt;/td&gt;
+      &lt;td&gt;H&lt;/td&gt;
+      &lt;td&gt;( ;  ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T4&lt;/td&gt;
+      &lt;td&gt;Image 14&lt;/td&gt;
+      &lt;td&gt;307&lt;/td&gt;
+      &lt;td&gt;306&lt;/td&gt;
+      &lt;td&gt;C14H19N4O4&lt;/td&gt;
+      &lt;td&gt;M&lt;/td&gt;
+      &lt;td&gt;( ;  ;  ;  ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T5&lt;/td&gt;
+      &lt;td&gt;Image 15&lt;/td&gt;
+      &lt;td&gt;305&lt;/td&gt;
+      &lt;td&gt;304&lt;/td&gt;
+      &lt;td&gt;C14H18N4O3&lt;/td&gt;
+      &lt;td&gt;M&lt;/td&gt;
+      &lt;td&gt;( ;  ;  ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T6&lt;/td&gt;
+      &lt;td&gt;Image 16&lt;/td&gt;
+      &lt;td&gt;323&lt;/td&gt;
+      &lt;td&gt;322&lt;/td&gt;
+      &lt;td&gt;C14H19N4O5&lt;/td&gt;
+      &lt;td&gt;H&lt;/td&gt;
+      &lt;td&gt;( ;  ;  ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T7&lt;/td&gt;
+      &lt;td&gt;Image 17&lt;/td&gt;
+      &lt;td&gt;325&lt;/td&gt;
+      &lt;td&gt;324&lt;/td&gt;
+      &lt;td&gt;C14H19N4O7&lt;/td&gt;
+      &lt;td&gt;H&lt;/td&gt;
+      &lt;td&gt;( ;  ;  )&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T8&lt;/td&gt;
+      &lt;td&gt;Image 18&lt;/td&gt;
+      &lt;td&gt;339&lt;/td&gt;
+      &lt;td&gt;338&lt;/td&gt;
+      &lt;td&gt;C14H18N4O6&lt;/td&gt;
+      &lt;td&gt;H&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T9&lt;/td&gt;
+      &lt;td&gt;Image 19&lt;/td&gt;
+      &lt;td&gt;355&lt;/td&gt;
+      &lt;td&gt;354&lt;/td&gt;
+      &lt;td&gt;C14H18N4O7&lt;/td&gt;
+      &lt;td&gt;H&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>2485</offset>
+      <text>Proposed structures of by-products of TMP degradation in the O3, O3/PS, and O3/H2O2 systems by LC-MS analysis.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2596</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0013935120307842-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2604</offset>
+      <text>Effect of initial pH on TMP degradation by (a) the O3 process, (b) the O3/PS process (TMP/PS molar ratios of 1/1 and 1/5; PS oxidation at a TMP/PS molar ratio of 1/1), and (c) the O3/H2O2 process (TMP/H2O2 molar ratios of 1/1 and 1/5; H2O2 oxidation at a TMP/H2O2 molar ratio of 1/1) ([O3] = 5.5 mg/min, [TMP]0 = 80 μM).</text>
+      <annotation id="18">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2622" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0013935120307842-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2925</offset>
+      <text>Effect of initial pH on SMX degradation by (a) the O3 process, (b) the O3/PS process (SMX/PS molar ratios of 1/1 and 1/5; PS oxidation at a SMX/PS molar ratio of 1/1), and (c) the O3/H2O2 process (SMX/H2O2 molar ratios of 1/1 and 1/5; H2O2 oxidation at a SMX/H2O2 molar ratio of 1/1) ([O3] = 5.5 mg/min, [SMX]0 = 80 μM).</text>
+      <annotation id="19">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="2943" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0013935120307842-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3246</offset>
+      <text>Antibiotics degradation observed pseudo-first-order rate constants (kobs) by the O3, O3/PS, O3/H2O2 processes at different [antibiotic]/[oxidant] molar ratios: (a) pH0 7.7, (b) pH0 10.9 ([O3] = 5.5 mg/min, [TMP]0 = [SMX]0 = 80 μM).</text>
+      <annotation id="20">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3410" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3423" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3292" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0013935120307842-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3478</offset>
+      <text>Effect of initial pH on TOC removal by the O3, O3/PS and O3/H2O2 processes (a) TMP, (b) SMX), and (c) SMX-TMP at different [antibiotic]/[oxidant] molar ratios ([O3] = 5.5 mg/min, [TMP]0 = [SMX]0 = 80 μM, t = 2 h).</text>
+      <annotation id="23">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="3496" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3692</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3701</offset>
+      <text>['Sulfamethoxazole', 'Trimethoprim', 'Ozonation', 'Persulfate', 'Hydrogen peroxide', 'Transformation products', '1']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3818</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3831</offset>
+      <text>The occurrence of emerging contaminants including pharmaceuticals and personal care products in wastewater and surface water represents a major hazard for the environment and human health ( ; ; ; ). Among pharmaceuticals, antibiotics represent an important group, which are commonly detected in water bodies throughout the world due to their high use in veterinary and human medicine ( ; ; , ). The estimated consumption of antibiotics throughout the world, ranges within 100,000–200,000 tons per year, with 50–75% used for veterinary medicines ( ; ). Antibiotics are incompletely metabolized in the body and are excreted via urine and feces ( ; ; ; ). As the conventional wastewater treatment plants (WWTPs) are not designed to efficiently remove these micropollutants, these residues can enter into the environmental cycles and end up in the treated drinking water, food products by treated effluent discharge and land application of biosolids ( ). Accordingly, with the effluent from WWTPs antibiotics are released into the environment in the range of concentrations from ng L−1 to μg L−1 both in their parent and metabolites form ( ; ). Antibiotics, sulfamethoxazole (SMX) and trimethoprim (TMP) have been found in municipal wastewater treatment plants at concentrations in the range of 0.01–2 μg L−1 in Spain, France, Greece, Italy, Sweden and Germany ( ; ; ) and in surface waters at concentrations up to 0.48 μg L−1 ( ; ). Both antibiotics have been detected together mainly due to the fact that the combination of SMX and TMP are prescribed in 5:1 to increase their antibacterial activities ( ; ). Trimethoprim-sulfamethoxazole (TMP-SMX), also known as co-trimoxazole, is a broad-spectrum antimicrobial agent commonly used for antimicrobial therapy ( ; ). Both antibiotics block the folic acid metabolism and produce a synergistic antibacterial activity ( ). Moreover, co-trimoxazole is considered as a most effective and inexpensive treatment for the Pneumocystis carinii pneumonia, infection commonly found in HIV/AIDS patients which typically attacks the lungs of the patients ( ). Advanced oxidation processes (AOPs) have shown greater potential for the degradation and mineralization of recalcitrant and toxic organic pollutants, such as pharmcautical compounds, in water matrices than conventional treatment processes ( ; ; ; ; ). AOPs mainly include the use of different systems and/or combination of systems based on ozone (O3), hydrogen peroxide (H2O2), and persulfate (PS). These technologies involve the generation of highly active oxidizing free radicals such as hydroxyl (HO , E0 = 1.89–2.72 V, half-life = 10-3 μs) and sulfate radicals (SO4•-, E0 = 2.5–3.1 V, half-life = 30–40 μs) as well as other reactive oxygen species, for example, O2•- and HO2• ( ; ; ). These processes can either eliminate such pollutants completely through mineralization or convert them to the products that are less harmful for human health and the aquatic environment ( ; ). Various activation methods are commonly used to form HO• and SO4•- from strong oxidants, including the use of transition metal ions and metal oxides ( ; ), heat ( ), UV radiation ( ), ultrasound irradiation ( ; ) and base ( ). In the present study, the efficiency of various ozone-based AOPs, such as O3, O3/H2O2 and O3/PS, in individual and simultaneous SMX and TMP decomposition was evaluated. According to available literature, the application of AOPs, including Fenton process ( ), PS/Fe2+ system ( ), UV/H2O2 and UV/PS systems ( ), microwave-activated ( ) and heat-activated PS ( ) oxidation, and photo-catalytic ozonation ( ) proved promising solutions for the degradation of SMX. In the same way, the use of H2O2/Fe2+ and PS/Fe2+ systems ( ), heat-activated PS oxidation ( ), UV/H2O2 and UV/PS systems ( ), gamma irradiation/PS system ( ) has been shown to be highly effective in the degradation of TMP in water matrices. Also the simultaneous degradation of SMX and TMP by Fenton, Fenton-like and photo-Fenton processes using solar and UV radiation was studied ( ). The results available in the literature suggest that, irrespective of the AOP used, the complete mineralization of SMX and TMP was not observed at a reasonable and cost-effective treatment time, which indicates the formation of refractory by-products ( ; ; ). However, the use of the O3 and O3/H2O2 systems for the simultaneous degradation of selected antibiotics in aqueous solutions has not been previously considered in detail. Furthermore, the application of the O3/PS system for both individual and simultaneous SMX and TMP degradation in aqueous solution is being studied for the first time. It is noteworthy that the literature on the performance of the decomposition of micropollutants in the O3/PS system is scarce. Therefore, the aim of the present study was to investigate and compare the effectiveness of ozonation, O3/H2O2 and O3/PS systems towards the individual and simultaneous degradation of SMX and TMP in aqueous solution. These antibiotics were chosen because of their widespread use throughout the world and, therefore, their frequent detection in the aquatic environment. Accordingly, the goal was to expand knowledge of the application of ozone-based oxidation to remove SMX and TMP from aqueous matrices. The hypothesis was that the addition of a strong oxidant, such as H2O2 and PS, to the ozonation system can increase the decomposition efficiency of selected antibiotics. The effect of operating parameters such as initial pH value and oxidants dosage was evaluated. The consumption of oxidant, mineralization, and transformation products formation during the oxidation of SMX and TMP by selected ozone-based processes were also studied. It is expected that the results of this study can provide valuable information on the simultaneous degradation of SMX-TMP by the studied AOPs for the future application of the most promising solutions in water treatment. 2</text>
+      <annotation id="24">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9330" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="4886" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5091" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="5221" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="6264" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="7081" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9042" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="9504" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9768</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9790</offset>
+      <text>2.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9794</offset>
+      <text>Chemicals and materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9818</offset>
+      <text>Trimethoprim (C14H18N4O3, ≥98%, molecular weight 290.32 g/mol, pKa = 6.8 ( )) was purchased from Acros Organics. Sulfamethoxazole (C10H11N3O3S, ≥98%, molecular weight 253.28 g/mol, pKa1 = 1.60 and pKa2 = 5.7 ( )), sodium persulfate (Na2S2O8, ≥99%), sodium sulfite (Na2SO3, ≥98%), sodium hydroxide (NaOH, ≥98%), hydrogen peroxide (PERDROGENTM, ≥30%), sulfuric acid (H2SO4, 95–98%) were purchased from Sigma-Aldrich. Acetonitrile (CH3CN, LiChrosolv®, 99%), ethanol (C2H6O, EtOH, 99%), formic acid (CH2O2, 99%), were obtained from Merck KGaA. All the other chemicals were of analytical grade and used without further purification. Stock solutions were prepared in ultrapure water (Millipore Simplicity®UV System, Merck) or in twice-distilled water (~18.2 MΩ cm). 2.2</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10582</offset>
+      <text>Sample preparation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10601</offset>
+      <text>Stock solutions of SMX and TMP were prepared by dissolving the respective chemical powder in ultrapure water. The initial concentration of the individual target compound was 80 μM in all trials. Such an elevated concentration of antibiotics was used in order to reliably measure the extent of mineralization during the oxidation tests. SMX is known to have limited solubility in water (&lt;1 mg/mL at 25 °C) ( ). In order to accelerate the dissolution of SMX in the solution, a few drops of 10 M NaOH were added. Next, the resulting solution was stirred for several hours until the target compound was completely dissolved. Aqueous solutions of sodium hydroxide and sulfuric acid (0.1–10 M) were used to adjust the pH. 2.3</text>
+      <annotation id="32">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11313" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10723" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10813" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="10854" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11014" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11321</offset>
+      <text>Experimental procedure</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11344</offset>
+      <text>The laboratory-scale experiments on the individual and simultaneous degradation of SMX and TMP by ozonation, O3/H2O2 and O3/PS oxidation were performed at ambient room temperature (22 ± 1 °C). SMX (80 μM), TMP (80 μM) and a combination of SMX-TMP (80-80 μM) were treated for a period of 2 h in a semi-continuous bubble column 300 mm high and Ø 120 mm with an ozone diffuser (Ø 35 mm; porous size 0.1 mm) located in the center of the column's bottom. The initial pH (pH0) of the unbuffered samples was adjusted to 7.7 ± 0.1 or 10.9 ± 0.1 b y NaOH or H2SO4 aqueous solutions. Ozone produced by laboratory ozone generator A2Z Ozone 10G Lab from dry air was bubbled through 2 L of the selected solution. In all trials, the ozone concentration in the feed-gas was kept at 2.2 ± 0.1 mg/L and the gas flow rate at 2.5 L/min. PCI-WEDECO ozone analyzer was used to measure the inlet and residual concentrations of ozone in the gas phase. The oxidation was initiated by allowing an ozone-containing gas into the system and, in the case of O3/oxidant processes, simultaneously adding hydrogen peroxide or persulfate to the reactor. Samples were withdrawn at pre-determined time intervals and immediately quenched by the addition of EtOH (sample/EtOH volume ratio of 10/1) for HPLC analysis or by the addition of Na2SO3 [oxidant]0/[SO32−] molar ratio of 1/10) for TOC analysis. Blank oxidation experiments with non-activated hydrogen peroxide or persulfate and the combined H2O2/PS system were conducted in identical treatment conditions for the respective ozone-based oxidation trials. All experiments were duplicated and the results of the analysis are presented as the mean with a standard deviation. 2.4</text>
+      <annotation id="37">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11806" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11810" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11512" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11703" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11918" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11947" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="11967" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12063" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12069" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12173" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12231" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12249" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12316" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="12889" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13040</offset>
+      <text>Analytical methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13059</offset>
+      <text>The pH was measured using a digital pH/Ion meter (Mettler Toledo S220). The residual hydrogen peroxide concentration in the treated samples was measured spectrophotometrically at λ = 410 nm with titanium sulfate by a hydrogen peroxide-Ti4+ complex formation ( ) using a Heλios-β UV/VIS spectrophotometer (Thermo Electron Corporation). The concentration of SMX and TMP was quantified using a high performance liquid chromatograph combined with diode array detector (HPLC-PDA, Shimadzu) equipped with a Phenomenex Gemini (150 × 2.0 mm, 1.7 mm) NX-C18 (110 Å, 5 μm) column. The analysis was performed using an isocratic method with a mobile phase mixture of 25% acetonitrile (with 0.3% formic acid) and 75% formic acid (0.3%) aqueous solution for SMX, and 15% acetonitrile (with 0.3% formic acid) and 85% formic acid (0.3%) aqueous solution for TMP. Samples (50 μL) were analyzed (λ = 270 nm) at the flow rate of 0.2 mL/min. SMX and TMP transformation products were analyzed by the HPLC combined with mass spectrometer ( ). The analysis was carried out using the same column and the isocratic method as in the case of HPLC-PDA measurements. Mass spectra were acquired in full-scan mode (scanning in the range 50–500 m/z). The instrument was operated in positive ESI mode, and the results obtained with MS detector were handled using Shimadzu LabSolutions software. The total organic carbon (TOC) was measured by a TOC analyzer multi N/C® 3100 (Analytik Jena). 3</text>
+      <annotation id="51">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13063" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13095" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13162" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="13398" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>14519</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14542</offset>
+      <text>3.1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>14546</offset>
+      <text>Effect of the initial pH on the individual degradation of TMP and SMX by O3, O3/PS and O3/H2O2 processes</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14651</offset>
+      <text>The initial pH plays a key role in the efficiency of ozonation and ozone-based processes, and thus the effect of neutral pH0 (7.7) and alkaline pH0 (10.9) on the degradation of TMP and SMX in the O3, O3/PS and O3/H2O2 systems was investigated. The results shown in and compare the performance of target compound degradation in the O3 and O3/oxidant systems in a neutral and alkaline medium at a fixed ozone concentration of 5.5 mg/min and, in the case of ozone-based processes, at an [antibiotic]/[oxidant] molar ratio of 1/1 and 1/5. The application of ozonation was effective in the degradation of TMP, while the direct persulfate and hydrogen peroxide oxidation at both pH0 studied led to a negligible decomposition of the target compound ( ). On the other hand, the addition of O3 to activate both oxidants, i.e., the O3/H2O2 and O3/PS system, considerably improved the decomposition efficiency of TMP compared to the unactivated PS and H2O2 oxidation. Compared to ozonation, a moderate improvement in degradation of the target compound was observed, e.g., 90% TMP decomposition was obtained after 8 min, 6 min and 6.7 min of oxidation in the O3, O3/H2O2, and O3/PS systems, respectively, at a TMP/oxidant molar ratio of 1/1 and pH0 = 10.9. The mechanism of hydroxyl radical formation in the O3/H2O2 system can be presented by Eqs. (1-6) ( ) (1) H2O2 + H2O ↔ HO2− + H3O+ (2) H3O+ → H+ + H2O (3) HO2− + O3 → HO• + O2•- + O2 (4) O2•- + O3 → O3•- + O2 (5) O3•- + H+ → HO3• (6) HO3• → HO•+ O2 In the case of the O3/PS system, the knowledge about the interaction between two oxidants is still scarce, but it is assumed that O3 decomposes with the formation of HO•, which can then activate PS to generate SO4•- (Eq. ). In turn, SO4•- can increase the formation of HO•, which leads to a multiradical system (Eqs. (8-9)) ( ). (7) HO• + S2O82− → SO4•- + HSO4− + 1/2O2 (8) SO4•- + H2O → SO42− + HO• + H+ (9) SO4•- + OH− → SO42− + HO• Irrespective of the studied system, the efficiency of TMP degradation increased at alkaline pH0 as compared to neutral pH0 trials. The obtained results are consistent with the previously reported studies regarding organic pollutants degradation by ozonation and ozone-based systems ( ; ; ). This observation can be explained by the fact that at elevated pH values, ozone decomposes under the influence of OH− with the formation of HO• (Eqs. (10-12) and (4–6)), which has a stronger oxidizing ability and a higher reaction rate with organic compounds ( ; ; ). (10) O3 + OH− → O2 + HO2− (11) O3 + HO2− → HO2• + O3•- (12) HO2• → H+ + O2•- Furthermore, at alkaline pH0 the OH− in the solution can directly activate persulfate to produce SO4•- and HO• via hydrolysis of PS in accordance with Eqs. (13-16) ( ; ). (13) S2O82− + H2O → SO52− + SO42− + 2H+ (14) SO52− + H2O → HO2− + SO42− + H+ (15) HO2− + S2O82− → SO4•- + SO42− + H+ + O2•- (16) SO4•- + OH− → SO42− + HO• Nevertheless, the application of all the studied ozone-based process led to more than 98% TMP decomposition in the first 15 min of oxidation indicating the high efficiency of ozonation during decomposition of the target compound. Similar to the results obtained in TMP experiments, the application of all the studied systems at alkaline pH0 turned out to be more effective for SMX decomposition ( ). Accordingly, all O3/oxidant trials at pH0 = 10.9 and pH0 = 7.7 resulted in &gt;99% and &gt;95% of SMX degraded in 15 min, respectively. The highest degradation efficacy of SMX was observed in the O3/H2O2 system at a SMX/H2O2 molar ratio of 1/1 and alkaline pH0 resulting in 90% SMX decomposition in 6.3 min. For comparison, in the O3 and O3/PS systems (SMX/PS molar ratio of 1/1) at pH0 = 10.9, a 1-log removal of SMX was obtained after 7.4 min and 6.8 min, respectively. It should be noted that in the O3 and O3/PS systems the formation of hydrogen peroxide (Eq. ) was observed during the oxidation process, which indicates the formation of hydroxyl radicals during the reaction ( ). In the case of O3/H2O2 the surplus in hydrogen peroxide concentration was also observed. The latter observation can explain the slower decomposition efficacy of the target compounds at an [antibiotic]/H2O2 molar ratio of 1/5 since there was an effective scavenging of HO• by excess of hydrogen peroxide through Eqs. (17-19) ( ). (17) HO• + HO• → H2O2 (18) HO• + H2O2 → H2O + HO2• (19) HO• + HO2• → H2O + O2 In all ozone-based oxidation experiments performed, the observed final pH values (pHfinal) were always acidic in the range of 2.91–3.08. This pH drop was mainly caused by the formation of acidic intermediates during the oxidation of the target compounds. In order to obtain a more complete picture of the effectiveness of the selected oxidation processes and to be able to compare them, the fitting of the obtained data to the first-order kinetics was checked and mineralization measurements were performed. 3.2</text>
+      <annotation id="55">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14663" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14772" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14795" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15324" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15884" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16671" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16698" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16933" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17240" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17878" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17979" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17994" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18192" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18318" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19098" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19109" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19169" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="14718" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15052" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15058" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="15106" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16841" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="16944" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="17590" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="18676" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19034" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19285" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19460" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>19539</offset>
+      <text>Individual and simultaneous TMP and SMX degradation observed pseudo-first-order rate constants</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19634</offset>
+      <text>The obtained results indicated that under studied experiment conditions, SMX and TMP degradation followed a pseudo-first-order reaction kinetics (r2 ≥ 0.99) in the ozonation and O3/oxidant processes and can be described with regard to the target compound concentration through Eq. . (20) dC[A]dt=−kobs×CA where kobs is the observed pseudo-first-order rate constant and CA is the concentration of antibiotic (SMX or TMP). The kobs constants were calculated from the slopes of the straight lines by plotting ln (Ct/C0) as a function of time t through linear regression. The kobs values for the individual and simultaneous degradation of TMP and SMX by the O3, O3/PS and O3/H2O2 systems are shown in . Accordingly, kobs values of 0.17 min−1 and 0.20 min−1 were obtained for the individual degradation of TMP and SMX by the O3 process (pH0 = 7.7), respectively. An increase in the initial pH to 10.9 led to substantial improvement in TMP and SMX degradation rate and resulted in kobs values of 0.30 min−1 and 0.31 min−1, respectively. In the case of simultaneous antibiotics degradation trials, the acceleration of the decomposition of TMP and SMX by 2 and 1.5 times, respectively, was observed in all the studied processes at alkaline pH0 compared with the results at neutral pH0. Overall, the application of the O3/PS system at an [antibiotic]/PS molar ratio of 1/5 (pH0 = 10.9) was found to be the most efficient for the degradation of SMX-TMP mixture among all studied systems and resulted in kobs values of 0.266 and 0.294 min−1 for SMX and TMP degradation, respectively. The results of measuring the final pH value and the concentration of hydrogen peroxide for the simultaneous degradation of antibiotics by the systems under study showed trends similar to those obtained with an individual decomposition of the target compounds ( ). Accordingly, the formation of hydrogen peroxide in the reactive solution during ozonation and the combined O3/PS process was observed, as well as an increase in the concentration of H2O2 for the O3/H2O2 systems. In addition, the observed pHfinal values were acidic and ranged from 2.71 to 3.1. 3.3</text>
+      <annotation id="83">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20466" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20519" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20866" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20907" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20999" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21242" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21709" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19889" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="20013" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21259" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21636" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19755" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="19979" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21769</offset>
+      <text>Individual and simultaneous TMP and SMX mineralization by O3, O3/PS and O3/H2O2 processes</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21859</offset>
+      <text>In order to further study and compare the effectiveness of the ozonation and ozone-based systems, the mineralization extent of the selected antibiotics was also evaluated, and the results are presented in . The removal efficiency of TOC was expressed as a percentage and was quantified using Eq. in the chemical oxidation process. (21) TOC removal (%) = (TOCinitial - TOCfinal)/TOCinitial × 100 where TOCinitial and TOCfinal represent the measured initial and final the TOC values during the oxidation process, respectively. In all the ozone-based processes studied, the mineralization of the target compounds was less effective than their decomposition both in individual solutions and in SMX-TMP mixtures. As presented in (a), the TMP mineralization was in the ragne of 8–13% for all the studied processes at pH0 7.7. However, at alkaline pH0, the TOC removal efficiency was significantly improved to 36.7, 44.4 and 36.08% after 2 h of treatment with the O3, O3/H2O2 and O3/PS system, respectively. In the case of SMX ( b), regardless of the applied process at neutral pH0, the mineralization of the target compound was in the range of 22.6–24.3%. An increase in the initial pH of the SMX solution led to the TOC removal of 21.2, 43.7, and 21.4% by the O3, O3/H2O2 and O3/PS systems, respectively. The highest extent of mineralization for both TMP and SMX (individual degradation trials) was observed after a 2-h treatment with the O3/H2O2 system at an [antibiotic]/H2O2 molar ratio of 1/5 and at pH0 10.9. For comparison, the highest degradation rate of TMP and SMX was observed in the O3/H2O2 system with an [antibiotic]/H2O2 molar ratio of 1/1. This fact proves that the decomposition efficiency of by-products is not always directly dependent on the decomposition efficiency of the target compound. A similar effect of pH0 on the extent of antibiotics mineralization was observed in the case of SMX-TMP mixture oxidation tests ( c). Accordingly, the simultaneous mineralization of antibiotics was significantly better at alkaline pH0 compared to neutral pH0 in all studied systems. It is noteworthy that the O3/PS system at the [antibiotic]/PS molar ratio of 1/5 (pH0 10.9) turned out to be the most effective system for both the mineralization of antibiotics and degradation during the simultaneous oxidation of SMX-TMP. 3.4</text>
+      <annotation id="96">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22670" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22700" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22930" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23036" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23358" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23684" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23895" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="23919" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="24029" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21936" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="22395" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="21862" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24191</offset>
+      <text>Identification of SMX and TMP degradation by-products</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24245</offset>
+      <text>The same by-products were observed during the degradation of SMX and TMP by the O3, O3/PS and O3/H2O2 systems using LC-MS analysis, positive ionization mode (ESI+). The transformation products generated by these processes during the degradation of SMX and TMP are shown in , respectively, with the mass to charge ratio of the molecular ion detected, its molecular formula, and their proposed structures. The eight most common SMX transformation products for all the processes studied, in turn, were divided into peaks with high, medium, and low abundance as shown in . Accordingly, S1, S2, S4, S5 and S7 were considered the main by-products of SMX oxidation. S1 with m/z 99 (C4H6N2O) was identified as a 3-amino-5-methylisoxazole. S2 with m/z 158 (C4H6N2O) was identified as a 4-aminobenzenesulfinic acid. S4 with m/z 198 (C3H6N2O6S) was identified as a 4, 5-dihydroxy-4, 5-dihydroisoxazol-3-yl) sulfamic acid. S5 with m/z 270 (C10H11N3O4S) was identified as a 5-methylhydroxysulfamethoxazole. S7 with m/z 284 (C10H9N3O5S) was identified as N-(5-methylisoxazol-3-yl)-4-nitrobenzene sulfonamide. Other compounds were found with a lower abundance, therefore, they are considered as minor by-products of SMX degradation in the studied processes. This group includes S3, S6 and S8, where, for example, S8 was identified as dihydroxylated-SMX. Other studies have also identified similar by-products of SMX decomposition by various oxidation processes, including ozonation ( ), chlorination ( ), permanganate oxidation ( ), and various AOPs ( ; ; , ; ). Based on the proposed structure of by-products, it could be assumed that the possible degradation pathways of SMX involve attack of hydroxyl radicals on the benzene ring and isoxazole leading to the formation of hydroxylated intermediates (S5, S6, S8), oxidation of the amino group in the benzene ring (S7), cleavage of the sulfonamide bond (S1, S2, S3) and the bond between sulfur and benzene ring (S4). In general, the main pathway for the oxidation of SMX in the systems studied can be represented through Eqs. (22-25). (22) SMX + HO• → (HO)SMX• (23) SMX + SO4•- → SMX•+ + SO42− (24) SMX•+ + H2O → (HO)SMX• + H+ 25 (HO)SMX•→ transformation products → CO2 + H2O In the case of TMP, the nine most common transformation products for all the studied process were also divided into peaks with high, medium and low abundance as listed in . Accordingly, T3, T6, T7, T8, and T9 were taken as major by-products with a high content during TMP oxidation. T3 with m/z 295 (C12H15N4O5) was identified as an N-(4-(4-carbamoyl-2-nitroanilino) butyl) carbamate. T6 with m/z 323 (C14H19N4O5) was identified as a 5-(3, 4, 5-trimethoxybenzyl) pyrimidine-2, 4-diamine-dihydroxy. T7 with m/z 325 (C14H19N4O7) was identified as a 2, 6-diamino-5-hydroxy-5-(3, 4, 5-trimethoxybenzyl)-5, 6-dihydropyrimidin-4(1H)-one. T8 with m/z 339 (C14H18N4O6) and T9 with m/z 355 (C14H18N4O7) were identified as TMP hydroxylation products. Other by-products were observed with a medium abundance included T1 with m/z 141 (C5H8N4O, (2,4-diaminopyrimidin-5-yl) methanol), T2 with m/z 277 (C13H16N4O3, TMP demethylation-hydroxylation product), T4 with m/z 307 (C14H19N4O4, (3, 4, 5-trimethoxyphenyl)) methanol and T5 with m/z 305 (C14H18N4O3, (2, 4-diaminopyrimidin-5-yl) 2, 4-diamino-5-(3, 4, 5-trimethoxybenzyl) pyrimidine). Analogous by-products of TMP degradation by various oxidation processes, including Fenton/Fenton-like and photo-Fenton processes ( ) photo-degradation ( ), advance oxidation and reduction processes ( ; ; ) and thermo-activated persulfate oxidation ( ) were previously detected in other studies. Accordingly, the main TMP oxidation pathway in the studied systems includes hydroxylation (T3, T4, T5, T6, T7, T8, T9), demethylation-hydroxylation (T2) and finally, cleavage of the molecule (T1) (Eqs. (26-29)). Most of the by-products formed during oxidation retained the structure of TMP with two rings, and the main changes occurred in the trimethoxybenzyl moiety. (26) TMP + HO• → (HO)TMP• (27) TMP + SO4•- → TMP•+ + SO42− (28) TMP•+ + H2O → (HO)TMP• + H+ (29) (HO)TMP• → transformation products → CO2 + H2O It was previously noted that the use of AOP for the individual and simultaneous degradation of SMX and TMP can lead to transformation products with greater toxicity than the parent antibiotic ( ). Thus, in the framework of future studies, it would be useful to evaluate the toxicity of SMX, TMP, and SMX-TMP solutions pre-treated with O3, O3/H2O2, and O3/PS systems. 4</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28758</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28770</offset>
+      <text>The present study focused on the individual and simultaneous degradation and mineralization of SMX and TMP by ozonation, O3/PS and O3/H2O2 processes. The efficiency of the target compound degradation both individually and simultaneous was the highest at pH0 10.9 compared to pH0 7.7 in all the studied processes. In all the ozone-based processes applied, the mineralization of SMX and TMP was less effective than the degradation of the target compounds in the studied solutions. Irrespective of the studied ozone-based system, antibiotics degradation rates were higher with individual oxidation of TMP and SMX compared to the simultaneous oxidation of SMX-TMP. The highest kobs values of 0.379 min−1 and 0.367 min−1 for the degradation of TMP and SMX, respectively, were obtained in the O3/H2O2 system at an [antibiotic]/H2O2 molar ratio of 1/1. The most effective TOC removal for SMX (43.7%) and TMP (44.4%) was observed in the O3/H2O2 system at an [antibiotic]/H2O2 molar ratio of 1/5 and at pH0 10.9. In the case of simultaneous SMX-TMP oxidation, the application of O3/PS system at the [antibiotic]/PS molar ratio of 1/5 (pH0 10.9) proved the most promising treatment process for both efficient decomposition and mineralization of antibiotics. The proposed main by-products of SMX and TMP were similar in all the studied ozone-based processes. The results of this study can provide important information for the further application of ozone-based processes for the treatment of water contaminated with antibiotics, in particular SMX and TMP.</text>
+      <annotation id="108">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29024" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29045" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29764" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29896" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="112">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29094" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="29277" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="30095" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-04-22; 13:33</infon>
+        <location offset="30209" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>30316</offset>
+      <text>Declaration of competing interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30350</offset>
+      <text>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</text>
+    </passage>
+  </document>
+</collection>

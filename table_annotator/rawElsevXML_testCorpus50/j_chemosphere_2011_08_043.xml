@@ -1,0 +1,2374 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0045653511010083</prism:url><dc:identifier>doi:10.1016/j.chemosphere.2011.08.043</dc:identifier><eid>1-s2.0-S0045653511010083</eid><prism:doi>10.1016/j.chemosphere.2011.08.043</prism:doi><pii>S0045-6535(11)01008-3</pii><dc:title>Transformation products and reaction kinetics of fragrances in advanced wastewater treatment with ozone </dc:title><prism:publicationName>Chemosphere</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00456535</prism:issn><prism:volume>85</prism:volume><prism:issueIdentifier>9</prism:issueIdentifier><prism:startingPage>1481</prism:startingPage><prism:endingPage>1486</prism:endingPage><prism:pageRange>1481-1486</prism:pageRange><prism:number>9</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2011-11-30</prism:coverDate><prism:coverDisplayDate>November 2011</prism:coverDisplayDate><prism:copyright>Copyright © 2011 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Janzen, Niklas</dc:creator><dc:creator>Dopp, Elke</dc:creator><dc:creator>Hesse, Julia</dc:creator><dc:creator>Richards, Jessica</dc:creator><dc:creator>Türk, Jochen</dc:creator><dc:creator>Bester, Kai</dc:creator><dc:description>
+                  The reaction of the fragrance compounds 4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene (HHCB), 1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone (AHTN), 1-tert-butyl-3,5-dimethyl-2,4,6-trinitrobenzene (musk xylene/MX), 1-(4-tert-butyl-2,6-dimethyl-3,5-dinitrophenyl)ethanone (musk ketone/MK), and 1-(2,3,8,8-tetramethyl-1,3,4,5,6,7-hexahydronaphthalen-2-yl)ethanone (OTNE) with ozone in tap water as well as waste water treatment plant (WWTP) effluents is described. Several transformation products are characterized by means of gas chromatography coupled to mass spectrometry. One transformation product (HHCB-Lactone) was confirmed by means of a true standard. Musk xylene and musk ketone do not react with ozone under the conditions used in this study. AHTN and HHCB reacted slowly to a multitude of transformation products, while OTNE reacted quickly to several stable transformation products. The reaction constants and half lives are used to predict removal efficiencies for full scale reactors.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Ozonation</dcterms:subject><dcterms:subject>By-products</dcterms:subject><dcterms:subject>Rate constants</dcterms:subject><dcterms:subject>Fragrances</dcterms:subject><dcterms:subject>AHTN</dcterms:subject><dcterms:subject>HHCB</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0045653511010083" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0045653511010083" rel="scidir"/></coredata><objects><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="257" height="19" size="1268">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="63" height="19" size="390">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-si1.gif?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="240128">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-mmc1.doc?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="364" height="201" size="16552">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="121" size="2396">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="373" height="206" size="15416">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="121" size="3768">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="92" height="58" size="2101">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="137" size="3401">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="90" height="59" size="1995">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx2.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="143" size="3485">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx2.sml?httpAccept=%2A%2F%2A</object><object ref="fx3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="77" height="64" size="1853">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx3.jpg?httpAccept=%2A%2F%2A</object><object ref="fx3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="198" height="164" size="3585">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx3.sml?httpAccept=%2A%2F%2A</object><object ref="fx4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="77" height="66" size="1805">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx4.jpg?httpAccept=%2A%2F%2A</object><object ref="fx4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="192" height="164" size="3473">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx4.sml?httpAccept=%2A%2F%2A</object><object ref="fx5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="77" height="45" size="1764">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx5.jpg?httpAccept=%2A%2F%2A</object><object ref="fx5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="128" size="3564">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx5.sml?httpAccept=%2A%2F%2A</object><object ref="fx6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="93" height="61" size="2042">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx6.jpg?httpAccept=%2A%2F%2A</object><object ref="fx6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="144" size="3634">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx6.sml?httpAccept=%2A%2F%2A</object><object ref="fx7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="93" height="59" size="2036">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx7.jpg?httpAccept=%2A%2F%2A</object><object ref="fx7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="139" size="3507">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-fx7.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="673" height="315" size="33876">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="102" size="2171">https://api.elsevier.com/content/object/eid/1-s2.0-S0045653511010083-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>82455199021</scopus-id><scopus-eid>2-s2.0-82455199021</scopus-eid><pubmed-id>21955354</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/82455199021" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271852</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291767</xocs:ssid>
+         <xocs:ssid type="subj">291792</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemosphere</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMOSPHERE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20110926">2011-09-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20110926">2011-09-26</xocs:available-online-date>
+      <xocs:ew-transaction-id>2011-11-12T02:36:17</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0045653511010083</xocs:eid>
+      <xocs:pii-formatted>S0045-6535(11)01008-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0045653511010083</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.chemosphere.2011.08.043</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0045653511X00371</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T03:01:09.015282-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20111101</xocs:date-search-begin>
+      <xocs:date-search-end>20111130</xocs:date-search-end>
+      <xocs:year-nav>2011</xocs:year-nav>
+      <xocs:indexeddate epoch="1316995200">2011-09-26T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast primabst ref specialabst alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0045-6535</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00456535</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>85</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>85</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>9</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>9</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 85, Issue 9</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>1481</xocs:first-fp>
+      <xocs:last-lp>1486</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1481</xocs:first-page>
+         <xocs:last-page>1486</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201111</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>November 2011</xocs:cover-date-text>
+      <xocs:cover-date-start>2011-11-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2011-11-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2011</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Environmental Chemistry, Editors Jacob (J.) de Boer, M. Oehme, K. Kannan and A. Sabljic</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Research Papers</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2011 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>TRANSFORMATIONPRODUCTSREACTIONKINETICSFRAGRANCESINADVANCEDWASTEWATERTREATMENTOZONE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>JANZEN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>N</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Material and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemicals and reagents</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Oxidation products screening</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Kinetic studies</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Sample preparation</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.3.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Solid phase extraction (SPE) for qualitative analysis</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.3.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Liquid liquid extraction (LLE) for quantitative analysis</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analysis by GC–MS</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Oxidation product screening</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>HHCB</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>AHTN and OTNE</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Musk ketone and musk xylene</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Kinetic studies</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Prediction of removal rates for full scale reactors</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary material</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="b0005">
+            <xocs:ref-normalized-surname>ARCANDHOY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>139</xocs:ref-first-fp>
+            <xocs:ref-last-lp>158</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0010">
+            <xocs:ref-normalized-surname>BENNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5472</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5480</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0015">
+            <xocs:ref-normalized-surname>BESTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-last-lp>51</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0020">
+            <xocs:ref-normalized-surname>BESTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>863</xocs:ref-first-fp>
+            <xocs:ref-last-lp>870</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0025"/>
+         <xocs:ref-info refid="b0030"/>
+         <xocs:ref-info refid="b0035">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1877</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1884</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0040">
+            <xocs:ref-normalized-surname>FENT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>122</xocs:ref-first-fp>
+            <xocs:ref-last-lp>159</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0045">
+            <xocs:ref-normalized-surname>FORNI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>255</xocs:ref-first-fp>
+            <xocs:ref-last-lp>259</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0050">
+            <xocs:ref-normalized-surname>HALLINGSORENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>357</xocs:ref-first-fp>
+            <xocs:ref-last-lp>394</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0055">
+            <xocs:ref-normalized-surname>HORII</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2011</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2020</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0060">
+            <xocs:ref-normalized-surname>IKEHATA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>26</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0065">
+            <xocs:ref-normalized-surname>KOLPIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1202</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1211</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0070">
+            <xocs:ref-normalized-surname>KUMMERER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>311</xocs:ref-first-fp>
+            <xocs:ref-last-lp>320</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0125">
+            <xocs:ref-normalized-surname>KUPPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2603</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2612</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0130">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>555</xocs:ref-first-fp>
+            <xocs:ref-last-lp>566</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0075">
+            <xocs:ref-normalized-surname>NOTHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>287</xocs:ref-first-fp>
+            <xocs:ref-last-lp>292</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0080">
+            <xocs:ref-normalized-surname>NOTHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5990</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5995</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0085">
+            <xocs:ref-normalized-surname>SEIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1479</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1485</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0090">
+            <xocs:ref-normalized-surname>SIMONICH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>959</xocs:ref-first-fp>
+            <xocs:ref-last-lp>965</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0095">
+            <xocs:ref-normalized-surname>SIMONICH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2839</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2847</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0100">
+            <xocs:ref-normalized-surname>REINER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>451</xocs:ref-first-fp>
+            <xocs:ref-last-lp>457</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0105">
+            <xocs:ref-normalized-surname>SNYDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-last-lp>460</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0110">
+            <xocs:ref-normalized-surname>TERNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3245</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3260</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0135">
+            <xocs:ref-normalized-surname>TUERK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>985</xocs:ref-first-fp>
+            <xocs:ref-last-lp>993</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0115">
+            <xocs:ref-normalized-surname>VALDERSNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>461</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4716</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0120">
+            <xocs:ref-normalized-surname>VONGUNTEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1443</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1467</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>JANZENX2011X1481</xocs:refkey3>
+         <xocs:refkey4lp>JANZENX2011X1481X1486</xocs:refkey4lp>
+         <xocs:refkey4ai>JANZENX2011X1481XN</xocs:refkey4ai>
+         <xocs:refkey5>JANZENX2011X1481X1486XN</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0045-6535(11)01008-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0045653511010083</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0045653511010083</xocs:eid>
+         <xocs:doi>10.1016/j.chemosphere.2011.08.043</xocs:doi>
+         <xocs:cid>271852</xocs:cid>
+         <xocs:timestamp>2011-11-12T03:43:49.764916-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2011-11-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2011-11-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/MAIN/application/pdf/f115c65ef13c3736180de14b80188f1b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/MAIN/application/pdf/f115c65ef13c3736180de14b80188f1b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>663578</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0045653511010083-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/PREVIEW/image/png/9c0e1a4b69952990c8127624d412605a/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/PREVIEW/image/png/9c0e1a4b69952990c8127624d412605a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57356</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/STRIPIN/image/gif/6d4a7d1b01ce81039a8fc48beb850396/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/STRIPIN/image/gif/6d4a7d1b01ce81039a8fc48beb850396/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1268</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>257</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/STRIPIN/image/gif/cd07c78f8a5b225dbd81e3303916a081/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/STRIPIN/image/gif/cd07c78f8a5b225dbd81e3303916a081/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>390</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>63</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-mmc1.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/mmc1/MAIN/application/msword/1de30398de0e1cc8f46855d8fbafa73f/mmc1.doc</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/mmc1/MAIN/application/msword/1de30398de0e1cc8f46855d8fbafa73f/mmc1.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>240128</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/gr2/DOWNSAMPLED/image/jpeg/e70fb4b9373b6632f04c626d14983891/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/gr2/DOWNSAMPLED/image/jpeg/e70fb4b9373b6632f04c626d14983891/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16552</xocs:filesize>
+               <xocs:pixel-height>201</xocs:pixel-height>
+               <xocs:pixel-width>364</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/gr2/THUMBNAIL/image/gif/96fcf9eaa6e384fe0167f6109e4554a4/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/gr2/THUMBNAIL/image/gif/96fcf9eaa6e384fe0167f6109e4554a4/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2396</xocs:filesize>
+               <xocs:pixel-height>121</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/gr3/DOWNSAMPLED/image/jpeg/30542a4f64fa9c45fdcdccc3bfacbfa4/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/gr3/DOWNSAMPLED/image/jpeg/30542a4f64fa9c45fdcdccc3bfacbfa4/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15416</xocs:filesize>
+               <xocs:pixel-height>206</xocs:pixel-height>
+               <xocs:pixel-width>373</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/gr3/THUMBNAIL/image/gif/aaf091224600d0c52a80c44a36f14be0/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/gr3/THUMBNAIL/image/gif/aaf091224600d0c52a80c44a36f14be0/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3768</xocs:filesize>
+               <xocs:pixel-height>121</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx1/DOWNSAMPLED/image/jpeg/f226826f145beaa4caf3b3b437417e0c/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx1/DOWNSAMPLED/image/jpeg/f226826f145beaa4caf3b3b437417e0c/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>2101</xocs:filesize>
+               <xocs:pixel-height>58</xocs:pixel-height>
+               <xocs:pixel-width>92</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx1/THUMBNAIL/image/gif/98b9c3147a5c61931b96f08817f38e7c/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx1/THUMBNAIL/image/gif/98b9c3147a5c61931b96f08817f38e7c/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3401</xocs:filesize>
+               <xocs:pixel-height>137</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx2/DOWNSAMPLED/image/jpeg/c3d0c2744008c69f0f4c6e1eb145afa0/fx2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx2/DOWNSAMPLED/image/jpeg/c3d0c2744008c69f0f4c6e1eb145afa0/fx2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1995</xocs:filesize>
+               <xocs:pixel-height>59</xocs:pixel-height>
+               <xocs:pixel-width>90</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx2/THUMBNAIL/image/gif/2d3879bdfb421b0f33dba601fedd39e8/fx2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx2/THUMBNAIL/image/gif/2d3879bdfb421b0f33dba601fedd39e8/fx2.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3485</xocs:filesize>
+               <xocs:pixel-height>143</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx3/DOWNSAMPLED/image/jpeg/caeb68c280b7379debd2c0f67618773b/fx3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx3/DOWNSAMPLED/image/jpeg/caeb68c280b7379debd2c0f67618773b/fx3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx3</xocs:file-basename>
+               <xocs:filename>fx3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1853</xocs:filesize>
+               <xocs:pixel-height>64</xocs:pixel-height>
+               <xocs:pixel-width>77</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx3/THUMBNAIL/image/gif/c4b4c2abce3ec0060807f6f0ac5aa8ca/fx3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx3/THUMBNAIL/image/gif/c4b4c2abce3ec0060807f6f0ac5aa8ca/fx3.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx3</xocs:file-basename>
+               <xocs:filename>fx3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3585</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>198</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx4/DOWNSAMPLED/image/jpeg/75dc9242c7d41e816fb47dcba1ec479c/fx4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx4/DOWNSAMPLED/image/jpeg/75dc9242c7d41e816fb47dcba1ec479c/fx4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx4</xocs:file-basename>
+               <xocs:filename>fx4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1805</xocs:filesize>
+               <xocs:pixel-height>66</xocs:pixel-height>
+               <xocs:pixel-width>77</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx4/THUMBNAIL/image/gif/cd3a4ee97dc91e2de2a9b65ae3d7f0f4/fx4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx4/THUMBNAIL/image/gif/cd3a4ee97dc91e2de2a9b65ae3d7f0f4/fx4.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx4</xocs:file-basename>
+               <xocs:filename>fx4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3473</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>192</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx5/DOWNSAMPLED/image/jpeg/b3e074396b9b59b74b1f5cf66147a574/fx5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx5/DOWNSAMPLED/image/jpeg/b3e074396b9b59b74b1f5cf66147a574/fx5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx5</xocs:file-basename>
+               <xocs:filename>fx5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1764</xocs:filesize>
+               <xocs:pixel-height>45</xocs:pixel-height>
+               <xocs:pixel-width>77</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx5/THUMBNAIL/image/gif/05b1d9f9f03a6d22592f0b8cbc30f16f/fx5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx5/THUMBNAIL/image/gif/05b1d9f9f03a6d22592f0b8cbc30f16f/fx5.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx5</xocs:file-basename>
+               <xocs:filename>fx5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3564</xocs:filesize>
+               <xocs:pixel-height>128</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx6/DOWNSAMPLED/image/jpeg/30dfe9e93fa824023eef4d8395dbf06f/fx6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx6/DOWNSAMPLED/image/jpeg/30dfe9e93fa824023eef4d8395dbf06f/fx6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx6</xocs:file-basename>
+               <xocs:filename>fx6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>2042</xocs:filesize>
+               <xocs:pixel-height>61</xocs:pixel-height>
+               <xocs:pixel-width>93</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx6/THUMBNAIL/image/gif/100049618197a049fcb0b0f9b3210f99/fx6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx6/THUMBNAIL/image/gif/100049618197a049fcb0b0f9b3210f99/fx6.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx6</xocs:file-basename>
+               <xocs:filename>fx6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3634</xocs:filesize>
+               <xocs:pixel-height>144</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx7/DOWNSAMPLED/image/jpeg/3a42f3fe2b8a6ada4a1ebc0cb5af50cd/fx7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx7/DOWNSAMPLED/image/jpeg/3a42f3fe2b8a6ada4a1ebc0cb5af50cd/fx7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx7</xocs:file-basename>
+               <xocs:filename>fx7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>2036</xocs:filesize>
+               <xocs:pixel-height>59</xocs:pixel-height>
+               <xocs:pixel-width>93</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-fx7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/fx7/THUMBNAIL/image/gif/bde17c04c62fa1ce772cb65ffb5508fc/fx7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/fx7/THUMBNAIL/image/gif/bde17c04c62fa1ce772cb65ffb5508fc/fx7.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx7</xocs:file-basename>
+               <xocs:filename>fx7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3507</xocs:filesize>
+               <xocs:pixel-height>139</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/gr1/DOWNSAMPLED/image/jpeg/28888559725c11231771ca8417bef85f/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/gr1/DOWNSAMPLED/image/jpeg/28888559725c11231771ca8417bef85f/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33876</xocs:filesize>
+               <xocs:pixel-height>315</xocs:pixel-height>
+               <xocs:pixel-width>673</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0045653511010083-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0045653511010083/gr1/THUMBNAIL/image/gif/258fc41088f89376af7fda26ae812dbb/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0045653511010083/gr1/THUMBNAIL/image/gif/258fc41088f89376af7fda26ae812dbb/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2171</xocs:filesize>
+               <xocs:pixel-height>102</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.1">
+         <item-info>
+            <jid>CHEM</jid>
+            <aid>12217</aid>
+            <ce:pii>S0045-6535(11)01008-3</ce:pii>
+            <ce:doi>10.1016/j.chemosphere.2011.08.043</ce:doi>
+            <ce:copyright type="full-transfer" year="2011">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp015" view="all">Tap water samples spiked with 4<ce:hsp sp="0.25"/>μM HHCB and 2<ce:hsp sp="0.25"/>mM <ce:italic>tert</ce:italic>-BuOH. Comparison of total ion chromatograms between an (A) untreated and (B) oxidized (O<ce:inf loc="post">3</ce:inf>/HHCB (<ce:italic>n</ce:italic>/<ce:italic>n</ce:italic>): 10/1) sample. HHCB-Lactone is a product of the reaction between O<ce:inf loc="post">3</ce:inf> and HHCB. Mass spectra of HHCB lactone from sample and standard agree.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp020" view="all">Concentrations of HHCB and its transformation product HHCB-Lactone during ozonation of waste water with a constant ozone input (at steady state: 5<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>O<ce:inf loc="post">3</ce:inf>
+                     <ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>). HHCB-Lactone is simultaneously produced and itself oxidised.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp025" view="all">First order reaction plot for the removal of fragrance compounds in waste water taking ozone to be permanently constant at 5<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>. The slope of the linear regression yielding the second order rate constant <ce:italic>k</ce:italic>
+                     <ce:hsp sp="0.25"/>(M<ce:sup loc="post">−1</ce:sup>
+                     <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>) (● HHCB: <ce:italic>k</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>67, ○ HHCB-Lactone: <ce:italic>k</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>3, ○ AHTN: <ce:italic>k</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10, Δ OTNE: <ce:italic>k</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>94).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp030" view="all">Fragrance compounds used for ozonation experiments and oxidation by-products.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Name</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Acronym</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Structure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CAS</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Galaxolide</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HHCB</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <inline-figure baseline="0.0">
+                              <link locator="fx1"/>
+                           </inline-figure>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1222-05-5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tonalide</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <inline-figure baseline="0.0">
+                              <link locator="fx2"/>
+                           </inline-figure>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1506-02-1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Musk ketone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">MK</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <inline-figure baseline="0.0">
+                              <link locator="fx3"/>
+                           </inline-figure>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">81-14-1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Musk xylene</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">MX</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <inline-figure baseline="0.0">
+                              <link locator="fx4"/>
+                           </inline-figure>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">81-15-2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Iso E super</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OTNE (main constituent)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <inline-figure baseline="0.0">
+                              <link locator="fx5"/>
+                           </inline-figure>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">54464-57-2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HHCB oxidation by-product</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HHCB-Lactone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <inline-figure baseline="0.0">
+                              <link locator="fx6"/>
+                           </inline-figure>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">507442-53-7</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Suggested AHTN oxidation by-product</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <inline-figure baseline="0.0">
+                              <link locator="fx7"/>
+                           </inline-figure>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0010" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp035" view="all">Non-identified ozonation by-products of AHTN and OTNE listed with their retention times (Rt) and mass spectra.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">By-product</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rt</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mass spectrum (relative abundance)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.78</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">124 (100), 125 (81), 83 (57), 208 (41), 126 (39)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">163 (100), 83 (86), 154 (81), 70 (81), 135 (72)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">15.57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">193 (100), 137 (80), 208 (71), 121 (52), 91 (46)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">15.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">193 (100), 137 (50), 208 (43), 121 (37), 107 (33)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17.32</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">223 (100), 177 (43), 192 (41), 149 (38), 224 (27)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">163 (100), 135 (63), 137 (61), 206 (59), 150 (40)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17.44</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">163 (100), 135 (58), 177 (35), 137 (32), 91 (31)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">18.94</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">243 (100), 258 (27), 159 (24), 187 (18), 244 (17)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">19.41</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">219 (100), 221 (55), 193 (38), 247 (37), 208 (33)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">19.92</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">247 (100), 205 (87), 163 (82), 178 (65), 69 (63)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">21.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">205 (100), 247 (26), 206 (21), 220 (21), 163 (21)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN O12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">21.53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">229 (100), 272 (51), 173 (41), 239 (36), 187 (29)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col3">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">AHTN derivative<cross-ref refid="tblfn1">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">229 (100), 272 (64), 187 (36), 173 (29)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OTNE O1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">151 (100), 109 (68), 95 (67), 69 (64), 123 (50)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OTNE O2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">119 (100), 175 (79), 95 (59), 105 (52), 190 (44)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OTNE O3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17.93</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">119 (100), 112 (78), 97 (56), 69 (55), 95 (48)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OTNE O4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">18.13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">95 (100), 69 (96), 119 (93), 123 (88), 109 (86)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OTNE O5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">18.37</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">119 (100), 95 (77), 189 (62), 69 (60), 207 (59)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OTNE O6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">19.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">111 (100), 69 (45), 126 (41), 55 (30), 110 (28)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OTNE O7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">69 (100), 55 (41), 109 (34), 155 (32), 83 (31)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OTNE O8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">69 (100), 81 (97), 168 (92), 125 (75), 83 (72)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tblfn1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>
+                     <ce:cross-ref refid="b0115">Valdersnes et al. (2006)</ce:cross-ref>.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0015" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp040" view="all">Empirical estimated second order rate constants k concerning the ozonation of fragrance compounds in waste water and the corresponding half-life’s <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">1/2</ce:inf> having ozone concentrations of 2<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> and 5<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="char" char="."/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Compound</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>k</italic> (M<sup loc="post">−1</sup>
+                           <hsp sp="0.25"/>s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>t</italic>
+                           <inf loc="post">1/2</inf> (at 2<hsp sp="0.25"/>mg O<inf loc="post">3</inf>
+                           <hsp sp="0.25"/>L<sup loc="post">−1</sup>) (min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>t</italic>
+                           <inf loc="post">1/2</inf> (at 5<hsp sp="0.25"/>mg O<inf loc="post">3</inf>
+                           <hsp sp="0.25"/>L<sup loc="post">−1</sup>) (min)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OTNE</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">94</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.7</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HHCB</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.4</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AHTN</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">16</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HHCB-Lactone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">133</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">53</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Transformation products and reaction kinetics of fragrances in advanced wastewater treatment with ozone</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Niklas</ce:given-name>
+                  <ce:surname>Janzen</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Elke</ce:given-name>
+                  <ce:surname>Dopp</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff5">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Julia</ce:given-name>
+                  <ce:surname>Hesse</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jessica</ce:given-name>
+                  <ce:surname>Richards</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff5">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jochen</ce:given-name>
+                  <ce:surname>Türk</ce:surname>
+                  <ce:cross-ref refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Kai</ce:given-name>
+                  <ce:surname>Bester</ce:surname>
+                  <ce:cross-ref refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Municipal Water- and Waste Management, University Duisburg-Essen, Essen, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Institute of Hygiene and Occupational Medicine, University of Duisburg-Essen, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Institute of Energy and Environmental Technology, Duisburg, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff4">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Department of Environmental Science, National Environmental Research Institute, Aarhus University, Frederkisborgsvej 399, 4000 Roskilde, Denmark</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff5">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>IWW Rheinisch-Westfälisches Institut für Wasserforschung gGmbH, Mülheim, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +45 46301243.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="20" month="6" year="2011"/>
+            <ce:date-revised day="20" month="8" year="2011"/>
+            <ce:date-accepted day="22" month="8" year="2011"/>
+            <ce:abstract class="graphical" xml:lang="en">
+               <ce:abstract-sec>
+                  <ce:section-title>Highlights</ce:section-title>
+                  <ce:simple-para id="sp005" view="all">► Fragrances except nitro musks can be removed from waste water by ozonisation. ► Several by-products are formed and identified in this paper. ► The reaction time increases if removal of by-products is desired. ► The reaction rates in WWTP effluent- and tap-water are similar.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract class="author" xml:lang="en"><ce:abstract-sec>
+                  <ce:simple-para id="sp010" view="all">The reaction of the fragrance compounds 4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]<ce:italic>iso</ce:italic>chromene (HHCB), 1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone (AHTN), 1-tert-butyl-3,5-dimethyl-2,4,6-trinitrobenzene (musk xylene/MX), 1-(4-tert-butyl-2,6-dimethyl-3,5-dinitrophenyl)ethanone (musk ketone/MK), and 1-(2,3,8,8-tetramethyl-1,3,4,5,6,7-hexahydronaphthalen-2-yl)ethanone (OTNE) with ozone in tap water as well as waste water treatment plant (WWTP) effluents is described. Several transformation products are characterized by means of gas chromatography coupled to mass spectrometry. One transformation product (HHCB-Lactone) was confirmed by means of a true standard. Musk xylene and musk ketone do not react with ozone under the conditions used in this study. AHTN and HHCB reacted slowly to a multitude of transformation products, while OTNE reacted quickly to several stable transformation products. The reaction constants and half lives are used to predict removal efficiencies for full scale reactors.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Ozonation</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>By-products</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Rate constants</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Fragrances</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>AHTN</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>HHCB</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">A large number of persistent organic micro-pollutants, like pharmaceuticals, pesticides and personal care products have been found in waste water effluent water around the world. This shows that conventional treatment technologies are ineffective in removing those compounds from waste water (<ce:cross-refs refid="b0050 b0110 b0065">Halling-Sørensen et al., 1998; Ternes, 1998; Kolpin et al., 2002</ce:cross-refs>). Trace level occurrence of micro-pollutants causing adverse impacts in humans and in ecosystems have been reported in many studies (<ce:cross-refs refid="b0050 b0070 b0040 b0005">Halling-Sørensen et al., 1998; Kümmerer, 2004; Fent et al., 2006; Arcand-Hoy et al., 1998</ce:cross-refs>). This study considers removing waste water relevant synthetic fragrances compounds from waste water by means of ozone. The fragrances included in this study are 4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene (HHCB), 1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone (AHTN), 1-tert-butyl-3,5-dimethyl-2,4,6-trinitrobenzene (musk xylene/MX), 1-(4-tert-butyl-2,6-dimethyl-3,5-dinitrophenyl)ethanone (musk ketone/MK), and 1-(2,3,8,8-tetramethyl-1,3,4,5,6,7-hexahydronaphthalen-2-yl)ethanone (OTNE). Due to high consumption volumes and low degradability, these compounds have been detected in treated waste water, in surface waters, in fish and in sediments (<ce:cross-refs refid="b0090 b0095 b0020 b0015 b0125 b0025 b0030 b0035">Simonich et al., 2000, 2002; Bester, 2004, 2005; Kupper et al., 2006; Bester et al., 2008A and 2008B; Chen and Bester, 2009</ce:cross-refs>). To reduce the concentrations of micro-pollutants in waste water treatment plants effluents, additional treatment steps like ozonation and advanced oxidation processes (AOPs) are discussed (<ce:cross-refs refid="b0060 b0130 b0135">Ikehata et al., 2008; Lee and von Gunten, 2010; Tuerk et al., 2010</ce:cross-refs>). Ozone removes organic contaminants either by direct reaction, or through the formation of hydroxyl radicals which can then react with the target molecule. Complete mineralization of persistent compounds is economically not always feasible. As a result oxidation by-products can be formed. For a comprehensive discussion regarding the benefits and risks of AOPs, oxidation by-products need to be identified, quantified and characterized in terms of their chemical structure and toxicity (<ce:cross-ref refid="b0105">Snyder et al., 2006</ce:cross-ref>). For developing and managing ozonation reactors transformation rate constants for the reaction of ozone with target compounds in real WWTP effluents are needed. In this study we focus on describing oxidation by-products of fragrances formed by ozonisation of WWTP effluents as well as their formation kinetics.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Material and methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Chemicals and reagents</ce:section-title>
+                     <ce:para id="p0010" view="all">Solvents were purchased from Merck (Darmstadt, Germany). Toluene and <ce:italic>tert</ce:italic>-butyl methyl ether (MTBE) were of GC (Suprasolv®) grade; <ce:italic>tert</ce:italic>-butanol (<ce:italic>tert</ce:italic>-BuOH), acetone and ethyl acetate were of analytical (p.a.) grade; methanol was of LC (Lichrosolv®) grade. All glassware was cleaned twice first with acetone and then with ethyl acetate; selected instruments and syringes additionally with the solvents later inserted.</ce:para>
+                     <ce:para id="p0015" view="all">The fragrance compounds selected for oxidation product screening and kinetic studies are listed in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Experimental</ce:section-title>
+                     <ce:section id="s0025" view="all">
+                        <ce:label>2.2.1</ce:label>
+                        <ce:section-title>Oxidation products screening</ce:section-title>
+                        <ce:para id="p0020" view="all">Ozone stock solution was generated by bubbling ozone gas through a glass frit into pure water using a laboratory scale ozone generator (1000BT-12, Enaly M &amp; E Ltd., Shanghai, China) fed by either oxygen or air. Aqueous ozone concentration was determined with an spectrophotometer (UV-1602 UV–Visible, Shimadzu, Duisburg, Germany) using extinction at <ce:italic>ε</ce:italic>
+                           <ce:hsp sp="0.25"/>(258<ce:hsp sp="0.25"/>nm)<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>3300<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                           <ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> (<ce:cross-ref refid="b0045">Forni et al., 1982</ce:cross-ref>). Ozone stock solutions with concentrations between 1 and 5<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> were prepared. Tap water spiked with a single fragrance compound (0.1–1<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>) was mixed with varying volumes of ozone stock solution. Final molar ratios of O<ce:inf loc="post">3</ce:inf> and the fragrance compound in the mixed water ranged between 1:1 and 50:1. The experiments were performed with and without the presence of 0.2<ce:hsp sp="0.25"/>mM <ce:italic>tert</ce:italic>-BuOH acting as OH radical scavenger: <ce:italic>tert</ce:italic>-BuOH reacts with O<ce:inf loc="post">3</ce:inf> only at <ce:italic>k</ce:italic>
+                           <ce:inf loc="post">O3+</ce:inf>
+                           <ce:italic>
+                              <ce:inf loc="post">tert</ce:inf>
+                           </ce:italic>
+                           <ce:inf loc="post">-BuOH</ce:inf>
+                           <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.3<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−3</ce:sup>
+                           <ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                           <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> but with OH<ce:sup loc="post">∗</ce:sup> at <ce:italic>k</ce:italic>
+                           <ce:inf loc="post">OH+</ce:inf>
+                           <ce:italic>
+                              <ce:inf loc="post">tert</ce:inf>
+                           </ce:italic>
+                           <ce:inf loc="post">-BuOH</ce:inf>
+                           <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>6<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>108<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                           <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>. It thus acts as OH<ce:sup loc="post">∗</ce:sup>-scavenger. Thus only ozone is available for a reaction with a fragrance compound (<ce:cross-refs refid="b0010 b0080 b0085">Benner and Ternes, 2009; Nöthe et al., 2009; Sein et al., 2009</ce:cross-refs>). The sample solutions were stored at 4<ce:hsp sp="0.25"/>°C for 24<ce:hsp sp="0.25"/>h. Subsequently, solid phase extraction (see Section 3.3.1) and qualitative analysis by GC–MS (see Section 3.4) were executed for the screening of unknown oxidation products.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0030" view="all">
+                        <ce:label>2.2.2</ce:label>
+                        <ce:section-title>Kinetic studies</ce:section-title>
+                        <ce:para id="p0025" view="all">Water samples (1.5<ce:hsp sp="0.25"/>L) were taken from the effluent of a local treatment plant after BOD-, nitrogen- and phosphorus-removal as well as secondary clarifying (Duisburg, Vierlinden). A 2<ce:hsp sp="0.25"/>L glass bottle with a teflonised screw cap was used for transport. As some of the ozonation transformation products (especially HHCB-Lactone) is know to be contained in real waste water, the water was spiked to 200–400<ce:hsp sp="0.25"/>μg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> with the respective fragrance compounds, which is about two orders of magnitude higher than the concentrations experienced in waste water in this region (<ce:cross-refs refid="b0020 b0015 b0100 b0055">Bester, 2004, 2005; Reiner et al., 2007; Horii et al., 2007</ce:cross-refs>). Mixing was performed with a magnetic stir bar at 200<ce:hsp sp="0.25"/>rpm. Ozone from an oxygen fed ozone generator was continuously passed through the sample by means of a glass frit with a flow of 0.5<ce:hsp sp="0.25"/>L<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>. Aqueous ozone concentration reached at steady state an ozone concentration of 5<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>. 50<ce:hsp sp="0.25"/>mL samples were taken at intervals and mixed with 950<ce:hsp sp="0.25"/>mL tap water. Directly after the experiments, liquid–liquid extraction (LLE) with toluene was carried out to avoid further oxidation reactions. Samples were quantitative analyzed by GC–MS (see Section 3.4). The reactions were performed at 28<ce:hsp sp="0.25"/>°C.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Sample preparation</ce:section-title>
+                     <ce:section id="s0040" view="all">
+                        <ce:label>2.3.1</ce:label>
+                        <ce:section-title>Solid phase extraction (SPE) for qualitative analysis</ce:section-title>
+                        <ce:para id="p0030" view="all">A polymer-based reversed phase SPE column Strata-X (Phenomenex, Aschaffenburg (6<ce:hsp sp="0.25"/>mL, 200<ce:hsp sp="0.25"/>mg polymer), suitable for polar and non-polar analytes, was used for sample preparation. A sample processing manifold (VacMaster, Biotage, Sweden) working at a vacuum of −0.5<ce:hsp sp="0.25"/>bar was used for extraction procedure. Following extraction method was applied: [Condition] 4<ce:hsp sp="0.25"/>mL methanol<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>[Equilibrate] 10<ce:hsp sp="0.25"/>mL water<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>[Load] 500<ce:hsp sp="0.25"/>mL water sample<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>[Elute] 15<ce:hsp sp="0.25"/>mL MTBE. The MTBE extract was cleaned by freezing the residual water overnight at −20<ce:hsp sp="0.25"/>°C. 20<ce:hsp sp="0.25"/>mL toluene were added and the extract was concentrated with a multiport condenser (Büchi Syncore, Büchi, Switzerland) at 50<ce:hsp sp="0.25"/>°C and 60<ce:hsp sp="0.25"/>bar to a volume of 1<ce:hsp sp="0.25"/>mL which was directly used for qualitative analysis.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0045" view="all">
+                        <ce:label>2.3.2</ce:label>
+                        <ce:section-title>Liquid liquid extraction (LLE) for quantitative analysis</ce:section-title>
+                        <ce:para id="p0035" view="all">One liter water was extracted with 10<ce:hsp sp="0.25"/>mL toluene (SupraSolv, Merck, Darmstadt, Germany) for 20<ce:hsp sp="0.25"/>min at 500<ce:hsp sp="0.25"/>rpm by means of a teflonised stir bar. For internal standard (IS) calibration, an aliquot of 100<ce:hsp sp="0.25"/>μL IS-solution containing 100<ce:hsp sp="0.25"/>ng D<ce:inf loc="post">15</ce:inf> musk xylene (Ehrenstorfer, Augsburg, Germany) was added. After 30<ce:hsp sp="0.25"/>min of phase separation, the organic phase was dried by freezing the residual water overnight at 20<ce:hsp sp="0.25"/>°C. The extract was concentrated with a multiport condenser (Büchi Syncore, Büchi, Switzerland) at 50<ce:hsp sp="0.25"/>°C and 60<ce:hsp sp="0.25"/>bar to a volume of 1<ce:hsp sp="0.25"/>mL which was directly used for quantitative analysis.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>Analysis by GC–MS</ce:section-title>
+                     <ce:para id="p0040" view="all">Analysis was performed by gas chromatographic separation on a Trace GC ultra system obtained from Thermo Scientific (Dreieich, Germany) with quadrupole mass spectrometric detection system using a DSQ. The GC–MS was equipped with a programmable temperature vaporizer (PTV) injector and a Trace auto sampler. The PTV was operated in PTV splitless mode with the following temperature program: 80<ce:hsp sp="0.25"/>°C (0.1<ce:hsp sp="0.25"/>s)<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>12<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>s<ce:sup loc="post">−1<ce:hsp sp="0.25"/>
+                        </ce:sup>→<ce:hsp sp="0.25"/>280<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>s<ce:sup loc="post">−1<ce:hsp sp="0.25"/>
+                        </ce:sup>→<ce:hsp sp="0.25"/>300<ce:hsp sp="0.25"/>°C (7<ce:hsp sp="0.25"/>min). The injection volume was set to 1<ce:hsp sp="0.25"/>μL. Helium (5.0) was used as carrier gas with a flow 1.3<ce:hsp sp="0.25"/>mL<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup> while 20<ce:hsp sp="0.25"/>mL<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup> were utilized as split flow on the PTV during the cleaning phase. The GC separation was performed using a DB-5MS column (J&amp;W Scientific, Folsom, CA, USA (length: 15<ce:hsp sp="0.25"/>m, i.d.: 0.25<ce:hsp sp="0.25"/>mm, film: 0.25<ce:hsp sp="0.25"/>μm)). The GC oven temperature was programmed according to: 70<ce:hsp sp="0.25"/>°C (1<ce:hsp sp="0.25"/>min)<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>8<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>240<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>30<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>280<ce:hsp sp="0.25"/>°C (7<ce:hsp sp="0.25"/>min). The ion source of the mass spectrometer (MS) was set to 230<ce:hsp sp="0.25"/>°C and 70<ce:hsp sp="0.25"/>eV ionization energy; the secondary electron multiplier was operated at 1350<ce:hsp sp="0.25"/>V. Qualitative analysis was performed in full scan mode (50–400<ce:hsp sp="0.25"/>u). Quantitative analysis was performed in selected ion mode (SIM). For quantification in SIM mode a dwell time of 50<ce:hsp sp="0.25"/>ms was used and typically 11 data points for each chromatographic peak were obtained. For quantification of each compound two specific mass fragments were analyzed at the analyte specific retention time (Rt). Calibration was performed as an eight-step internal standard calibration (linear regression, 1/<ce:italic>x</ce:italic> weighing) using musk xylene D<ce:inf loc="post">15</ce:inf> as internal standard for all compounds. Recovery rates (RR), limits of quantification (LOQ), and standard deviations (SD) were determined for the LLE procedure using tap water. Data were received from 18 extractions of tap water spiked with concentrations of each analyte in the range of 10–3000<ce:hsp sp="0.25"/>ng<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>. The limit of detection was defined as signal-to-noise ratio 3:1. The limit of quantification was taken either as signal-to noise ratio 10:1, calculated for the respective SIM chromatograms, or as the lowest concentrations matching the linear range of the recovery rates received from higher concentration levels. GC-measurement was performed in duplicate for each extraction. Quality data and method validation data are listed in <ce:cross-ref refid="s0100">Suppl. Table 1</ce:cross-ref>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0055" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section id="s0060" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Oxidation product screening</ce:section-title>
+                     <ce:para id="p0045" view="all">Mixing of ozone water with spiked tap water (spiked with a single compound) was conducted to identify oxidation products. Tap water was used to make sure the correct origin of the transformation products was known.</ce:para>
+                     <ce:section id="s0065" view="all">
+                        <ce:label>3.1.1</ce:label>
+                        <ce:section-title>HHCB</ce:section-title>
+                        <ce:para id="p0050" view="all">In <ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref>
+                           <ce:float-anchor refid="f0005"/> the total ion chromatograms (TIC) of an untreated and an oxidized HHCB sample are compared. The untreated HHCB sample comprises one major and several minor isomers of HHCB (Rt 18.35–19.56) deriving from spiking with a technical pure (not analytical pure) standard. The TIC of the oxidized HHCB sample shows peaks at Rt 21.02–23.58, which can only originate from the reaction of ozone with HHCB. Thus the ozonation of HHCB results in the formation of stable oxidation products. The comparison of the mass spectrum and retention time with a HHCB-Lactone standard verified the main oxidation product at Rt 22.72 as HHCB-Lactone (see chemical structure in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>). HHCB-Lactone has been observed in the aquatic environment before and it is reported to be a transformation product of HHCB during biotransformation in some waste water treatment plants operating with activated sludge (<ce:cross-refs refid="b0020 b0015">Bester, 2004, 2005</ce:cross-refs>). Organic compounds can be oxidized during ozonation by ozone or OH radicals. Ozonation experiments of HHCB with and without <ce:italic>tert</ce:italic>-butanol were performed to distinguish whether O<ce:inf loc="post">3</ce:inf> or OH radicals were relevant for the production of HHCB-Lactone. Having <ce:italic>tert</ce:italic>-butanol in solution the contribution of OH radicals to the oxidation can be neglected. Both experiments, with and without addition of <ce:italic>tert</ce:italic>-butanol, resulted in the formation of HHCB-Lactone. Thus, only the direct ozone reaction with HHCB is responsible for the production of HHCB-Lactone.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0070" view="all">
+                        <ce:label>3.1.2</ce:label>
+                        <ce:section-title>AHTN and OTNE</ce:section-title>
+                        <ce:para id="p0055" view="all">Ozonation of AHTN and OTNE resulted in the formation of many stable oxidation by-products. In <ce:cross-ref refid="s0100">Suppl. Figs. 1 and 2</ce:cross-ref> the total ion chromatograms (TIC) of untreated and oxidized samples are compared. Mass spectrometric data of the oxidation by-products are listed in <ce:cross-ref refid="t0010">Table 2</ce:cross-ref>
+                           <ce:float-anchor refid="t0010"/>. The mass spectrum of an AHTN by-product at the retention time of 21.53<ce:hsp sp="0.25"/>min (AHTN O12) shows great similarities to an AHTN derivative 3-acetyl-5,6,7,8-tetrahydro-5,5,7,8,8-pentamethyl-2-naphthalenecarbaldehyde synthesized by <ce:cross-ref refid="b0115">Valdersnes et al. (2006)</ce:cross-ref>. The mass spectra can be compared in <ce:cross-ref refid="t0010">Table 2</ce:cross-ref>. The chemical structure of the presumed oxidation by-product is depicted in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>. Purchasing of standard compounds for the verification of oxidation by-products was not possible as they are not commercially available. Thus the full identification of by-products of AHTN and OTNE was not achieved.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0075" view="all">
+                        <ce:label>3.1.3</ce:label>
+                        <ce:section-title>Musk ketone and musk xylene</ce:section-title>
+                        <ce:para id="p0060" view="all">No oxidation products were found for the nitro musk compounds musk xylene (MX) and musk ketone (MK), nor did the concentration of these parent compounds change within the experiments. Due to complete substitution with alkyl and nitro groups around the aromatic ring system, steric hindrance most likely inhibits oxidation reaction at the aromatic ring system. Furthermore, nitro groups are −M mesomeric substituents (electron withdrawing properties) and make the aromatic ring system less reactive and more stable. Additionally, nitro groups themselves can basically not be oxidized.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0080" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Kinetic studies</ce:section-title>
+                     <ce:para id="p0065" view="all">
+                        <ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref> and <ce:cross-ref refid="s0100">Suppl. Fig. 2</ce:cross-ref> depict the concentrations of the selected fragrances in spiked waste water as a function of contact time with a constant ozone input (steady state: 5<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>). The time for complete removal of the fragrance compounds OTNE, AHTN, HHCB and the produced oxidation by-product HHCB-Lactone ranged between 10 and 120<ce:hsp sp="0.25"/>min. Thus minimal differences in chemical structures, e.g. HHCB and HHCB-Lactone, can have enormous influence on the reactivity towards ozone and OH radicals. The parent compound HHCB, having an initial concentration of 180<ce:hsp sp="0.25"/>μg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, was removed within 20<ce:hsp sp="0.25"/>min contact time; while complete removal of the oxidation product HHCB-Lactone, was achieved after 120<ce:hsp sp="0.25"/>min. As most of the HHCB is rapidly oxidized to HHCB-Lactone, the concentration of this transformation product had its maximum of 55<ce:hsp sp="0.25"/>μg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>after 10<ce:hsp sp="0.25"/>min. Removal of 400<ce:hsp sp="0.25"/>μg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> OTNE and 215<ce:hsp sp="0.25"/>μg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> AHTN was achieved after 10 and 120<ce:hsp sp="0.25"/>min, respectively. The compounds MK and MX persisted after 120<ce:hsp sp="0.25"/>min ozonation.</ce:para>
+                     <ce:para id="p0070" view="all">Rate constants for the ozonation of the fragrances in waste water were calculated. The reaction was considered pseudo first order as the ozone concentration remained constant (permanently bubbling of ozone gas into waste water, having an ozone concentration of 5<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> at steady state conditions) as the reaction proceeded.</ce:para>
+                     <ce:para id="p0075" view="all">Pseudo first order rate equation:<ce:display>
+                           <ce:formula id="e0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:mi>r</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mi>k</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>′</mml:mo>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:mo stretchy="false">[</mml:mo>
+                                 <mml:mtext>A</mml:mtext>
+                                 <mml:mo stretchy="false">]</mml:mo>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="e0010">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si2.gif" overflow="scroll">
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mi>K</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>′</mml:mo>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>k</mml:mi>
+                                 <mml:mo stretchy="false">[</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>O</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>3</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">]</mml:mo>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:mtext>taking</mml:mtext>
+                                 <mml:mspace width="0.35em"/>
+                                 <mml:mo stretchy="false">[</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>O</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>3</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">]</mml:mo>
+                                 <mml:mspace width="0.35em"/>
+                                 <mml:mtext>as constant</mml:mtext>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>k</ce:italic>′ is the pseudo first order rate constant, <ce:italic>k</ce:italic> the second order rate constant, [A] the concentration of fragrance compound.</ce:para>
+                     <ce:para id="p0080" view="all">The data from <ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref> were plotted as [ln(<ce:italic>c</ce:italic>/<ce:italic>c</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>)]/<ce:italic>c</ce:italic>
+                        <ce:inf loc="post">ozone</ce:inf> against time (<ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref>). Using linear regression, a function of time was received, the slope of which yielding the second order rate constant (<ce:cross-ref refid="b0075">Nöthe et al., 2007</ce:cross-ref>). In <ce:cross-ref refid="t0015">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="t0015"/> the second order reaction rate constant <ce:italic>k</ce:italic> and the corresponding half-life <ce:italic>t</ce:italic>
+                        <ce:inf loc="post">1/2</ce:inf> of the compounds are listed. <ce:cross-ref refid="b0120">Von Gunten (2003)</ce:cross-ref> reported second order rate constants for ozonation ranging between &lt;0.1<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> and 7<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">9</ce:sup>
+                        <ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>, which is a wide range of about 10 orders of magnitude. Thus the calculated fragrances rate constants of 67<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> (HHCB), 10<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> (AHTN), 3<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> (HHCB-Lactone), and 94<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> (OTNE) have to be categorized, taking a scaling of 1–10 (1<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>low<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.1<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>, 10<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>high<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>710<ce:sup loc="post">9</ce:sup>
+                        <ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>), as little reactive (category 2: HHCB-Lactone, AHTN; category 3: HHCB, OTNE) towards ozonation. <ce:cross-ref refid="b0075">Nöthe et al. (2007)</ce:cross-ref> measured rate constants of 140<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> and 8<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> for the reaction of HHCB and AHTN with ozone in deionised water. Thus the waste water matrix reduced the reaction efficiency of ozone and HHCB by half from 140<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> (pure water) to 67<ce:hsp sp="0.25"/>M<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> (waste water). However, the waste water matrix was not relevant for the ozonation efficiency of the little reactive compound AHTN.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0085" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Prediction of removal rates for full scale reactors</ce:section-title>
+                     <ce:para id="p0085" view="all">The above discussed data can be used to predict removal rates from full scale reactors. Taking into account that full scale reactors have relative short hydraulic retention times (HRT) we used a 15<ce:hsp sp="0.25"/>min HRT and an ozone concentration of 5<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> as a realistic design assumption. Using the above mentioned rate constants theoretical elimination rates can be calculated: HHCB: 99%; AHTN: 50%; OTNE; 99.9%. If the ozone concentrations are reduced to the more cost effective 2<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> ozone concentrations the elimination rates will be decreased to HHCB: 80%; AHTN: 22%; OTNE; 91. However, comparing <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>
+                        <ce:float-anchor refid="f0015"/> and <ce:cross-ref refid="t0015">Table 3</ce:cross-ref> give an indication that even the primary transformation products such as HHCB-Lactone will be formed under condition 5<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> ozone and 15<ce:hsp sp="0.25"/>min HRT. Its halflife is way longer than the HRT. Thus the reactors will have a net production of primary oxidation by-products. Removing the primary transformation products might need a HRT of approximately 100<ce:hsp sp="0.25"/>min. However, it might be considered that also secondary transformation products may be formed.</ce:para>
+                     <ce:para id="p0090" view="all">Concerning musk xylene and musk ketone: they are not being oxidized under these conditions, thus changing of HRT or ozone concentration will no be successful in removing them, but other removal mechanisms will be needed.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0090" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para id="p0095" view="all">This study shows that considering fragrance compounds, HHCB, AHTN and OTNE but no nitro musks can be removed from treated waste water by means of ozone. However, several stable transformation products have been identified and described in this paper. The assessment of the transformation products is as complex as the resulting pattern of oxidation by-products and is only starting. To remove at least some of transformation products, higher hydraulic residence time than 15<ce:hsp sp="0.25"/>min might be feasible.</ce:para>
+                  <ce:para id="p0100" view="all">Though the treatment with ozone is highly effective, for a complete removal of problematic compounds it might be required to combine ozonation with other technologies if not all transformation products can be proven to be harmless.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgments</ce:section-title>
+               <ce:para id="p0105" view="all">The authors would like to thank for financial support from the German Federal ministry of Economics and Technology within the agenda for the promotion of industrial cooperative research and development (IGF) based on a decision of the German Bundestag. The access was opened by member organization environmental technology and organized by the AiF, Arbeitsgemeinschaft industrieller Forschungsvereinigungen, Cologne (IGF-Project No. 15862<ce:hsp sp="0.25"/>N). The authors appreciate the cooperation and promotion of the local water boards which participated in this project.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0095">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title>Supplementary material</ce:section-title>
+                  <ce:para id="p0110" view="all">Supplementary data associated with this article can be found, in the online version, at <ce:inter-ref xlink:href="doi:10.1016/j.chemosphere.2011.08.043" xlink:type="simple">doi:10.1016/j.chemosphere.2011.08.043</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0100">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title>Supplementary material</ce:section-title>
+                  <ce:para id="p0115" view="all">
+                     <ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary data 1</ce:label>
+                           <ce:link locator="mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bs0005">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>Arcand-Hoy et al., 1998</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Arcand-Hoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Nimrod</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Benson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Endocrine-modulating substances in the environment estrogenic effects of pharmaceutical products</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Toxicol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>139</sb:first-page>
+                              <sb:last-page>158</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>Benner and Ternes, 2009</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Benner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Ternes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ozonation of metoprolol: elucidation of oxidation pathways and major oxidation products</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5472</sb:first-page>
+                              <sb:last-page>5480</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>Bester, 2005</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bester</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polycyclic musks in the Ruhr catchment area – transport, discharges of waste water, and transformations of HHCB, AHTN and HHCB-lactone</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Monit.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                              <sb:last-page>51</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>Bester, 2004</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bester</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Retention characteristics and balance assessment for two polycyclic musk fragrances (HHCB and AHTN) in a typical German sewage treatment plant</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>863</sb:first-page>
+                              <sb:last-page>870</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>Bester et al., 2008A</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Bester, K., Klasmeier, J., Kupper, T., 2008A. Emissions of OTNE (Iso-E-super) mass flows in sewage treatment plants. Chemosphere 71, 2003–2010.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>Bester et al., 2008B</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Bester, K., Hüffmeyer, N., Schaub, E., Klasmeier, J., 2008B. Surface water concentrations of the fragrance compound OTNE in Germany – a comparison between data from measurements and models. Chemosphere 73, 1366–1372.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>Chen and Bester, 2009</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bester</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of organic micro-pollutants such as personal care products, plasticizers and flame retardants in sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Bioanal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>395</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1877</sb:first-page>
+                              <sb:last-page>1884</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>Fent et al., 2006</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fent</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Weston</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Caminada</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ecotoxicology of human pharmaceuticals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aquat. Toxicol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>122</sb:first-page>
+                              <sb:last-page>159</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>Forni et al., 1982</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Forni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bahnemann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.J.</ce:given-name>
+                                 <ce:surname>Hart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanism of hydroxide ion initiated decomposition of ozone in aqueous solution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>255</sb:first-page>
+                              <sb:last-page>259</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>Halling-Sørensen et al., 1998</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Halling-Sørensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.N.</ce:given-name>
+                                 <ce:surname>Nielsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Lanzky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ingerslev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.H.</ce:given-name>
+                                 <ce:surname>Lützhøft</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Jørgensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Occurrence, fate and effects of pharmaceutical substances in the environment – a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>357</sb:first-page>
+                              <sb:last-page>394</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>Horii et al., 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Horii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Reiner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.G.</ce:given-name>
+                                 <ce:surname>Loganathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Senthil Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sajwan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kannan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Occurrence and fate of polycyclic musks in wastewater treatment plants in Kentucky and Georgia, USA</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2011</sb:first-page>
+                              <sb:last-page>2020</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>Ikehata et al., 2008</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ikehata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gamal El-Din</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Snyder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ozonation and advanced oxidation treatment of emerging organic pollutants in water and wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ozone Sci. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                              <sb:last-page>26</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>Kolpin et al., 2002</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Kolpin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.T.</ce:given-name>
+                                 <ce:surname>Furlong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Meyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Thurman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Zaugg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Barber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.T.</ce:given-name>
+                                 <ce:surname>Buxton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pharmaceuticals, hormones, and other organic wastewater contaminants in US streams, 1999–2000: a national reconnaissance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1202</sb:first-page>
+                              <sb:last-page>1211</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>Kümmerer, 2004</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kümmerer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Resistance in the environment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Antimicrob. Chemother.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>311</sb:first-page>
+                              <sb:last-page>320</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>Kupper et al., 2006</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kupper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Plagellat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Braendli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>de Alencastro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Grandjean</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tarradellas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fate and removal of polycyclic musks, UV filters and biocides during wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2603</sb:first-page>
+                              <sb:last-page>2612</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>Lee and von Gunten, 2010</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>von Gunten</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxidative transformation of micropollutants during municipal wastewater treatment: comparison of kinetic aspects of selective (chlorine, chlorine dioxide, ferrate(VI), and ozone) and non-selective oxidants (hydroxyl radical)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>555</sb:first-page>
+                              <sb:last-page>566</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>Nöthe et al., 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nöthe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hartmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>von Sonntag</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Fahlenkamp</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Elimination of the musk fragrances galaxolide and tonalide from wastewater by ozonation and concomitant stripping</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>287</sb:first-page>
+                              <sb:last-page>292</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>Nöthe et al., 2009</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nöthe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Fahlenkamp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>von Sonntag</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ozonation of waste water: rate of ozone consumption and hydroxyl radical yield</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5990</sb:first-page>
+                              <sb:last-page>5995</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>Sein et al., 2009</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Sein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.C.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Golloch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>von Sonntag</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxidation of some typical waste water contaminants (tributyltin, clarithromycin, metoprolol and diclofenac) by ozone</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1479</sb:first-page>
+                              <sb:last-page>1485</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>Simonich et al., 2000</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Simonich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Begley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Debaere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Eckhoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Trace analysis of fragrance materials in wastewater and treated wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>959</sb:first-page>
+                              <sb:last-page>965</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>Simonich et al., 2002</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Simonich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Federle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Eckhoff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rottiers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Webb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sabaliunas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>De Wolf</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Removal of fragrance materials during US and European wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2839</sb:first-page>
+                              <sb:last-page>2847</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>Reiner et al., 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Reiner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Berset</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kannan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fate of polycyclic musks in wastewater treatment plants</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Arch. Environ. Con. Tox.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>451</sb:first-page>
+                              <sb:last-page>457</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>Snyder et al., 2006</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Snyder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>Wert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Rexing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Zegers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Drury</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ozone oxidation of endocrine disruptors and pharmaceuticals in surface water and wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ozone Sci. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                              <sb:last-page>460</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>Ternes, 1998</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Ternes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Occurrence of drugs in german sewage treatment plants and rivers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3245</sb:first-page>
+                              <sb:last-page>3260</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>Tuerk et al., 2010</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tuerk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Sayder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Boergers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Vitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Kiffmeyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kabasci</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Efficiency, costs and benefits of AOPs for removal of pharmaceuticals from the water cycle</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>985</sb:first-page>
+                              <sb:last-page>993</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>Valdersnes et al., 2006</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Valdersnes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kallenborn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Sydnes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Identification of several Tonalide transformation products in the environment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Environ. Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>461</sb:first-page>
+                              <sb:last-page>4716</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>Von Gunten, 2003</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Von Gunten</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ozonation of drinking water: Part I. Oxidation kinetics and product formation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1443</sb:first-page>
+                              <sb:last-page>1467</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

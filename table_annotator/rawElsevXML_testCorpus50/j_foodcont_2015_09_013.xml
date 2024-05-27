@@ -1,0 +1,2261 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0956713515301924</prism:url><dc:identifier>doi:10.1016/j.foodcont.2015.09.013</dc:identifier><eid>1-s2.0-S0956713515301924</eid><prism:doi>10.1016/j.foodcont.2015.09.013</prism:doi><pii>S0956-7135(15)30192-4</pii><dc:title>Kinetic study of aflatoxins' degradation in the presence of ozone </dc:title><prism:publicationName>Food Control</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09567135</prism:issn><prism:volume>61</prism:volume><prism:startingPage>221</prism:startingPage><prism:endingPage>226</prism:endingPage><prism:pageRange>221-226</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-03-31</prism:coverDate><prism:coverDisplayDate>March 2016</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Agriopoulou, S.</dc:creator><dc:creator>Koliadima, A.</dc:creator><dc:creator>Karaiskakis, G.</dc:creator><dc:creator>Kapolos, J.</dc:creator><dc:description>
+                  The degradation of aflatoxins AFB1, AFB2, AFG1 and AFG2 after treatment of their solutions in triple distilled water with ozone was studied and the ability of ozone, even at low concentrations, to degrade aflatoxins was proved. Ozone concentrations of 8.5, 13.5, 20, 25 and 40 ppm were applied at different temperatures on aflatoxin solutions in triple distilled water of 10 ppb and 2 ppb and the complete and rapid elimination of AFB1 and AFG1 was observed while AFB2 and AFG2 remain more or less stable. The kinetic equations for the degradation procedure were calculated by applying ozone on neutral buffer solutions of aflatoxin at 298.15, 308.15, 318.15 and 328.15 K at ozone concentrations of 8.5, 13.5 and 20 ppm and the rate constants, were determined. The degradation of aflatoxins was described by a first order kinetic equation. Finally, the activation energies during degradation of aflatoxins were calculated from the Arrhenius equation.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Aflatoxins</dcterms:subject><dcterms:subject>Ozone</dcterms:subject><dcterms:subject>Degradation</dcterms:subject><dcterms:subject>Kinetics</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0956713515301924" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0956713515301924" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="121" size="14979">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="89" size="10077">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="87" size="9605">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="160" size="9138">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="164" size="9665">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="8398">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="343" size="50974">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="253" size="43087">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="248" size="41624">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="283" size="25129">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="290" size="26427">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="706" height="264" size="36301">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="107" height="15" size="383">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="275" height="37" size="1285">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="106" height="17" size="413">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="68" height="35" size="404">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="134" height="31" size="551">https://api.elsevier.com/content/object/eid/1-s2.0-S0956713515301924-si5.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84944096212</scopus-id><scopus-eid>2-s2.0-84944096212</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84944096212" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271164</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291688</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Food Control</xocs:srctitle>
+      <xocs:normalized-srctitle>FOODCONTROL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150915">2015-09-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150915">2015-09-15</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20151022">2015-10-22</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20151022">2015-10-22</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2015-11-06T17:22:14</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0956713515301924</xocs:eid>
+      <xocs:pii-formatted>S0956-7135(15)30192-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0956713515301924</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.foodcont.2015.09.013</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0956713515X00107</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160903">2016-09-03T04:20:55.99476-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160301</xocs:date-search-begin>
+      <xocs:date-search-end>20160331</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1442299909">2015-09-15T06:51:49.5915Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0956-7135</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09567135</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>61</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>61</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 61</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>28</xocs:sort-order>
+      <xocs:first-fp>221</xocs:first-fp>
+      <xocs:last-lp>226</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>221</xocs:first-page>
+         <xocs:last-page>226</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201603</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>March 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-03-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-03-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>KINETICSTUDYAFLATOXINSDEGRADATIONINPRESENCEOZONE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>AGRIOPOULOU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemicals and reagents</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Aflatoxin standards in water</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ozone production</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>HPLC analysis of aflatoxins</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>ALI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1763</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1772</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>284</xocs:ref-first-fp>
+            <xocs:ref-last-lp>288</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>CHIAVARO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-last-lp>40</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>GIRAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-last-lp>29</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>HUSSAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>393</xocs:ref-first-fp>
+            <xocs:ref-last-lp>395</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>IARCINTERNATIONALAGENCYFORRESEARCHONCANCER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>609</xocs:ref-last-lp>
+            <xocs:ref-normalized-srctitle>NATURALLYOCCURRINGSUBSTANCESFOODITEMSCONSTITUENTSHETEROCYCLICAROMATICAMINESMYCOTOXINS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>IARCMONOGRAPHSEVALUATIONCARCINOGENICRISKSHUMANS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>INAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>425</xocs:ref-first-fp>
+            <xocs:ref-last-lp>429</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>JOLLY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-last-lp>358</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>KARACA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>122</xocs:ref-first-fp>
+            <xocs:ref-last-lp>129</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>KURTZMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>147</xocs:ref-first-fp>
+            <xocs:ref-last-lp>158</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>LUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>176</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>MAEBA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>667</xocs:ref-first-fp>
+            <xocs:ref-last-lp>668</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>MCKENZIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>807</xocs:ref-first-fp>
+            <xocs:ref-last-lp>820</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>NASIR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3116</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3121</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>173</xocs:ref-first-fp>
+            <xocs:ref-last-lp>179</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>PIETRI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1431</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1439</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>REDDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>154</xocs:ref-first-fp>
+            <xocs:ref-last-lp>168</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>REITER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>508</xocs:ref-first-fp>
+            <xocs:ref-last-lp>524</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>RINKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1802</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1807</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>SANTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>COMPILATIONHENRYSLAWCONSTANTSFORINORGANICORGANICSPECIESPOTENTIALIMPORTANCEINENVIRONMENTALCHEMISTRYVERSION3</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>SARIGIANNIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>139</xocs:ref-first-fp>
+            <xocs:ref-last-lp>143</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>USA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>18937</xocs:ref-first-fp>
+            <xocs:ref-last-lp>18964</xocs:ref-last-lp>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>ZINEDINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>334</xocs:ref-first-fp>
+            <xocs:ref-last-lp>344</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>ZORLUGENC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3593</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3597</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>AGRIOPOULOUX2016X221</xocs:refkey3>
+         <xocs:refkey4lp>AGRIOPOULOUX2016X221X226</xocs:refkey4lp>
+         <xocs:refkey4ai>AGRIOPOULOUX2016X221XS</xocs:refkey4ai>
+         <xocs:refkey5>AGRIOPOULOUX2016X221X226XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-start-date>2016-10-22T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0956-7135(15)30192-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0956713515301924</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0956713515301924</xocs:eid>
+         <xocs:doi>10.1016/j.foodcont.2015.09.013</xocs:doi>
+         <xocs:cid>271164</xocs:cid>
+         <xocs:timestamp>2015-11-06T12:29:43.667071-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-03-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-03-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/MAIN/application/pdf/327881456b12a3b8b699cd3ffdf8d89b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/MAIN/application/pdf/327881456b12a3b8b699cd3ffdf8d89b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>879067</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0956713515301924-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/PREVIEW/image/png/78b03dc61fad12508473ff485bc37218/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/PREVIEW/image/png/78b03dc61fad12508473ff485bc37218/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61150</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr1/THUMBNAIL/image/gif/64befeefe4047566ee144991652b1da0/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr1/THUMBNAIL/image/gif/64befeefe4047566ee144991652b1da0/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14979</xocs:filesize>
+               <xocs:pixel-height>121</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr2/THUMBNAIL/image/gif/e49bf4024df04c870755802927303e62/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr2/THUMBNAIL/image/gif/e49bf4024df04c870755802927303e62/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10077</xocs:filesize>
+               <xocs:pixel-height>89</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr3/THUMBNAIL/image/gif/d5c3d5257b253fa86928fa8ce6d66c48/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr3/THUMBNAIL/image/gif/d5c3d5257b253fa86928fa8ce6d66c48/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9605</xocs:filesize>
+               <xocs:pixel-height>87</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr4/THUMBNAIL/image/gif/de933c273d303e1723dafa5909d0eba7/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr4/THUMBNAIL/image/gif/de933c273d303e1723dafa5909d0eba7/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9138</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr5/THUMBNAIL/image/gif/98efd09520f6149f831d723a3e7a9724/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr5/THUMBNAIL/image/gif/98efd09520f6149f831d723a3e7a9724/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9665</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr6/THUMBNAIL/image/gif/16051685aa4620211607ed89f9506e19/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr6/THUMBNAIL/image/gif/16051685aa4620211607ed89f9506e19/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8398</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr1/DOWNSAMPLED/image/jpeg/694820083c9b1a6a50a535a247fae5b8/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr1/DOWNSAMPLED/image/jpeg/694820083c9b1a6a50a535a247fae5b8/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>50974</xocs:filesize>
+               <xocs:pixel-height>343</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr2/DOWNSAMPLED/image/jpeg/84e721ee07070e866894318531ee6a2e/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr2/DOWNSAMPLED/image/jpeg/84e721ee07070e866894318531ee6a2e/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43087</xocs:filesize>
+               <xocs:pixel-height>253</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr3/DOWNSAMPLED/image/jpeg/c9d2ae2099c69c0fdd4dfcc4a11461b8/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr3/DOWNSAMPLED/image/jpeg/c9d2ae2099c69c0fdd4dfcc4a11461b8/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41624</xocs:filesize>
+               <xocs:pixel-height>248</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr4/DOWNSAMPLED/image/jpeg/9815428984dc4646cf74a45c4c7e2de4/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr4/DOWNSAMPLED/image/jpeg/9815428984dc4646cf74a45c4c7e2de4/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25129</xocs:filesize>
+               <xocs:pixel-height>283</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr5/DOWNSAMPLED/image/jpeg/2a3ba8ae55751d42ed831ee79311e465/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr5/DOWNSAMPLED/image/jpeg/2a3ba8ae55751d42ed831ee79311e465/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26427</xocs:filesize>
+               <xocs:pixel-height>290</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/gr6/DOWNSAMPLED/image/jpeg/f4d695c493dc0730fd3eaad5579349d4/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/gr6/DOWNSAMPLED/image/jpeg/f4d695c493dc0730fd3eaad5579349d4/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>36301</xocs:filesize>
+               <xocs:pixel-height>264</xocs:pixel-height>
+               <xocs:pixel-width>706</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/STRIPIN/image/gif/9e3796a1065519b6b0f085273ef535c4/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/STRIPIN/image/gif/9e3796a1065519b6b0f085273ef535c4/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>383</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>107</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/STRIPIN/image/gif/d89b1f17730066f3e84511f11852ed00/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/STRIPIN/image/gif/d89b1f17730066f3e84511f11852ed00/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1285</xocs:filesize>
+               <xocs:pixel-height>37</xocs:pixel-height>
+               <xocs:pixel-width>275</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/STRIPIN/image/gif/6107fce424544b6148000e9a5bb640cc/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/STRIPIN/image/gif/6107fce424544b6148000e9a5bb640cc/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>413</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>106</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/STRIPIN/image/gif/aba4afdafdbcc074224176882cd86295/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/STRIPIN/image/gif/aba4afdafdbcc074224176882cd86295/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>404</xocs:filesize>
+               <xocs:pixel-height>35</xocs:pixel-height>
+               <xocs:pixel-width>68</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956713515301924-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956713515301924/STRIPIN/image/gif/5af98183de7b9bb14240b37d1c104275/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956713515301924/STRIPIN/image/gif/5af98183de7b9bb14240b37d1c104275/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>551</xocs:filesize>
+               <xocs:pixel-height>31</xocs:pixel-height>
+               <xocs:pixel-width>134</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>JFCO</jid>
+            <aid>4647</aid>
+            <ce:pii>S0956-7135(15)30192-4</ce:pii>
+            <ce:doi>10.1016/j.foodcont.2015.09.013</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Schematic representation of ozone treatment system.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Degradation of aflatoxins AFB1 (a) and AFG1 (b) with concentration of 2 ppb after treatment with 13.5 ppm O<ce:inf loc="post">3</ce:inf> versus time, at different temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Degradation of aflatoxins AFB1 (c) and AFG1 (d) with concentration of 10 ppb after treatment with 13.5 ppm O<ce:inf loc="post">3</ce:inf> versus time, at different temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Variation of ln (AFG1/ppb) with the time in buffer of neutral pH at a temperature of 328.15 K, after treatment with 13.5 ppm O<ce:inf loc="post">3</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Variation of ln (AFB1/ppb) with the time in buffer of neutral pH at a temperature of 328.15 K, after treatment with 13.5 ppm O<ce:inf loc="post">3</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Arrhenius plots (ln<ce:italic>k</ce:italic>
+                     <ce:inf loc="post">true</ce:inf> versus 1/<ce:italic>T</ce:italic>) for the ozonolysis of aflatoxins AFG1 (a) and AFB1 (b) after treatment with 13.5 ppm O<ce:inf loc="post">3</ce:inf> on neutral buffer solution.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="tspara0010" view="all">Apparent rate constants (<ce:italic>k</ce:italic>
+                     <ce:inf loc="post">app</ce:inf>) for the first order degradation of aflatoxins AFB1 and AFG1, in neutral buffer solutions, obtained by HPLC analysis, at various temperatures.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Temperature (K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4">10<sup loc="post">3</sup> × <italic>k</italic>
+                           <inf loc="post">app</inf> AFB1 (s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col5" nameend="col7">10<sup loc="post">3</sup> × <italic>k</italic>
+                           <inf loc="post">app</inf> AFG1 (s<sup loc="post">−1</sup>)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20 ppm O<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">298.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.81</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.50</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">308.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.81</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.60</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">318.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.83</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.02</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.11</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">328.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.33</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.32</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.63</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.12</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="tspara0015" view="all">Henry's constants, H<ce:sup loc="post">−1</ce:sup>o<ce:inf loc="post">3</ce:inf> for the decomposition of ozone in neutral buffer solutions at various temperatures.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Temperature (K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10<sup loc="post">−3</sup> × H<sup loc="post">−1</sup>o<inf loc="post">3</inf> (atm m<sup loc="post">3</sup>/kmol)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">298.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">114.09</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">308.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">149.11</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">318.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">191.83</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">328.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">243.33</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="tspara0020" view="all">Dissolved ozone concentrations in water, C<ce:inf loc="post">aq</ce:inf>, for the kinetic study of the degradation of aflatoxins AFB1 and AFG1 in neutral buffer solutions at various temperatures.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Temperature (K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4">10<sup loc="post">4</sup> × C<inf loc="post">aq</inf> (ppm)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20 ppm O<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">298.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.41</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.56</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">308.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.82</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">318.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.96</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.26</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">328.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.78</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.84</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl4" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="tspara0025" view="all">True rate constants (<ce:italic>k</ce:italic>
+                     <ce:inf loc="post">true)</ce:inf> for the degradation of aflatoxins AFB1 and AFG1, in neutral buffer solutions, obtained by HPLC analysis, at various temperatures.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Temperature (K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4">
+                           <italic>k</italic>
+                           <inf loc="post">true</inf> AFB1 (s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col5" nameend="col7">
+                           <italic>k</italic>
+                           <inf loc="post">true</inf> AFG1 (s<sup loc="post">−1</sup>)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20 ppm O<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">298.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.22</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.61</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.62</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">308.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.77</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">318.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.98</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20.81</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">31.69</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">328.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.78</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">35.86</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">29.83</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">21.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">49.81</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl5" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 5</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="tspara0030" view="all">Values of activation energy, <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">a</ce:inf>, for the degradation of aflatoxins AFB1 and AFG1, after treatment with various ozone concentrations, in neutral buffer solutions.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Aflatoxin</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4">
+                           <italic>E</italic>
+                           <inf loc="post">α</inf> (kJ/mol)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.5 ppm O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20 ppm O<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AFB1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">9.3 ± 0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">23.6 ± 1.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">49.4 ± 2.3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">AFG1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">26.2 ± 1.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">32.6 ± 1.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">37.2 ± 0.5</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Kinetic study of aflatoxins' degradation in the presence of ozone</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1">
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Agriopoulou</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2">
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Koliadima</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3">
+                  <ce:given-name>G.</ce:given-name>
+                  <ce:surname>Karaiskakis</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0020">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4">
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Kapolos</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0030">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Food Technology, Technological and Educational Institution of Peloponnese, 24100 Kalamata, Greece</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Food Technology</sa:organization>
+                     <sa:organization>Technological and Educational Institution of Peloponnese</sa:organization>
+                     <sa:city>Kalamata</sa:city>
+                     <sa:postal-code>24100</sa:postal-code>
+                     <sa:country>Greece</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Chemistry, University of Patras, 26504 Patras, Greece</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>University of Patras</sa:organization>
+                     <sa:city>Patras</sa:city>
+                     <sa:postal-code>26504</sa:postal-code>
+                     <sa:country>Greece</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="28" month="3" year="2015"/>
+            <ce:date-revised day="31" month="8" year="2015"/>
+            <ce:date-accepted day="12" month="9" year="2015"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">The degradation of aflatoxins AFB1, AFB2, AFG1 and AFG2 after treatment of their solutions in triple distilled water with ozone was studied and the ability of ozone, even at low concentrations, to degrade aflatoxins was proved. Ozone concentrations of 8.5, 13.5, 20, 25 and 40 ppm were applied at different temperatures on aflatoxin solutions in triple distilled water of 10 ppb and 2 ppb and the complete and rapid elimination of AFB1 and AFG1 was observed while AFB2 and AFG2 remain more or less stable. The kinetic equations for the degradation procedure were calculated by applying ozone on neutral buffer solutions of aflatoxin at 298.15, 308.15, 318.15 and 328.15 K at ozone concentrations of 8.5, 13.5 and 20 ppm and the rate constants, were determined. The degradation of aflatoxins was described by a first order kinetic equation. Finally, the activation energies during degradation of aflatoxins were calculated from the Arrhenius equation.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Aflatoxins</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Ozone</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Degradation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Kinetics</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0035" view="all">Aflatoxins (AFs) are widely distributed mycotoxins produced by strains of <ce:italic>Aspergillus ﬂavus</ce:italic>, <ce:italic>Aspergillus parasiticus</ce:italic> and <ce:italic>Aspergillus nomius</ce:italic> (<ce:cross-ref refid="bib10" id="crosref0035">Kurtzman, Horn, &amp; Hesseltine, 1987</ce:cross-ref>). Additionally other species which produce aflatoxins are <ce:italic>Aspergillus pseudotamarii</ce:italic>, <ce:italic>Aspergillus ochraceoroseus</ce:italic>, <ce:italic>Aspergillus rambellii</ce:italic>, <ce:italic>Aspergillus toxicarius</ce:italic>, <ce:italic>Emericella astellata</ce:italic>, <ce:italic>Emericella olivicola</ce:italic> and <ce:italic>Emericella venezuelensis</ce:italic> (<ce:cross-ref refid="bib18" id="crosref0040">Reiter, Zentek, &amp; Razzazi, 2009</ce:cross-ref>). Moreover other fungi of the genera <ce:italic>Aspergillus</ce:italic> (e.g., <ce:italic>A. ochraceus</ce:italic> and <ce:italic>A. carbonarius</ce:italic>) produce another important mycotoxin, ochratoxin A (OTA) (<ce:cross-ref refid="bib21" id="crosref0045">Sarigiannis, Kapolos, Koliadima, Tsegenidis, &amp; Karaiskakis, 2014</ce:cross-ref>). Aflatoxins are extremely harmful to the health of humans and animals, as showing carcinogenic, mutagenic, teratogenic and immunosuppressive actions (<ce:cross-ref refid="bib23" id="crosref0050">Zinedine &amp; Mañes, 2009</ce:cross-ref>). The known aflatoxins are about twenty, while the four main aflatoxins which are mainly found in tropical and subtropical climates (<ce:cross-ref refid="bib7" id="crosref0055">Inan, Pala, &amp; Doymaz, 2007</ce:cross-ref>), are referred as aflatoxin B1 (AFB1), aflatoxin B2 (AFB2), aflatoxin G1 (AFG1) and aflatoxin G2 (AFG2). The aflatoxins M1 (AFM1) and M2 (AFM2), which are hydroxylated metabolites of AFB1 and AFB2, can be found in all kinds of milk and dairy products from animals that have consumed contaminated feed with aflatoxins (<ce:cross-refs refid="bib4 bib5" id="crosrefs0010">Giray, Girgin, Engin, Aydın, &amp; Sahin, 2007; Hussain &amp; Anwar, 2008</ce:cross-refs>). Aflatoxins are frequently found in many human foodstuffs or animal feeds (<ce:cross-refs refid="bib1 bib3 bib14 bib15" id="crosrefs0015">Ali et al., 2005; Chiavaro et al., 2001; Nasir &amp; Jolley, 2002; Park, 2002</ce:cross-refs>). From all the food-contaminating aflatoxins, AFB1 is usually the predominant mycotoxin (<ce:cross-ref refid="bib8" id="crosref0060">Jolly et al., 2006</ce:cross-ref>) and the International Agency for Research on Cancer (IARC) has classified aflatoxin AFB1 in the most toxic group (1 carcinogen), which primarily affects the liver (<ce:cross-ref refid="bib6" id="crosref0065">IARC, 1993</ce:cross-ref>). As food and health bodies have not established a tolerable daily intake (Tolerable Daily Intake, TDI) for humans, contamination in food, should be reduced to the lowest possible level (<ce:cross-ref refid="bib16" id="crosref0070">Pietri, Bertuzzi, Agosti, &amp; Donadini, 2010</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0040" view="all">Several factors have been reported as means of reducing the levels of aflatoxins. These are natural, such as mechanical separation of the clean product from the contaminated product (<ce:cross-ref refid="bib9" id="crosref0075">Karaca, 2010</ce:cross-ref>), heating at high temperatures, effects of radiation (<ce:cross-refs refid="bib9 bib17" id="crosrefs0020">Karaca, 2010; Reddy et al., 2009</ce:cross-refs>) and light, grinding, washing, and use of adsorbents (<ce:cross-ref refid="bib9" id="crosref0080">Karaca, 2010</ce:cross-ref>) or chemicals, such as ammoniation (<ce:cross-ref refid="bib17" id="crosref0085">Reddy et al., 2009</ce:cross-ref>), influence of acids and bases, influence of oxidizing agents or with various inorganic and organic chemicals (<ce:cross-ref refid="bib9" id="crosref0090">Karaca, 2010</ce:cross-ref>). Between the oxidizing agents used for the reduction or elimination of aflatoxins, a powerful oxidant is ozone. Ozone is a highly unstable trioatomic oxygen molecule (O<ce:inf loc="post">3</ce:inf>) formed by the addition of an oxygen atom to a molecular diatomic oxygen (O<ce:inf loc="post">2</ce:inf>) that can be generated readily and economically for application to several commodities (<ce:cross-ref refid="bib22" id="crosref0095">USA, 1997</ce:cross-ref>). It is one of the most potential oxidants that has several advantages, most prominently the absence of detectable residues on treated products. Ozone can be generated on-site, eliminating the need to store or dispose of chemical containers. Ozone has been used to reduce various types of mycotoxins, including the aflatoxins (<ce:cross-refs refid="bib2 bib7 bib11 bib24" id="crosrefs0025">Chen et al., 2014; Inan et al., 2007; Luo et al., 2014; Zorlugenç, Kiroǧlu Zorlugenç, Öztekin, &amp; Evliya, 2008</ce:cross-refs>). Ozone reacts across the 8, 9 double bond of the terminal furan ring of aﬂatoxin through electrophilic attack, causing the formation of primary ozonides followed by rearrangement into monozonide derivatives such as aldehydes, ketones and organic acids (<ce:cross-ref refid="bib7" id="crosref0100">Inan et al., 2007</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0045" view="all">Although there have been many studies on ozone reactions with aflatoxins at many important agricultural products, very little kinetic data have been reported. In order to effectively treat aflatoxins with ozone and design appropriate treatment processes, reaction kinetics must be determined.</ce:para>
+                  <ce:para id="p0050" view="all">In the present study the influence of ozone on the degradation of aflatoxins AFB1, AFB2, AFG1 and AFG2 in triple distilled water was investigated, as well as the appropriate kinetic equations for the above procedure in neutral buffer solutions were determined. Determination of activation energy was also performed from the Arrhenius equation, for the degradation of aflatoxins AFB1 and AFG1, in the presence of ozone, in neutral buffer solutions. As far as we know rate constants and activation energies for the degradation of aflatoxins in the presence of ozone are calculated for the first time.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Materials and methods</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0035">Chemicals and reagents</ce:section-title>
+                     <ce:para id="p0055" view="all">Acetonitrile (ACN) and methanol (MeOH) (all of HPLC grade) were purchased from Merck (Darmstadt, Germany). Standards solutions of AFB1, AFB2, AFG1, AFG2, were obtained from the company R-Biopharm (Rhône Diagnostic Technologies Ltd., Glasgow, UK). All solutions were prepared with triple distilled water. Triple distilled water was prepared in a special ultra-clean water system (Purelab Ultra, Elga Labwater, Marlow, UK) for producing ASTM Type I. The freshly prepared mobile phase was degassed for 20 min before use with a Branson 2510 (Branson Ultrasonic Corp., CT, USA) ultrasonic bath. Phosphate buffer solution was prepared with potassium dihydrogen phosphate (34.02 g) and disodium hydrogen phosphate (35.40 g) (all purchased form Merck) in 1 L triple distilled water. The final pH of the solution was adjusting to 7 by adding a few drops of 0.5 M NaOH. The solution was then stored at 4 °C in a sealed flask until use.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0040">Aflatoxin standards in water</ce:section-title>
+                     <ce:para id="p0060" view="all">In order to study the degradation of aflatoxins in triple distilled water in the presence of different concentrations of ozone, aflatoxin standards in water were prepared. The stock solution of the four aflatoxins AFB1, AFB2, AFG1 and AFG2, was reconstituted by dissolving the content of standard in 10 mL of pure acetonitrile, obtaining 5 μg/mL of total aﬂatoxins (2 μg/mL of each aflatoxin AFB1 and AFG1 and 0.5 μg/mL of each aflatoxin AFB2 and AFG2) and stored at 4 °C. The preparation of standard solutions of aflatoxins included in a first stage the preparation of a stock solution, concentration of 200 ng/mL in acetonitrile. From this solution, were prepared by appropriate dilutions in water, working solutions with concentration of 1, 1.5, 2.5, 5, 7.5 and 10 ng/mL and stored at 4 °C until use in order to construct the four calibration curves.</ce:para>
+                     <ce:para id="p0065" view="all">Six-point calibration curves, with triplicate injections, covering the range of 1–10 ng/mL for each aflatoxin, were constructed. Calibration curves were drawn using the average response for each standard concentration employed.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0045">Ozone production</ce:section-title>
+                     <ce:para id="p0070" view="all">Ozone was produced by using an ozone generator (TG-10 Ozone Generator, Ozone Solutions, IA, USA) for the transformation of O<ce:inf loc="post">2</ce:inf> molecules to O atoms and then forming O<ce:inf loc="post">3</ce:inf> by using high voltage current. Ozone was canalized to a constant conditions environmental chamber (KBF 115, Binder, Tuttlingen, Germany) in order to control temperature and relative humidity and after that, through a two port valve, was lead to an ozone analyzer (Ozone analyzer Model UV-100, ECO SENSORS, INC.). When a constant concentration of ozone was measured, the gas stream was guided throw the two port valve to a jacked beaker which was maintained at a constant temperature by mean of a heating circulator (F12-ED, Julabo Seelbach, Germany), (cf. <ce:cross-ref refid="fig1" id="crosref0105">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>).</ce:para>
+                     <ce:para id="p0075" view="all">For the ozonolysis experiments an appropriate volume of a stock solution, containing all the aflatoxins in CH<ce:inf loc="post">3</ce:inf>CN, was added in 50 mL volumetric flask. Two different aflatoxin solutions in triply distilled water were prepared with final concentrations of 10 ppb for AFB1 and AFG1 and 2.5 ppb for AFB2 and AFG2 (first solution) and 2 ppb for AFB1 and AFG1 and 0.5 ppb for AFB2 and AFG2 (second solution). After that, each solution was added in the jacked beaker which was maintained at a constant temperature (298.15 K, 308.15 K, 318.15 K, 328.15 K and 338.15 K). Each aflatoxin solution in triple distilled water was exposed for 20 min on gaseous stream containing ozone at five different concentrations of 8.5, 13.5, 20, 25 and 40 ppm.</ce:para>
+                     <ce:para id="p0080" view="all">In order to obtain kinetic results for the degradation procedure, instead of triply distilled water, buffer solution at pH 7 was used for preparing the aflatoxin solutions of the concentration of 10 and 2 ppb. In contrast to the use of five ozone concentrations that were used for the ozonolysis, for the kinetic study the first three concentrations were used, because the two largest gave no results due to the rapid rate of the phenomenon of degradation. In order to study the influence of ozone on aflatoxin concentration as well as to determine the kinetic equations, every two minutes, a sample of 500 μL, was collected and analyzed. For each experiment fresh aflatoxin solutions were prepared. The quantiﬁcation of aﬂatoxins was calculated by the peak area according to the calibration curve.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sectitle0050">HPLC analysis of aflatoxins</ce:section-title>
+                     <ce:para id="p0085" view="all">The aflatoxin concentrations were determined by using an LC-20A Prominence HPLC system (Shimadzu, Kyoto, Japan) equipped with a spectrofluorometric detector (RF-20A/20Axs), a system controller (CBM-20A/20Alite), a column oven (CTO-20A/20AC), an autosampler (SIL-20AHT/20ACHT) and an on-line degasser (DGU-20A3/20A5). The spectrofluorometric detector was operated at an excitation wavelength of <ce:italic>λ</ce:italic>
+                        <ce:inf loc="post">ex</ce:inf> = 365 nm and an emission wavelength of <ce:italic>λ</ce:italic>
+                        <ce:inf loc="post">em</ce:inf> = 430 nm. Water-methanol-acetronitrile (56:22:22 v/v/v) at a ﬂow rate of 1 mL/min under isocratic conditions was used as mobile phase, the pressure was 113–115 bar and the total run time was 17 min. Separation was completed by Mycotox™ reversed-phase column (C18, 4.6 × 250 mm, 5 μm) (Pickering Laboratories Inc., California, USA). The column temperature was set to 42 °C and sample volumes of 10 μL were injected in triplicate. The samples were analyzed after post-column derivatization with a Pinnacle PCX instrument (Pickering Laboratories Inc., California, USA). The reagent used was iodine (100 mg/L of I<ce:inf loc="post">2</ce:inf> in water), the volume of the reactor was 1.4 mL, the flow rate was 0.3 mL/min and the reactor temperature was 90 °C. The solution of iodine was degassed using a nitrogen gas stream for 15 min. Aflatoxin AFG2 was eluted first followed by AFG1, AFB2 and AFB1 with retention times of approximately 7.5, 8.6, 9.3 and 10.8 min, respectively. The chromatograms were analyzed by LC solution LC-Assist software (Shimadzu). Aflatoxin concentration was expressed in μg of aflatoxin per kg of each standard.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0055">Results and discussion</ce:section-title>
+                  <ce:para id="p0090" view="all">In order to investigate the behavior of the aqueous solutions of the four aflatoxins as well as the response of the detector of the HPLC, calibration curves of different aflatoxins' concentrations, described in the experimental section, against their peak area were produced. The correlation coefficients, R<ce:sup loc="post">2</ce:sup>, for all calibration curves were better than 0.994 which indicated a good linear fitting of the experimental data. From the ozonolysis experiments the time for the complete degradation of AFB1 and AFG1 as well as the % percentage of the degradation of AFB2 and AFG2 were found. From the results the less resistant to ozonolysis aflatoxins proved to be the AFG1 and AFB1, while the more resistant proved to be the AFG2 and AFB2. Also, aflatoxin AFG1 seems to be the less resistant aflatoxin, whilst aflatoxin AFB2 is the most resistant. The sensitivity of aflatoxins in ozone was AFG1 &gt; AFB1 &gt; AFG2 &gt; AFB2. AFB1 has the same behavior as AFG1 and AFB2 as AFG2. These differences in the degradation, agree with the literature (<ce:cross-ref refid="bib13" id="crosref0110">McKenzie et al., 1997</ce:cross-ref>) and can be attributed to the different chemical structure of AFB1 and AFG1 and especially to the double bond between the 8 and 9 carbon atom of the furan ring in the molecule of aflatoxins AFB1 and AFG1, contrary to aflatoxins AFB2 and AFG2.</ce:para>
+                  <ce:para id="p0095" view="all">Specifically, aflatoxins AFB1 and AFG1 with initial concentration of 2 ppb and 10 ppb after treatment with 13.5 ppm ozone rapidly degraded at any temperature, after 3–7 min and 3–4 min, respectively (cf. <ce:cross-refs refid="fig2 fig3" id="crosrefs0030">Figs. 2 and 3</ce:cross-refs>
+                     <ce:float-anchor refid="fig2"/>
+                     <ce:float-anchor refid="fig3"/>).</ce:para>
+                  <ce:para id="p0100" view="all">From the above two aflatoxins AFG1 was less resistant than the AFB1. The same behavior was observed when the concentrations of aflatoxins AFB1 and AFG1 increased 5 times from 2 to 10 ppb. In a study carried out by Maeba et al. (<ce:cross-ref refid="bib12" id="crosref0115">Maeba, Takamoto, Kamimura, &amp; Miura, 1988</ce:cross-ref>) although different solvent was used (4% dimethyl sulfoxide), AFB1 and AFG1 were sensitive to ozone and easily degraded with 1.1 mg/L of ozone within 5 min at room temperature.</ce:para>
+                  <ce:para id="p0105" view="all">Regarding the ozonolysis of aflatoxins in all treatment temperatures, at all concentrations of ozone and to all initial concentrations of aflatoxins, AFB2 and AFG2, proved to be more resistant than aflatoxins AFB1 and AFG1. The more sensitive to the ozonolysis between aflatoxin AFB2 and AFG2 seemed to be the AFG2, while the more stable appeared to be the AFB2. Regarding the range of the degradation, for aflatoxin AFG2 was from 53.9% to 42.1%, whereas the AFB2 remained quite stable, after 20 min treatment and only a degradation from 29.6% to 17.4% was detected. The temperature at which the largest degradation appeared for both aflatoxins AFG2 and AFB2, was the temperature of 308.15 K, the concentration of ozone caused the greatest degradation in both aflatoxins was the concentration of 40 ppm, while the initial concentration caused the largest degradation was that of 0.5 ppb. In fact, during the degradation of aflatoxins AFB2 and AFG2, none of the examined conditions, were able to fully degrade both aflatoxins. In a study carried out by Maeba et al. (<ce:cross-ref refid="bib12" id="crosref0120">Maeba et al., 1988</ce:cross-ref>) aflatoxins AFB2 and AFG2 were rather resistant to ozone, requiring 50–60 min to degrade them completely with 34.3 mg/L of ozone.</ce:para>
+                  <ce:para id="p0110" view="all">We consider that the reaction of the decomposition of aflatoxins by ozone in neutral buffer solutions is a first order reaction depending on the concentration of aflatoxins, as the concentration of ozone is in excess and remains stable during the experiments.</ce:para>
+                  <ce:para id="p0115" view="all">By using the kinetic equation for the first order reactions<ce:display>
+                        <ce:formula id="fd1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math display="block" altimg="si1.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mtext>ln</mml:mtext>
+                                 <mml:mi mathvariant="italic">c</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mtext>ln</mml:mtext>
+                                 <mml:msub>
+                                    <mml:mi mathvariant="italic">c</mml:mi>
+                                    <mml:mtext>o</mml:mtext>
+                                 </mml:msub>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi mathvariant="italic">k</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mtext>app</mml:mtext>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mi mathvariant="italic">t</mml:mi>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>the apparent rate constants (<ce:italic>k</ce:italic>
+                     <ce:inf loc="post">app</ce:inf>) for the degradation of aflatoxins in neutral buffer solutions and at all the working temperatures were calculated from the slopes of the plots of ln<ce:italic>c</ce:italic> versus time t, where c is the aflatoxin concentration. Such plots are appeared in <ce:cross-refs refid="fig4 fig5" id="crosrefs0035">Figs. 4 and 5</ce:cross-refs>
+                     <ce:float-anchor refid="fig4"/>
+                     <ce:float-anchor refid="fig5"/>. The validity of the Eq. <ce:cross-ref refid="fd1" id="crosref0125">(1)</ce:cross-ref> was verified from the experimental data. The R<ce:sup loc="post">2</ce:sup> values were in the range 0.944–0.999.</ce:para>
+                  <ce:para id="p0120" view="all">The apparent rate constants, (<ce:italic>k</ce:italic>
+                     <ce:inf loc="post">app</ce:inf>), for the degradation of aflatoxins AFB1 and AFG1, in the whole working temperature range are quoted in <ce:cross-ref refid="tbl1" id="crosref0130">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>.</ce:para>
+                  <ce:para id="p0125" view="all">The true rate constants for the degradation of aflatoxins AFB1 and AFG1, were obtained by dividing the apparent rate constants, with the concentration of dissolved ozone in water. In order to estimate the concentrations of dissolved ozone in water, the Henry's constants for pH 7 for all the working temperatures were initially calculated with the aid of Eq. <ce:cross-ref refid="fd2" id="crosref0135">(2)</ce:cross-ref> (<ce:cross-ref refid="bib19" id="crosref0140">Rinker et al., 1999</ce:cross-ref>):<ce:display>
+                        <ce:formula id="fd2">
+                           <ce:label>(2)</ce:label>
+                           <mml:math display="block" altimg="si2.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msup>
+                                    <mml:mi mathvariant="italic">H</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">−1</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:msub>
+                                    <mml:mi mathvariant="italic">o</mml:mi>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                                 <mml:mi mathvariant="normal">=</mml:mi>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">6</mml:mi>
+                                       <mml:mi mathvariant="normal">.91</mml:mi>
+                                       <mml:mo>×</mml:mo>
+                                       <mml:mi mathvariant="normal">1</mml:mi>
+                                       <mml:msup>
+                                          <mml:mi mathvariant="normal">0</mml:mi>
+                                          <mml:mi mathvariant="normal">8</mml:mi>
+                                       </mml:msup>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi mathvariant="italic">ρ</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">water</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mo>[</mml:mo>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">O</mml:mi>
+                                             <mml:msup>
+                                                <mml:mi mathvariant="normal">H</mml:mi>
+                                                <mml:mi mathvariant="normal">−</mml:mi>
+                                             </mml:msup>
+                                          </mml:mrow>
+                                          <mml:mo>]</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>0.0035</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:mspace width="0.25em"/>
+                                 <mml:mi>exp</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:mo>−</mml:mo>
+                                             <mml:mn>2428</mml:mn>
+                                          </mml:mrow>
+                                          <mml:mi>T</mml:mi>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where, <ce:italic>H</ce:italic>
+                     <ce:sup loc="post">−1</ce:sup>
+                     <ce:italic>o</ce:italic>
+                     <ce:inf loc="post">3</ce:inf> is the constant of Henry's Law for ozone in water, <ce:italic>ρ</ce:italic>
+                     <ce:inf loc="post">water</ce:inf> is the density of water at the temperature of the experiment and <ce:italic>T</ce:italic> is the temperature. The values of the Henry constants are given in <ce:cross-ref refid="tbl2" id="crosref0145">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="tbl2"/>.</ce:para>
+                  <ce:para id="p0130" view="all">Subsequently, we calculated the concentrations of dissolved ozone in water by using the Eq. (3) (<ce:cross-ref refid="bib20" id="crosref0150">Santer, 1999</ce:cross-ref>):<ce:display>
+                        <ce:formula id="fd3">
+                           <ce:label>(3)</ce:label>
+                           <mml:math display="block" altimg="si3.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>C</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">aq</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msup>
+                                    <mml:mi>H</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mo>−</mml:mo>
+                                       <mml:mi mathvariant="italic">1</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:msub>
+                                    <mml:mi mathvariant="normal">o</mml:mi>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mi mathvariant="italic">P</mml:mi>
+                                 <mml:msub>
+                                    <mml:mi mathvariant="normal">o</mml:mi>
+                                    <mml:mi mathvariant="normal">3</mml:mi>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>P</ce:italic>o<ce:inf loc="post">3</ce:inf> is the pressure of ozone. The values of dissolved ozone in water by the application of three ozone concentrations 8.5, 13.5 and 20 ppm in neutral buffer solution of aflatoxins AFB1 and AFG1, for all the working temperatures are given in <ce:cross-ref refid="tbl3" id="crosref0155">Table 3</ce:cross-ref>
+                     <ce:float-anchor refid="tbl3"/>.</ce:para>
+                  <ce:para id="p0135" view="all">Finally, was calculated the true rate constants for the degradation of aflatoxins AFB1 and AFG1, by dividing the apparent rate constants, with the concentration of dissolved ozone in water according to the Eq. <ce:cross-ref refid="fd4" id="crosref0160">(4)</ce:cross-ref> (cf. <ce:cross-ref refid="tbl4" id="crosref0165">Table 4</ce:cross-ref>
+                     <ce:float-anchor refid="tbl4"/>):<ce:display>
+                        <ce:formula id="fd4">
+                           <ce:label>(4)</ce:label>
+                           <mml:math display="block" altimg="si4.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>k</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">t</mml:mi>
+                                       <mml:mi mathvariant="normal">r</mml:mi>
+                                       <mml:mi mathvariant="normal">u</mml:mi>
+                                       <mml:mi mathvariant="normal">e</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>k</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">a</mml:mi>
+                                             <mml:mi mathvariant="normal">p</mml:mi>
+                                             <mml:mi mathvariant="normal">p</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>C</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">a</mml:mi>
+                                             <mml:mi mathvariant="normal">q</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0140" view="all">The true rate constants that were observed during decomposition of aflatoxins AFB1 and AFG1, in the presence of ozone, at all temperatures were greater than those for the decomposition of aflatoxins AFB2 and AFG2. As one can see from <ce:cross-ref refid="tbl4" id="crosref0170">Table 4</ce:cross-ref>, the true rate constants depend on temperature and increase with increasing temperature. Higher temperatures with ozone treatment substantially increased the degradation of aflatoxins AFB1 and AFG1. Although the true rate constants should be increase with the concentration of ozone this actually not happening. This can be attributed to the fact that as the concentration of ozone increases, the concentration of dissolved ozone in water increases, too. Therefore because the true values of the rate constants for the degradation of aflatoxins AFG1 and AFB1, were obtained by dividing the apparent rate constants with the concentration of dissolved ozone in water, these rate constants are normalized and do not increase as ozone concentration increases.</ce:para>
+                  <ce:para id="p0145" view="all">The activation energies for the degradation of aflatoxins were calculated from the Arrhenius equation:<ce:display>
+                        <ce:formula id="fd5">
+                           <ce:label>(5)</ce:label>
+                           <mml:math display="block" altimg="si5.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>ln</mml:mi>
+                                 <mml:mspace width="0.25em"/>
+                                 <mml:msub>
+                                    <mml:mi>k</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">t</mml:mi>
+                                       <mml:mi mathvariant="normal">r</mml:mi>
+                                       <mml:mi mathvariant="normal">u</mml:mi>
+                                       <mml:mi mathvariant="normal">e</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>ln</mml:mi>
+                                 <mml:mspace width="0.25em"/>
+                                 <mml:mi>A</mml:mi>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>E</mml:mi>
+                                          <mml:mi mathvariant="normal">a</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mi>R</mml:mi>
+                                 </mml:mfrac>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mi>T</mml:mi>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>A</ce:italic> is the pre-exponential factor, <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">a</ce:inf> is the activation energy, <ce:italic>R</ce:italic> is the gas constant and <ce:italic>T</ce:italic> is the temperature value. Using the calculated values of the true rate constants for each ozone concentration and plotting ln <ce:italic>k</ce:italic>
+                     <ce:inf loc="post">true</ce:inf> vs 1/<ce:italic>T</ce:italic> (cf. <ce:cross-ref refid="fig6" id="crosref0175">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="fig6"/>), the activation energies at each ozone concentration of the degradation of aflatoxins were determined from the slopes of the graphical representations. The activation energies for aflatoxin AFB1 and AFG1 are given in <ce:cross-ref refid="tbl5" id="crosref0180">Table 5</ce:cross-ref>
+                     <ce:float-anchor refid="tbl5"/>.</ce:para>
+                  <ce:para id="p0150" view="all">From <ce:cross-ref refid="tbl5" id="crosref0185">Table 5</ce:cross-ref> it can be concluded as the concentration of ozone increases, the activation energies increase too, for both aflatoxins.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0060">Conclusion</ce:section-title>
+                  <ce:para id="p0155" view="all">As a general conclusion one could say that the gaseous ozone was highly effective in the degradation mainly of aflatoxins AFB1 and AFG1, despite the degradation of aflatoxins AFB2 and AFG2. Especially, between the aflatoxins AFB1 and AFG1 more sensitive to treatment with ozone proved to be the AFG1, at the higher ozone concentration and the AFB1 at the lower concentrations. The found activation energies show that the degradation of aflatoxins is an activated process depending not only on the nature of the aflatoxins but also on the ozone concentration.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0065">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Ali et al., 2005</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Ali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.H.</ce:given-name>
+                                 <ce:surname>Hashim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Saad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Safan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nakajima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yoshizawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of a method to determine the natural occurrence of aflatoxins in commercial traditional herbal medicines from Malaysia and Indonesia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food and Chemical Toxicology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1763</sb:first-page>
+                              <sb:last-page>1772</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Chen et al., 2014</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.-W.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.-X.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of ozone on aflatoxins detoxification and nutritional quality of peanuts</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food Chemistry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>146</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>284</sb:first-page>
+                              <sb:last-page>288</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Chiavaro et al., 2001</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Chiavaro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dall’Asta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Galaverna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Biancardi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Gambarelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Dossena</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New reversed-phase liquid chromatographic method to detect aflatoxins in food and feed with cyclodextrins as fluorescence enhancers added to the eluent</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Chromatography A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>937</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                              <sb:last-page>40</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Giray et al., 2007</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Giray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Girgin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Engin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Aydın</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Sahin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Aflatoxin levels in wheat samples consumed in some regions of Turkey</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food Control</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                              <sb:last-page>29</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Hussain and Anwar, 2008</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Hussain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Anwar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A study on contamination of aflatoxin M<ce:inf loc="post">1</ce:inf> in raw milk in the Punjab province of Pakistan</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food Control</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>393</sb:first-page>
+                              <sb:last-page>395</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>IARC, 1993</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>IARC (International Agency for Research on Cancer)</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>IARC monographs on the evaluation of carcinogenic risks to humans</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Some naturally occurring substances: Food items and constituents, heterocyclic aromatic amines and mycotoxins</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>vol. 56</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1993</sb:date>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>609</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Lyon, France</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Inan et al., 2007</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Inan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Doymaz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Use of ozone in detoxification of aflatoxin B<ce:inf loc="post">1</ce:inf> in red pepper</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Stored Products Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>425</sb:first-page>
+                              <sb:last-page>429</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Jolly et al., 2006</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Jolly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Ellis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Awuah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Nnedu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Phillips</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determinants of aflatoxin levels in Ghanaians: sociodemographic factors, knowledge of aflatoxin and food handling and consumption practices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>International Journal of Hygiene Environmental Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>209</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                              <sb:last-page>358</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Karaca, 2010</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Karaca</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Use of ozone in the citrus Industry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ozone: Science and Engineering</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>122</sb:first-page>
+                              <sb:last-page>129</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Kurtzman et al., 1987</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.P.</ce:given-name>
+                                 <ce:surname>Kurtzman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Horn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Hesseltine</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>
+                                 <ce:italic>Aspergillus nomius</ce:italic>, a new aflatoxin-producing species related to <ce:italic>Aspergillus flavus</ce:italic> and <ce:italic>Aspergillus parasiticus</ce:italic>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Antonie van Leeuwenhoek</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>147</sb:first-page>
+                              <sb:last-page>158</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Luo et al., 2014</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Bian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of ozone treatment on aflatoxin B<ce:inf loc="post">1</ce:inf> and safety evaluation of ozonized corn</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food Control</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                              <sb:last-page>176</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Maeba et al., 1988</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Maeba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Takamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kamimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Miura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Destruction and detoxification of aflatoxins with ozone</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Food Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>667</sb:first-page>
+                              <sb:last-page>668</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>McKenzie et al., 1997</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>McKenzie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Sarr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Mayura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Bailey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Rogers</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxidative degradation and detoxification of mycotoxins using a novel source of ozone</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food and Chemical Toxicology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>807</sb:first-page>
+                              <sb:last-page>820</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Nasir and Jolley, 2002</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Nasir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Jolley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of a fluorescence polarization assay for the determination of aflatoxins in grains</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Agriculture and Food Chemistry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3116</sb:first-page>
+                              <sb:last-page>3121</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Park, 2002</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of processing on aflatoxin</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advances in Experimental Medicine and Biology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>504</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>173</sb:first-page>
+                              <sb:last-page>179</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Pietri et al., 2010</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>a</ce:given-name>
+                                 <ce:surname>Pietri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Bertuzzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Agosti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Donadini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transfer of aflatoxin B<ce:inf loc="post">1</ce:inf> and fumonisin B<ce:inf loc="post">1</ce:inf> from naturally contaminated raw materials to beer during an industrial brewing process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food Additives &amp; Contaminants. Part A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1431</sb:first-page>
+                              <sb:last-page>1439</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Reddy et al., 2009</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.R.N.</ce:given-name>
+                                 <ce:surname>Reddy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.K.</ce:given-name>
+                                 <ce:surname>Abbas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Abel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Shier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.F.</ce:given-name>
+                                 <ce:surname>Oliveira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Raghavender</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mycotoxin contamination of commercially important agricultural commodities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Toxin Reviews</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>154</sb:first-page>
+                              <sb:last-page>168</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Reiter et al., 2009</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Reiter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zentek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Razzazi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Review on sample preparation strategies and methods used for the analysis of aflatoxins in food and feed</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Molecular Nutrition &amp; Food Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>508</sb:first-page>
+                              <sb:last-page>524</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>Rinker et al., 1999</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Rinker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Ashour</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Kott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Rinker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.C.</ce:given-name>
+                                 <ce:surname>Sandall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinetics of the aqueous-phase reaction between ozone and 2,4,6-trichlorophenol</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>AIChE Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1802</sb:first-page>
+                              <sb:last-page>1807</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>Santer, 1999</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Santer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Compilation of Henry's law constants for inorganic and organic species of potential importance in environmental chemistry (Version 3)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Sander, R</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1999</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>1999</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.henrys-law.org" id="intref0010" xlink:type="simple">http://www.henrys-law.org</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>Sarigiannis et al., 2014</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sarigiannis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kapolos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Koliadima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tsegenidis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Karaiskakis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ochratoxin A levels in Greek retail wines</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food Control</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>139</sb:first-page>
+                              <sb:last-page>143</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>USA, 1997</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>USA</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>U.S. Food and drug Administration. Substances generally recognized as safe, proposed rule</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Federal Register</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>18937</sb:first-page>
+                              <sb:last-page>18964</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>Zinedine and Mañes, 2009</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zinedine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mañes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Occurrence and legislation of mycotoxins in food and feed from Morocco</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food Control</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>334</sb:first-page>
+                              <sb:last-page>344</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>Zorlugenç et al., 2008</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zorlugenç</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.K.</ce:given-name>
+                                 <ce:surname>Zorlugenç</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Öztekin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.B.</ce:given-name>
+                                 <ce:surname>Evliya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The influence of gaseous ozone and ozonated water on microbial flora and degradation of aflatoxin B<ce:inf loc="post">1</ce:inf> in dried figs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Food and Chemical Toxicology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3593</sb:first-page>
+                              <sb:last-page>3597</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
