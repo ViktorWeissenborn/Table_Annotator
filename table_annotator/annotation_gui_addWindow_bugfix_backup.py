@@ -1,11 +1,12 @@
 import tkinter as tk
 import customtkinter as ctk
-from customtkinter import CTkCanvas, CTkScrollbar, CTkOptionMenu, CTkTextbox, CTkButton, CTkFrame, StringVar, CTkLabel, CTkSwitch
+from customtkinter import CTkEntry, CTkCanvas, CTkScrollbar, CTkOptionMenu, CTkTextbox, CTkButton, CTkFrame, StringVar, CTkLabel, CTkSwitch
 from tabledataextractor import Table
 import traceback
 import os
 import json
 from utils import Utilities
+import numpy as np
 """
 Hint:
 To use this app following things have to be added:
@@ -16,19 +17,24 @@ to the folder with document id + table number = table id
 that it includes document id, caption, and table number
 """
 
-
-class TableWindow(ctk.CTkToplevel):
+"""
+class TableWindow(ctk.CTk):
     def __init__(self, listbox_instance: CTkFrame):
+"""
+
+
+class TableWindow(ctk.CTk):
+    def __init__(self, tables):
         super().__init__()
         # Hide Window as long as everything is built
         self.withdraw()
         self.title("Table Annotator")
         self.bind("<Escape>", self.close_app)
 
-        self.listbox_instance = listbox_instance
+        #self.listbox_instance = listbox_instance
 
         # Tables that were given to this top level window by main window
-        self.tables_from_main = listbox_instance.tables
+        self.tables_from_main = tables
 
         self.table_frame = TableFrame(self)
 
@@ -37,6 +43,8 @@ class TableWindow(ctk.CTkToplevel):
         self.caption_frame = CaptionFrame(self)
 
         self.generator_frame = GeneratorFrame(self)
+
+        self.header_assign_frame = HeaderAssignFrame(self)
     
         # Show window when all objects are placed
         self.deiconify()
@@ -47,10 +55,58 @@ class TableWindow(ctk.CTkToplevel):
         self.destroy()
 
 
+class HeaderAssignFrame(CTkFrame):
+    def __init__(self, parent: TableWindow):
+        super().__init__(parent,
+                         width=20,
+                         )
+        self.grid(row=1, column=0, pady=(0, 10), sticky="nes")
+
+        self.parent = parent
+        self.labels = self.parent.generator_frame.table_frame.labels
+
+        self.col_row_heads_label = CTkLabel(self, text="Col_Row_heads:", padx=5, pady=5)
+        self.col_row_heads_label.grid(row=0, column=0, padx=(5,0), pady=5)
+
+        self.col_row_heads = CTkEntry(self, width=50)
+        self.col_row_heads.insert(0, "[c,r]")
+        self.col_row_heads.grid(row=0, column=1, pady=5, padx=(0,5))
+
+        self.col_row_assign = CTkButton(self, text="Assign heads", command=self.col_row_assign_func)
+        self.col_row_assign.grid(row=1, column=0, columnspan=2)
+    
+
+    def col_row_assign_func(self, transp = False):
+        try:
+            self.parent.generator_frame.transpose_switch.deselect()
+            entry: list = eval(self.col_row_heads.get())
+            if len(entry)==2:
+                col_head_num = entry[0]
+                row_head_num = entry[1]
+                np_labels = np.array(self.labels, dtype='object')
+                np_labels[:, :row_head_num] = "RowHeader"
+                np_labels[:col_head_num, :] = "ColHeader"
+                for x in range(col_head_num):
+                    for y in range(row_head_num):
+                        np_labels[x, y] = "StubHeader"
+                
+                self.parent.generator_frame.col_row_manual_heads = np_labels.tolist()
+                self.parent.generator_frame.generate_table(user=True)
+
+            else:
+                print("Eval Error: Make sure to pass correct input format: [col_headers, row_headers].")
+        except Exception as e:
+            error_message = traceback.format_exc()
+            print(error_message)
+            print("Eval Error: Make sure to pass correct input format: [col_headers, row_headers].")
+
+
+
+
 class ProgressFrame(CTkFrame):
     def __init__(self, parent: TableWindow):
         super().__init__(parent)
-        self.grid(row=1, column=1, pady=(0, 10), sticky="w")
+        self.grid(row=1, column=2, pady=(0, 10), sticky="w")
 
         self.current_table_status = CTkLabel(self)
         self.current_table_status.grid(row=0, column=0)
@@ -66,12 +122,12 @@ class ProgressFrame(CTkFrame):
 class CaptionFrame(CTkTextbox):
     def __init__(self, parent: TableWindow):
         super().__init__(parent,
-                         width=625,
+                         width=265,
                          height=74,
                          wrap=ctk.WORD,
                          state="disabled")
     
-        self.grid(row=1, column=0, padx=5, pady=(0, 10), sticky="e")
+        self.grid(row=1, column=1, padx=5, pady=(0, 10), sticky="nesw")
     
         #self.heading = CTkLabel(self)
         #self.heading.grid(row=0, column=0, pady=0)
@@ -111,22 +167,44 @@ class TransposeSwitch(CTkSwitch):
 
         
     def transpose(self):
+
+        # self assigned labels have to be transposed according to user
+        labels = self.parent.col_row_manual_heads
+        if labels != None:
+            #Change RowHeader and ColHeader
+            self.parent.col_row_manual_heads = self.label_transpose(labels)
+            user=True
+        else:
+            user=False
+
         # Switch var will give on or off value of switch
         switch_var = self.switch_var.get()
         if switch_var == "on":
             # Create table transposed
-            self.parent.generate_table(transpose=True)
+            self.parent.generate_table(transpose=True, user=user)
         elif switch_var == "off":
-            self.parent.generate_table()
+            self.parent.generate_table(user=user)
         # Disable export button since no column will be selected
-        self.parent.export_button.configure(state="disabled")
+        #self.parent.export_button.configure(state="disabled")
 
+
+    def label_transpose(self, label_table:list[list]):
+        #Swap RowHeader and ColHeader and transpose table
+        swap_transp_labels = [
+                [
+                    'RowHeader' if item == 'ColHeader' 
+                    else 'ColHeader' if item == 'RowHeader' 
+                    else item for item in sublist
+                ]
+            for sublist in np.array(label_table).T.tolist()
+        ]
+        return swap_transp_labels
 
 
 class GeneratorFrame(CTkFrame):
     def __init__(self, parent: TableWindow):
         super().__init__(parent)
-        self.grid(row=0, column=0, columnspan=2, padx=10, pady=10)
+        self.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 
         self.parent = parent
         self.table_frame = parent.table_frame
@@ -137,14 +215,16 @@ class GeneratorFrame(CTkFrame):
         self.n = len(self.parent.tables_from_main["tables"]) - 1
         # Tracker if table was annotated (True) or not (False) --> each table gets a true or false statement in list
         self.tab_anno_state = [False for _ in range(self.n + 1)]
-        print("This command has been executedThis command has been executedThis command has been executedThis command has been executedThis command has been executedThis command has been executedThis command has been executed")
-
+        
         # Collected tables (all tables are collected and THEN exported, step by step)
         self.table_collection = [None for _ in range(self.n + 1)]
 
         self.input_table = None
         # Is table transposed (True) or not (False)
         self.transpose_state = False
+
+        # Holds None of no manual header assignment took place; holds labels vice versa
+        self.col_row_manual_heads = None
         
         # Buttons
         self.previous_table = CTkButton(
@@ -213,14 +293,13 @@ class GeneratorFrame(CTkFrame):
         print(f"Data has been written to '{file_path}'.")
 
 
-    def refresh_document_listbox_progress(self):
-        Utilities.refresh_processed_docs(self.parent.listbox_instance.document_listbox.listbox)
+    #def refresh_document_listbox_progress(self):
+    #    Utilities.refresh_processed_docs(self.parent.listbox_instance.document_listbox.listbox)
 
 
     def export_button_command(self):
         self.export_annotations()
-        self.refresh_document_listbox_progress()
-
+        #self.refresh_document_listbox_progress()
 
     def generate_button_action(self, next=False):
         
@@ -232,6 +311,8 @@ class GeneratorFrame(CTkFrame):
             self.set_caption()
             self.generate_table()
             self.transpose_switch.deselect()
+            # Reset manually selected row and col headers
+            self.col_row_manual_heads = None
         else:
             print("Can not go back or past further")
         print(f"self.i: {self.i}, self.n :{self.n}")
@@ -267,7 +348,30 @@ class GeneratorFrame(CTkFrame):
         self.parent.caption_frame.insert_caption(heading, caption)
 
 
-    def generate_table(self, event=None, transpose=False):
+
+    def generate_table_w_userdef_lables(self, transpose=False):
+        self.table_frame.data = self.input_table
+        if transpose:
+            self.table_frame.data = np.array(self.input_table).T.tolist()
+            self.transpose_state = True
+        if self.col_row_manual_heads == None:
+            print("MIPS failed: Col and Row header need to be assigned manually")
+            # Turn all cell labels to "data" so table can be depicted without headers, then user decides which cols and rows are headers
+            all_cells_data: np.ndarray = np.array(self.table_frame.data)
+            all_cells_data[:] = "Data"
+            self.table_frame.labels = all_cells_data.tolist()
+        else:
+            self.table_frame.labels = self.col_row_manual_heads
+        print(self.col_row_manual_heads)
+        print(self.table_frame.data)
+        print(self.table_frame.labels)
+        self.table_frame.create_table()
+        # Activate transpose switch after table is created
+        self.transpose_switch.configure(state="normal")
+
+
+
+    def generate_table(self, event=None, transpose=False, user=False):
         # Parse the input text as a list of lists
         try:
             self.transpose_state = False
@@ -279,18 +383,42 @@ class GeneratorFrame(CTkFrame):
             
             #self.input_table = self.parent.table_input_field.get("1.0", "end-1c")
             self.input_table = self.parent.tables_from_main["tables"][self.i]["raw_table_data"]
+            
+            try: #try-except block to catch MIPS error, so user can define col and row header
+                # user var can be set True to intentionally skip try Block
+                if user:
+                    raise Exception("Intentional Exception to skip try block")
+                # Get table from xml selected via ctk_filemenu and create TDE object to pre-clean (delete empty lines and duplicates) table
+                tde_table_obj = Table(self.input_table)
+                
+                # If transpose is activated table will be generated transposed after switch is clicked
+                if transpose:
+                    self.table_frame.data = tde_table_obj.raw_table.transpose().tolist()
+                    self.table_frame.labels = Table(self.table_frame.data).labels
+                    self.transpose_state = True
+                else:
+                    self.table_frame.data = tde_table_obj.pre_cleaned_table.tolist()
+                    # Get label table of each cell in the table as list of lists
+                    self.table_frame.labels = tde_table_obj.labels
+                
+            
+            except:
 
-            # Get table from xml selected via ctk_filemenu and create TDE object to pre-clean (delete empty lines and duplicates) table
-            tde_table_obj = Table(self.input_table)
-            self.table_frame.data = tde_table_obj.pre_cleaned_table.tolist()
-            # If transpose is activated table will be generated transposed after switch is clicked
-            if transpose:
-                self.table_frame.data = tde_table_obj.raw_table.transpose().tolist()
-                self.transpose_state = True
-
-        
-            # Get label table of each cell in the table as list of lists
-            self.table_frame.labels = tde_table_obj.labels
+                self.table_frame.data = self.input_table
+                if transpose:
+                    self.table_frame.data = np.array(self.input_table).T.tolist()
+                    self.transpose_state = True
+                if self.col_row_manual_heads == None:
+                    print("MIPS failed: Col and Row header need to be assigned manually")
+                    # Turn all cell labels to "data" so table can be depicted without headers, then user decides which cols and rows are headers
+                    all_cells_data: np.ndarray = np.array(self.table_frame.data)
+                    all_cells_data[:] = "Data"
+                    self.table_frame.labels = all_cells_data.tolist()
+                else:
+                    self.table_frame.labels = self.col_row_manual_heads
+            print(self.col_row_manual_heads)
+            print(self.table_frame.data)
+            print(self.table_frame.labels)
             self.table_frame.create_table()
             # Activate transpose switch after table is created
             self.transpose_switch.configure(state="normal")
@@ -298,6 +426,8 @@ class GeneratorFrame(CTkFrame):
             error_message = traceback.format_exc()
             ErrorPopUp(e, error_message)
             print(error_message)
+
+
 
 
     def collect(self):
@@ -476,7 +606,7 @@ class TableFrame(CTkFrame):
             #height=1080,
             #width=1920
         )
-        self.grid(row=3, column=0, columnspan=2, padx=10, pady=10)
+        self.grid(row=3, column=0, columnspan=3, padx=10, pady=10)
         self.grid_remove()
         self.parent = parent
         self.init_attributes()
@@ -573,6 +703,7 @@ class TableFrame(CTkFrame):
     def set_table_header(self, cell_button: TableCell, row, col):
         col_header = False
         row_header = False
+        #print(f"self.labels : {self.labels}\nrow :{row}; col: {col}")
         if self.labels[row][col] in self.col_header_labels:
             col_header = True
         if self.labels[row][col] in self.row_header_labels:
@@ -635,6 +766,8 @@ class TableFrame(CTkFrame):
         self.rows = len(self.data)
         self.cols = len(self.data[0]) if self.rows > 0 else 0 
 
+        #print(f"Stored in self.data: {self.data}\nself.rows: {self.rows}")
+
         for row in range(self.rows):
             self.table_cells.append([])
             for col in range(self.cols):
@@ -686,4 +819,6 @@ class TableFrame(CTkFrame):
 
 
 if __name__ == "__main__":
-    TableWindow()
+    tables = {'doc_id': '10_1016__j_atmosenv_2003_09_043', 'tables': [{'caption': 'Samples and sample properties', 'raw_table_data': [['Sample', 'Description', 'Sample dimensions', 'Sample dimensions', 'Density, ρ (g cm−3)', 'Areal/Ageom (BET) (m2real\nm−2geom.)'], ['', '', 'Thickness (cm)', 'Geometric areas (cm2)', '', ''], ['1. Carrara marble', 'Hard bright white marble with large crystals.', '2', '90', '2.87', '≈1'], ['2. Spruce whole wood board', 'Rough cut untreated old (ca. 100 years) wood board.', '1.5–2', '122–148', '0.44', '100±10'], ['3. Maltese limestone', 'Yellow calcareous stone with smaller pores.', '1.2–1.8', '41–92', '1.76', '1000±100'], ['4. Vicenza calcareous stone', 'Light grey calcareous stone with larger pores.', '1', '40–70', '1.89', '200±20'], ['5. Hard concrete floor tile', 'Dark smooth plane ground concrete with small pebbles from si', '0.8–1', '76–87', '2.45', '650±65'], ['6. Softer concrete floor tile', 'Light plane ground concrete with small pebbles from differen', '2.4–2.5', '58–119', '1.96', '1200±120'], ['7. De-ionised water', 'De-ionised to conductivity between 0.5 and 1 μS cm−1. Ca. 20', '', '', '', '']]}, {'caption': 'Equilibrium surface deposition velocities of O3 on materials tested in a deposition chamber, modelled with a Langmuir model including diffusion into the material', 'raw_table_data': [['Material', 'RH/%', '', '', '', ''], ['', '0', '30', '50', '70', '90'], ['', 'Equilibrium surface deposition velocity (cm s−1)', 'Equilibrium surface deposition velocity (cm s−1)', 'Equilibrium surface deposition velocity (cm s−1)', 'Equilibrium surface deposition velocity (cm s−1)', 'Equilibrium surface deposition velocity (cm s−1)'], ['1. Carrara marble', '≈0', '≈0', '', '≈0', '0.019±0.005'], ['2. Spruce whole wood board', '0.005±0.003', '0.004±0.002', '0.010±0.002', '0.017±0.002', '0.065±0.004'], ['3. Maltese limestone', '0.071±0.007', '0.055±0.007', '0.026±0.005', '0.039±0.005', '0.043±0.005'], ['4. Vicenza calcareous stone', '0.088±0.01', '0.056±0.009', '0.033±0.007', '0.012±0.002', '0.031±0.006'], ['5a. Hard concrete floor tile, 22°C', '0.048±0.007 0.031±0.004', '0.028±0.005', '0.0003±0.0001', '0.004±0.002', '0.021±0.004'], ['5b. Hard concrete floor tile, 30°C', '0.012±0.002', '0.015±0.003', '0.004±0.001', '0.015±0.006', '0.024±0.004'], ['6. Softer Concrete floor tile', '0.075±0.008', '0.058±0.008', '0.0020±0.0002', '0.005±0.001', '0.035±0.003'], ['7. De-ionised water', '', '', '', '', '0.0035±0.0008']]}, {'caption': 'Rate constants for the heterogeneous decomposition of ozone on material samples found from modelling', 'raw_table_data': [['Sample', 'Kdry (cm s−1)', 'Kads (cm s−1)', 'Kwet (cm s−1)', 'ΔdesHH2O (kJ mol−1)'], ['1. Carrara marble', '0', '0', '0.0031', '40.5'], ['2. Spruce whole wood board', '0.0047', '0.004', '0.0069', '48.0'], ['3. Maltese limestone', '0.071', '0.032', '0.0013', '44.0'], ['4. Vicenza calcareous stone', '0.088', '0.01', '0.0028', '43.0'], ['5. Hard concrete floor tile', '0.048', '0.0003', '0.0026', '44.0'], ['6. Softer concrete floor tile', '0.075', '0.002', '0.0042', '43.5']]}]}
+    app = TableWindow(tables)
+    app.mainloop()

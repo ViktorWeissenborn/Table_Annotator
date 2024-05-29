@@ -1,0 +1,2175 @@
+{
+    "doc_id": "10_1016__j_watres_2005_05_040",
+    "tables": [
+        {
+            "#-cols": 3,
+            "#-rows": 36,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Name",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "CAS RN",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Use/Origin",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "Antibiotics",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "Azithromycin",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "83905-01-5",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "Macrolide antibiotic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "Clarithromycin",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "81103-11-9",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "Macrolide antibiotic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "Dehydro-erythromycin",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "Metabolite erythromycin",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "Roxithromycin",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "80214-83-1",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "Macrolide antibiotic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "Sulfamethazine",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "57-68-1",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "Sulfonamide antibiotic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "Sulfamethoxazole",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "723-46-6",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "Sulfonamide antibiotic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "Sulfapyridine",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "144-83-2",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "Sulfonamide antibiotic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": true,
+                        "text": "Sulfathiazole",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "72-14-0",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "Sulfonamide antibiotic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": true,
+                        "text": "Estrogens",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": true,
+                        "text": "17\u03b1-ethinylestradiol (EE2)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "57-63-6",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "Synthetic steroid hormone",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": true,
+                        "text": "17\u03b2-estradiol",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": false,
+                        "text": "50-28-2",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": false,
+                        "text": "Natural steroid hormone",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": true,
+                        "text": "Estrone",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": false,
+                        "text": "53-16-7",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": false,
+                        "text": "Natural steroid hormone",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 14,
+                        "row_header": true,
+                        "text": "Acidic pharmaceuticals",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 14,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 14,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 15,
+                        "row_header": true,
+                        "text": "Bezafibrate",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 15,
+                        "row_header": false,
+                        "text": "41859-67-0",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 15,
+                        "row_header": false,
+                        "text": "Lipid regulator",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 16,
+                        "row_header": true,
+                        "text": "Clofibric acid",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 16,
+                        "row_header": false,
+                        "text": "882-09-7",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 16,
+                        "row_header": false,
+                        "text": "Metabolite of several lipid regulators",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 17,
+                        "row_header": true,
+                        "text": "Diclofenac",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 17,
+                        "row_header": false,
+                        "text": "15307-86-5",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 17,
+                        "row_header": false,
+                        "text": "Antiphlogistic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 18,
+                        "row_header": true,
+                        "text": "Fenoprofen",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 18,
+                        "row_header": false,
+                        "text": "53746-45-5",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 18,
+                        "row_header": false,
+                        "text": "Antiphlogistic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 19,
+                        "row_header": true,
+                        "text": "Gemifibrozil",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 19,
+                        "row_header": false,
+                        "text": "25812-30-0",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 19,
+                        "row_header": false,
+                        "text": "Lipid regulator",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 20,
+                        "row_header": true,
+                        "text": "Ibuprofen",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 20,
+                        "row_header": false,
+                        "text": "15687-27-1",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 20,
+                        "row_header": false,
+                        "text": "Antiphlogistic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 21,
+                        "row_header": true,
+                        "text": "Ketoprofen",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 21,
+                        "row_header": false,
+                        "text": "22071-15-4",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 21,
+                        "row_header": false,
+                        "text": "Antiphlogistic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 22,
+                        "row_header": true,
+                        "text": "Naproxen",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 22,
+                        "row_header": false,
+                        "text": "22204-53-1",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 22,
+                        "row_header": false,
+                        "text": "Antiphlogistic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 23,
+                        "row_header": true,
+                        "text": "Neutral pharmaceuticals",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 23,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 23,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 24,
+                        "row_header": true,
+                        "text": "Caffeine",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 24,
+                        "row_header": false,
+                        "text": "58-08-2",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 24,
+                        "row_header": false,
+                        "text": "Psychostimulant",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 25,
+                        "row_header": true,
+                        "text": "Carbamazepine",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 25,
+                        "row_header": false,
+                        "text": "298-46-4",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 25,
+                        "row_header": false,
+                        "text": "Antiepileptic drug",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 26,
+                        "row_header": true,
+                        "text": "Cyclophosphamide",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 26,
+                        "row_header": false,
+                        "text": "6055-19-2",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 26,
+                        "row_header": false,
+                        "text": "Antineoplastic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 27,
+                        "row_header": true,
+                        "text": "Diazepam",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 27,
+                        "row_header": false,
+                        "text": "439-14-5",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 27,
+                        "row_header": false,
+                        "text": "Psychiatric drug",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 28,
+                        "row_header": true,
+                        "text": "Dimethylaminophenazone",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 28,
+                        "row_header": false,
+                        "text": "58-15-1",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 28,
+                        "row_header": false,
+                        "text": "Antiphlogistic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 29,
+                        "row_header": true,
+                        "text": "Glibenclamide",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 29,
+                        "row_header": false,
+                        "text": "10238-21-8",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 29,
+                        "row_header": false,
+                        "text": "Antidiabetic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 30,
+                        "row_header": true,
+                        "text": "Ifosfamide",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 30,
+                        "row_header": false,
+                        "text": "3778-73-2",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 30,
+                        "row_header": false,
+                        "text": "Antineoplastic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 31,
+                        "row_header": true,
+                        "text": "Pentoxifylline",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 31,
+                        "row_header": false,
+                        "text": "6493-05-6",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 31,
+                        "row_header": false,
+                        "text": "Vasodilator",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 32,
+                        "row_header": true,
+                        "text": "Phenazone",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 32,
+                        "row_header": false,
+                        "text": "60-80-0",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 32,
+                        "row_header": false,
+                        "text": "Antiphlogistic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 33,
+                        "row_header": true,
+                        "text": "Propylphenazone",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 33,
+                        "row_header": false,
+                        "text": "479-92-5",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 33,
+                        "row_header": false,
+                        "text": "Antiphlogistic",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 34,
+                        "row_header": true,
+                        "text": "X-ray contrast media",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 34,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 34,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 35,
+                        "row_header": true,
+                        "text": "Iopromide",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 35,
+                        "row_header": false,
+                        "text": "73334-07-3",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 35,
+                        "row_header": false,
+                        "text": "Contrast medium",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        },
+        {
+            "#-cols": 5,
+            "#-rows": 5,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "pH",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "DOC (mg L\u22121)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "ClO2 demand (mg/L)",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Alkalinity (mM HCO3\u2212)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "Drinking water, Germany",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "7.4",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "1.0",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "n.d.",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "4.4",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "Water source: bank filtrate River Rhine",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "Lake water, Zurich, Switzerland",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "7.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "1.6",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "\u223c0.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "2.5",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "Groundwater, Duebendorf, Switzerland",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "7.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "1.3",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "\u223c0.08",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "6.6",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        },
+        {
+            "#-cols": 5,
+            "#-rows": 12,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Compound (species)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "pKa",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "kClO2(M\u22121 s\u22121)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "t1/2 for 0.1 mg ClO2 at pH 7",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Studied pH range",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "Bezafibrate (anion)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "3.6",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "<0.01",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "Carbamazepine (neutral)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "<0.015",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "Diazepam (neutral)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "<0.025",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "Diclofenac (anion)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "4.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "(1.05\u00b10.1)\u00d7104",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "45 s",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "5\u201310",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "EE2 (neutral)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "10.4",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "<200",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "2\u20133",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "EE2 (anion)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "(4.6\u00b10.8)\u00d7108",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "2.5 s",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "4\u20136",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "Ibuprofen (anion)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "4.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "<0.01",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "Iopromide (neutral)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "<0.01",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": true,
+                        "text": "Roxithromycin (neutral)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "8.8",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "(1.4\u00b10.3)\u00d7104",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "35 min",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "6\u20137",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": true,
+                        "text": "Sulfamethoxazole (neutral)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "5.7",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "<100",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "4",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": true,
+                        "text": "Sulfamethoxazole (anion)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "(7.9\u00b10.9)\u00d7103",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "70 s",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "5\u201310",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        },
+        {
+            "#-cols": 4,
+            "#-rows": 14,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Compound (species)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "0.95 mg L\u22121 ClO2 C/C0 (%)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "11.5 mg L\u22121 ClO2 C/C0 (%)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Estimated kClO2 (M\u22121 s\u22121 )",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "Caffeine",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "100 (\u00b112)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "99 (\u00b17)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "<1",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "Clofibric acid",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "100 (\u00b19)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "100 (\u00b15)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "<1",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "Cyclophosphamide",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "97 (\u00b13)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "88 (\u00b113)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "<1",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "Fenoprofen",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "103 (\u00b123)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "103 (\u00b130)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "<1",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "Gemifibrozil",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "93 (\u00b110)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "59 (\u00b16)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "<10",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "Glibenclamide",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "86 (\u00b114)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "71 (\u00b18)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "<10",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "Ifosfamide",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "98 (\u00b11)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "97 (\u00b16)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "<1",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "Ketoprofen",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "105 (\u00b112)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "99 (\u00b13)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "<1",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": true,
+                        "text": "Naproxen",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "53 (\u00b19)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "\u2014",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "10\u2013100",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": true,
+                        "text": "Pentoxifylline",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "98 (\u00b14)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "102 (\u00b112)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "<1",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": true,
+                        "text": "Phenazone",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "< LOQ",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "< LOQ",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": ">100",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": true,
+                        "text": "Dimethylaminophenazone",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": false,
+                        "text": "< LOQ",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": false,
+                        "text": "< LOQ",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": false,
+                        "text": ">100",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": true,
+                        "text": "Propylphenazone",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": false,
+                        "text": "< LOQ",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": false,
+                        "text": "< LOQ",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": false,
+                        "text": ">100",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        }
+    ]
+}

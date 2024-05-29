@@ -1,0 +1,426 @@
+{
+    "doc_id": "10_1016__j_seppur_2014_09_004",
+    "tables": [
+        {
+            "#-cols": 10,
+            "#-rows": 5,
+            "transposed": true,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Compounds",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Compounds",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "PRC",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Product I \u2013 Hydroquinone",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Product II",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Product III",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "UV characteristics",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "\u03bbmax (nm)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "244",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "223 and 290",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "220, 244 and 286",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "nd",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "Observed fragment ions at m/z value (relative abundance)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "MS",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "152 (100)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "nd",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "168 (100)",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "200 (100) 154 (15) 181 (5)",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "Observed fragment ions at m/z value (relative abundance)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "MS / MS",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "110 (100)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "nd",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "150 (12); 126 (100); 108 (24)",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "182 (53); 172 (100); 158 (47); 154 (100); 140 (33)",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "Chemical structures proposed",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "Chemical structures proposed",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "MM = 151.16 g mol\u22121",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "MM = 110 g mol\u22121",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "MM = 167 g mol\u22121",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "MM = 199 g mol\u22121",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        }
+    ]
+}

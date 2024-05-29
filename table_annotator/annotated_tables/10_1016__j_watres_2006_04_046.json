@@ -1,0 +1,2521 @@
+{
+    "doc_id": "10_1016__j_watres_2006_04_046",
+    "tables": [
+        {
+            "#-cols": 6,
+            "#-rows": 19,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Investigators",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Type of study",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Pipe material",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Ktotal (1/day)",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Kbulk (1/day)",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Kwall (ft/day)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "Wable et al. (1991)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "Field",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "Gray cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "3.17",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "1.58",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "0.13",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "Field",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "Ductile cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "9.94",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "2.88",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "0.58",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "Field",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "Ductile cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "8.21",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "1.15",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.58",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "Sharp et al. (1991)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "Field",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "Unlined cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "7.78",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "N/A",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "Field",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "Unlined cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "5.76",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "N/A",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "Field",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "PVC",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "4.90",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "N/A",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "Kiene et al. (1993)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "Field",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "Gray cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "4.32",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "0.12",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "0.86",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "Field",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "Gray cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "1.44",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "0.12",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "0.27",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": true,
+                        "text": "Rossman et al. (1994)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": true,
+                        "text": "Modeling",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": true,
+                        "text": "Unlined cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": true,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "0.55",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "1.50",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": true,
+                        "text": "Vasconcelos",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": true,
+                        "text": "Modeling",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": true,
+                        "text": "Asbestos cement",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": true,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "1.16",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "0.00",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": true,
+                        "text": "et al. (1997)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": true,
+                        "text": "Modeling",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": true,
+                        "text": "Unlined cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": true,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "0.83",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "2.49",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": true,
+                        "text": "Modeling",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": true,
+                        "text": "Unlined galvanized iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": true,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": false,
+                        "text": "0.23",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 12,
+                        "row_header": false,
+                        "text": "0.89",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": true,
+                        "text": "Modeling",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": true,
+                        "text": "Unlined cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": true,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": false,
+                        "text": "17.70",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 13,
+                        "row_header": false,
+                        "text": "4.99",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 14,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 14,
+                        "row_header": true,
+                        "text": "Modeling",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 14,
+                        "row_header": true,
+                        "text": "Cement-lined ductile iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 14,
+                        "row_header": true,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 14,
+                        "row_header": false,
+                        "text": "0.77",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 14,
+                        "row_header": false,
+                        "text": "0.10",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 15,
+                        "row_header": true,
+                        "text": "Mathieu et al. (1993)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 15,
+                        "row_header": true,
+                        "text": "Simulator",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 15,
+                        "row_header": true,
+                        "text": "Cement-lined cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 15,
+                        "row_header": true,
+                        "text": "2.90",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 15,
+                        "row_header": false,
+                        "text": "0.00",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 15,
+                        "row_header": false,
+                        "text": "0.24",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 16,
+                        "row_header": true,
+                        "text": "Parent et al. (1996a)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 16,
+                        "row_header": true,
+                        "text": "Simulator",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 16,
+                        "row_header": true,
+                        "text": "Cement-lined cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 16,
+                        "row_header": true,
+                        "text": "3.60",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 16,
+                        "row_header": false,
+                        "text": "0.52",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 16,
+                        "row_header": false,
+                        "text": "0.25",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 17,
+                        "row_header": true,
+                        "text": "Parent et al. (1996b)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 17,
+                        "row_header": true,
+                        "text": "Simulator",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 17,
+                        "row_header": true,
+                        "text": "Cement-lined cast iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 17,
+                        "row_header": true,
+                        "text": "12.10",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 17,
+                        "row_header": false,
+                        "text": "0.54",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 17,
+                        "row_header": false,
+                        "text": "0.98",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 18,
+                        "row_header": true,
+                        "text": "Rossman et al. (2001)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 18,
+                        "row_header": true,
+                        "text": "Simulator",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 18,
+                        "row_header": true,
+                        "text": "Unlined ductile iron",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 18,
+                        "row_header": true,
+                        "text": "2.7\u20133.7",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 18,
+                        "row_header": false,
+                        "text": "0.25\u20130.49",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 18,
+                        "row_header": false,
+                        "text": "0.31\u20130.43",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        },
+        {
+            "#-cols": 10,
+            "#-rows": 9,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Treatment/initial Cl2",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "TOC (mg/L)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "UVA (1/cm)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "ALK (mg/L)",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Temp. (deg C)",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "pH",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Cl2 (mg/L)",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Ktotal(1/days)",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Kbulk (1/days)",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Kwall(1/days)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "CON/high",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "1.54",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "0.034",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "69",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "25.6",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "7.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "6.8",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "1.62\u00b10.07",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "0.094\u00b10.024",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "1.53",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "CON/low",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "1.56",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "0.030",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "66",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "26.4",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "7.8",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "3.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "2.38\u00b10.19",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "2.29*",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "O3/high",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "1.60",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.013",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "57",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "21.6",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "8.0",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "3.8",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "3.00\u00b10.07",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.048\u00b10.010",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "2.95",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "O3/low",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "1.51",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.017",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "21.4",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "7.8",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "1.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "4.71\u00b10.10",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.109\u00b10.018",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "4.60",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "GAC/high",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "0.31",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "0.003",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "61",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "21.6",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "8.0",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "4.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "3.00\u00b10.10",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "0.005\u00b10.002",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "3.00",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "GAC/low",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "0.72",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "0.006",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "67",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "20.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "8.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "1.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "3.56\u00b10.24",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "0.019\u00b10.004",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "3.54",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "RO/high",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "0.03",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "0.005",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "5",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "20.8",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "7.8",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "3.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "1.07\u00b10.05",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "0.007\u00b10.005",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "1.06",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "RO/low",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "0.04",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "0.002",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "3",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "21.3",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "8.5",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "2.1",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "2.75\u00b10.07",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "0.005\u00b10.002",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "2.75",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        },
+        {
+            "#-cols": 10,
+            "#-rows": 7,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Treatment/initial Cl2",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "TOC (mg/L)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "UVA (1/cm)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "ALK (mg/L)",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Temp. (deg )C",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "PH",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Cl2 (mg/L)",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Ktotal (1/days)",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Kbulk (1/days)",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Kwall (1/days)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "CON/high",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "1.57",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "0.048",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "N/A",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "21.4",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "8.1",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "4.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "1.170.04",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "0.0150.001",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "1.16",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "CON/low",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "2.25",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "0.036",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "63",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "21.6",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "8.0",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "2.6",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "1.420.12",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "0.0170.002",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "1.41",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "GAC/high",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "1.53",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.027",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "66",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "21.6",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "8.0",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "4.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "1.230.05",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.0070.002",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "1.22",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "GAC/low",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.75",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.016",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "65",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "21.7",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "8.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "2.5",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "1.430.08",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.0050.001",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "1.43",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "O3/high",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "1.72",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "0.031",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "45",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "22.1",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "7.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "4.1",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "1.340.03",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "0.0100.002",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "1.33",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "O3/low",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "1.80",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "0.019",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "44",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "22.1",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "7.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "1.8",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "1.540.04",
+                        "type": ""
+                    },
+                    {
+                        "col": 8,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "0.0170.002",
+                        "type": ""
+                    },
+                    {
+                        "col": 9,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "1.51",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        },
+        {
+            "#-cols": 5,
+            "#-rows": 5,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Treatment Type",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "TOC (mg/L)",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "UVA-254 (1/cm)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Alkalinity (mg/L as CaCO3)",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "pH",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "Conventional",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "1.73",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "0.037",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "66",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "8.0",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "Ozone",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "1.66",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "0.020",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "49",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "7.9",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "GAC",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.83",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.013",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "65",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "8.1",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "RO",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.04",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.004",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "4",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "8.2",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        }
+    ]
+}
