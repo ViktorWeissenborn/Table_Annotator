@@ -1,0 +1,538 @@
+{
+    "doc_id": "10_1016__j_watres_2005_04_028",
+    "tables": [
+        {
+            "#-cols": 7,
+            "#-rows": 9,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Study",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "pH",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Temperature (\u00b0C)",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Number of lots",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Number of data sets",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Sample size per data set",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Oocyst viability assay",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "Rennecker et al. (1999)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "5\u201330",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "4",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "1 0",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "6\u201316",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "In vitro excystation",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "Rennecker et al. (2000)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "6\u201310",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "20",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "3",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "9",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "In vitro excystation",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "Rennecker et al. (2001)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "4\u201330",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "3",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "6",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "5\u20139",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "In vitro excystation",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "Driedger et al. (2001)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "1\u201320",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "1",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "4",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "8\u20139",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "In vitro excystation",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "Li et al. (2000)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "6\u20138",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "1\u201322",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "1 4",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "3\u20137",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "Animal infectivity",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "Corona-Vasquez et al. (2002)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "1\u201320",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "3",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "9",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "9\u201314",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "In vitro excystation",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "Hirata et al. (2001)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "3\u201330",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "1",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "1 2",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "3\u20137",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "Animal infectivity, in vitro excystation",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "Rochelle et al. (2002)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "7",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "1",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "1",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "1",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "10",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "In vitro infectivity",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        }
+    ]
+}

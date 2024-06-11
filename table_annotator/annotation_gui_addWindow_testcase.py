@@ -15,11 +15,21 @@ To use this app following things have to be added:
 to the folder with document id + table number = table id
 - To make this work the text input has to be altered in a way, 
 that it includes document id, caption, and table number
-"""
 
-"""
 class TableWindow(ctk.CTk):
     def __init__(self, listbox_instance: CTkFrame):
+        super().__init__()
+        # Hide Window as long as everything is built
+        self.withdraw()
+        self.title("Table Annotator")
+        self.bind("<Escape>", self.close_app)
+
+        ###self.listbox_instance = listbox_instance
+
+        # Tables that were given to this top level window by main window
+        ###self.tables_from_main = listbox_instance.tables
+        self.tables_from_main = tables
+
 """
 
 
@@ -31,9 +41,10 @@ class TableWindow(ctk.CTk):
         self.title("Table Annotator")
         self.bind("<Escape>", self.close_app)
 
-        #self.listbox_instance = listbox_instance
+        ###self.listbox_instance = listbox_instance
 
         # Tables that were given to this top level window by main window
+        ###self.tables_from_main = listbox_instance.tables
         self.tables_from_main = tables
 
         self.table_frame = TableFrame(self)
@@ -84,6 +95,7 @@ class HeaderAssignFrame(CTkFrame):
                 col_head_num = entry[0]
                 row_head_num = entry[1]
                 np_labels = np.array(self.labels, dtype='object')
+                np_labels[:] = "Data"
                 np_labels[:, :row_head_num] = "RowHeader"
                 np_labels[:col_head_num, :] = "ColHeader"
                 for x in range(col_head_num):
@@ -169,10 +181,10 @@ class TransposeSwitch(CTkSwitch):
     def transpose(self):
 
         # self assigned labels have to be transposed according to user
-        labels = self.parent.col_row_manual_heads
-        if labels != None:
+        manual_labels = self.parent.col_row_manual_heads
+        if manual_labels != None:
             #Change RowHeader and ColHeader
-            self.parent.col_row_manual_heads = self.label_transpose(labels)
+            self.parent.col_row_manual_heads = self.label_transpose(manual_labels)
             user=True
         else:
             user=False
@@ -215,7 +227,7 @@ class GeneratorFrame(CTkFrame):
         self.n = len(self.parent.tables_from_main["tables"]) - 1
         # Tracker if table was annotated (True) or not (False) --> each table gets a true or false statement in list
         self.tab_anno_state = [False for _ in range(self.n + 1)]
-        
+
         # Collected tables (all tables are collected and THEN exported, step by step)
         self.table_collection = [None for _ in range(self.n + 1)]
 
@@ -293,13 +305,14 @@ class GeneratorFrame(CTkFrame):
         print(f"Data has been written to '{file_path}'.")
 
 
-    #def refresh_document_listbox_progress(self):
-    #    Utilities.refresh_processed_docs(self.parent.listbox_instance.document_listbox.listbox)
+    ###def refresh_document_listbox_progress(self):
+    ###    Utilities.refresh_processed_docs(self.parent.listbox_instance.document_listbox.listbox)
 
 
     def export_button_command(self):
         self.export_annotations()
-        #self.refresh_document_listbox_progress()
+        ###self.refresh_document_listbox_progress()
+
 
     def generate_button_action(self, next=False):
         
@@ -348,27 +361,12 @@ class GeneratorFrame(CTkFrame):
         self.parent.caption_frame.insert_caption(heading, caption)
 
 
-
-    def generate_table_w_userdef_lables(self, transpose=False):
-        self.table_frame.data = self.input_table
-        if transpose:
-            self.table_frame.data = np.array(self.input_table).T.tolist()
-            self.transpose_state = True
-        if self.col_row_manual_heads == None:
-            print("MIPS failed: Col and Row header need to be assigned manually")
-            # Turn all cell labels to "data" so table can be depicted without headers, then user decides which cols and rows are headers
-            all_cells_data: np.ndarray = np.array(self.table_frame.data)
-            all_cells_data[:] = "Data"
-            self.table_frame.labels = all_cells_data.tolist()
-        else:
-            self.table_frame.labels = self.col_row_manual_heads
-        print(self.col_row_manual_heads)
-        print(self.table_frame.data)
-        print(self.table_frame.labels)
-        self.table_frame.create_table()
-        # Activate transpose switch after table is created
-        self.transpose_switch.configure(state="normal")
-
+    def mips_error_catcher(self, table: list[list]):
+        try:
+            tab = Table(table)
+            return False
+        except:
+            return True
 
 
     def generate_table(self, event=None, transpose=False, user=False):
@@ -383,11 +381,10 @@ class GeneratorFrame(CTkFrame):
             
             #self.input_table = self.parent.table_input_field.get("1.0", "end-1c")
             self.input_table = self.parent.tables_from_main["tables"][self.i]["raw_table_data"]
-            
-            try: #try-except block to catch MIPS error, so user can define col and row header
-                # user var can be set True to intentionally skip try Block
-                if user:
-                    raise Exception("Intentional Exception to skip try block")
+            mips_error = self.mips_error_catcher(self.input_table)
+
+            if mips_error == False and user == False: #if block to catch MIPS error, so user can define col and row header
+
                 # Get table from xml selected via ctk_filemenu and create TDE object to pre-clean (delete empty lines and duplicates) table
                 tde_table_obj = Table(self.input_table)
                 
@@ -401,21 +398,34 @@ class GeneratorFrame(CTkFrame):
                     # Get label table of each cell in the table as list of lists
                     self.table_frame.labels = tde_table_obj.labels
                 
-            
-            except:
-
-                self.table_frame.data = self.input_table
+            else:
+                # Block is called when MIPS failed or user did manual input
                 if transpose:
                     self.table_frame.data = np.array(self.input_table).T.tolist()
                     self.transpose_state = True
-                if self.col_row_manual_heads == None:
-                    print("MIPS failed: Col and Row header need to be assigned manually")
-                    # Turn all cell labels to "data" so table can be depicted without headers, then user decides which cols and rows are headers
-                    all_cells_data: np.ndarray = np.array(self.table_frame.data)
-                    all_cells_data[:] = "Data"
-                    self.table_frame.labels = all_cells_data.tolist()
+
                 else:
+                    self.table_frame.data = self.input_table
+
+                if mips_error == False and user == True:
+    
+                    # When transpose = True col_row_manual_heads (manual labels) are transposed by label_transpose function
                     self.table_frame.labels = self.col_row_manual_heads
+                
+                else:
+
+                    if self.col_row_manual_heads == None:
+                        print("MIPS failed: Col and Row header need to be assigned manually")
+                        # Turn all cell labels to "data" so table can be depicted without headers, then user decides which cols and rows are headers
+                        all_cells_data: np.ndarray = np.array(self.table_frame.data)
+                        all_cells_data[:] = "Data"
+                        self.table_frame.labels = all_cells_data.tolist()
+                        self.col_row_manual_heads = all_cells_data.tolist()
+
+                    else:
+                        self.table_frame.labels = self.col_row_manual_heads
+
+
             print(self.col_row_manual_heads)
             print(self.table_frame.data)
             print(self.table_frame.labels)
@@ -703,7 +713,7 @@ class TableFrame(CTkFrame):
     def set_table_header(self, cell_button: TableCell, row, col):
         col_header = False
         row_header = False
-        #print(f"self.labels : {self.labels}\nrow :{row}; col: {col}")
+        print(f"self.labels : {self.labels}\nrow :{row}; col: {col}")
         if self.labels[row][col] in self.col_header_labels:
             col_header = True
         if self.labels[row][col] in self.row_header_labels:
@@ -819,6 +829,6 @@ class TableFrame(CTkFrame):
 
 
 if __name__ == "__main__":
-    tables = {'doc_id': '10_1016__j_atmosenv_2003_09_043', 'tables': [{'caption': 'Samples and sample properties', 'raw_table_data': [['Sample', 'Description', 'Sample dimensions', 'Sample dimensions', 'Density, ρ (g cm−3)', 'Areal/Ageom (BET) (m2real\nm−2geom.)'], ['', '', 'Thickness (cm)', 'Geometric areas (cm2)', '', ''], ['1. Carrara marble', 'Hard bright white marble with large crystals.', '2', '90', '2.87', '≈1'], ['2. Spruce whole wood board', 'Rough cut untreated old (ca. 100 years) wood board.', '1.5–2', '122–148', '0.44', '100±10'], ['3. Maltese limestone', 'Yellow calcareous stone with smaller pores.', '1.2–1.8', '41–92', '1.76', '1000±100'], ['4. Vicenza calcareous stone', 'Light grey calcareous stone with larger pores.', '1', '40–70', '1.89', '200±20'], ['5. Hard concrete floor tile', 'Dark smooth plane ground concrete with small pebbles from si', '0.8–1', '76–87', '2.45', '650±65'], ['6. Softer concrete floor tile', 'Light plane ground concrete with small pebbles from differen', '2.4–2.5', '58–119', '1.96', '1200±120'], ['7. De-ionised water', 'De-ionised to conductivity between 0.5 and 1 μS cm−1. Ca. 20', '', '', '', '']]}, {'caption': 'Equilibrium surface deposition velocities of O3 on materials tested in a deposition chamber, modelled with a Langmuir model including diffusion into the material', 'raw_table_data': [['Material', 'RH/%', '', '', '', ''], ['', '0', '30', '50', '70', '90'], ['', 'Equilibrium surface deposition velocity (cm s−1)', 'Equilibrium surface deposition velocity (cm s−1)', 'Equilibrium surface deposition velocity (cm s−1)', 'Equilibrium surface deposition velocity (cm s−1)', 'Equilibrium surface deposition velocity (cm s−1)'], ['1. Carrara marble', '≈0', '≈0', '', '≈0', '0.019±0.005'], ['2. Spruce whole wood board', '0.005±0.003', '0.004±0.002', '0.010±0.002', '0.017±0.002', '0.065±0.004'], ['3. Maltese limestone', '0.071±0.007', '0.055±0.007', '0.026±0.005', '0.039±0.005', '0.043±0.005'], ['4. Vicenza calcareous stone', '0.088±0.01', '0.056±0.009', '0.033±0.007', '0.012±0.002', '0.031±0.006'], ['5a. Hard concrete floor tile, 22°C', '0.048±0.007 0.031±0.004', '0.028±0.005', '0.0003±0.0001', '0.004±0.002', '0.021±0.004'], ['5b. Hard concrete floor tile, 30°C', '0.012±0.002', '0.015±0.003', '0.004±0.001', '0.015±0.006', '0.024±0.004'], ['6. Softer Concrete floor tile', '0.075±0.008', '0.058±0.008', '0.0020±0.0002', '0.005±0.001', '0.035±0.003'], ['7. De-ionised water', '', '', '', '', '0.0035±0.0008']]}, {'caption': 'Rate constants for the heterogeneous decomposition of ozone on material samples found from modelling', 'raw_table_data': [['Sample', 'Kdry (cm s−1)', 'Kads (cm s−1)', 'Kwet (cm s−1)', 'ΔdesHH2O (kJ mol−1)'], ['1. Carrara marble', '0', '0', '0.0031', '40.5'], ['2. Spruce whole wood board', '0.0047', '0.004', '0.0069', '48.0'], ['3. Maltese limestone', '0.071', '0.032', '0.0013', '44.0'], ['4. Vicenza calcareous stone', '0.088', '0.01', '0.0028', '43.0'], ['5. Hard concrete floor tile', '0.048', '0.0003', '0.0026', '44.0'], ['6. Softer concrete floor tile', '0.075', '0.002', '0.0042', '43.5']]}]}
+    tables =  {'doc_id': '10_1016__j_watres_2003_12_014', 'tables': [{'caption': 'Summary of organic carbon sources (C6 represents a benzene ring)', 'raw_table_data': [['Reference ID', 'Material'], ['MAcid', 'Maleic acid (HO2C(CH)2CO2H)'], ['C6-OH', 'Phenol (C6H5OH)'], ['C6-NH2', 'Aniline (C6H5NH2)'], ['C6-COOH', 'Benzoic acid (C6H5CO2H)'], ['C6-RES', 'Resorcinol (C6H9O2; 1,3-dihyoxybenzene)'], ['C6-VAN', 'Vanillic acid (C8H10O4; 1-carboxy 3-methoxy 4-hydroxy benzen'], ['C6-SYR', 'Syringic acid (C6H13O5; 1-carboxy 3,5-dimethoxy 4-hydroxy be'], ['C6-DBA', '3,5-dimethoxy benzoic acid (C6H6O)'], ['SR-RO', 'Suwannee River Reverse Osmosis isolate'], ['CRW', 'NF-XAD4 (k′=5) isolate from the Colorado River']]}, {'caption': 'Halogen reaction with alum coagulated CRW water (pH=7.5; reaction time=40 min)', 'raw_table_data': [['Alum dose (ppm)', 'Bromine addition', 'Bromine addition', 'Bromine addition', 'Chlorine addition', 'Chlorine addition', 'Chlorine addition'], ['', 'Br2 Consumed (μM)', 'CHBr3 Produced (μM)', 'CHBr3/Br2 Consumed (μM/μM)', 'Cl2 Consumed (μM)', 'CHCl3 Produced (μM)', 'CHCl3/Cl2 Consumed (μM/μM)'], ['25', '41', '0.565', '0.0139', '39', '0.217', '0.00559'], ['50', '34', '0.393', '0.0115', '—', '—', '—'], ['100', '28', '0.261', '0.0094', '35', '0.0617', '0.00175'], ['150', '24', '0.240', '0.0101', '35', '0.0601', '0.00171'], ['200', '19', '0.203', '0.0105', '32', '0.0469', '0.00148'], ['250', '19', '0.205', '0.0106', '—', '—', '—']]}, {'caption': 'Pseudo-zero-order and pseudo-first-order rate constants for bromine and chlorine reaction with NOM isolates during the rapid initial consumption stage (2 μM initial halogen dose, pH 5, 24°C)', 'raw_table_data': [['Oxidant', 'Material', 'Pseudo-zero-order change (Δ halogen in μM s−1) Initial DOC c', 'Pseudo-zero-order change (Δ halogen in μM s−1) Initial DOC c', 'Pseudo-zero-order change (Δ halogen in μM s−1) Initial DOC c', 'Pseudo-zero-order change (Δ halogen in μM s−1) Initial DOC c', 'Calculated pseudo-first-order rate constant (s−1)', 'Calculated pseudo-first-order rate constant (s−1)'], ['', '', '20 μM', '50 μM', '100 μM', '150 μM', 'k′', 'R2'], ['Aqueous', 'CRW', '', '', '', '', '', ''], ['bromine', 'No Pre-O3', '20', '40', '60', '77', '0.4×10−3', '0.99'], ['', 'With pre-O3', '23', '29', '36', '47', '0.2×10−3', '0.99'], ['', '', '', '', '', '', '', ''], ['', 'SR-RO', '', '', '', '', '', ''], ['', 'No Pre-O3', '47', '91', '136', '—', '1.1×10−3', '0.98'], ['', 'With pre-O3', '37', '68', '105', '117', '0.6×10−3', '0.93'], ['', '', '', '', '', '', '', ''], ['Aqueous', 'CRW', '', '', '', '', '', ''], ['chlorine', 'No pre-O3', '0.67', '1.2', '1.9', '3.9', '2×10−5', '0.94'], ['', 'With pre-O3', '0.50', '0.9', '1.2', '1.7', '0.9×10−5', '0.98'], ['', 'SR-RO', '', '', '', '', '', ''], ['', 'No pre-O3', '1.3', '1.9', '3.4', '5.0', '3×10−5', '0.99'], ['', 'With pre-O3', '0.77', '1.3', '2.5', '3.8', '2×10−5', '0.99']]}, {'caption': 'Second-order rate constants (k; M−1\ns−1) for HOBr and HOCl with NOM isolates (pH 5; halogen dose=2 μM; DOC concentrations=20–150 μM)', 'raw_table_data': [['NOM Material', 'kHOBr (M−1\ns−1)', 'kHOBr (M−1\ns−1)', 'kHOCl (M−1\ns−1)', 'kHOCl (M−1\ns−1)'], ['', '10°C', '24°C', '10°C', '24°C'], ['CRW', '', '', '', ''], ['No Pre-O3', '27', '31', '1.6', '1.7'], ['With pre-O3', '—', '15', '—', '0.70'], ['', '', '', '', ''], ['SR-RO', '', '', '', ''], ['No Pre-O3', '120', '130', '4.3', '4.9'], ['With pre-O3', '—', '76', '—', '2.3']]}, {'caption': 'Percentage area beneath ranges of solid-state 13C-NMR wavelengths for non-oxidized CRW-NF and non-oxidized, chlorinated, and brominated SR-RO isolates', 'raw_table_data': [['NOM Source/treatment', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)'], ['', '0–62 (ppm)', '62–90 (ppm)', '90–110 (ppm)', '110–140 (ppm)', '140–160 (ppm)', '160–190 (ppm)', '190–230 (ppm)'], ['', 'Aliphatic', 'Aliphatic', 'Anomeric', 'Aromatic', 'Aromatic/phenolic', 'Carboxylic', 'ketone'], ['CRW', '55', '13', '1.7', '6.9', '2.5', '20.3', '1.4'], ['SRRO', '32', '19', '9.3', '14', '6.9', '16', '3.9'], ['SRRO+HOCl', '37', '28', '7.8', '7.6', '3.7', '18', '0'], ['SRRO+HOBr', '33', '21', '9.5', '13', '6.0', '15', '2.6']]}]}
     app = TableWindow(tables)
     app.mainloop()

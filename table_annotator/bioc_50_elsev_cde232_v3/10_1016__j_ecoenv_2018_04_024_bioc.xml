@@ -1,0 +1,1736 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-06-10</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.ecoenv.2018.04.024</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">REMOVALANTIBIOTICSWATERWASTEMILKBYOZONATIONKINETICSBYPRODUCTSANTIMICROBIALACTIVITY</infon>
+      <infon key="name_0">surname:ALSAGER</infon>
+      <infon key="license">© 2018 Elsevier Inc. All rights reserved.</infon>
+      <infon key="source">Ecotoxicology and Environmental Safety</infon>
+      <infon key="year">2018-04-24</infon>
+      <infon key="volume">158</infon>
+      <infon key="issue">0147-6513</infon>
+      <infon key="fpage">114</infon>
+      <infon key="lpage">122. Link: https://sciencedirect.com/science/article/pii/S0147651318303178</infon>
+      <infon key="pub-id_doi">10.1016/j.ecoenv.2018.04.024</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0147651318303178</infon>
+      <infon key="kwd">['Ozonation treatment', 'Antibiotics', 'Decomposition', 'Antimicrobial activity', 'Milk samples']</infon>
+      <offset>0</offset>
+      <text>Removal of antibiotics from water and waste milk by ozonation: kinetics, byproducts, and antimicrobial activity</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>112</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>130</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>141</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>150</offset>
+      <text>The use of antibiotics in the dairy farming for curing and growth promotion results in the production of massive quantities of non-recyclable wastewater by the conventional purification techniques. Additionally, waste milk is produced during the drug withholding periods, which is not suitable for human or animal consumption and cause huge economic loss as well as present serious environmental waste. This study was designed to investigate the decomposition of various antibiotic compounds in un-buffered aqueous solutions and milk samples by ozonation process. Commonly administered broad-spectrum antibiotics such as amoxicillin, doxycycline, ciprofloxacin, and sulphadiazine were selected as model examples in the current investigation. Gradual exposure of these antibiotics to increasing ozone gas concentration induced increasing removal percentages of the antibiotics in spiked water and milk samples. The removal reached 95% across all the tested treated antibiotics with ozone dose as low as 75 mg L−1. It was noted that the removal of antibiotics in milk samples is more efficient with faster rate constants. This was attributed to the self-buffering characteristic of milk that maintains the neutral pH, keeping the amine groups un-protonated and more reactive towards the electrophilic attack by the molecular ozone. 1H NMR as well as HPLC experiments support the near complete removal of antibiotics and indicated the break down to simpler and more soluble fragments of acidic nature. Bacterial growth experiments, conducted with E. coli, and milk ageing experiments provided clear evidences that the resulting decomposition byproducts lack both toxicity effect and antimicrobial activity. This study provides a viable route to remove hazardous materials, which contribute to a growing issue of antibiotic resistance of pathogenic bacteria.</text>
+      <annotation id="1">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1362" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="944" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="954" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1131" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1473" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1259" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2005</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Antibiotics', 'Eluent (v/v %) of water: Acetonitrile', 'Wavelength (nm)', 'Retention time (min)', 'pKa of target compounds'], ['Amoxicillin', '100: 0', '230', '6.10', '6.71'], ['Doxycycline', '80: 20', '350', '1.12', '7.97'], ['Ciprofloxacin', '80: 20', '275', '1.20', '6.42'], ['Sulphadiazine', '80: 20', '270', '2.15', '6.43']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Antibiotics&lt;/td&gt;
+      &lt;td&gt;Eluent (v/v %) of water: Acetonitrile&lt;/td&gt;
+      &lt;td&gt;Wavelength (nm)&lt;/td&gt;
+      &lt;td&gt;Retention time (min)&lt;/td&gt;
+      &lt;td&gt;pKa of target compounds&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Amoxicillin&lt;/td&gt;
+      &lt;td&gt;100: 0&lt;/td&gt;
+      &lt;td&gt;230&lt;/td&gt;
+      &lt;td&gt;6.10&lt;/td&gt;
+      &lt;td&gt;6.71&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Doxycycline&lt;/td&gt;
+      &lt;td&gt;80: 20&lt;/td&gt;
+      &lt;td&gt;350&lt;/td&gt;
+      &lt;td&gt;1.12&lt;/td&gt;
+      &lt;td&gt;7.97&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ciprofloxacin&lt;/td&gt;
+      &lt;td&gt;80: 20&lt;/td&gt;
+      &lt;td&gt;275&lt;/td&gt;
+      &lt;td&gt;1.20&lt;/td&gt;
+      &lt;td&gt;6.42&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sulphadiazine&lt;/td&gt;
+      &lt;td&gt;80: 20&lt;/td&gt;
+      &lt;td&gt;270&lt;/td&gt;
+      &lt;td&gt;2.15&lt;/td&gt;
+      &lt;td&gt;6.43&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>2012</offset>
+      <text>HPLC experimental parameters used in the detection of antibiotics.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Target molecule ([target] = 200\u202fµM)', 'Rate constant M−1 s−1 (in water)', 'Rate constant M−1 s−1 (in milk)'], ['Amoxicillin', '14.8', '24.0'], ['Sulphadiazine', '22.0', '35.0'], ['Doxycycline', '33.7', 'No detectable concentration'], ['Ciprofloxacin', '35.4', 'No detectable concentration']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Target molecule ([target] = 200 µM)&lt;/td&gt;
+      &lt;td&gt;Rate constant M−1 s−1 (in water)&lt;/td&gt;
+      &lt;td&gt;Rate constant M−1 s−1 (in milk)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Amoxicillin&lt;/td&gt;
+      &lt;td&gt;14.8&lt;/td&gt;
+      &lt;td&gt;24.0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sulphadiazine&lt;/td&gt;
+      &lt;td&gt;22.0&lt;/td&gt;
+      &lt;td&gt;35.0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Doxycycline&lt;/td&gt;
+      &lt;td&gt;33.7&lt;/td&gt;
+      &lt;td&gt;No detectable concentration&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ciprofloxacin&lt;/td&gt;
+      &lt;td&gt;35.4&lt;/td&gt;
+      &lt;td&gt;No detectable concentration&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>2079</offset>
+      <text>Rate constants of ozone oxidation of antibiotics in milk and water.</text>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2097" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2084" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2147</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0147651318303178-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2155</offset>
+      <text>Molecular structure of the studied antibiotics.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0147651318303178-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2203</offset>
+      <text>Dose dependent removal of 200 µM concentration of amoxicillin (A), sulphadiazine (B), ciprofloxacin (C), and doxycycline (D) from water and milk samples. Error bars indicate the standard deviation of the mean of three independent experiments.</text>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2236" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0147651318303178-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2446</offset>
+      <text>1H NMR spectra of 40 mM concentrated aqueous solutions of amoxicillin (A), doxycycline (B), ciprofloxacin (C), and sulphadiazine (D) before (top) and after (bottom) ozonation treatment with a concentration of 75 mg L−1. Note that the peak at 4.8 ppm represents D2O signal.</text>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2638" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0147651318303178-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2719</offset>
+      <text>Examination of toxicity and antimicrobial activity of antibiotics before and after ozonation treatment. The experiments conducted with E. coli.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0147651318303178-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2863</offset>
+      <text>Milk aging experiments (for five days at 37 ⁰C) conducted to examine the antimicrobial activity of antibiotics before and after ozonation treatment ([O3] = 75 mg L−1).</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0147651318303178-fx1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>3031</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3032</offset>
+      <text>Graphical abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3051</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3060</offset>
+      <text>['Ozonation treatment', 'Antibiotics', 'Decomposition', 'Antimicrobial activity', 'Milk samples']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3158</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3171</offset>
+      <text>In dairy farms, antibiotics are widely used to treat various diseases including bacterial infections such as Mastitis and Cystitis (Zwald et al., 2004). They are also used as growth promoters to speed the food production process and improve product quality (Dibner and Richards, 2005). Very little of the applied antibiotics is consumed while the majority is excreted without modification. This makes effluents from animal farms an important source of antibiotic in the environment. Additionally, if strict adherence to milk production withholding periods is not followed, the use of antibiotics may result residues in milk and subsequently triggers allergic reactions in humans upon consumption (Khaniki, 2007). Additionally, antibiotics give rise to an increase in the antibiotic resistance of pathogenic bacteria resulting in a long term health problems associated with the lack of availability of suitable drugs to treat the newly evolved resistant bacteria (). Furthermore, adherence to milk production withdrawal periods results in massive quantities of waste milk that is not suitable for human or animal (calf feeding) consumption and pose huge economic loss and present serious environmental waste () In order to prevent the problems identified above, antibiotics must be eliminated from farm wastewater as well as recycling waste milk for further use or safe environmental discharge. Several treatment processes have been proposed to remove antibiotics from aqueous media, exclusively targeting wastewater treatment plants (Homem and Santos, 2011). These processes include physical, biological, and chemical methods (Homem and Santos, 2011). The physical methods, such as filtration, coagulation, flocculation, and sedimentation have been proven to be inefficient and provide dissatisfactory results (). They only transport the pollutants from one phase to another requiring subsequent treatments. Even advanced microfiltration coupled with reverse osmosis technology and UV radiation cannot eliminate antibiotic residues from wastewater (). Additionally, the biological method fails to remove antibiotics from wastewater due to the high toxicity and recalcitrant of antibiotics to the micro-organisms (Watkinson et al., 2007). Advanced oxidation processes (AOPs) have emerged as an important class of technologies for the oxidation and destruction of a wide range of organic pollutants in water and wastewater via the generation the strongly oxidizing hydroxyl radicals (•OH) (). The major drawback of AOPs is the non-readily generation of the oxidizing •OH radicals, requiring combinations of chemical agents, the use of toxic transition metals, or application of auxiliary energy sources such as radiation or electronic current (). In contrast, only few attempts have been made to remove antibiotics from milk. The proposed methods include using various adsorbent materials such as activated charcoal (Charm, 1980) or functionalized resins () to extract antibiotics from milk. The utility of these methods are practically not feasible due to the need to heat the milk to solubilize the protein content and run it through filtration process which might not reach high separation of resins- coupled to antibiotic from the milk body. Another proposed method is using electrochemical oxidation which induces the decomposition of antibiotics present in the milk by means of oxidation (Kitazono et al., 2016). This method could be impractical solution due to its high cost and the need to add external agents such as acids and salts making the final product not suitable for recycling. Among the different processes, ozonation, the application of molecular ozone (O3), is a type of advanced oxidation processes (at basic pHs) that has long been used in various industries including water and wastewater treatments (Andreozzi et al., 1999). The removal of organic pollutants by this non-selective method is an oxidation based decomposition induced by the molecular ozone or the highly reactive hydroxyl radicals (•OH), produced during the hydrolysis of ozone at basic pHs (Andreozzi et al., 1999). Ozone exhibits greater redox potential than most other traditional oxidants/disinfectants including hydrogen peroxide, permanganate, chlorine dioxide, chlorine gas, oxygen, and hypochlorite and it only competes with hydroxyl radicals and fluorine (Varga and Szigeti, 2016). Ozonation found increasing applications in the dairy industry as a disinfection agent for stainless steel surfaces used in the production factories (Guzel-Seydim et al., 2004). In fact, ozonation was used to pasteurize and preserve milk instead of the conventional thermal method without adversely impacting milk qualities (e.g., oxidizing lipids and proteins), if certain ozone levels are not exceeded (Varga and Szigeti, 2016). Additionally, ozone was used in numerous industrial areas such as food surface hygiene, recycling of wastewater, treating fruits and vegetables to increase shelf-life of the products because ozone decomposes rapidly and leaves no residues (Guzel-Seydim et al., 2004). In this study and for the first time, we have investigated the use of ozonation treatment to remove antibiotics in raw milk and the decomposition behaviors were compared to those conducted in non-buffered aqueous solutions under the same experimental conditions. Four commonly used broad-spectrum antibiotics in veterinary medicine (Schwarz et al., 2001) (shown in Fig. 1) were selected as model examples to demonstrate the proposed method in decomposing antibiotics belonging to four different sub-classes, β-lactams, quinolone, tetracycline, and sulfonamide. The results of this study confirmed that ozonation treatment is an efficient method to remove antibiotics residues (at μM levels which commonly detected in milk samples (Aytenfsu et al., 2016; Syit, 2008)) from matrices as complex as milk with economic viability since the removal was achieved at low levels of ozone and non-agitated condition. Large-scale ozonation process is a previously proven technology in the field of water treatment (Gogate and Pandit, 2004), and can easily be transferred in recycling waste milk.</text>
+      <annotation id="11">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6899" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7245" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6835" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7142" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7230" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7275" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7922" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7993" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8170" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9119" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4384" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9331</offset>
+      <text>Experimental section</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9352</offset>
+      <text>Chemicals and reagents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9375</offset>
+      <text>Amoxicillin, doxycycline, ciprofloxacin, and sulphadiazine were purchased from Alfa Aesar. Acetonitrile, t-butanol, and other solvents and reagents used in this study were of analytical grade and were used without further purification. Double distilled water (Mill-Q with a conductivity of 18.2 MΩ cm) was used to make stock solutions and the desired concentrations of the studied antibiotics. Milk was supplied from a local farm that is known to be free of antibiotic administration.</text>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9726" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>9860</offset>
+      <text>Ozonation experiments</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9882</offset>
+      <text>Ozonation runs were conducted using Longevity Resources Inc. ozone generator model EXT50 throughout the experiments. The generator was supplied with 100% pure oxygen gas with a flow rate of 0.75 litter per minute resulting in ozone nominal yield of 7.5 µg mL−1. All experiments were carried out in a 500 mL conical contact flask. The ozone was generated, driven by an air pump and fed into a conical flask through a pipe with a porous Teflon gas sparger located at the end of the pipe. The position of the sparger was in the middle of the test solutions. The initial antibiotics concentrations (200 µM) were made in 200 mL double distilled water and ozonated at different times (0, 2 min, 5 min, and 10 min) to produce different concentrations of ozone in the treated solutions (0, 15 mg L−1, 37.5 mg L−1, and 75 mg L−1) or (0, 312 µM, 781 µM, and 1500 µM). Ozonation experiments of antibiotics in milk were conducted following the same procedure as above. All ozonation experiments were conducted at room temperature, 23 ⁰C, to mimic real world application in milk samples. The degree of which the samples were exposed to ozone is discussed throughout the paper in terms of exposure time and ozone concentration exchangeably. In this study and consistent with previous reports including (Zhang et al., 2006), the ozone doses were reliably calculated from the ozone generator flow rate, ozone yield, and treatment time since the experimental conditions of the present study do not produce ozone concentration that exceeds saturation levels.</text>
+      <annotation id="23">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="10888" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9943" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="10108" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="10216" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="10461" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="10611" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="10629" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11005" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11075" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11081" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11196" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11242" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11269" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11371" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11377" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11423</offset>
+      <text>Steady state UV–VIS studies</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11451</offset>
+      <text>Initially, the effect of ozone treatment on the decomposition of antibiotics (concentration of 200 µ) was studied in double distilled water (note: all studied antibiotics are water soluble at this concentration). UV–VIS spectra were recorded before and after ozonating the samples for different times (2–10 min). Unknown concentrations were determined by a comparison made against calibration curves established from at least five different standard concentrations. The spectra were collected using LAMBDA 850 UV/VIS spectrophotometer from PerkinElmer. Quartz cuvettes from PerkinElmer were used for the measurements. The reported data in this study are average values of five individual experiments with standard deviation not exceeding 5%.</text>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11476" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11529" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11648" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11772" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11901" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12193</offset>
+      <text>High performance liquid chromatography (HPLC)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12239</offset>
+      <text>The detection of the concentration of the studied antibiotics in milk before and after ozone treatment was conducted after extraction using acetonitrile as explained in Section 2.5. Reversed-phase HPLC from Shimadzu chromatograph (10 CE VP) with UV–VIS detector (SPD-10AV VP) fixed at a given wavelength specified for each antibiotic (Table 1) was used throughout the study. A C18 analytical column from Raptor LC Columns was employed to conduct the separation of the target molecules (refer to Table 1 for retention times). The eluent (mobile phase) used was optimized for each target molecule (Table 1). The instrument flow rate and injection volume were 1 mL min−1 and 20 µL, respectively. Unknown concentrations were determined by a comparison made against calibration curves established from at least five different standard concentrations. The standard concentrations underwent the same experimental protocol (extraction protocol) applied for the ozonation studies except the application of ozone treatment to account for any experimental variation. The same HPLC analysis procedure was applied to screen the decomposition byproducts in double distilled water after ozone treatment for 10 min. The reported data in this study are the average values of five individual experiments with standard deviation not exceeding 5%. The limits of detection (LOD) of the studied molecules were determined to be antibiotic 0.5 µM, 3 µM, 10 µM, and 15 µM for doxycycline, amoxicillin, ciprofloxacin, and sulphadiazine respectively. Any target concentration that fell below the detection limit was considered to be zero.</text>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12260" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12326" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12940" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13069" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13098" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13236" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13411" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13774" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13851</offset>
+      <text>Antibiotic extraction procedure</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13883</offset>
+      <text>In order to determine the concentration of antibiotics spiked in milk samples, an extraction procedure had to be applied to isolate the target compounds from the rest of milk matrix. 2 mL of the spiked samples (each target antibiotic was spiked separately to avoid overlap with other antibiotics) was mixed with 5 mL acetonitrile and the mixture was shaken for 10 min. Samples were centrifuged for 10 min at a speed of 13,000 rpm. 5 mL of the supernatant was evaporated in a rotary-evaporation system and the antibiotic residue was dissolved in 2 mL double distilled water. 20 µL of the extracted samples was injected in HPLC. Results were compared against a standard calibration curve made of the same compound under the same experimental conditions. The reported antibiotic concentrations post to ozonation are the average values of five individual extraction experiments with standard deviation not exceeding 5%. The extraction efficacy was at least 97%, determined by comparing post-extraction concentrations of antibiotics (non-ozonated) against standard solutions.</text>
+      <annotation id="51">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13909" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14659" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14881" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13886" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>14954</offset>
+      <text>1H NMR experiments</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14973</offset>
+      <text>1H NMR spectra were recorded at room temperature using Bruker 500 MHz. 200 µM of the target antibiotics was dissolved in double distilled water and ozonized at 75 mg L−1. The samples were dried overnight at 40 ⁰C, then re-dissolved in D2O making the final concentration 40 mM.</text>
+      <annotation id="55">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15010" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15229" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15250</offset>
+      <text>Antimicrobial activity experiments and milk aging experiments</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15312</offset>
+      <text>Antimicrobial activity experiments were conducted to screen the antibiotic activity prior and post ozonation treatment. E. coli bacteria was used for qualitative indication of removal of antibacterial effect. According to manufacturer instructions, petri dishes were made by mixing appropriate amounts of Fluka ® brand agar with Fluka ® nutrient broth number 3 in double distilled water followed by boiling. The mixture was allowed to gel for at least 1 h. E. coli was obtained from stock solution and was streaked on the surface of the agar. Two control experiments were conducted using agar made in double distilled water and ozonated double distilled water for 10 min to ensure that any further observation is due to the antibiotic degradation rather than a change in water chemistry. The other experiments were conducted by mixing antibiotics (before and after ozonation for 10 min) with the agar solution (before gelation) to make a concentration of 200 µM. The growth of E. coli was further analyzed by an image processing software (ImageJ) to provide a numerical analysis of the antimicrobial examination. Milk aging experiments were conducted to illustrate that the decomposition of antibiotics in milk eliminate any residual antimicrobial activity by monitoring the growth of the native milk bacteria as well as airborne bacterial contamination. Antibiotics were spiked in milk samples at a concentration of 200 µM and ozonated for 10 min (75 mg L−1). Five mL of non-ozonated and ozonated samples was placed in plastic dishes and left at 37 °C for five days. Thin white films were developed by this process and the quality of the films as well as the growth of bacteria were clearly apparent on both control and ozonated samples.</text>
+      <annotation id="57">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16250" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16712" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>17051</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>17074</offset>
+      <text>Production of oxidation conditions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17109</offset>
+      <text>It has been well established in the ozone literature that ozone molecule (O3) is an electrophilic oxidant that reacts very rapidly with organic molecules having nucleophilic moieties such as carbon-carbon double bonds, aromatic rings, and the functional groups bearing sulfur, phosphorus, nitrogen and oxygen atoms (). A simple analysis of the structures of the studied antibiotics (shown in Fig. 1) indicates that more than one reaction center is available for the ozone electrophilic attack. It should be noted that for pH lower than 5.5, amine group is in the protonated form (across all the investigated molecules, refer to pKa values in Table 1), and considered unreactive towards the oxidation by the molecular ozone. Therefore, it can be expected that the ozone attack, in this pH range, is mainly directed towards the other moieties such as aromatic rings and sulfur atoms. Self-decomposition of ozone increases with increasing the pH values and results in the production of hydroxyl radicals (•OH) (Gurol and Vatistas, 1987). Oxidation via hydroxyl radicals is less likely to be the predominant decomposition mechanism taking place in this study, due to the operation in neutral and acidic pHs. The hydroxyl radicals mediated decomposition was ruled out by performing a control experiment with one of the studied antibiotics. The decomposition behavior of doxycycline was performed in the presence and absence of a radicle scavenger, 1 mM of t-butyl alcohol. As can be seen in Fig. S2, there is no notable difference in the destruction of doxycycline (indicated from the absorption intensity) whether or not t-butyl alcohol was present. This clearly illustrates that the decomposition of the target antibiotics is predominantly governed by the interaction with the molecular ozone.</text>
+      <annotation id="59">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17631" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17894" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18049" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18308" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17145" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17167" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17575" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17826" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17872" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18013" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18893" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18900</offset>
+      <text>Removal of antibiotics: A comparison between distilled water and milk samples</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18978</offset>
+      <text>The oxidation and decomposition of the target antibiotics (of an initial spiked concentration of 200 µM) was conducted in unbuffered deionized water (pH of 6.8 ± 2) and unmodified milk samples (pH of 7 ± 2) to mimic the potential application of ozonation process in recycling water and waste milk, i.e., room temperature and non-agitated conditions. Additionally, the ozonation of unbuffered solution can yield valuable information regarding the nature of decomposition byproducts, by monitoring the variation in the pH values and the solubility of the resulting byproducts. 200 µM target concentration was particularly selected due to the fact that it falls within the concentration range previously found in milk sample (). Fig. 2 shows dose dependent decomposition behaviors of antibiotics with increasing ozone concentrations in water and milk samples. Clearly, the degree of removal is increasing with increasing ozone concentrations from 15 mg L−1 to 37.5 mg L−1, beyond which a saturation behavior is observed in most cases. A near complete removal was reached, 95% ± 3, upon treatment with 75 mg L−1 of ozone across three of the investigated molecules. Amoxicillin in water samples (Fig. 1A) is the only molecule that did not reach as high level of removal as the other targets and only 70% removal was achieved. Furthermore, it should be noted that, in general, the removal of the investigated antibiotics in milk was accomplished to a greater degree at lower ozone concentration in comparison to the corresponding removal in water samples. This particular observation is well supported by the calculation of the reaction rate constants, explained further in the following section (Section 3.3). The fact that the removal of antibiotics in milk appears to be more efficient than in unbuffered water, despite the complexity of milk samples, is a clear evidence of the selectivity ozonation process in removing antibiotics in the presence of various interfering molecules of the native milk matrix. This could be explained by considering the following: A) similar small molecules as antibiotics; such as lactose and vitamins; are not freely available in the solution and known to be coupled to larger molecules such as proteins as casein (Lindmark-Månsson and Åkesson, 2000; Lopez, 2005) which create a preferential interaction towards the freely available antibiotics, B) the spiked antibiotic concentration is approximately 8 times lower than the highest ozone concentration used in this study (200 µM Vs. 1500 µM), making the ozone concentration sufficiently enough to decompose the antibiotic even if partially consumed by unintended reactions. It was expected that the decomposition of antibiotics in unbuffered water to be faster and more efficient than in milk samples. However, Fig. 2 shows that the opposite trends are observed, where the decomposition in milk occurs to a greater extent at lower doses than those of unbuffered water, except in the case of sulphadiazine at lower ozone concentration. This could be attributed to the sharp decrease of the solution pH associated with the first ozone dose in the unbuffered water samples (Fig. S4). The pH reduction could protonate the abundantly available nitrogen based groups in the studied antibiotics making them less reactive towards the electrophilic reaction with the molecular ozone, a phenomena previously observed by others including (Chelme-Ayala et al., 2010). In contrast, Fig. S4 shows that the ozonated milk samples did not undergo the sharp pH reduction and the neutral pH is maintained through the entire range of the applied ozone doses. To clarify the pH reduction and its impact on antibiotic decomposition, the degradation of doxycycline was studied in unbuffered and PBS-buffered aqueous solutions. Data in Fig. S3 supports the abovementioned explanation that pH reduction plays a fundamentally important role in deactivating nitrogen based entities towards molecular ozone attack, where the decomposition in BPS-buffered solution resulted in a greater degree of doxycycline removal.</text>
+      <annotation id="70">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19128" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19172" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19495" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22058" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22145" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22500" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22529" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22614" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22825" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19287" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19058" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19567" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19648" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19787" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19793" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19896" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19902" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20089" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20447" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20453" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21380" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21442" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21448" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21514" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21520" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21974" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21980" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22087" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22328" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22586" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22933" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20614" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>23049</offset>
+      <text>Determination of decomposition rate constants in milk and water samples</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23121</offset>
+      <text>The previously mentioned discussions clearly illustrated that ozonation treatment is able to destruct and remove antibiotics from water and milk samples. This section provides in depth analysis of the reaction kinetics and a comparison with previous studies conducted to remove other pharmaceutical molecules from water samples. Dissolving ozone gas into water was found to be kinetically controlled with a fast zero-order dissolution behavior prior to reaching ozone saturation after 20 min of treatment at a flow rate of 1 L min−1 (Chu and Ma, 2000). Therefore, in this study and consistent with previous reports including (Zhang et al., 2006), the ozone doses were reliably calculated from the ozone generator flow rate, ozone yield, and treatment time since the experimental conditions of the present study do not produce ozone concentration that exceeds saturation levels. Furthermore, ozone treatment of an aqueous compound proceeds through two pathways: direct reaction by molecular ozone and indirect reaction by hydroxyl radicals (Hoigné and Bader, 1976). The elimination of antibiotics (A) in a batch reaction that react with both ozone and hydroxyl radicals is described by second-order kinetics, Eq.: −d[A]dt=KO3−A[O3][A]+K•OH−A[•OH][A] where kO3–A and kOH–A are second-order reaction rate constants of antibiotics with ozone and •OH radicals, respectively. The latter are not likely to contribute to the antibiotic removal mechanism as they are formed from ozone decomposition in aqueous solutions, predominantly at higher pH upon catalysis by hydroxide ions (). This makes the direct pathway dominates and the second term in Eq. becomes negligible. In this study, we have experimentally proven that oxidation and removal processes are governed by the ozone molecule as explained earlier in Section 3.1. The disappearance of the target compounds was monitored instead of monitoring ozone concentration due to the absorption of the target antibiotics in the range of 258 nm and ozone could not be quantified by measuring the direct UV absorption at this particular wavelength (). As can be seen in Table 2, the reaction rate constants were calculated for the oxidation of antibiotics in water and milk samples. The constants were obtained from the gradient of plots of ln removal of antibiotics (first term of Eq.), against the time-integrated ozone concentration (second term of Eq. calculated by multiplying ozone concentration by contact time) when implementing the following modified form of Eq. (Broséus et al., 2009): ln[A]0[A]t=−KO3−A∫01[O3]dt Consistent with the previously noted removal data in Fig. 2, the rate constants of oxidizing antibiotics in milk are faster than the corresponding rate constants in water samples. This unexpected trend is attributed again to the reduction of solution pHs associated with unbuffered water samples. The reduction in the pH value of water samples makes the solution acidic and promote the protonation of various amine groups present in the investigated antibiotics. The protonated form of amine groups are significantly less reactive towards oxidation by ozone. In fact, it was previously found that the rate constant could decrease up to 10-folds by a one unite decrease of the pH (). Note that the decomposition rate of ciprofloxacin and doxycycline was relatively fast with respect to the current study's experimental design. Thus, significantly reduced their concentrations in milk samples below the detection limit of HPLC and therefore no experimental data were available for calculation of rate constant. The fastest decomposing antibiotic (ciprofloxacin) is at least 80% faster than the slowest studied molecule (amoxicillin), and the decomposition rate of sulphadiazine and doxycycline fail in between respectively. This particular decomposition trend is attributed to the ease of which these antibiotic can be degraded as well as their reactivity towards interaction with ozone. It is noteworthy mentioning that the studied antibiotics followed the same decomposition order in both water and milk samples which indicates that the non-water 20% component of milk samples (Lindmark-Månsson and Åkesson, 2000; Lopez, 2005) does not play a notable role in the decomposition behavior. The rate constants for oxidation of various organic pollutants including pharmaceutical compounds by ozone was previously found to vary over 10 orders of magnitude in water samples, between 0.1 M−1 s−1 and about 7 × 109 M−1 s−1, depending on a range of factors including nature and concentration of the target compound, experimental setup, and complexity of the reaction media (). In this study the rate constants of the studied antibiotics in unbuffered distilled water ranged between 14.8 M−1 S−1 and 35.4 M−1 S−1 and the decomposition in milk samples was found to be in the same order of magnitude.</text>
+      <annotation id="102">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24657" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25935" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26002" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26360" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23461" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23583" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23772" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23818" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23845" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23947" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="112">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23953" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24012" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24111" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24262" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24453" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24591" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24886" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25016" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25022" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25111" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="122">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25477" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25483" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25543" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25549" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26236" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26544" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="128">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27063" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="129">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27472" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="130">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27653" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23538" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24313" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="133">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24403" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27159" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="135">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27515" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="136">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27953" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24423" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="138">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25258" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="139">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25348" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="140">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25754" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25836" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="142">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26290" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26683" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="144">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27380" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27775" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>27973</offset>
+      <text>Analysis of the decompositions byproducts</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28015</offset>
+      <text>Fig. 3 provides further investigation on the chemical nature of ozone-induced decomposition of the target antibiotics using 1H NMR. Fig. 3A1-C1 show fingerprint reference 1H NMR spectra of the pure antibiotic compounds. Full 1H NMR signals assignment is illustrated by relating the proton numbering on the inserted molecular structures with the labels indicated on each individual chemical shift. The complete elimination of the parent compounds (amoxicillin, doxycycline, and ciprofloxacin) is clearly evident from the disappearance of the identifying signals (Fig. 3A2-C2) post to treatment with ozone dose of 75 mg L−1. Additionally, the destruction of amoxicillin, ciprofloxacin, and to a lesser extent doxycycline resulted in the progression of many new and strongly detectable peaks between 0 ppm and 5.5 ppm. This indicates that the molecular hybridization of the electronic environment constructing these signals has been transformed from being sp2 of aromatic nature to sp3 of saturated aliphatic characteristic. Additionally, the presence of such signals, clearly different in nature and distribution than in the original spectra, is a proof of a destructive modification of the aromatic systems with sp2 signals in the range of 6–9 ppm. It is worth noting that few weakly detectable peaks can be seen in the range of 6–9 ppm with completely different distribution than those in the original spectra of the parent compounds. This could be due to the formation of unsaturated and saturated fragments coupled to nitrogen based groups. The proposed ozonation process for antibiotic destruction was challenged by conducting the decomposition of sulphadiazine heavily mixed with inactive substances, frequently used in drug manufacturing process (at a ratio of 0.4 w / 0.6 w, respectively). Sulphadiazine was particularly selected for this experiment due to the presence of its protons in the de-shielded chemical shift region (7–9 ppm) and the lack of overlap with the signals representing the additive substances such as cellulose, citric acid, and poly ethylene glycol with signals in the shielded chemical shift between 0 ppm and 5.5 ppm, as shown in Fig. 3D1. Similarly to the abovementioned discussion of the other antibiotics, the decomposition of the impure sulphadiazine resulted in a complete removal of the aromatic protons (between 6 ppm and 9 ppm) and a further enrichment of the signals in the region of shielded protons (between 0 ppm and 5.5 ppm) is observed. Again, few weakly detectable peaks with different distribution appeared in the high chemical shift region. The successful decomposition of sulphadiazine in the presence of 60% impurities is consistent with our decomposition studies in milk samples. Both experiments lead to the same conclusion that treatment with ozone at a dose as low as 75 mg L−1 is sufficient to remove antibiotics even in the presence of significant amount of interfering elements. The decomposition of antibiotics upon treatment with 75 mg L−1 of ozone was additionally investigated by HPLC. Fig. S5A-D show that the single peak representing the target antibiotics was not resolved post to ozone treatment and a number of new peaks with significantly lower intensities appeared. The HPLC results are in agreement with the UV–VIS data (Fig. S1) which demonstrated that during the ozone oxidation of antibiotics the absorbance drops to nearly zero not only at the maximum absorption of the original compounds, but also across the whole recorded spectrum. Thus far, 1H NMR, HPLC, and UV–VIS collectively provided strong evidence that ozonation of antibiotics at a dose of 75 mg L−1 caused the molecules to break down to byproducts significantly different in nature. Previous ozone and advanced oxidation processes studies of pharmaceutical molecules indicated that the fragmentation is not limited to but includes the formation of various non-aromatic acids such as glyoxal and oxalic, formic, glyoxalic, ketomalonic, malonic, succinic, fumaric, tartronic, hydroxysuccinic, oxaloacetic and tartaric acids (). All of these acids are highly water-soluble and their formation should result in a reduction of the pH of our unbuffered aqueous solutions. Indeed, all these characteristics were confirmed by the solubility and pH experiments shown in Fig. S4 and Fig. S6. The pH of ozonated antibiotic solutions underwent at least two units reduction with the first dose of ozonation treatment. Amoxicillin and sulphadiazine are sparingly soluble in water (3.4 mg L−1 and 0.077 mg L−1 respectively). Thus, suspensions of the drugs are seen when preparing mM concentrated solutions. However, post ozonation process, the suspensions were turned into completely clear solutions with no sign of any insoluble products. Additionally, the color of all the concentrated antibiotic solutions changed to either yellow (in the case of amoxicillin and sulphadiazine) or dark brown (doxycycline ciproflacin) after treatment with 75 mg L−1 of ozone. Note that the originally ozonized solutions of antibiotics were homogeneous at the investigated concentration (200 µM) and the solution coloration post to ozone treatment is only observed when the samples were concentrated 500 times.</text>
+      <annotation id="146">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="32175" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="32286" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="148">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="32335" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="28079" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="28613" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="151">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="30810" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="152">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="31016" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="31159" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="154">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="31348" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="155">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="31741" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="156">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="32989" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="157">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="33092" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="158">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="33151" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>33230</offset>
+      <text>Antimicrobial activity of the ozonated solution</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>33278</offset>
+      <text>The removal of the parent pharmaceutical compounds does not indicate successful treatment due to the fact that the resulting byproducts may possess similar or greater biologically activity as the parent compounds (Dimitrakopoulou et al., 2012). Therefore, the biological activity of antibiotics treated with ozone was tested with a well-established test using E. coli bacteria (). Other organisms such as Enterococcus faecalis and Klebsiella pneumoniae were previously used in such examination and produced similar results to those conducted with E. coli. Herein, antibiotics were mixed at a concentration of 200 µM with the medium used to grow the bacteria. A set of control experiments (Fig. 4A) were conducted to ensure that ozonation of blank water, used in preparing the growth medium, does not promote any change in the growth of the organism. The remaining images of Fig. 4 show the antimicrobial activity of the tested antibiotics before and after ozonation treatment. A complete growth suppression is observed with antibiotics prior to ozone treatment. However, E. coli retained its growth up on treating the target antibiotics with ozone for 10 min (75 mg L−1). The growth of E. coli in petri dishes shown in Fig. 4 was analyzed by ImageJ software to provide further numerical analysis of the removal of the antimicrobial effect of antibiotics treated in this study. Data in Fig. S7 supports the above mentioned conclusion where the bacteria retained its growth (at least 82% of its growth in the medium made with blank water only) in the media made with antibiotics treated with ozone. This clearly illustrates that ozonation treatment under the experimental conditions of this study leads to a complete removal of the antimicrobial activity of the examined antibiotics. Additionally, the results also indicate that the decomposition solutions show no sign of toxicity to the tested organism. All the antimicrobial activity experiments discussed above do not show how the application of ozonation treatment in milk sample will influence the antimicrobial activity of antibiotics. In order to address this concern, milk aging experiments (also known as casein agar method (Martley et al., 1970)) were performed. Antibiotics were spiked in milk samples at a concentration of 200 µM and ozonated for 10 min (75 mg L−1) followed by aging for 5 days at 37 °C (Frazier et al., 1928). Fig. 5 shows the results of milk aging experiments of the antibiotics in comparison to controls (spiked milk samples with no ozone treatment). The non-ozonated samples resulted in clear pale white films with no signs of bacterial growth (naturally occurring lactic acid bacteria Lactobacillus (Ortolani et al., 2010) or bacteria from the surrounding environment). However, the clarity of the pale white films greatly disrupted in the ozonated samples. A substantial bacterial growth is clearly noticed from the change of the color of the films or the development of white spots. This is a clear evidence of the removal of the antimicrobial effect and the lack of toxicity of the treated antibiotic samples. In fact, it is an indication of the selectivity of ozonation treatment in removing antibiotics in a medium of great composition complexity as milk.</text>
+      <annotation id="159">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="33586" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="160">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="33870" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="161">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="34323" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="162">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="34420" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="163">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="34868" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="164">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="35545" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="165">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="35792" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="166">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="35372" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>36522</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36534</offset>
+      <text>The ozonation process was investigated in removing four different antibiotics including amoxicillin, doxycycline, ciprofloxacin and sulphadiazine in aqueous solutions and milk samples. The degradation patterns of the studied antibiotics were similar and the removal reached 95% with ozone dose as low as 75 mg L−1. The results of this study showed that the removal of antibiotics in milk samples is more efficient with faster rate constants which was attributed to the self-buffering characteristic of milk. This maintains the neutral pH promoting the un-protonated form of amine groups leading to a greater reactivity towards the electrophilic attack by the molecular ozone. 1H NMR experiments indicated that ozonation treatment for antibiotics lead to their break down to simpler fragments of aliphatic nature. The ozonation induced fragmentation was additionally confirmed by HPLC analysis. The decomposition products were found to be more water-soluble and with acidic characteristics. Bacterial growth experiments, conducted with E. coli, and milk ageing experiments provided clear evidences that the resulting decomposition products do not possess any residual antimicrobial activity. Ozonation process could be a viable route to remove antibiotics that contribute to a growing environmental and health issue of antimicrobial resistance. Future scale-up studies would be the continuation of the present study in order to lead the real implementation of large-scale processes. Large-scale ozonation process is a previously proven technology in water treatment, which can be easily transferred in recycling waste milk.</text>
+      <annotation id="167">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="37069" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="168">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="36817" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="169">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="37203" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="170">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="37952" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="171">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="36965" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>38157</offset>
+      <text>Supporting information</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>38180</offset>
+      <text>Supplementary data associated with this article can be found in the online version at doi:10.1016/j.ecoenv.2018.04.024.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>38300</offset>
+      <text>Supplementary material</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>38323</offset>
+      <text>Supplementary material</text>
+    </passage>
+  </document>
+</collection>

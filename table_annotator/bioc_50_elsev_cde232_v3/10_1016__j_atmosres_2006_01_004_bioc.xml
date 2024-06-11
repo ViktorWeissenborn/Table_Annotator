@@ -1,0 +1,1697 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-06-10</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.atmosres.2006.01.004</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">REACTIVEUPTAKEGASEOUSPAHMOLECULESBYMICRONSIZEDATMOSPHERICWATERDROPLETS</infon>
+      <infon key="name_0">surname:RAJA</infon>
+      <infon key="license">Copyright © 2006 Elsevier B.V. All rights reserved.</infon>
+      <infon key="source">Atmospheric Research</infon>
+      <infon key="year">2006-05-24</infon>
+      <infon key="volume">81</infon>
+      <infon key="issue">0169-8095</infon>
+      <infon key="fpage">277</infon>
+      <infon key="lpage">292. Link: https://sciencedirect.com/science/article/pii/S0169809506000172</infon>
+      <infon key="pub-id_doi">10.1016/j.atmosres.2006.01.004</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0169809506000172</infon>
+      <infon key="kwd">['PAH', 'Ozonolysis', 'Atmosphere', 'Water droplet', 'Heterogeneous reaction']</infon>
+      <offset>0</offset>
+      <text>On the reactive uptake of gaseous PAH molecules by micron-sized atmospheric water droplets</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>91</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>109</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>120</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>129</offset>
+      <text>A falling droplet reactor was used to study the heterogeneous oxidation of gaseous PAH molecules adsorbed on a 92 μm diameter water droplet by ozone. The dynamic partition constant for the PAH between the droplet and air and the first-order surface rate constant was measured. The increase in uptake with ozone concentration was due to increased mass transfer via surface reaction of co-adsorbed ozone and PAH. The surface rate constant was rationalized through the Langmuir–Hinshelwood mechanism. The rate constant was smaller for phenanthrene than naphthalene. The main reaction products identified in the aqueous phase indicated the peroxidic route for surface reaction of ozone with PAH. The heterogeneous reaction rate of ozone with adsorbed phenanthrene at the air–water interface of a 92-μm droplet was estimated to be 9300 times larger than the homogeneous reaction of ozone with phenanthrene in the gas phase and it was 76 times larger than the homogeneous oxidation by hydroxyl radical in the gas phase. For naphthalene that is more volatile, however, the homogeneous reaction with hydroxyl was more important. Increased organic carbon added to the droplet increased both the partition constant for phenanthrene and surface reaction with ozone. The partition constant for a droplet formed from actual fog water was much larger than for pure distilled water.</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="272" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="434" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="440" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="525" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="805" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="856" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1006" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1377" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="364" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="301" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="383" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="557" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="636" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1325" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1398" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1497</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Compound', 'Second order rate constant, kII cm3 molecule− 1 s− 1', 'Second order rate constant, kII cm3 molecule− 1 s− 1', 'Second order rate constant, kII cm3 molecule− 1 s− 1'], ['Compound', 'OH−', 'O3', 'NO3−'], ['Benzene', '1.2 × 10− 12', '&lt; 1 × 10− 20', '&lt; 3 × 10− 17'], ['Naphthalene', '2.4 × 10− 11', '2 × 10− 19', '3.6 × 10− 28'], ['Phenanthrene', '3.2 × 10− 11', '4 × 10− 19', '1.2 × 10− 13'], ['Anthracene', '1.7 × 10− 11', '', ''], ['Pyrene', '∼5 × 10− 11', '', '1.6 × 10− 27']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Compound&lt;/td&gt;
+      &lt;td&gt;Second order rate constant, kII cm3 molecule− 1 s− 1&lt;/td&gt;
+      &lt;td&gt;Second order rate constant, kII cm3 molecule− 1 s− 1&lt;/td&gt;
+      &lt;td&gt;Second order rate constant, kII cm3 molecule− 1 s− 1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Compound&lt;/td&gt;
+      &lt;td&gt;OH−&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;NO3−&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Benzene&lt;/td&gt;
+      &lt;td&gt;1.2 × 10− 12&lt;/td&gt;
+      &lt;td&gt;&amp;lt; 1 × 10− 20&lt;/td&gt;
+      &lt;td&gt;&amp;lt; 3 × 10− 17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Naphthalene&lt;/td&gt;
+      &lt;td&gt;2.4 × 10− 11&lt;/td&gt;
+      &lt;td&gt;2 × 10− 19&lt;/td&gt;
+      &lt;td&gt;3.6 × 10− 28&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Phenanthrene&lt;/td&gt;
+      &lt;td&gt;3.2 × 10− 11&lt;/td&gt;
+      &lt;td&gt;4 × 10− 19&lt;/td&gt;
+      &lt;td&gt;1.2 × 10− 13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Anthracene&lt;/td&gt;
+      &lt;td&gt;1.7 × 10− 11&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pyrene&lt;/td&gt;
+      &lt;td&gt;∼5 × 10− 11&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;1.6 × 10− 27&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1504</offset>
+      <text>Rate constants for homogeneous gas-phase oxidation reactions of aromatic compounds with typical oxidants at 298 K ((Atkinson and Carter, 1984), (Kwok et al., 1994), and (Atkinson, 1994))</text>
+      <annotation id="16">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1509" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Property', 'Value', 'Value', 'Value'], ['Property', 'Phenanthrene', 'Naphthalene', 'Ozone'], ['Molecular weight', '178', '128', '48'], ['Molecular formula', 'C14H10', 'C10H8', 'O3'], ['Molecular structure', '', '', ''], ['Aqueous solubility mol m− 3', '0.00617', '0.241', '0.44'], ['Sub-cooled liquid vapor pressure kPa', '9 × 10− 5', '0.037', ''], ['Bulk air/water partition constant, KWA', '705 ± 184', '53 ± 4', '0.31'], ['Interface air/water partition constant, KIA μm', '2.4 ± 104', '27', '0.0056'], ['Air–water interface adsorption energy kJ mol− 1', '− 46', '− 26', '− 5'], ['Mass accommodation coefficient, α', '1.2 × 10− 2', '3 × 10− 3', '&gt; 2 × 10− 3'], ['Diffusion coefficient in water, DL m2 s− 1', '5.8 × 10− 10', '7.0 × 10− 10', '1.3 × 10− 9'], ['Diffusion coefficient in air, DG m2 s− 1', '4.8 × 10− 6', '5.7 × 10− 6', '1.7 × 10− 5'], ['Mean thermal velocity,&lt;C&gt;m s− 1', '188', '222', '360']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Property&lt;/td&gt;
+      &lt;td&gt;Value&lt;/td&gt;
+      &lt;td&gt;Value&lt;/td&gt;
+      &lt;td&gt;Value&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Property&lt;/td&gt;
+      &lt;td&gt;Phenanthrene&lt;/td&gt;
+      &lt;td&gt;Naphthalene&lt;/td&gt;
+      &lt;td&gt;Ozone&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Molecular weight&lt;/td&gt;
+      &lt;td&gt;178&lt;/td&gt;
+      &lt;td&gt;128&lt;/td&gt;
+      &lt;td&gt;48&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Molecular formula&lt;/td&gt;
+      &lt;td&gt;C14H10&lt;/td&gt;
+      &lt;td&gt;C10H8&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Molecular structure&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aqueous solubility mol m− 3&lt;/td&gt;
+      &lt;td&gt;0.00617&lt;/td&gt;
+      &lt;td&gt;0.241&lt;/td&gt;
+      &lt;td&gt;0.44&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sub-cooled liquid vapor pressure kPa&lt;/td&gt;
+      &lt;td&gt;9 × 10− 5&lt;/td&gt;
+      &lt;td&gt;0.037&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bulk air/water partition constant, KWA&lt;/td&gt;
+      &lt;td&gt;705 ± 184&lt;/td&gt;
+      &lt;td&gt;53 ± 4&lt;/td&gt;
+      &lt;td&gt;0.31&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Interface air/water partition constant, KIA μm&lt;/td&gt;
+      &lt;td&gt;2.4 ± 104&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt;0.0056&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Air–water interface adsorption energy kJ mol− 1&lt;/td&gt;
+      &lt;td&gt;− 46&lt;/td&gt;
+      &lt;td&gt;− 26&lt;/td&gt;
+      &lt;td&gt;− 5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mass accommodation coefficient, α&lt;/td&gt;
+      &lt;td&gt;1.2 × 10− 2&lt;/td&gt;
+      &lt;td&gt;3 × 10− 3&lt;/td&gt;
+      &lt;td&gt;&amp;gt; 2 × 10− 3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Diffusion coefficient in water, DL m2 s− 1&lt;/td&gt;
+      &lt;td&gt;5.8 × 10− 10&lt;/td&gt;
+      &lt;td&gt;7.0 × 10− 10&lt;/td&gt;
+      &lt;td&gt;1.3 × 10− 9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Diffusion coefficient in air, DG m2 s− 1&lt;/td&gt;
+      &lt;td&gt;4.8 × 10− 6&lt;/td&gt;
+      &lt;td&gt;5.7 × 10− 6&lt;/td&gt;
+      &lt;td&gt;1.7 × 10− 5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mean thermal velocity,&amp;lt;C&amp;gt;m s− 1&lt;/td&gt;
+      &lt;td&gt;188&lt;/td&gt;
+      &lt;td&gt;222&lt;/td&gt;
+      &lt;td&gt;360&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1691</offset>
+      <text>Properties of PAHs and ozone at 298 K ()</text>
+      <annotation id="17">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1714" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Compound', 'kmaxs− 1', 'C1 / 2 molecules cm− 3'], ['Phenanthrene', '3.52', '8.9 × 1011'], ['Naphthalene', '303', '1.9 × 1014']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Compound&lt;/td&gt;
+      &lt;td&gt;kmaxs− 1&lt;/td&gt;
+      &lt;td&gt;C1 / 2 molecules cm− 3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Phenanthrene&lt;/td&gt;
+      &lt;td&gt;3.52&lt;/td&gt;
+      &lt;td&gt;8.9 × 1011&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Naphthalene&lt;/td&gt;
+      &lt;td&gt;303&lt;/td&gt;
+      &lt;td&gt;1.9 × 1014&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1732</offset>
+      <text>Langmuir–Hinshelwood adsorption parameters for PAHs at 298 K</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['DOC source', 'DOC concentration mg L− 1', 'pH', 'Conductivity/μS', 'Surface tension mN m− 1', 'ks s− 1'], ['None', '0', '5.4', '', '70', '4.0'], ['SFA', '12', '3.8', '14.3', '50', '5.5'], ['SFA', '17', '3.3', '22.3', '49', '10'], ['Fogwater', '230', '5.8', '32.6', '40', '19']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DOC source&lt;/td&gt;
+      &lt;td&gt;DOC concentration mg L− 1&lt;/td&gt;
+      &lt;td&gt;pH&lt;/td&gt;
+      &lt;td&gt;Conductivity/μS&lt;/td&gt;
+      &lt;td&gt;Surface tension mN m− 1&lt;/td&gt;
+      &lt;td&gt;ks s− 1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;None&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;5.4&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;70&lt;/td&gt;
+      &lt;td&gt;4.0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SFA&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;3.8&lt;/td&gt;
+      &lt;td&gt;14.3&lt;/td&gt;
+      &lt;td&gt;50&lt;/td&gt;
+      &lt;td&gt;5.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SFA&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;3.3&lt;/td&gt;
+      &lt;td&gt;22.3&lt;/td&gt;
+      &lt;td&gt;49&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fogwater&lt;/td&gt;
+      &lt;td&gt;230&lt;/td&gt;
+      &lt;td&gt;5.8&lt;/td&gt;
+      &lt;td&gt;32.6&lt;/td&gt;
+      &lt;td&gt;40&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1793</offset>
+      <text>Comparison of pseudo first-order rate constant for phenanthrene reaction with ozone on the surface of a 92 μm water droplet in the presence of DOC</text>
+      <annotation id="18">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1871" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1820" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1831" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Compound', 'Ozone (gas-phase)', 'Ozone (gas-phase)', 'OH (gas phase)', 'Ozone (water phase)'], ['Compound', 'rhet,O3/rhom,O3', 'ΔE0 kJ mol− 1', 'rhet,O3/rhom,OH', 'rhet,O3,g/rhom,O3,w'], ['NAPH', '27', '82.4', '0.14', '1.3 × 105'], ['PHE', '9300', '96.9', '76', '8.7 × 105']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Compound&lt;/td&gt;
+      &lt;td&gt;Ozone (gas-phase)&lt;/td&gt;
+      &lt;td&gt;Ozone (gas-phase)&lt;/td&gt;
+      &lt;td&gt;OH (gas phase)&lt;/td&gt;
+      &lt;td&gt;Ozone (water phase)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Compound&lt;/td&gt;
+      &lt;td&gt;rhet,O3/rhom,O3&lt;/td&gt;
+      &lt;td&gt;ΔE0 kJ mol− 1&lt;/td&gt;
+      &lt;td&gt;rhet,O3/rhom,OH&lt;/td&gt;
+      &lt;td&gt;rhet,O3,g/rhom,O3,w&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;NAPH&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt;82.4&lt;/td&gt;
+      &lt;td&gt;0.14&lt;/td&gt;
+      &lt;td&gt;1.3 × 105&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PHE&lt;/td&gt;
+      &lt;td&gt;9300&lt;/td&gt;
+      &lt;td&gt;96.9&lt;/td&gt;
+      &lt;td&gt;76&lt;/td&gt;
+      &lt;td&gt;8.7 × 105&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1940</offset>
+      <text>Comparison of reaction rates for the PAHs</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1982</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0169809506000172-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1990</offset>
+      <text>Fog processing of organic compounds in the near-surface atmosphere.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0169809506000172-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2058</offset>
+      <text>A schematic of the experimental set up including the falling droplet reactor.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0169809506000172-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2136</offset>
+      <text>The dynamic partition constant for phenanthrene and naphthalene on a 92 μm water droplet at various gas-phase ozone concentrations.</text>
+      <annotation id="21">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2246" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2252" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2158" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0169809506000172-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2268</offset>
+      <text>Comparison of the pseudo first-order surface rate constant for the reaction of co-adsorbed ozone with naphthalene and phenanthrene on a 92 μm water droplet. Note the break in scale for the y-axis.</text>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2359" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2299" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2318" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0169809506000172-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2465</offset>
+      <text>GC/MS trace of the aqueous solution after the reaction identifying the three main specific reaction products.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0169809506000172-gr6.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2575</offset>
+      <text>Proposed reaction mechanisms for the heterogeneous ozonolysis of phenanthrene vapor adsorbed on water droplets.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0169809506000172-gr7.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2687</offset>
+      <text>The partitioning of phenanthrene to water droplets with various dissolved organic carbon concentrations and gas-phase ozone concentrations on a 92 μm droplet. Surrogate organic acids (Suwanee fulvic acid, SFA) with DOC of 12 and 17 mg L− 1 in water and actual Baton Rouge fog water (FW) with DOC of 230 mg L− 1 were used to generate droplets. The straight lines drawn are trend lines.</text>
+      <annotation id="27">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2776" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2805" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2811" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3072</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3081</offset>
+      <text>['PAH', 'Ozonolysis', 'Atmosphere', 'Water droplet', 'Heterogeneous reaction']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3160</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3173</offset>
+      <text>Species such as hydroxyl radical, ozone and oxides of nitrogen are important reactants in the lower troposphere. Hydroxyl radical is appropriately termed “the atmospheric detergent” because of its ability to oxidize most atmospheric pollutants thus cleansing the air (Prinn, 2003). The three primary oxidants are produced via photochemical reactions in the atmosphere and they appear at substantial mixing ratios in the lower atmosphere. Atmospheric pollutants exist in the lower atmosphere as both particulates and gaseous species and they react quite readily with the oxidants on time scales of hours to days. A large number of compounds can be identified in the air, but those of most concern are organic in nature. In particular, those classified as polycyclic aromatic hydrocarbons (PAH) are of interest because of their potential carcinogenicity (). These are produced from a variety of anthropogenic and biogenic sources and are ubiquitous pollutants in the atmospheres of most regions of the world. The rate constants of homogeneous gas phase reactions of PAHs with atmospheric oxidants are documented in the literature () (Table 1). In general, hydroxyl radical reactions are the most predominant removal mechanism in the gaseous atmosphere. Competing with the homogeneous gas-phase oxidations is the heterogeneous oxidation of PAHs on atmospheric aerosols, the rates of which are not as well known. In the near-surface atmosphere, the heterogeneous reactions occur on both solid particulates and thin films of water on aerosols and fog. A number of organic and inorganic compounds are known to have affinity to the air–water interface and reactions at this interface are increasingly being cited as an important transformation pathway (). Reactions that are often slow in the gas-phase (homogeneous) proceed much faster at the interface (heterogeneous) (). For example, Wadia et al. (2000) have shown that the time required for the complete reaction of an unsaturated phospholipid adsorbed at the air–water interface with gas phase ozone was much faster than in the gas phase. Similarly Strekowski et al. (2003) have shown that the radical anion Cl2− would react faster with ethanol adsorbed at the air–water interface than with ethanol in solution. Other more recent work such as the reactive uptake of OH radical and ozone by organic aerosols, films and surfactant monolayers corroborate the above precept (). Theoretical evidence also exists for surface-enhanced concentrations of oxidants such as ozone and hydroxyl radicals (Vacha et al., 2005). There is evidence that points to the importance of thin water films in determining the heterogeneous chemistry of a variety of atmospheric systems (). Recently, Donaldson and co-workers () used laser-induced fluorescence to provide direct evidence of the reaction of gas phase ozone with anthracene adsorbed to a planar, thick air–water interface. They also showed that the reaction was five times faster on an octanol-coated planar air–water interface. Fog presents a large air–water interface area per unit volume due to the small diameters (10–100 μm) of water droplets. During its formation and dissipation, which lasts for a few hours in most cases, fog is capable of processing organic compounds (Fig. 1). It is believed that fog processing of organic compounds can lead to a number of effects (Blando and Turpin, 2000): A number of oxidation products and large dissolved organic carbon concentrations are observed in fog water collected from highly oxidizing atmospheres (). Oxidized species in droplets are believed to be responsible for reduced water evaporation from aerosols and enhancing visibility reduction (Chang and Hill, 1980). Enhanced partitioning of several species in fog water has been observed due to potential surface-active molecules formed in fog water (Valsaraj et al., 1993). Both partitioning and kinetics of species in fog droplets are known to be size-dependant (). Very little is known about the processing of PAHs and their transformations in a foggy atmosphere. Previous work from our laboratory was focused on the non-reactive uptake of PAHs to various size water droplets in a conventional falling droplet reactor (). More recently, a few studies have reported the reactions of ozone on both droplets and planar water surfaces (). Studies of the behavior of different PAHs towards oxidants and comparisons with homogeneous gas-phase reactions have to be done so that the importance of heterogeneous transformations in fogs can be ascertained. This paper summarizes some of our work on the surface reactions of ozone with PAHs and reactive uptake on a typical water droplet conducted under controlled laboratory conditions in a falling droplet reactor. The partitioning and reaction rate constants were obtained and compared. The reaction rate was rationalized by a Langmuir–Hinshelwood mechanism (Raja and Valsaraj, 2005). The effects of typical surfactant molecules and actual fog water composition on reactive uptake were also studied. Finally, the atmospheric implications of the work are presented.</text>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="3207" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5215" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5502" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5649" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5684" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6011" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6627" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7448" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7780" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4189" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7957" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8273</offset>
+      <text>Experimental</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8286</offset>
+      <text>Polycyclic aromatic hydrocarbons (PAHs) are an important class of organic compounds in our atmosphere. Their sources are varied — pyrolysis and combustion of organic matter, fossil fuels, petrochemicals, sedimentary organic matter generation, biosynthesis and other sources. Many types of PAHs occur in the earth's environment, but usually those with three to six benzene rings, some with alkyl substituents, are most common. Atmospheric concentrations of PAHs exist in different parts of the world similar to that which we observed in Louisiana aerosols and fog water (Raja, 2005). Because of their toxic and potential carcinogenic nature, research has been undertaken to study their atmospheric fate and transport characteristics. Two typical PAH compounds were chosen for this study, viz., naphthalene and phenanthrene, whose properties are listed in Table 2. Whereas naphthalene is much more water-soluble and has higher vapor pressure, phenanthrene is less volatile, has lower water solubility and is much more hydrophobic. Phenanthrene has a much higher log Kow (i.e., higher activity coefficient in water) and has five orders of magnitude larger value of the air–water interface partition constant. Vapor phase PAHs were generated using a generator column technique (Raja and Valsaraj, 2005) and diluted with helium before introduction into the reactor. The apparatus used in this experiment was a modification of the falling droplet reactor described in a previous work (Raja and Valsaraj, 2005). A schematic is given in Fig. 2. Briefly, the water droplets passed through a cylindrical stainless steel reactor (0.0245 m i.d., 1.06 m long) into which a PAH vapor stream mixed with helium was fed through a perforated porous frit sparger. Ozone gas was generated and introduced into the reactor. The droplet generation assembly comprised a commercially available sapphire orifice (50 μm diameter) capable of producing a 92 μm water droplet. A piezo-ceramic crystal (American Piezoceramics Inc., PA) placed above the orifice was mechanically vibrated to generate the desired droplet size depending on the frequency of voltage modulation. The water collector was effectively isolated from the main reactor using a 1000 μm orifice and kept at a positive pressure using heavy argon gas to prevent back-mixing of the PAH stream. The aqueous samples from the reactor exit were extracted into dichloromethane, and concentrated to about 100 μL, using a gentle stream of nitrogen. The concentrated samples were injected using a HP7683 Series injector into a GC (HP6890) installed with a capillary column (30 m long × 0.32 mm o.d., 0.25 μm column i.d.) and detected using a mass-selective detector (HP5973) for reaction products. Gas phase PAH was adsorbed onto Supelpak porous polymer adsorbent obtained from Supelco Inc. The adsorbed PAH was extracted into acetonitrile and analyzed. A Hewlett–Packard (Series 1100) liquid chromatograph with a diode array detector, with an Envirosep-PP HPLC column (1.25 cm long × 0.0046 m i.d., Phenomenex, Torrance, CA) was used. In order to study the effects of surface-active agents on the droplet partitioning and reaction with ozone we spiked the water used to form the droplets with a typical surrogate organic compound, Suwanee river fulvic acid (SFA) obtained from the International Humic Substance Society (IHSS). We also used an actual sample of fogwater collected from Baton Rouge to study the effects of natural organic matter on partitioning. The fog sample was collected on April 13, 2005 during the early morning hours from 2 to 6 AM when the visibility was less than 0.45 km. The procedure for collection is described elsewhere (Raja et al., 2005). The average air temperature during the fog event was about 15.3 °C. The fogwater had a pH of 5.8 and a DOC of 230 mg L− 1, but contained non-detectable levels of PAHs.</text>
+      <annotation id="41">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12071" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12000" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8724" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="10031" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11451" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9412" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11353" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9482" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12152</offset>
+      <text>Results and discussions</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12176</offset>
+      <text>Analysis of reactor data</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12201</offset>
+      <text>The experimental data obtained from the experiment were the liquid droplet concentration and the gas-phase concentration of PAH at the exit of the reactor. The ratio called the dynamic partition constant is given by Raja (2005) CD⁡(τ)Cg=KDV⁡(τ)=KWA*⁢[1−e−ττ*] where CD(τ) is the droplet concentration of PAH for a given gas-droplet contact time, τ, within the reactor and Cg is the gas-phase PAH concentration at the exit of the reactor. The characteristic time τ⁎ is given by 1KG⁢dD6⁢KWA* and KWA⁎ is the effective equilibrium partition constant for PAH between the droplet and vapor which includes both the equilibrium bulk gas/liquid partition constant (KWA) and the equilibrium interface partition constant (KIA) as given by Raja (2005) KWA*=(1+6dD·KIAKWA)·KWA. In the above equation, dD is the droplet diameter. The term KG is the overall gas-phase mass transfer coefficient between the vapor phase and the droplet based on the molar concentration driving force and is given by the following equation () 1KG=1kG+4〈⁢C⁢〉·1α+1KWA*⁢DLπ⁢τ+ks⁢KIA. Although subject to some criticism lately (Dang and Garrett, 2004) this model is a useful construct to visualize the uptake process. Each term on the RHS in the above equation represents a resistance to mass transfer. The first term represents the gas-phase diffusion resistance, the second term is the mass accommodation term and the last term is the resistance in the liquid phase due to bulk phase diffusion (solubility) and surface reaction. In deriving the above expression, two assumptions are made: (i) reaction occurs on the surface and (ii) bulk liquid-phase reaction is negligible. There is support for these assumptions from recent work in which it was shown that gas-phase ozone reaction with PAHs is enhanced on the surface of water compared to the bulk (Mmereki et al., 2004). In the above equation, kG (m s− 1) is the individual gas-phase mass transfer coefficient obtained from a standard Sherwood number correlation for falling droplets: Sh = 2 + 0.5Re1 / 2Sc1 / 3 (Cussler, 1997). DL (m2 s− 1) is the aqueous phase diffusivity of PAH, + C, (m s− 1) is the thermal velocity of the molecule in the gas phase, and ks (s− 1) is the overall pseudo-first order surface reaction constant for PAH on the droplet. From Eq. (1) we can obtain the value of KG. Thereupon, using Eq. (3) we can obtain the corresponding surface rate constant, ks.</text>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12276" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12308" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12488" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12597" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13140" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13933" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14415" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12396" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12739" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12848" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12903" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14438" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14585" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>14599</offset>
+      <text>Effect of gas-phase ozone on the reactive uptake of PAHs</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14656</offset>
+      <text>Fig. 3 displays the data on KDV(τ) of phenanthrene obtained for a 92 μm pure water droplet for a constant droplet-gas contact time of 150 ms compared to that for naphthalene. In all these cases, the gas–liquid contact time was small and hence the value of KDV(τ) did not approach the equilibrium value, KWA⁎. Consider the value at zero ozone gas-phase concentration where the uptake is only due to mass transfer and adsorption. For a 92 μm water droplet the equilibrium KWA⁎ is 7226 for phenanthrene and 56 for naphthalene. The fact that the phenanthrene partition constant was several times larger than that for naphthalene is in line with the fact that the overall partition constant, KWA⁎ on a 92 μm droplet for phenanthrene is much larger than for naphthalene due to surface adsorption (Raja, 2005). It was observed that KDV(τ) reached an asymptotic value at high concentrations of ozone. The linear increase in uptake rates occurred only at low ozone gas-phase concentrations. As the ozone gas-phase concentration increased, the overall uptake for both PAHs increased. This increases the overall gas phase mass transfer coefficient for both compounds. Higher mass transfer coefficient means lesser resistance to mass transfer at the interface for the PAH vapor. The surface bound PAH and ozone molecules participate in a heterogeneous reaction that facilitates the mass transfer at the interface. The calculated values of the pseudo-first order surface rate constant, kS, obtained for both phenanthrene and naphthalene oxidation on a 92 μm water droplet from Eq. (3) are shown in Fig. 4. The first observation was that the surface-reaction rate constant for phenanthrene with ozone was linear at low concentrations and reached an asymptotic value at high ozone gas-phase concentrations. The second observation was that the surface rate constant for naphthalene was more than one order of magnitude larger than that for phenanthrene. In order to rationalize the above observations we had to invoke the Langmuir–Hinshelwood (LH) mechanism of surface reaction. There is evidence in the recent literature showing that reaction of PAHs at the air–water interface occurs via the LH mechanism (). The Langmuir–Hinshelwood mechanism involves the reaction between co-adsorbed ozone and PAH molecules on the air–water interface. The rate of PAH oxidation (mol cm− 2 s− 1) is given by Davis and Davis (2003) −rs=kLHII⁢S0⁢θO3⁢ΓIA. θO3 is the surface coverage by ozone molecules, S0 is the total number of sites (cm− 2) and kLHII is the second order Langmuir–Hinshelwood surface rate constant (cm2 s− 1). ΓIA (mol cm− 2) is the surface concentration of PAH on the droplet. The pseudo first-order rate constant, ks, as determined from Eq. (3) is given by ks=kLHII⁢S0⁢θO3. Note that ks is primarily determined by θO3.which is given by the Langmuir equation θO3=ΓO3ΓO3max=[O3]gC1/2+[O3]g where C1 / 2 is the ozone concentration when the surface coverage is 0.5. It is exponentially related to the adsorption energy. Hence ks=kmax⁢[O3]gC1/2+[O3]g where kmax = kLHIIS0. Values of kmax and C1 / 2 obtained are shown in Table 3. The value of the second-order surface rate constant, kLHII will be small for phenanthrene since the kmax is two orders of magnitude smaller than for naphthalene. Thus, the overall surface rate constant, ks, for phenanthrene will also be small. For the naphthalene + ozone mixture the concentration of ozone required for half the monolayer coverage is higher than for the phenanthrene + ozone mixture. Since C1 / 2 is exponentially related to adsorption energy, this also means that the adsorption energy for ozone from the phenanthrene + ozone mixture is much higher. Hence we can conclude that the phenanthrene presence on the surface facilitates the adsorption of ozone. In other words, ozone trapping efficiency increases as the hydrophobicity of the co-adsorbed molecule increases. Although the reaction rate constant for phenanthrene is low, the rate of the reaction itself will still be much higher for phenanthrene since according to Eq. (4) it is proportional to the surface concentration given by KIACg. For example, if we consider the same gas phase PAH concentration and ozone concentration then the ratio of the rates for phenanthrene to naphthalene will be directly proportional to the ratio of the product kscKIA, which is 1500.</text>
+      <annotation id="62">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14992" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15008" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15524" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15542" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15606" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15622" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15645" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15661" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15949" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16337" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16361" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16416" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16432" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16928" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17111" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17284" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17553" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17559" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18036" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18054" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18071" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18156" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18278" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18308" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18436" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18459" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18753" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18834" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18852" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18858" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16100" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16540" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16597" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17192" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17338" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17794" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17882" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14753" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15221" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15333" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16119" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16306" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16497" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17232" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17349" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17813" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17963" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18583" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>19013</offset>
+      <text>Products of ozone reaction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19040</offset>
+      <text>It has been suggested that processing of organic compounds in droplets may lead to higher molecular weight organics that contribute to secondary organic aerosols (SOA) in the fog environment. Therefore, it becomes necessary to isolate the reaction products in the water phase due to oxidation of PAHs. There is work in the literature that showed that ring opening reactions occur through ozone attack on the PAH molecule (Bailey, 1982). Two main types of reactions on the PAH are possible via the peroxidic and non-peroxidic routes. Fig. 5 shows a typical GC/MS trace of the aqueous solution collected after the reaction of phenanthrene with ozone. Three specific reaction products were observed from the oxidation of phenanthrene (1). The three compounds identified in the mass spectra were 2 ((1,1′-biphenyl)-2,2′-dicarboxaldehyde), 3 (9,10-phenanthrenedione), and 4 (9,10-dihydrophenanthrene). Adsorbed ozone attacks the 9, 10-position of the adsorbed phenanthrene ring to give rise to the ozonide. Further reaction with water and oxidation gives rise to 2 and 3 as products (Fig. 6). Both of them are also observed in the bulk aqueous phase ozonolysis of phenanthrene (Bailey, 1982). The product 4 can occur through elimination of an oxygen molecule from the ozonide and subsequent hydrogenation. This step is not reported in the bulk aqueous phase ozonolysis. All of these products are of similar molecular weight but some are more toxic than the parent products (Yoshikawa et al., 1985). However, it is not clear if any of them lead to secondary organic aerosols.</text>
+      <annotation id="110">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19428" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19682" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="112">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19946" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>20610</offset>
+      <text>Effect of organic carbon on surface partitioning</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20659</offset>
+      <text>Atmospheric water droplets contain many compounds that can alter their surface properties. Primary among these are the so-called humic-like substances (HULIS). These give rise to dissolved organic carbon (DOC) components which are surface active (). Suwanee river Fulvic acid (SFA) is a known surrogate that exhibits properties similar to the surface-active organic carbon in fog droplets (Cappiello et al., 2003). Fig. 7 shows the effect of adding 0.021 and 0.029 g L− 1 of SFA (equivalent to 12 and 17 mg of DOC L− 1, respectively) to the water droplet on the phenanthrene partitioning and uptake at various ozone concentrations for a droplet of 92 μm size. Also shown in the figure is the phenanthrene partitioning to a 92 μm water droplet formed from an actual fog water sample with 230 mg L− 1 DOC collected from Baton Rouge (Raja, 2005). The surface tension of water decreased from 70 to 49 mN m− 1 with 17 mg L− 1 of DOC (fulvic acid) indicating surface activity of fulvic acid on the droplet surface (Raja and Valsaraj, 2004b). From the data and using the Gibbs adsorption equation and assuming that activity is same as concentration, one can obtain a surface concentration of fulvic acid of 1.37 × 10− 10 mol cm− 2. With the knowledge that the surface area of fulvic acid is 0.42 nm2 molecule− 1 (Hayase and Tsubota, 1983), we can estimate the surface coverage of fulvic acid on a 92 μm droplet to be approximately 0.43. Similarly, the surface tension of the fog water measured was 40 mN m− 1. This also indicated that the organic carbon contained in fog water was surface-active. Thus in both cases, one can surmise that about half of the available surface area is covered by surface-active DOC. Notice that when no ozone is introduced into the reactor, the KDV for phenanthrene increased linearly with increasing DOC. This observation is documented for both benzene and naphthalene in the previous literature (). The presence of the organic film on the water surface is conducive to the trapping of both ozone and PAH and decreasing the mass transfer resistance at the surface as is evident from the 2 to 3 fold increase in KDV. For a given DOC, increasing ozone concentrations also increased KDV in a linear fashion. Apparently, the surface reactivity of phenanthrene with ozone also increased. In order to quantify this we used Eq. (4) to obtain the first order rate coefficients for varying DOC contents. In order to do so, one has to account for the additional capacity of the DOC for adsorbing PAHs, thus modifying the Eq. (2) for KWA⁎ to give the following (Valsaraj, 2000) KWA*=KWA+6dD⁢KIA+CC⁢KCW where CC is the fulvic acid (DOC) concentration (mg L− 1) and KCW is the partition constant for the PAH between the fulvic acid (DOC) and water (L mg− 1). For phenanthrene the value of KCW reported in the literature (Ryan et al., 1999) is 7.9 × 103 mL g− 1. The values of ks obtained are given in Table 4 for comparison. Notice that the rate constant increased substantially with increased DOC concentration. Other researchers () have also noted increases in trapping efficiency of ozone on surfactant monolayers at the water and aerosol surfaces. The enhanced kinetics maybe due to trapping of ozone in the monolayer, increasing the probability of an encounter of O3 with an adsorbed PAH molecule. In the present case, we concluded that organic-coated surfaces of water droplets showed higher ozone reactivity with adsorbed PAH molecules.</text>
+      <annotation id="113">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21269" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21275" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21787" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21827" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22385" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22674" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22827" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22833" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22944" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="122">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23308" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23668" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23756" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23869" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24068" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22969" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="128">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23028" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="129">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23081" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="130">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23357" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23616" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24114</offset>
+      <text>Atmospheric implications of heterogeneous oxidation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24166</offset>
+      <text>The atmospheric implications of these observations can be assessed by comparing the rates of predominant gas-phase homogeneous reactions with the heterogeneous reaction on droplets. For a PAH, the homogeneous oxidation by ozone and hydroxyl radicals is most relevant. The ratio of the heterogeneous to homogeneous reaction rates of ozone with phenanthrene is given by rhet,O3rhom,O3=ks⁢KIA⁢avkO3II⁢[O3]g where av is the fog water surface area per unit volume of air, kO3II is the second order rate constant and atmospheric concentration of ozone [O3]g is given by 50 ppbv (= 1.23 × 1012 molecule cm− 3). The value of ks for the above atmospheric concentration of PAH was obtained from the fitted Langmuir parameters given in Table 3. Note that the value of the surface reaction rate constant is much lower than that obtained for our experiments at much higher ozone gas concentrations. The ratios of rates for both PAH compounds are given in Table 5. From the ratio, one can also obtain the differences in the activation energies between the homogeneous and heterogeneous reactions. The transition state theory for reactions gives the following equation (Thomas and Thomas, 1997) rhet,O3rhom,O3=S0·Qhet*Qhom*·exp(Ehom0−Ehet0R⁢T) Using a value of S0 of 1014 cm− 2, and typical values of Qhom⁎ = 1027, Qhet⁎ = 1, we obtain ΔE0 = 82.4 and 96.9 kJ mol− 1, respectively, for naphthalene and phenanthrene. Thus, the activation energy of the heterogeneous reaction is much lower. This disparity will become even larger as the temperature increases. The rate of the heterogeneous reaction of ozone with PAH can also be compared to that of the homogenous gas-phase reaction of hydroxyl radicals with PAH as follows rhet,O3rhom,OH=ks⁢KIA⁢avkOHII⁢[OH]g where kOH is the second order rate constant and atmospheric [OH]g is given by 1.9 × 106 molecule cm− 3. Table 5 lists the two ratios for phenanthrene and naphthalene. Next, consider the bulk aqueous phase ozonolysis rate of PAH versus the heterogeneous oxidation of adsorbed PAH by gas phase ozone. The ratio of the two rates is given by rhetero,O3rhomo,O3,water=ks⁢ΓI⁢(6d)kO3,wII⁢[O3]w⁢Cw. The area per unit volume of the droplet (6 / d) is used to convert the surface rate to that per unit volume of water. ΓI is the air–water interface concentration of phenanthrene and Cw is the dissolved PAH concentration in the bulk aqueous phase. Note that ΓICw=KIAKWA. From existing literature (Tapido et al., 1995) we have kO3,wII = 1.67 × 10− 17 and 1.2 × 10− 18 cm3 molecule− 1 s− 1 for phenanthrene and naphthalene, respectively. Using the Henry's constant for ozone in Table 2, we calculated that 50 ppb of ozone in air is equivalent to a water concentration [O3]w = 3.7 × 1011 molecules cm− 3. For a typical 92 μm droplet, the ratio of reaction rates is 8.7 × 105 and 1.3 × 105 for phenanthrene and naphthalene, respectively. This indicates that bulk aqueous phase ozonolysis of phenanthrene and naphthalene are insignificant compared to the heterogeneous reaction. It is clear from the above discussion that the homogeneous reaction rates of ozone and hydroxyl radical with gas-phase phenanthrene are orders of magnitude smaller than the heterogenous reaction of phenanthrene vapor with ozone on droplets. On the other hand, for a highly volatile, but less hydrophobic compound such as naphthalene the homogeneous reaction with hydroxyl radicals occurs much faster than the heterogeneous reaction on the droplet. In the above analysis, we have ignored some pertinent aspects in actual fogwater such as the presence of metal ions that may catalyze the reactions within the aqueous phase. We have also not considered the effects of heterogeneous oxidation on particles present in the atmosphere that may also compete with the reactions outlined above. These effects have to be studied in isolation in laboratory systems so that further comparisons can be made as to the significance of heterogeneous oxidation on droplet surfaces in the atmosphere.</text>
+      <annotation id="132">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25685" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="133">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24388" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24498" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="135">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24689" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="136">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24706" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24812" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="138">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25026" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="139">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25036" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="140">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25750" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26200" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="142">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26447" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26505" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="144">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26765" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26812" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="146">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26850" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27249" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="148">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27394" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24653" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25932" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="151">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27308" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="152">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24664" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24949" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="154">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25943" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="155">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26752" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

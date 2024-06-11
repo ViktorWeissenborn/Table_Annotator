@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-06-06</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.envres.2020.109713</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">OZONATIONDICLOFENACINAQUEOUSSOLUTIONMECHANISMKINETICSECOTOXICITYASSESSMENT</infon>
+      <infon key="name_0">surname:QIU</infon>
+      <infon key="license">© 2020 Elsevier Inc. All rights reserved.</infon>
+      <infon key="source">Environmental Research</infon>
+      <infon key="year">2020-06-01</infon>
+      <infon key="volume">188</infon>
+      <infon key="issue">0013-9351</infon>
+      <infon key="fpage">109713</infon>
+      <infon key="pub-id_doi">10.1016/j.envres.2020.109713</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S001393512030606X</infon>
+      <infon key="kwd">['Diclofenac', 'O3-initiated', 'Mechanisms', 'Kinetics', 'Aquatic toxicity']</infon>
+      <offset>0</offset>
+      <text>Ozonation of diclofenac in the aqueous solution: Mechanism, kinetics and ecotoxicity assessment</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>96</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>114</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>125</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>134</offset>
+      <text>The pharmaceutical and personal care products (PPCPs) in aquatic environment have aroused more interest recently. Many of them are hard to degrade by the typical biological treatments. Diclofenac (DCF), as a significant anti-inflammatory drug, is a typical PPCP and widely existed in water environment. It is reported that DCF has adverse effects on aquatic organisms. This work aims to investigate the mechanism, kinetics and ecotoxicity assessment of DCF transformation initiated by O3 in aqueous solution, and provide a solution to the degradation of DCF. The O3-initiated oxidative degradations of DCF were performed by quantum chemical calculations, including thirteen primary reaction pathways and subsequent reactions of the Criegee intermediates with H2O, NO and O3. Based on the thermodynamic data, the kinetic parameters were calculated by the transition state theory (TST). The total reaction rate constant of DCF initiated by O3 is 2.57 × 103 M−1 s−1 at 298 K and 1 atm. The results show that the reaction rate constants have a good correlation with temperature. The acute and chronic toxicities of DCF and its degradation products were evaluated at three different trophic levels by the ECOSAR program. Most products are converted into less toxic or harmless products. Oxalaldehyde (P3) and N-(2,6-dichlorophenyl)-2-oxoacetamide (P6) are still harmful to the three aquatic organisms, which should be paid more attention in the future.</text>
+      <annotation id="1">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="1196" length="11"/>
+        <text>temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1582</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1589</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S001393512030606X-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1597</offset>
+      <text>The minimum structure of reactants at M06–2X/6-31 + G (d,p) level.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S001393512030606X-gr2a.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1664</offset>
+      <text>Proposed initial O3-addition channels with DCF in the aqueous solution. Gibbs free energy (reaction energy) ΔrGg (kcal mol−1) and Gibbs free energy of activation (energy barrier) ΔGg≠ (kcal mol−1): (a) initial reactions of B1 benzene ring of DCF, (b) initial reactions of B2 benzene ring of DCF.TS: transition state, IM: intermediate, P: product.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S001393512030606X-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2011</offset>
+      <text>Predicted reaction channels in the aqueous solution. Gibbs free energy of activation (energy barrier) ΔGg≠ (kcal mol−1) and Gibbs free energy (reaction energy) ΔrGg (kcal mol−1): (a) reaction channel of IM1-1, (b) reaction channels of P2, (c) reaction channels of P3, (b) reaction channels of P5, TS: transition state, IM: intermediate, P: product.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S001393512030606X-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2360</offset>
+      <text>(a) Calculated rate constants (k1~k6) for the initial reactions of DCF with O3 at different temperatures (260–350 K) and 1atm. (b) Calculated rate constants (k7~k13) for the initial reactions of DCF with O3 at different temperatures (260–350 K) and 1atm.</text>
+      <annotation id="2">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="2452" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="2580" length="11"/>
+        <text>temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S001393512030606X-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2615</offset>
+      <text>Ecotoxicity (acute toxicity and chronic toxicity) results from (Q)SAR (fish, daphnid and green algae) for DCF, intermediates involved in the initial reactions and degradation products. The GHS classification EC50, LC50 and ChV units are mg L −1. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2992</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3001</offset>
+      <text>['Diclofenac', 'O3-initiated', 'Mechanisms', 'Kinetics', 'Aquatic toxicity']</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3078</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3091</offset>
+      <text>In recent years, pharmaceutical and personal care products (PPCPs) have received increasing concern as an emerging contaminant worldwide over the last two decades due to their potential adverse impacts in humans and ecosystems, even when present in trace levels (Dietrich et al., 2002; Hofmann et al., 2007; Yi et al., 2019). There is a great variety of PPCPs, including kinds of antibiotics, synthetic musk, pain-relieving, anti-drug, contraceptive, hypnotics, weight-reducing agent, hair-hair, hair dye, and pesticides. It is reported that pharmaceutical compounds are detected in natural water (Buser et al., 1999; Heberer, 2002; Ternes et al., 2002; Andreozzi et al., 2003). Veterinary medicine, agricultural medicine, human use of medicine and cosmetics are the main medias to introduce PPCPs into the environment. Improper disposal of industrial wastes also contributes to their amount in the aquatic environment, partly because of the ineffective treatment of wastewater treatment plants (Hirsch et al., 1999; Zuccato et al., 2000; Cunningham et al., 2006; Pal et al., 2010). As such substances are also continuously introduced into the environment while being removed, they are also referred to as “pseudo-persistence” contaminants. Urban sewage is an important resource, and its treatment will directly affect the health of human body and the water quality of receiving water (Ellis, 2006). Most PPCPs are discharged into sewage in the original or converted form and then enter the sewage treatment plant. It has been reported in Europe and North America that certain concentrations of PPCPs and natural estrogen have been detected at the discharge port of municipal sewage treatment plant (Kolpin et al., 2002; Stulten et al., 2008; Scheurell et al., 2009). Most of PPCPs have strong biological activity, optical activity and polarity. Hence, it is very important to study the migration and transformation of PPCPs. As a typical PPCP, diclofenac (DCF) is a common non-steroidal anti-inflammatory drug (NSAID), and its sodium salt is often used as an analgesic, anti-arthritic, rheumatic, and important outpatient medicine (Zhang et al., 2008). Approximately hundreds of tons of this prescription drug are sold annually worldwide (Buser et al., 1998). Under the precautionary principle, the EU WFD (Water Framework Directive) priority substance list will be updated every 4 years to take control over the next 20 years. It has identified future emerging priority candidates which include PPCPs such as DCF, ibuprofen, triclosan and clofibric acid have been highlighted as of possible particular concern (Ellis, 2006). Although there is evidence that direct photolysis can rapidly degrade DCF under natural environmental conditions (Buser et al., 1998; Tixier et al., 2003; Bartels and von Tumpling, 2007), it is one of the most frequently detected compounds in water, up to a maximum of 1.2 μg L−1 (Ternes, 1998; Heberer, 2002; Perez-Estrada et al., 2005; Wang et al., 2010). The ecological toxicity and acute toxicity of DCF are relatively low (Cleuvers, 2004). However, it has been shown that the toxic effects have increased significantly in combination with other drugs presented in water (Cleuvers, 2004). There is evidence that long-term exposure to environment-related concentrations of DCF can damage the general health of fish, resulting in kidney damage and gill changes, with a minimum observed concentration of 5 μg L−1 (Triebskorn et al., 2004). Hence, it is critical to develop an effect oxidative degradation of DCF during treatment processes. In recent years, the degradation of DCF reported previously which involves the alternative degradation processes (photo-fenton, photolysis or UV/H2O2) indicates that DCF degradation follows different pathways (Perez-Estrada et al., 2005; Calza et al., 2006; Hofmann et al., 2007). Ozone is a strong oxidant that can degrade several xenobiotic compounds and transform refractory organic matter to biodegradable dissolved organic carbon (Esplugas et al., 2002; Rodriguez et al., 2002; Adcock et al., 2003). The potential of ozonation and advanced oxidation processes (AOPs) for removing pharmaceuticals was confirmed in another study (Zwiener and Frimmel, 2000). The degradation of DCF by hydroxyl radical had been researched using theoretical computations (Cinar et al., 2017). The oxidation of DCF during ozonation in drinking water treatment had been studied by experiment methods (Huber et al., 2003; Vogna et al., 2004; Sein et al., 2008; Coelho et al., 2009). However, the suggested reaction sites of O3 attack are different (the amino group (Huber et al., 2003; Sein et al., 2008) versus the aromatic ring (Vogna et al., 2004)) and there is little information on its complete degradation mechanisms initiated by O3 directly. Furthermore, there is a major discrepancy among the reported O3 rate constants for DCF, ~106 M−1 s−1 (Huber et al., 2003), ~104 M−1 s−1 (Vogna et al., 2004) and ~105 M−1 s−1 (Sein et al., 2008). Therefore, the degradation mechanism and kinetics of DCF initiated by O3 still need to be studied to confirm. The present work aims to better understand the reaction mechanism and kinetics of DCF with O3 in aqueous solution and fully assess the potential risk of their intermediates and products. The most favorable pathway was obtained. The whole degradation process was described in detail. The rate constants were also calculated over a wide range of temperatures. In addition, the ecotoxicity of DCF and its transformation products were estimated theoretically using a predictive software (ECOSAR).</text>
+      <annotation id="4">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="8538" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="4668" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="6376" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="6506" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="6940" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8687</offset>
+      <text>Computational methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8709</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8710</offset>
+      <text>Quantum chemical calculations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8740</offset>
+      <text>All the oxidative degradation processes of DCF initiated by ozone in aqueous solution were calculated by the Gaussion09 program (Frish et al., 2009). The optimizations of geometric configurations and corresponding frequency calculation of all structures such as reactants, intermediates and products in degradation processes were obtained at the level of M06–2X/6-31 + G (d,p) (Zhao and Truhlar, 2008a, 2008b). The local minimum points and the first order saddle points were determined by the number of virtual vibration frequencies. The intrinsic reaction coordinates (IRC) (Gonzalez and Schlegel, 1990) of each transition state structure were calculated to determine the connectivity of the transition state structure to the corresponding product and reactant, and to ensure the correctness of the transition state. The single point energy of each configuration was calculated at the level of the 6–311++G (3df, 2p), which makes the calculated results more accurate. Using the general solvation model SMD (Okuno, 1997; Marenich et al., 2009), the single point energy based on the optimization of gas-phase structure was obtained by considering the solvent effect of water environment. The reported Gibbs free energy was obtained from this single point calculation, including the free energy corrections derived from the frequency calculations under the conditions of 298 K and 1atm. All the rate constants of reactions in this study were calculated by conventional Transition State Theory (TST) which has been successfully used to calculate rate constant (Gao et al., 2016) using the following equation: K(T)=χ(T)σKbTh(RTP0)Δnexp(−ΔG0,≠(T)KbT) where σ is on behalf of the reaction path degeneracy (Canneaux et al., 2014), Boltzmann constant is kb, h is Planck's constant, T represents the temperature, Δn is 1 or 0 for bimolecular or unimolecular reactions, respectively, ΔG0,≠(T) is the standard Gibbs free energy of activation for the reaction, RT/P0 has the unit of the inverse of concentration, and χ(T) is the multiplicative transmission coefficient, characterized by the relation: χ(T)=1+124(hlm(V≠)KbT)2 where lm (v≠) is the imaginary frequency of the transition states. According to the thermodynamic data of elementary reactions of DCF initiated by O3, the reaction rate constants were simulated at the temperatures of 260–350 K.</text>
+      <annotation id="9">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="10531" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="11054" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="8800" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="10726" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="9190" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11081</offset>
+      <text>Toxicity assessment</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11101</offset>
+      <text>The ecotoxicity of DCF and its oxidation by-products to green algae, daphnia, and fish were estimated using (Quantitative) structure activity relationship ((Q)SAR) in ecological structure activity relationships (ECOSAR) program (version 2.0). The acute toxicity was estimated in terms of EC50 (concentration of tested compounds that inhibit the growth of 50% green algae after 96 h of exposure) and LC50 (concentration of tested compounds for 50% dead fish and daphnia after 96 and 48 h of exposures, respectively). For complex compounds with multifunctional groups at more than one effect concentration, the most conservative estimation is selected as the minimum toxicity value according to the prevention principle of the chemical White Paper (Spielmann, 2001).</text>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="11395" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="11506" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="11691" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11866</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11889</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11890</offset>
+      <text>Preliminary reactions of DCF induced by O3</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11933</offset>
+      <text>In this study, the minimum energy geometry of DCF depicted in Fig. 1 was selected from several stable structures, using as the optimal structure in order to study the O3-initiated reactions in aqueous solution. The Gibbs free energies of several stable structures were summarized in Table S1. In the structure of DCF, there are two aromatic rings connected with an amine group. The reaction sites of ozonolysis of DCF are different because ozone may attack amino groups or different carbon atoms on benzene rings. Hence, the changes of Gibbs free energy (reaction energy) ΔrGg (kcal mol−1) and Gibbs free energy of activation (energy barrier) ΔGg≠ (kcal mol−1) of all elementary reactions were used for comparing their thermodynamic data in the aqueous solution (Li et al., 2015). Due to the fact that the bonds between the carbon atoms of the two benzene rings are unsaturated, the initial O3-addition pathways of each carbon atom on benzene rings should be considered. Hence there are twelve unique sites for O3-addition of the two benzene rings of DCF. We calculated the endo-TS and outdo-TS of all the sites, in which the central oxygen atom of ozone points towards or outwards the benzene ring on the both sides of the benzene ring. All the calculated data were shown in Table S2. And the lowest energy was selected as the primary reaction transition states in this paper. The detailed mechanism of ozonolysis of DCF was illustrated in Fig. 2. From the thermodynamic calculation data of six reaction pathways, the addition of O3 to site 1 on the B1 benzene ring is most favorable. It has the lowest energy barrier (15.44 kcal mol−1) and the highest exothermicity (−28.83 kcal mol−1). The second favorable pathway is the formation of IM4 with the exothermicity of 25.22 kcal mol−1 and the energy barrier of 15.53 kcal mol−1. The additions of O3 to C2, C3, C5, C6 are more difficult to occur with higher energy barrier by 1.44–3.46 kcal mol−1 relative to the first two pathways. This may be due to the influence of other substituted groups on benzene ring or the steric hindrance effect of DCF. Generally, when the ozone attacks the unsaturated sites via 1,3-cy-cloaddition in the primary reactions of DCF, the five-membered ring can be formed. For the IM1, the lengths of O–O bond are 1.414 and 1.413 Å, respectively; the lengths of C–O bond are 1.436 and 1.441 Å, respectively; and the length of C–C bond is 1.556 Å. Then because of the instability of the formed five-membered ring, it has a great tendency for the ring to bifurcate into the two different Criegee intermediates (IM1-1 and IM1-2) via TS1-1 and TS1-2, respectively. In the current experiments, most of the reaction products can be detected by the experimental equipment, but it is difficult to observe the transient reaction process and the detailed reaction mechanism. Therefore, we cannot get more detailed information from the current experiments. Hence, we speculate that the reaction mechanism involves multiple reaction processes and we look forward to acquiring more detailed information about the generation of Criegee radical in future experiments or quantum calculations. The generation of IM1-1 has the energy barrier of 23.86 kcal mol−1 and the exothermic energy of 23.94 kcal mol−1; the generation of IM1-2 has the higher energy barrier of 24.47 kcal mol−1 and the lower exothermic energy of 22.35 kcal mol−1. Similarly, for the B2 aromatic ring, the addition to site 11 is most favorable with the energy barrier of 15.56 kcal mol−1 and the exothermic energy of 25.13 kcal mol−1. Affected by two chloro-substituted groups or amino group as well as the other benzene ring, the free reaction energy barriers of other sites ranges from 15.94–21.01 kcal mol−1. Then the generation of IM11-1 has the energy barrier of 12.72 kcal mol−1 and the exothermic energy of 36.11 kcal mol−1. And the generation of IM11-2 is more difficult than that of IM11-1. Hence, the steric hindrance effect has a different influence on the different reaction sites. As for the reaction of O3 with the amino group. Sein et al. (2008) speculated that O3 transfers the H atom and leaves a single electron. However, we find that when O3 attacks the amino group connected two benzene rings, it transfers the H atom and leaves an oxygen atom as well as a single electron to form IM13 by IRC. The Gibbs free energy of activation of this process is 22.00 kcal mol−1 and its exothermic energy is 39.26 kcal mol−1. The detailed reaction channel was given in Fig. S1. Comparing these reactions of ozone attacking benzene ring, the reaction of O3 with amino group has a higher energy barrier and is more difficult to occur. The suggested reaction sites of O3 with DCF are on the aromatic ring rather than the amino group.</text>
+      <annotation id="17">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="12373" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="13082" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="14051" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="16475" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="12081" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16699</offset>
+      <text>Subsequent reactions of initial O3-adducts</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16742</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16743</offset>
+      <text>Further reactions of IM1-1 and IM11-1</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16781</offset>
+      <text>In the reaction of initial O3-addition (R1), IM1-1 and IM1-2 were generated with a little difference. According to above conclusions, IM1-1, which is easier to be generated, was selected to study its subsequent reactions. Similarly, on the B2 benzene ring, the IM11-1 generated from R11 was also chosen for further degradations. The intermediate IM1-1 and IM11-1 are active, due to the unpaired electron in their structures, which can convert into a relatively stable substance or continually react with NO, H2O, O2 and so on. The reaction mechanism of IM1-1 was shown in Fig. 3, and the detailed reaction mechanism of IM11-1 was presented in Fig. S3. Since two unpaired single electrons of Criegee intermediate IM1-1 combine with each other, forming IM1-1-1 with a ternary ring. The energy barrier of the formation of the ternary ring structure (IM1-1-1) is 24.68 kcal mol−1 and its exothermic is 11.61 kcal mol−1. Similar to the formation of IM1-1-1, the generation of IM11-1-1 (formed from IM11-1) needs to overcome the energy barrier of 3.78 kcal mol−1 and the exothermic energy is 13.13 kcal mol−1. Then the ternary ring was destroyed by NO molecule to form P1 and P7 by O-abstraction and elimination of NO2. The energy barrier of the formation of P1 (P7) is 18.55 kcal mol−1 (18.68 kcal mol−1) and exothermic energy is 39.92 kcal mol−1 (51.02 kcal mol−1). The IM1-1 intermediate can also transform a relatively stable 7 membered ring. However, its energy barrier is 40.3 kcal mol−1 and this reaction is an endothermic process. Hence, it hardly takes place in natural aqueous solution. When the Criegee radical reacts with O2, the energy barrier is quite high (about 59.53 kcal mol−1) (Sun et al., 2019). Therefore, this reaction hardly occurs in aqueous solution. In this study, we don't consider the reaction of Criegee radical with oxygen. In the aqueous solution, water molecule can act as a “water bridge” to promote the hydrogen atom transfer process from –COOH and –NH2 groups to the Criegee radical (IM1-1), which was shown in Fig. S4. The tautomerization process from –COOH group to the Criegee radical (IM1-1) needs to overcome the Gibbs free energy barrier of 9.82 kcal mol−1 and from –NH2 group to the Criegee radical (IM1-1) is strongly exothermic by 24.32 kcal mol−1 with no energy barrier. However, as for the reaction of IM11-1 with water molecule, we did not find the transition state from –COOH group or from –NH2 group to the Criegee radical (IM11-1). It may be due to the effect of two chlorine substituents or amino substituents, which requires further study.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>19367</offset>
+      <text>Further reactions of P1 and P7</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19398</offset>
+      <text>According to the product of further reactions of IM1-1 and IM11-1, we continue to investigate the destruction of the C C bonds caused by the ozone addition of P1 and P7. The reaction pathways with Gibbs free energy ΔrGg (kcal mol−1) and Gibbs free energy of activation ΔGg≠ (kcal mol−1) were shown in Fig. 3. The whole process of further ozone addition to P1 and P7 is similar to the initial ozone addition reaction. By adding O3 to the C C bonds at different positions, P1 decomposes into IMP2-1 and IMP2-2 with Gibbs free energy of activation of 14.58 and 12.34 kcal mol−1, receptively. The Gibbs free energies of these two reactions are 55.99 and 30.59 kcal mol−1, respectively. Then IMP1-1 and IMP1-1 decomposed into (E)-4-((2,6-dichlorophenyl) amino)-3-formyl-5-oxopent-3-enoic acid (P2), oxalaldehyde (P3), (Z)-N-(2,6-dichlorophenyl)-4-oxobut-2-enamide (P4), 3,4-dioxobutanoic acid (P5) and so on. In the same way, the Gibbs free energies of activation of the formation of the IMP7-1 and IMP7-2 are 13.94 and 20.19 kcal mol−1, with the Gibbs free energies of 50.60 and 50.69 kcal mol−1, respectively. The products of IM7-1 and IM7-2 are 2-oxoacetyl chloride (P8), (E)-2-(2-(2-chloro-4-oxobut-2-enamido)phenyl)acetic acid (P9), (Z)-4-oxobut-2-enoyl chloride (P10), 2-(2-(2-chloro-2-oxoacetamido)phenyl)acetic acid (P11). Due to the existence of C C bonds, P2, P4, P9 and P10 can continue to occur the O3- addition reaction. Similarly, with the Gibbs free energies of activation of 10.48–17.13 kcal mol−1 and the exothermic energies of 41.69–53.60 kcal mol−1, 3,4-dioxobutanoic acid (P5), N-(2,6-dichlorophenyl)-2-oxoacetamide (P6), oxalaldehyde (P3), 2-(2-(2-chloro-2-oxoacetamido)phenyl)acetic acid (P11) and 2-oxoacetyl chloride (P12) were generated. All the products were estimated in the subsequent ecotoxicity assessment to provide important information for environmental safety.</text>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="19539" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="19736" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="19790" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21288</offset>
+      <text>Kinetics computation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21309</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21310</offset>
+      <text>Rate constant calculations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21337</offset>
+      <text>The reaction rate constants of all the O3-initiated reaction channels were carried out using Transition State Theory (TST) (Truhlar et al., 1996). In order to better evaluate each reaction pathway, 260–350 K and 1 atm are selected as temperature and pressure to calculate the reaction rate constants of the elementary reactions. Based on the molecular parameters (including rotational inertia and vibration frequency) and the thermodynamic parameter (including free energy barriers and exothermicity), we calculated the kinetics of all species of stationary points and transition states involved in the initial reactions. In the primary bimolecular reactions, DCF reacts with O3 and generates IM1 (IM2~IM13). Table S2 presents the computed reaction rate constants for all the primary reaction pathways, ktotal was defined as the total rate constant for the reactions of DCF with ozone, which is the sum of rate constants of R1~R13. The rate constants of R1~R13 were defined as k1~k13. As shown in Fig. 4a and b, to better simulate the temperature dependence of the rate constants, we draw the rate constant diagram with the natural logarithm of rate constant (M−1 s−1) and 1000/T (K−1). The results show the temperature has a great relatively effect on the rate constants. From the diagram, we can see that the reaction rate constant increases accordingly with the increase of temperature. The ozonolysis of DCF can be promoted obviously by higher temperature. The generation of IM1 has the highest rate constant and the generation of IM4 is following, which is consistent with thermodynamic data. Similarly, IM11 is the same as above. The total rate constant of primary reactions initiated by O3 is 2.57 × 103 M−1 s−1, which is smaller than the experiment values (Huber et al., 2003; Vogna et al., 2004; Sein et al., 2008). The reason may be due to that hydroxyl radicals or other free radicals play a promote role in the experiments.</text>
+      <annotation id="25">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="21571" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="22372" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="22545" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="22714" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="22785" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="22216" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="21487" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>23273</offset>
+      <text>Ecotoxicity prediction and assessment</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23311</offset>
+      <text>The prediction and assessment of toxicity is of great significance for further understanding of DCF. By predicting and evaluating the toxicity of DCF and their degradation products, we can better understand their environmental fate and the change in their toxicity during the degradation process, which helps to explore more effective degradation pathways and control the formation of toxic by-products in water treatment processes. We chose three different trophic levels of aquatic organisms (fish, daphnia, and green algae) to calculate the acute toxicity (LC50 and EC50) and the chronic toxicity (ChV) by using ECOSAR program, which was often used for predicting the theoretical toxicity (Gao et al., 2014; Wei et al., 2018). According to the criteria set by the European Union (Table S4), acute toxic can be divided into four grades which are Very toxic (LC50 or EC50 &lt; 0.1 mg L−1), Toxic (0.1 &lt; LC50 or EC50 &lt; 1.0 mg L−1), Harmful (1.0 &lt; LC50 or EC50 &lt; 10.0 mg L−1) and Not harmful (LC50 or EC50 &gt; 10.0 mg L−1). The acute toxicity for DCF was estimated as LC50 for fish and daphnia and EC50 for green algae with the values of 37.65, 25.75 and 41.41 mg L−1, respectively, which suggests that DCF is harmful to fish, daphnia and green algae. The chronic toxicity values (ChVs) for DCF were calculated to be 4.58 mg L−1 for fish, 4.22 mg L−1for daphnia and 16.42 mg L−1 for green algae. On the basis of Chinese hazard evaluation guidelines for new chemical substances (HJ/T 154–2004), DCF was classified as chronically harmful to fish and daphnia (1 mg L−1&lt; ChV &lt; 10 mg L−1) and not chronically harmful to green algae (ChV &gt; 10.0 mg L−1). The toxicities of major intermediates and degradation products were shown in Fig. 5. For the intermediates in the primary reactions, the acute toxicities of IM1~IM12 for fish and green algae are higher than that of DCF, for daphnid, it is floating. With respect to chronic toxicities, IM1~IM12 for green algae is more toxic, for daphnid is less toxic and for fish is floating. As for the degradation products, we can see that after the secondary or even third addition of ozone, most harmful reactants are converted into harmless degradation products. It should be noted that the P3 (oxalaldehyde) generated after third addition of ozone is still harmful to fish, daphnid and green algae. The result suggests that the impacts of the emission and transformation of DCF on aquatic organisms should be emphasized.</text>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="25425" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="25585" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>25764</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25776</offset>
+      <text>In the present study, theoretical calculations were employed to predict the transformation mechanism of DCF in aquatic environment. Detailed ozonolysis of DCF was conducted at the level of M06–2X/6–311++G (3df, 2p)//M06–2X/6–31+ G (d,p) theory. According to the thermodynamic data, we used the transition state theory (TST) to calculate the reaction rate constants. The toxicity of DCF and its degradation products to aquatic organisms was also evaluated. Several conclusions are summarized as follows: All the possible initial reaction channels including O3-addition at different sites of two benzene rings and amino groups have been investigated. Twelve reaction pathways occur via 1,3-cycloaddition transition states to form IM1~IM12. Ozone reacts with amino group to form IM13. Among all the decomposition pathways, the formation of IM1 is most favorable with the lowest energy barrier (15.44 kcal mol−1) and the highest exothermicity (28.83 kcal mol−1). IM1 and IM11 are selected to investigate the subsequent conversion and degradation. In the aqueous environment, for the Criegee intermediates, H transfer reaction under the promotion of water molecules is more likely to occur. Compared to the self-decomposition, the reactions initiated by NO are more inclined to occur. The min predicted reaction products of further reactions include (3E, 5Z)-4-((2,6-dichlorophenyl) amino)-3-formyl-7-oxohepta-3,5-dienoic acid (P1) and 2-(2-((2E, 4Z)-2,6-dichloro-6-oxohexa-2,4-dienamido) phenyl) acetic acid (P7) from calculations. As for kinetics calculations, we have calculated the reaction rate constants of the elementary reactions at the temperature of 260–350 K and the pressure of 1 atm. The total reaction rate constant of the primary reactions is 2.57 × 103 M−1 s−1, suggesting that the removal of DCF initiated by O3 cannot be neglected. The toxicity of DCF and its degradation products was evaluated. After second and third ozonolysis, most degradation products are converted into less toxic or harmless products. But oxalaldehyde (P3) and N-(2,6-dichlorophenyl)-2-oxoacetamide (P6) are still harmful to the three aquatic organisms, which need further studies. To sum up, this study examines the important role of DCF as a potential environmental pollutant and reflects the contribution of O3-initiated reaction to DCF which can't be ignored. Our investigation on the fate of DCF initiated by ozone is significant to water environment safety. The results involved in this paper were also very useful in enlightening ozonolysis of other biphenyl ring compounds that are dangerous to aquatic organisms.</text>
+      <annotation id="34">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="27416" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="26514" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-06; 13:11</infon>
+        <location offset="28177" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28385</offset>
+      <text>Author statement</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28402</offset>
+      <text>Authors guarantee that this article is an original article without plagiarism of other people's works, academic opinions, academic thoughts and computing data. The calculation data in this article are true, complete and accurate.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28632</offset>
+      <text>Declaration of competing interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28666</offset>
+      <text>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28837</offset>
+      <text>Supplementary data</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28856</offset>
+      <text>The following is the Supplementary data to this article: Multimedia component 1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28936</offset>
+      <text>Supplementary data</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28955</offset>
+      <text>Supplementary data to this article can be found online at https://doi.org/10.1016/j.envres.2020.109713.</text>
+    </passage>
+  </document>
+</collection>

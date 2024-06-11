@@ -17,24 +17,19 @@ to the folder with document id + table number = table id
 that it includes document id, caption, and table number
 """
 
-"""
-class TableWindow(ctk.CTk):
+
+class TableWindow(ctk.CTkToplevel):
     def __init__(self, listbox_instance: CTkFrame):
-"""
-
-
-class TableWindow(ctk.CTk):
-    def __init__(self, tables):
         super().__init__()
         # Hide Window as long as everything is built
         self.withdraw()
         self.title("Table Annotator")
         self.bind("<Escape>", self.close_app)
 
-        #self.listbox_instance = listbox_instance
+        self.listbox_instance = listbox_instance
 
         # Tables that were given to this top level window by main window
-        self.tables_from_main = tables
+        self.tables_from_main = listbox_instance.tables
 
         self.table_frame = TableFrame(self)
 
@@ -294,13 +289,14 @@ class GeneratorFrame(CTkFrame):
         print(f"Data has been written to '{file_path}'.")
 
 
-    #def refresh_document_listbox_progress(self):
-    #    Utilities.refresh_processed_docs(self.parent.listbox_instance.document_listbox.listbox)
+    def refresh_document_listbox_progress(self):
+        Utilities.refresh_processed_docs(self.parent.listbox_instance.document_listbox.listbox)
 
 
     def export_button_command(self):
         self.export_annotations()
-        #self.refresh_document_listbox_progress()
+        self.refresh_document_listbox_progress()
+
 
     def generate_button_action(self, next=False):
         
@@ -817,6 +813,4 @@ class TableFrame(CTkFrame):
 
 
 if __name__ == "__main__":
-    tables = {'doc_id': '10_1016__j_seppur_2014_09_004', 'tables': [{'caption': 'UV characteristics and main fragment ions obtained from MS and MS/MS analyses of PRC and ozonation transformation products.', 'raw_table_data': [['Compounds', 'UV characteristics', 'Observed fragment ions at m/z value (relative abundance)', 'Observed fragment ions at m/z value (relative abundance)', 'Chemical structures proposed'], ['Compounds', 'λmax (nm)', 'MS', 'MS / MS', 'Chemical structures proposed'], ['PRC', '244', '152 (100)', '110 (100)', ''], ['', '', '', '', 'MM = 151.16 g mol−1'], ['Product I – Hydroquinone', '223 and 290', 'nd', 'nd', ''], ['', '', '', '', 'MM = 110 g mol−1'], ['Product II', '220, 244 and 286', '168 (100)', '150 (12); 126 (100); 108 (24)', ''], ['', '', '', '', 'MM = 167 g mol−1'], ['Product III', 'nd', '200 (100) 154 (15) 181 (5)', '182 (53); 172 (100); 158 (47); 154 (100); 140 (33)', ''], ['', '', '', '', 'MM = 199 g mol−1']]}]}
-    app = TableWindow(tables)
-    app.mainloop()
+    TableWindow()

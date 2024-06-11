@@ -1,0 +1,1546 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-06-10</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.cej.2013.06.120</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">OXIDATIONCHLOROPHENEBYOZONATIONKINETICSIDENTIFICATIONBYPRODUCTSREACTIONPATHWAYS</infon>
+      <infon key="name_0">surname:BENITEZ</infon>
+      <infon key="license">Copyright © 2013 Elsevier B.V. All rights reserved.</infon>
+      <infon key="source">Chemical Engineering Journal</infon>
+      <infon key="year">2013-07-05</infon>
+      <infon key="volume">230</infon>
+      <infon key="issue">1385-8947</infon>
+      <infon key="fpage">447</infon>
+      <infon key="lpage">455. Link: https://sciencedirect.com/science/article/pii/S1385894713009029</infon>
+      <infon key="pub-id_doi">10.1016/j.cej.2013.06.120</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S1385894713009029</infon>
+      <infon key="kwd">['Chlorophene', 'Emerging contaminant', 'Ozone', 'Apparent rate constants', 'Identification of by-products', 'Reaction pathways']</infon>
+      <offset>0</offset>
+      <text>Oxidation of chlorophene by ozonation: Kinetics, identification of by-products and reaction pathways</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>101</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>119</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>130</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>139</offset>
+      <text>The ozonation of chlorophene, an emerging contaminant frequently present in aquatic systems because of its numerous uses nowadays, is studied. The kinetic experiments allowed the determination of the apparent rate constants for its reaction with ozone in the pH range 3–11. The rate constants values obtained varied from 1.67 × 103 L mol−1 s−1 at pH = 3 to 1.82 × 105 L mol−1 s−1 at pH = 11. As a consequence of its acidic nature (pKa = 9.81), the degree of dissociation of this pollutant was determined at every pH of work, and the specific rate constants of the neutral and anionic species were evaluated, being these rate constants k1 = 2.8 × 103 L mol−1 s−1 and k2 = 2.5 × 105 L mol−1 s−1. Up to 24 by-products formed in the ozonation reaction were identified by liquid chromatography/mass spectrometry using a high-resolution time of flight analyzer (LC-TOFMS). From these intermediates identified, the degradation pathways are proposed and discussed. Toxicity measurements of the ozonated chlorophene solutions revealed that these by-products are less toxic than the parent compound.</text>
+      <annotation id="1">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="398" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="486" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="522" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="652" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="385" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="353" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="422" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="686" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="764" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1229</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['pH', 'kR\n× 10−2, L mol−1\ns−1', 'kCP/kR', 'kCP\n× 10−3, L mol−1\ns−1'], ['3', '2.55', '6.52', '1.67'], ['4', '2.56', '11.54', '2.95'], ['5', '2.59', '12.29', '3.18'], ['6', '2.81', '11.21', '3.15'], ['7', '5.07', '6.15', '3.12'], ['8', '27.3', '4.49', '9.39'], ['9', '213', '1.21', '25.8'], ['10', '844', '1.89', '160'], ['11', '1200', '1.27', '182']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pH&lt;/td&gt;
+      &lt;td&gt;kR\n× 10−2, L mol−1\ns−1&lt;/td&gt;
+      &lt;td&gt;kCP/kR&lt;/td&gt;
+      &lt;td&gt;kCP\n× 10−3, L mol−1\ns−1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;2.55&lt;/td&gt;
+      &lt;td&gt;6.52&lt;/td&gt;
+      &lt;td&gt;1.67&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;2.56&lt;/td&gt;
+      &lt;td&gt;11.54&lt;/td&gt;
+      &lt;td&gt;2.95&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;2.59&lt;/td&gt;
+      &lt;td&gt;12.29&lt;/td&gt;
+      &lt;td&gt;3.18&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;2.81&lt;/td&gt;
+      &lt;td&gt;11.21&lt;/td&gt;
+      &lt;td&gt;3.15&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;5.07&lt;/td&gt;
+      &lt;td&gt;6.15&lt;/td&gt;
+      &lt;td&gt;3.12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;27.3&lt;/td&gt;
+      &lt;td&gt;4.49&lt;/td&gt;
+      &lt;td&gt;9.39&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;213&lt;/td&gt;
+      &lt;td&gt;1.21&lt;/td&gt;
+      &lt;td&gt;25.8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;844&lt;/td&gt;
+      &lt;td&gt;1.89&lt;/td&gt;
+      &lt;td&gt;160&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;1200&lt;/td&gt;
+      &lt;td&gt;1.27&lt;/td&gt;
+      &lt;td&gt;182&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1236</offset>
+      <text>Apparent second-order rate constants kCP for the reaction between chlorophene and ozone at different pH values.</text>
+      <annotation id="10">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1337" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1318" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1252" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1263" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Compound', 'Rt (min)', 'Molecular formula [M]', 'm/z Theoretical', 'm/z Experimental', 'Error (ppm)', 'DBE', 'Tentative structure [M]'], ['Chlorophene', '17.2', 'C13H11ClO', '217.0426', '217.0428', '−0.92', '8', ''], ['C1', '11.66', 'C7H5ClO3', '170.9854', '170.9857', '−1.75', '5', ''], ['C2', '9.55', 'C6H5ClO', '142.9905', '142.9908', '−0.08', '4', ''], ['C3', '13.82', 'C13H11ClO2', '233.0375', '233.0384', '−3.86', '8', ''], ['C4', '14.06', 'C13H11ClO2', '233.0375', '233.0384', '−3.86', '8', ''], ['C5', '15.02', 'C13H11ClO2', '233.0375', '233.0384', '−3.86', '8', ''], ['C6', '15.74', 'C13H11ClO2', '233.0375', '233.0384', '−3.86', '8', ''], ['C7', '12.08', 'C13H10O4', '229.0506', '229.0515', '−3.64', '9', ''], ['C8', '13.18', 'C13H10O4', '229.0506', '229.0515', '−3.64', '9', ''], ['C9', '9.94', 'C12H7ClO10', '344.9655', '344.9639', '4.82', '9', ''], ['C10', '9.77', 'C12H12O3', '203.0714', '203.0720', '−3.01', '7', ''], ['C11', '10.2', 'C12H12O3', '203.0714', '203.0720', '−3.01', '7', ''], ['C12', '11.4', 'C12H12O3', '203.0714', '203.0720', '−3.01', '7', ''], ['C13', '8.74', 'C11H10O4', '205.0506', '205.0514', '−2.90', '7', ''], ['C14', '9.88', 'C12H8O10', '311.0045', '311.0023', '−4.41', '9', ''], ['C15', '11.18', 'C12H8O10', '311.0045', '311.0023', '−4.41', '9', ''], ['C16', '11.35', 'C12H8O10', '311.0045', '311.0023', '−4.41', '9', ''], ['C17', '7.49', 'C12H12O5', '235.0612', '235.0620', '−3.71', '7', ''], ['C18', '7.75', 'C12H12O5', '235.0612', '235.0620', '−3.71', '7', ''], ['C19', '5.04', 'C11H10O5', '221.0455', '221.0461', '−2.71', '7', ''], ['C20', '6.03', 'C11H10O5', '221.0455', '221.0461', '−2.71', '7', ''], ['C21', '6.59', 'C11H10O5', '221.0455', '221.0461', '−2.71', '7', ''], ['C22', '7.47', 'C11H10O5', '221.0455', '221.0461', '−2.71', '7', ''], ['C23', '8.43', 'C11H10O5', '221.0455', '221.0461', '−2.71', '7', ''], ['C24', '10.05', 'C9H12O10', '279.0358', '279.0351', '2.43', '4', '']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Compound&lt;/td&gt;
+      &lt;td&gt;Rt (min)&lt;/td&gt;
+      &lt;td&gt;Molecular formula [M]&lt;/td&gt;
+      &lt;td&gt;m/z Theoretical&lt;/td&gt;
+      &lt;td&gt;m/z Experimental&lt;/td&gt;
+      &lt;td&gt;Error (ppm)&lt;/td&gt;
+      &lt;td&gt;DBE&lt;/td&gt;
+      &lt;td&gt;Tentative structure [M]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Chlorophene&lt;/td&gt;
+      &lt;td&gt;17.2&lt;/td&gt;
+      &lt;td&gt;C13H11ClO&lt;/td&gt;
+      &lt;td&gt;217.0426&lt;/td&gt;
+      &lt;td&gt;217.0428&lt;/td&gt;
+      &lt;td&gt;−0.92&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C1&lt;/td&gt;
+      &lt;td&gt;11.66&lt;/td&gt;
+      &lt;td&gt;C7H5ClO3&lt;/td&gt;
+      &lt;td&gt;170.9854&lt;/td&gt;
+      &lt;td&gt;170.9857&lt;/td&gt;
+      &lt;td&gt;−1.75&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C2&lt;/td&gt;
+      &lt;td&gt;9.55&lt;/td&gt;
+      &lt;td&gt;C6H5ClO&lt;/td&gt;
+      &lt;td&gt;142.9905&lt;/td&gt;
+      &lt;td&gt;142.9908&lt;/td&gt;
+      &lt;td&gt;−0.08&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C3&lt;/td&gt;
+      &lt;td&gt;13.82&lt;/td&gt;
+      &lt;td&gt;C13H11ClO2&lt;/td&gt;
+      &lt;td&gt;233.0375&lt;/td&gt;
+      &lt;td&gt;233.0384&lt;/td&gt;
+      &lt;td&gt;−3.86&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C4&lt;/td&gt;
+      &lt;td&gt;14.06&lt;/td&gt;
+      &lt;td&gt;C13H11ClO2&lt;/td&gt;
+      &lt;td&gt;233.0375&lt;/td&gt;
+      &lt;td&gt;233.0384&lt;/td&gt;
+      &lt;td&gt;−3.86&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C5&lt;/td&gt;
+      &lt;td&gt;15.02&lt;/td&gt;
+      &lt;td&gt;C13H11ClO2&lt;/td&gt;
+      &lt;td&gt;233.0375&lt;/td&gt;
+      &lt;td&gt;233.0384&lt;/td&gt;
+      &lt;td&gt;−3.86&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C6&lt;/td&gt;
+      &lt;td&gt;15.74&lt;/td&gt;
+      &lt;td&gt;C13H11ClO2&lt;/td&gt;
+      &lt;td&gt;233.0375&lt;/td&gt;
+      &lt;td&gt;233.0384&lt;/td&gt;
+      &lt;td&gt;−3.86&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C7&lt;/td&gt;
+      &lt;td&gt;12.08&lt;/td&gt;
+      &lt;td&gt;C13H10O4&lt;/td&gt;
+      &lt;td&gt;229.0506&lt;/td&gt;
+      &lt;td&gt;229.0515&lt;/td&gt;
+      &lt;td&gt;−3.64&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C8&lt;/td&gt;
+      &lt;td&gt;13.18&lt;/td&gt;
+      &lt;td&gt;C13H10O4&lt;/td&gt;
+      &lt;td&gt;229.0506&lt;/td&gt;
+      &lt;td&gt;229.0515&lt;/td&gt;
+      &lt;td&gt;−3.64&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C9&lt;/td&gt;
+      &lt;td&gt;9.94&lt;/td&gt;
+      &lt;td&gt;C12H7ClO10&lt;/td&gt;
+      &lt;td&gt;344.9655&lt;/td&gt;
+      &lt;td&gt;344.9639&lt;/td&gt;
+      &lt;td&gt;4.82&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C10&lt;/td&gt;
+      &lt;td&gt;9.77&lt;/td&gt;
+      &lt;td&gt;C12H12O3&lt;/td&gt;
+      &lt;td&gt;203.0714&lt;/td&gt;
+      &lt;td&gt;203.0720&lt;/td&gt;
+      &lt;td&gt;−3.01&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C11&lt;/td&gt;
+      &lt;td&gt;10.2&lt;/td&gt;
+      &lt;td&gt;C12H12O3&lt;/td&gt;
+      &lt;td&gt;203.0714&lt;/td&gt;
+      &lt;td&gt;203.0720&lt;/td&gt;
+      &lt;td&gt;−3.01&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C12&lt;/td&gt;
+      &lt;td&gt;11.4&lt;/td&gt;
+      &lt;td&gt;C12H12O3&lt;/td&gt;
+      &lt;td&gt;203.0714&lt;/td&gt;
+      &lt;td&gt;203.0720&lt;/td&gt;
+      &lt;td&gt;−3.01&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C13&lt;/td&gt;
+      &lt;td&gt;8.74&lt;/td&gt;
+      &lt;td&gt;C11H10O4&lt;/td&gt;
+      &lt;td&gt;205.0506&lt;/td&gt;
+      &lt;td&gt;205.0514&lt;/td&gt;
+      &lt;td&gt;−2.90&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C14&lt;/td&gt;
+      &lt;td&gt;9.88&lt;/td&gt;
+      &lt;td&gt;C12H8O10&lt;/td&gt;
+      &lt;td&gt;311.0045&lt;/td&gt;
+      &lt;td&gt;311.0023&lt;/td&gt;
+      &lt;td&gt;−4.41&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C15&lt;/td&gt;
+      &lt;td&gt;11.18&lt;/td&gt;
+      &lt;td&gt;C12H8O10&lt;/td&gt;
+      &lt;td&gt;311.0045&lt;/td&gt;
+      &lt;td&gt;311.0023&lt;/td&gt;
+      &lt;td&gt;−4.41&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C16&lt;/td&gt;
+      &lt;td&gt;11.35&lt;/td&gt;
+      &lt;td&gt;C12H8O10&lt;/td&gt;
+      &lt;td&gt;311.0045&lt;/td&gt;
+      &lt;td&gt;311.0023&lt;/td&gt;
+      &lt;td&gt;−4.41&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C17&lt;/td&gt;
+      &lt;td&gt;7.49&lt;/td&gt;
+      &lt;td&gt;C12H12O5&lt;/td&gt;
+      &lt;td&gt;235.0612&lt;/td&gt;
+      &lt;td&gt;235.0620&lt;/td&gt;
+      &lt;td&gt;−3.71&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C18&lt;/td&gt;
+      &lt;td&gt;7.75&lt;/td&gt;
+      &lt;td&gt;C12H12O5&lt;/td&gt;
+      &lt;td&gt;235.0612&lt;/td&gt;
+      &lt;td&gt;235.0620&lt;/td&gt;
+      &lt;td&gt;−3.71&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C19&lt;/td&gt;
+      &lt;td&gt;5.04&lt;/td&gt;
+      &lt;td&gt;C11H10O5&lt;/td&gt;
+      &lt;td&gt;221.0455&lt;/td&gt;
+      &lt;td&gt;221.0461&lt;/td&gt;
+      &lt;td&gt;−2.71&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C20&lt;/td&gt;
+      &lt;td&gt;6.03&lt;/td&gt;
+      &lt;td&gt;C11H10O5&lt;/td&gt;
+      &lt;td&gt;221.0455&lt;/td&gt;
+      &lt;td&gt;221.0461&lt;/td&gt;
+      &lt;td&gt;−2.71&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C21&lt;/td&gt;
+      &lt;td&gt;6.59&lt;/td&gt;
+      &lt;td&gt;C11H10O5&lt;/td&gt;
+      &lt;td&gt;221.0455&lt;/td&gt;
+      &lt;td&gt;221.0461&lt;/td&gt;
+      &lt;td&gt;−2.71&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C22&lt;/td&gt;
+      &lt;td&gt;7.47&lt;/td&gt;
+      &lt;td&gt;C11H10O5&lt;/td&gt;
+      &lt;td&gt;221.0455&lt;/td&gt;
+      &lt;td&gt;221.0461&lt;/td&gt;
+      &lt;td&gt;−2.71&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C23&lt;/td&gt;
+      &lt;td&gt;8.43&lt;/td&gt;
+      &lt;td&gt;C11H10O5&lt;/td&gt;
+      &lt;td&gt;221.0455&lt;/td&gt;
+      &lt;td&gt;221.0461&lt;/td&gt;
+      &lt;td&gt;−2.71&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C24&lt;/td&gt;
+      &lt;td&gt;10.05&lt;/td&gt;
+      &lt;td&gt;C9H12O10&lt;/td&gt;
+      &lt;td&gt;279.0358&lt;/td&gt;
+      &lt;td&gt;279.0351&lt;/td&gt;
+      &lt;td&gt;2.43&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1348</offset>
+      <text>Degradation by-products identified during chlorophene ozonation.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1413</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S1385894713009029-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1421</offset>
+      <text>Rate constants for the ozonation reaction of chlorophene with the variation of the pH: a comparison among theoretical and experimental values.</text>
+      <annotation id="14">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1504" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1426" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S1385894713009029-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1564</offset>
+      <text>Quantitative analysis of derivatives detected during the ozonation process: time profiles for chlorophene by-products: (a) Major intermediates formed. (b) Minor intermediates formed.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S1385894713009029-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1747</offset>
+      <text>Degradation pathways proposed for the ozonation of chlorophene.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S1385894713009029-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1811</offset>
+      <text>Extracted ion chromatogram for m/z 233.0365 and mass spectrum of degradation product C5.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S1385894713009029-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1900</offset>
+      <text>Mass spectrum of degradation product C13 with m/z 205.0514.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S1385894713009029-gr6.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1960</offset>
+      <text>Toxicity evolution during ozonation of chlorophene for different ozone/total organic carbon ratio. (pH = 7, [CP]0
+= 10 mg L−1).</text>
+      <annotation id="16">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2060" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2025" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2088</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2097</offset>
+      <text>['Chlorophene', 'Emerging contaminant', 'Ozone', 'Apparent rate constants', 'Identification of by-products', 'Reaction pathways']</text>
+      <annotation id="18">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2138" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2161" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2227</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2240</offset>
+      <text>Emerging contaminants (ECs) is a wide group of chemical substances, that includes prescription and therapeutic drugs (pharmaceuticals), veterinary drugs, dietary supplements, consumer products, cosmetics and sunscreens (personal care products), laundry and cleaning products, and corrosion inhibitors. One of these ECs is chlorophene, a halogenated phenolic compound that presents multiple applications: in personal care, in household products for general cleaning and disinfecting, as antimicrobial substance, and as an active agent in disinfectant formulations in industrial and farming environments . Due to these numerous usages, it is inevitably discharged into aquatic systems in the environment, Similarly to the rest of chlorophenols, it is toxic and poorly biodegradable, and therefore, remains for long periods in the environment, in both, soils and waters . Chlorophene concentrations of 50 mg L−1 have been found in activated sludge sewage systems, as well as 10 μg L−1 in sewage treatment plant effluent and rivers . In order to avoid the accumulation in the environment of ECs in general, and chlorophene in particular, there is an increasing interest in developing new technologies for their removal. Specifically for the elimination of chlorophene from waters, several studies can be found in the literature, which are focused in the degradation of this compound by a variety of chemical procedures, such as oxidation by manganese oxides , oxidation by the combined system Fe3+/Fe2+ or photochemical degradation . More recently, two studies focused on the chemical degradation of five model ECs, including chlorophene, by UV radiation by itself or combined with H2O2, and by chlorine , have been reported. Inside this general field of work, focused on the application of chemical oxidation processes, other different oxidation technologies are recommended to be tested for the elimination of this substance, such as ozonation and Advanced Oxidation Processes (AOPs) . In effect, ozone is an efficient oxidant for the purification of surface and drinking waters because, in addition to the direct reaction with the organic pollutants, its decomposition is initially fast and produces another strong oxidant, the OH radical. Thus, ozonation processes include both, ozone and OH radical pathways; and consequently, they have demonstrated a high effectiveness in the degradation of different groups of organic contaminants . In view of these considerations, chlorophene was chosen in the present work as a model EC with the aim of evaluating the efficiency of the ozonation process for its effective oxidation, with the following objectives: (i) to determine the rate constants for the reaction of chlorophene and ozone in ultra-pure water as a function of the pH of work, (ii) to identify the main by-products generated in the ozonation process, (iii) to propose the reaction mechanism for the degradation with ozone in accordance to the by-products identified, and (iv) to assess the toxicity of degradation products.</text>
+      <annotation id="20">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5013" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="3121" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4235" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4519" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4966" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5164" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="3273" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4920" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5272</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5294</offset>
+      <text>Chemicals and reagents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5317</offset>
+      <text>Chlorophene of the highest purity available (99%) was purchased from Sigma-Aldrich (Germany). The chemicals used for the solutions (buffers) were of reagent grade, also from Sigma-Aldrich. Ultra-pure (UP) water for preparing chlorophene solutions was obtained from a Milli-Q System (Millipore) with a specific resistance of 18 MΩ cm. Organic solvents and other chemicals used in the analysis, either HPLC or analytical grade, were supplied from Merck (Germany).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5779</offset>
+      <text>Experimental procedures</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5803</offset>
+      <text>Two different groups of ozonation experiments of chlorophene were carried out. In the first group, focused in the kinetic study for the determination of the rate constant for the direct reaction between ozone and this substance, the experiments were conducted in homogeneous conditions. A competition kinetics model was applied, which needed the presence of a reference compound whose rate constant with ozone was previously known. In the present work, this reference compound was metoprolol, being its rate constant for the ozonation reaction previously reported by Benitez et al. . Mixtures of chlorophene and metoprolol (1 × 10−5 M) were previously dissolved in UP water in 25 mL flasks. The initial concentration used for both substances was 10 μM. Tert-butyl-alcohol (0.1 M) was also added to the solution as OH radical scavenger . At the same time, ozone stock solutions were generated by dissolving an ozone gas stream in ice-cooled UP water until the saturation was reached. The experiments were conducted at 20 °C and different pH values in the range 3–11. For this purpose, the solutions were buffered with a phosphoric acid/phosphate buffer (0.05 M) at the desired pH. Each run was initiated by injecting a variable volume of the ozone stock solution, necessary to achieve the desired initial O3 dose into the flask (0–2 × 10−4 M or 0–10 mg L−1). After complete ozone consumption, the residual concentrations of chlorophene and metoprolol were analyzed. The second group of experiments was focused in the identification of by-products generated during the ozonation of chlorophene. These experiments were performed in heterogeneous conditions at 20 °C and without buffering. Thus, chlorophene (10 mg L−1) was dissolved in UP water, and ozone, produced from an air stream in an ozone generator (Sander, mod. 300.5), was continuously bubbled into the solutions through a gas-dispersion plate located at the bottom of the reactor. The mass flow rate applied in all cases was 0.7 g m−3, which is equivalent to a volume flow rate of 1.8 L h−1 of ozone. At regular reaction times, samples were withdrawn from the reactor to be analyzed.</text>
+      <annotation id="28">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6840" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6979" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6006" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6207" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6506" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6658" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6712" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7044" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7176" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7208" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7550" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7591" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7855" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5965" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6193" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6311" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7945</offset>
+      <text>Analytical methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7964</offset>
+      <text>Kinetic experiments</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7984</offset>
+      <text>In the ozonation experiments conducted for the kinetic study, the chlorophene and metoprolol concentrations were determined by HPLC with a Waters Chromatograph equipped with a 996 Photodiode Array Detector and a Phenomenex Gemini C18 Column (5 μm, 150 mm × 3 mm). The injection volume was 100 μL and the detection was made at 280 nm. A gradient mode was applied and the mobile-phase consisted of acetonitrile (A) and water containing 25 mM formic acid (B). The global flow rate was 0.2 mL min−1 and the column temperature 20 °C. Each run started with an initial mobile-phase composition of 70% A, which was held for 3 min and then linearly increased up to 90% A in 3 min and held for 4 min. Then back to initial conditions for 2 min and finally, it was held at 70% A for equilibration (4 min).</text>
+      <annotation id="44">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8494" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8077" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8778</offset>
+      <text>Identification of by-products using liquid chromatography time-of-flight mass spectrometry</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8869</offset>
+      <text>In the ozonation experiments carried out for the by-products identification, relative abundances of chlorophene and its intermediates generated during the ozonation process were analyzed by a HPLC system (Agilent 1290 Infinity) equipped with a XDB-C18 analytical column (1.8 μm, 50 mm × 4.6 mm). Mobile-phases A and B were respectively, water with 0.1% formic acid and acetonitrile, at a flow rate of 0.5 mL min−1. The chromatographic method started with an initial mobile-phase composition of 10% B for 3 min, followed by a linear gradient to 100% B up to 25 min and then held for 3 min. A post-run time of 10 min at initial mobile phase composition was included after each run. The HPLC system was connected to a time of-flight mass spectrometer (Agilent 6220 accurate mass TOF) equipped with an electrospray interface operating in either, positive and negative ionization modes. The following operation parameters were used: capillary voltage, 4000 V(+)/3000 V(−); nebulizer pressure, 40 psig; drying gas flow rate, 9.0 L min−1; gas temperature, 325 °C; skimmer voltage, 65 V; octapole 1 rf, 250 V; fragmentor voltages: 160, 200 and 240 V. LC–MS accurate mass spectra were recorded across the m/z range of 50–1000 in positive ion mode and 50–1100 in negative ion mode. The instrument performed the internal mass calibration automatically, by using a dual-nebulizer electrospray source with an automated calibrate delivery system. The calibrating solution contained the internal reference masses TFANH4 (ammonium trifluoroacetate, C2O2F3NH4, at m/z 112.985587 in negative ion mode), purine (C5H4N4, at m/z 121.050873, in positive ion mode) and HP-0921 (Hexakis-(1H,1H,3H-tetrafluoropropoxy) phosphazine, C18H18O6N3P3F24, at m/z 922.009798 in positive ion mode and 1033.988109 in negative mode). The full scan data were recorded with Agilent Mass Hunter Data Acquisition software (version B.04.00) and processed with Agilent Mass Hunter Qualitative Analysis software (version B.04.00). Samples were directly analyzed without previous treatment.</text>
+      <annotation id="46">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9905" length="11"/>
+        <text>temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10915</offset>
+      <text>Measurements of toxicity</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10940</offset>
+      <text>With the aim of evaluating the toxicity of the solutions after ozonation of chlorophene, some experiments were carried out with different O3/TOC ratios (mg O3/mg TOC corresponding to the initial chlorophene solution), from 0 to 0.6. In these experiments the initial concentration of chlorophene was maintained constant at 10 mg L−1, and the pH value was 7. After the total consumption of ozone, the removal of the initial chlorophene was measured by HPLC, and the toxicity was evaluated by a Microtox Model 500 Toxicity Analyzer, which measures the ability of solutions to inhibit the bioluminescence of the marine bacterium Vibrio fischeri. The procedure is based on the decay of the light emitted by the bacterium when exposed to toxic chemical compounds. The luminescence was recorded after 15 min of incubation at room temperature (20 °C), and the percentage of inhibition was determined.</text>
+      <annotation id="47">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11281" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11763" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11206" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11328" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11250" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11833</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11856</offset>
+      <text>Reaction kinetics between chlorophene and ozone</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11904</offset>
+      <text>Competition kinetics was applied to the evaluation of the rate constants for the direct reaction between chlorophene and ozone at different pH values. This procedure was initially proposed by Gurol and Nekouinaini , and later widely used in other studies . It is based on the simultaneous oxidation of a reference compound, whose rate constant with the oxidant is previously known, and a target compound (chlorophene in the present study). The model is previously described in detail elsewhere , and leads to the final expression: ln[CP]0[CP]=kCPkRln[R]0[R] In this Eq. (1), [CP] and [R] represent the concentrations of chlorophene and the reference compound; and kCP and kR represent the oxidation rate constants for chlorophene and the reference compound, respectively. Then, and according to Eq. (1), a plot of ln([CP]0/[CP]) against ln([R]0/[R]) must lead to a straight line whose slope provides the rate constant ratio kCP/kR; and later, if the value of kR is previously known, the rate constant kCP can be easily evaluated. In this method, an important condition to be fullfilled is that both substances, the target and reference compounds, must present reactivities towards ozone in the same order of magnitude. Due to this fact, metoprolol was used as reference compound in the present work, whose rate constants for its reaction with ozone kR at different pH and 20 °C were previously determined , and are depicted in Table 1. The application of competition kinetics to the ozonation experiments of chlorophene at different pH values provided the slopes kCP/kR which are reported in Table 1, along with the deduced kCP values. The rate constants revealed that the reactivity between chlorophene and ozone clearly increases with increasing pH values of the solution, which is a consequence of the acidic nature of the selected EC, which presents one dissociation constant (pKa = 9.81). Then, it is interesting to evaluate the specific rate constants for the elementary reactions between ozone and the neutral and anionic species of this substance. For this purpose, the model initially proposed by Hoigne and Bader and later successfully applied by other authors can be used. This model establishes that: kCP=α1k1+α2k2 where kCP is the previously obtained apparent rate constant for the reaction between chlorophene and ozone; k1 is the specific rate constant for the neutral form, and k2 is the rate constant for the anionic form; and α1 and α2 are the respective fractions of chlorophene species at the specific pH of each experiment. The values of α1 and α2 can be obtained by using the concentration of H+ and the dissociation constant Ka. A non-linear least squares regression analysis of Eq. (2) was applied by using the deduced rate constants kCP and the corresponding values of α1 and α2 for each pH. Following this procedure the specific rate constants for the two species of chlorophene were determined, and the values obtained were k1 = 2.8 × 103 L mol−1 s−1 and k2 = 2.5 × 105 L mol−1 s−1. In order to check the results obtained, Fig. 1 shows the plot of the rate constants kCP for each pH of work, in the range 3–11: symbols represent the experimentally deduced values shown in Table 1, while the continuous lines represent the theoretical values obtained after applying Eq. (2) with the specific rate constants k1 and k2 previously determined. It can be observed an excellent agreement between both, the experimental and theoretical values, which confirms the goodness of the evaluated specific rate constants.</text>
+      <annotation id="52">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12044" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13269" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13437" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13652" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14426" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14717" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15011" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12025" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12506" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13085" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13247" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13612" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13899" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14232" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14502" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13103" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14917" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11967" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12239" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12608" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12813" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12896" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13215" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13549" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13775" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13852" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14182" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14263" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14313" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14543" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14652" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14764" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14988" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15227" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15426" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15437</offset>
+      <text>Ozonation by-products</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15459</offset>
+      <text>The following step of this study was focused on the identification of the intermediate by-products generated during the ozonation of chlorophene. In order to accomplish this objective, reaction samples were collected at regular reaction times and analyzed by HPLC with a high-resolution time of flight analyzer (LC-TOFMS), as described in the Experimental Section, which permitted accurate mass measurements of the intermediates formed and the subsequent elemental compositions. In order to reduce the number of possible molecular formulas for each m/z value, the structure of the parent compound and the specific characteristics of the oxidation process were taken into account. Moreover, two additional tools were also used in order to identify these intermediates, and to assign the specific structures: (i) the DBE value (Double Bond Equivalent parameter), which provides information about the double bonds and rings that are present in the molecule; and (ii) in-source CID fragmentation experiments (pseudo MS/MS experiments) which provides additional fragmentation information for structure elucidation purposes . Three voltages were applied: 160, 200, and 240 V. The evaluation of the LC-MS chromatograms obtained at different reaction times in both, positive and negative ionization modes, combined with the use of the above mentioned tools, allowed the identification of the numerous intermediates, which are summarized in Table 2, including elemental compositions and tentative structures proposed. It must be noted that all these compounds were identified in negative ionization mode. Additionally, Fig. 2A and B show the evolution of the time profiles for these chlorophene by-products, expressed as relative abundance of chromatographic areas (mean of two replicates) with reaction time. Note that an exact quantitation of each individual intermediate cannot be accomplished due to the lack of standards, so relative abundance from mass spectra is used assuming that the detector response of the different intermediates is not significantly different. Due to the large number of these substances detected, Fig. 2A compiles the compounds that were found in a larger amount, while Fig. 2B shows the less abundant by-products. As observed in the time profile curves shown in Fig. 2A, the parent compound CP decreased continuously with reaction time as could be expected; and the C9 intermediate was the by-product generated in a greater extent, with an initial increase in its concentration, followed by a continuous decrease after around 30 min of reaction. Other relevant by-products generated and later consumed were: C24, which was also initially formed, followed by a decrease after around 90 min of reaction; C3 and C4 isomers, and C8, which also reached important amounts during the first hour of reaction, followed by a decrease in their concentrations, these aspects being later explained in the reaction mechanism proposed. On the contrary, the C13 compound showed a continuous increase in its concentration since the initial reaction time. Less significant amounts were detected for the remaining by-products shown in this Fig. 2A: C5, C6, C15 and C16. On the other hand, Fig. 2B shows great amounts generated for C1 and C14 compounds: however, it must be remarked that the values of the relative abundance in this Fig. 2B are ten times lower than those in Fig. 2A. Therefore, the concentrations determined for the rest of identified by-products that are shown in this Fig. 2B are less significant.</text>
+      <annotation id="87">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17946" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18315" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18473" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18861" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15608" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15941" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16188" length="5"/>
+        <text>order</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18979</offset>
+      <text>Ozonation pathways</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18998</offset>
+      <text>On the basis of the above mentioned by-products identified, Fig. 3 shows the proposed mechanism for the ozonation of chlorophene. Among the primary oxidation products, it can be expected that hydroxyl-chlorophene is formed, as reported by Zhang and Huahuang . Hydroxyl-chlorophene has been found in this study, being four isomers identified (C3 to C6 in Table 2, with molecular formula C13H11ClO2 and m/z 233.0375). This oxidation product, together with p-quinone and p-hydroquinone of chlorophene (S1 and S2 by-products shown in Fig. 3, but not identified in this study) are analogous to those formed in the oxidation of 4-chlorophenol, as reported by Satuf et al. . As observed in Fig. 2A, C4 was obtained in a slightly higher concentration than C3 isomer, and much in greater extent than C5 and C6 isomers. In a first approach, this major isomer corresponds to the molecular structure proposed in the tentatively reaction pathway shown in Fig. 3. In effect, as Catrinescu et al. pointed out, it can be supposed that the hydroxyl radical attack is directed by the position of the hydroxyl group, which is a stronger ortho-para director than chlorine. Several oxidation steps of isomers C3 to C6 and the subsequent loss of a carbon atom could lead to the formation of C9 product, with molecular formula of C12H7ClO10 and m/z 344.9639, which is the major intermediate found as was previously mentioned. A latter loss of the chlorine atom by a hydroxyl radical resulted in the isomers C14 to C16 with molecular formula C12H8O10,m/z = 311.0023 and a value of DBE = 9. Although in a minor extent, other identified by-products with chlorine atoms in their molecules were C1 (C7H5ClO3, m/z 170.9857) and C2 (C6H5ClO, m/z 142.9908). It could be expected that these intermediates were formed either, from the parent compound chlorophene or from the isomers C3-C6 with m/z 233.0384, in both cases after oxidation and subsequent cleavage of the molecules involved. The presence of Cl atom in these degradation products (C1 to C6, and C9) is confirmed by their mass spectra, which show the characteristic isotopic patterns of chlorine. As an example, Fig. 4 shows the chromatogram of the isomers C3 to C6, as well as the mass spectrum for the specific degradation product C5, whose retention time was 15.03 min. As can be seen in this Fig. 4, the accurate mass of isomer C5 was 233.0365, together with a 37Cl isotope signal of 235.0341, the last one presenting relative intensity of about one-third of the main peak. Moreover, the difference between both mass signals is 1.9976, close to the exact mass difference between 35Cl (34.9689) and 37Cl (36.9659) which is 1.9970. This evidence confirmed that the C5 compound unequivocally contains chlorine atom. The same procedure was followed for the remaining compounds containing Cl atoms (C1 to C6, and C9) and the same confirmation about the presence of this chlorine was deduced (see Supplementary Information, Fig. S1). In addition, as can be seen in Fig. 4 a fragment with m/z 126.9955 was found for C5 isomer (which also appeared in the mass spectrum of C6 isomer, shown in Fig. S1). This fragment also presented the characteristic isotopic patterns of chlorine, and its exact mass corresponded to chlorophenol C6H5ClO. This fact supports that the hydroxylation did not occur in the aromatic ring containing the chlorine atom in these C5 and C6 isomers. As confirmed by their mass spectra, the remaining degradation products identified have lost the chlorine atom. Thus, the formation of isomers C7 and C8 (C13H10O4, with m/z 229.0506 and DBE of 9) can be justified as the result of several hydroxylation steps of the previously mentioned oxidation products S1 and S2 (not identified in this work), as well as directly from chlorophene, by replacement of the chlorine atom and two hydroxylations. Later, the ring cleavage of the S1 and S2 intermediates (or their hydroxylation transformation products C7 and C8) may lead to the degradation product C13 (molecular formula C11H10O4, m/z 205.0512), whose mass spectrum is shown in Fig. 5. This intermediate has two carboxyl groups, as can be deduced from the two fragments found (see Fig. 5, m/z 161.0610 and 117.0711), which resulted from the loss of two carboxyl groups (m/z 43.9904) in C13. Later, a hydroxylation of C13 resulted in isomers C19 to C23 (C11H10O5, m/z 221.0455). Once again, their mass spectra confirmed the presence of two carboxyl groups (spectra shown in Fig. S1). A final step in the degradation process led to the opening of the aromatic ring with the loss of two terminal carbons, resulting in C24 (C9H12O10, m/z 279.0351). Moreover, this intermediate can also be generated from isomers C3 to C6 by hydroxylation and aromatic ring fission plus loss of carbon. At the same time, the identified degradation products C10 to C12 (C12H12O3, m/z 203.0714) may correspond to the loss of chlorine and one carbon, and to the increase in two oxygen atoms from C7 and C8 intermediates. Once again, the fragments found in their mass spectra evidenced the presence of a carboxyl group (spectra shown in Fig. S1). Finally, the hydroxylation of these transformation products C10-C12 resulted in the isomers C17 and C18 (C12H12O5, m/z 235.0612, with the same DBE = 7); or even, the loss of a carbonyl group followed by oxidation of terminal carbon and hydroxylation could result in the formation of isomers C19 to C23 (C11H10O5, m/z 221.0455) which were also generated through another pathway, as previously discussed.</text>
+      <annotation id="94">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19727" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24515</offset>
+      <text>Toxicity measurements</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24537</offset>
+      <text>Finally, the evolution of the toxicity during the ozonation of chlorophene was also followed, by conducting specific experiments for this purpose, as was explained in the Experimental Section. In these experiments, the initial ozone doses were varied according to the ratio O3/TOC which ranged between 0 and 0.6. The initial TOC due exclusively to the presence of chlorophene was around 6 mg L−1. After total ozone consumption (more than ten hours of reactions), the resulting reacting solution was inoculated with the bacteria Vibrio fischeri, and the luminescence inhibition was evaluated after 15 min. At the same, the removal percentage of chlorophene was also determined. The results obtained are shown in Fig. 6, and several conclusions can be obtained. Analysis of TOC were also performed for the reaction samples, and the value kept fairly constant (data not shown). As can be observed in Fig. 6, the removal of chlorophene increased continuously with the increase in the ozone dose, as could be expected, reaching 51% for the ratio O3/TOC = 0.6. At the same time, the inhibition percentage decreased with the increase in the mentioned ozone dose. Chlorophene is a toxic compound, and the initial bioluminescence inhibition, without the presence of ozone, was around 100%. However, after reaction with ozone the toxicity decreased to 51.8% inhibition of V. fisheri bioluminescence with a ratio O3/TOC of 0.6. It does mean that a higher amount of ozone promotes a higher chlorophene removal and the subsequent formation of by-products which are less toxic than the parent compound. It can also be appreciated in Fig. 6 a very small decrease of toxicity with the lowest ozone dose, which implies that the first-generation by-products present a toxicity similar to chlorophene. Only when the ozone dose is higher and the ozonation process advances further, the bioluminecence inhibition decreases faster, which means that the second-generation by-products are considerably less toxic than chlorophene. From the results obtained, it is deduced that ozone is a plausible option for the degradation of chlorophene due the high values of rate constants and the decrease of the toxicity of the degradation products. Similar results (high reactivity and toxicity decrease) are also expected during drinking water or wastewater contaminated with chlorophene. In general, any compound that reacts with ozone (NOM) decreases the oxidant exposure, and therefore, higher oxidant dose must be added to the water to reach the required contaminant degradation. It is necessary to calibrate each water with respect to the rate of ozone depletion in order to determine the initial dose that leads to the required oxidant exposure.</text>
+      <annotation id="95">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24764" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24946" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25517" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25681" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25794" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25847" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25991" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26213" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26334" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26590" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26936" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27157" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27176" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25385" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26681" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>27257</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27269</offset>
+      <text>Ozonation can be successfully used to oxidize the emerging contaminant chlorophene in ultra-pure water, being able to obtain an important level of degradation of this substance in short or moderate reaction times, depending on the pH of work. The apparent rate constants for this reaction between ozone and this contaminant in the pH range 3–11 varied from 1.67 × 103 L mol−1 s−1 at pH = 3 to 1.82 × 105 L mol−1 s−1 at pH = 11. Due to its acidic nature, with a pKa = 9.81, the degree of dissociation can be determined at every pH of work, and the specific rate constants of the neutral and anionic species of chlorophene have been determined, being their values k1 = 2.8 × 103 L mol−1 s−1 and k2 = 2.5 × 105 L mol−1 s−1. Analysis by HPLC-QTOF-MS technique of the reaction samples allowed the determination and identification of 24 intermediate by-products. Taking into account the molecular formulas and chemical structures of these intermediates, the degradation pathway and general reaction mechanism of this ozonation process can be proposed. Toxicity measurements reveal that the ozonation process generates intermediate products less toxic than the parent compound. This work reveals the plausible successful application of ozone for the abatement of chlorophene in drinking water and wastewater treatment due the high values of rate constants and the decrease of the toxicity of the degradation products.</text>
+      <annotation id="110">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27500" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27600" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="112">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27652" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27688" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27796" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27566" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="28498" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27530" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27830" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="28608" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28680</offset>
+      <text>Supplementary material</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28703</offset>
+      <text>Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/j.cej.2013.06.120.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28836</offset>
+      <text>Supplementary material</text>
+    </passage>
+  </document>
+</collection>

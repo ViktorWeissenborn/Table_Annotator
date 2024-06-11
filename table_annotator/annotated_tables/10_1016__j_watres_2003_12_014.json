@@ -1,9 +1,9 @@
 {
-    "doc_id": "10_1016__j_watres_2006_04_046",
+    "doc_id": "10_1016__j_watres_2003_12_014",
     "tables": [
         {
-            "#-cols": 6,
-            "#-rows": 19,
+            "#-cols": 2,
+            "#-rows": 11,
             "transposed": false,
             "data": [
                 [
@@ -12,7 +12,7 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": true,
-                        "text": "Investigators",
+                        "text": "Reference ID",
                         "type": ""
                     },
                     {
@@ -20,7 +20,216 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": false,
-                        "text": "Type of study",
+                        "text": "Material",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "MAcid",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "Maleic acid (HO2C(CH)2CO2H)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "C6-OH",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "Phenol (C6H5OH)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "C6-NH2",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "Aniline (C6H5NH2)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "C6-COOH",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "Benzoic acid (C6H5CO2H)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "C6-RES",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "Resorcinol (C6H9O2; 1,3-dihyoxybenzene)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "C6-VAN",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "Vanillic acid (C8H10O4; 1-carboxy 3-methoxy 4-hydroxy benzen",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "C6-SYR",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "Syringic acid (C6H13O5; 1-carboxy 3,5-dimethoxy 4-hydroxy be",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "C6-DBA",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "3,5-dimethoxy benzoic acid (C6H6O)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": true,
+                        "text": "SR-RO",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "Suwannee River Reverse Osmosis isolate",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": true,
+                        "text": "CRW",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "NF-XAD4 (k\u2032=5) isolate from the Colorado River",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        },
+        {
+            "#-cols": 7,
+            "#-rows": 8,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Alum dose (ppm)",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Bromine addition",
                         "type": ""
                     },
                     {
@@ -28,7 +237,7 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": false,
-                        "text": "Pipe material",
+                        "text": "Bromine addition",
                         "type": ""
                     },
                     {
@@ -36,7 +245,7 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": false,
-                        "text": "Ktotal (1/day)",
+                        "text": "Bromine addition",
                         "type": ""
                     },
                     {
@@ -44,7 +253,7 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": false,
-                        "text": "Kbulk (1/day)",
+                        "text": "Chlorine addition",
                         "type": ""
                     },
                     {
@@ -52,57 +261,73 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": false,
-                        "text": "Kwall (ft/day)",
+                        "text": "Chlorine addition",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Chlorine addition",
                         "type": ""
                     }
                 ],
                 [
                     {
                         "col": 0,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": true,
-                        "text": "Wable et al. (1991)",
+                        "text": "",
                         "type": ""
                     },
                     {
                         "col": 1,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "Field",
+                        "text": "Br2 Consumed (\u03bcM)",
                         "type": ""
                     },
                     {
                         "col": 2,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "Gray cast iron",
+                        "text": "CHBr3 Produced (\u03bcM)",
                         "type": ""
                     },
                     {
                         "col": 3,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "3.17",
+                        "text": "CHBr3/Br2 Consumed (\u03bcM/\u03bcM)",
                         "type": ""
                     },
                     {
                         "col": 4,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "1.58",
+                        "text": "Cl2 Consumed (\u03bcM)",
                         "type": ""
                     },
                     {
                         "col": 5,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "0.13",
+                        "text": "CHCl3 Produced (\u03bcM)",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": true,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "CHCl3/Cl2 Consumed (\u03bcM/\u03bcM)",
                         "type": ""
                     }
                 ],
@@ -111,6 +336,629 @@
                         "col": 0,
                         "col_header": false,
                         "row": 2,
+                        "row_header": true,
+                        "text": "25",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "41",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "0.565",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "0.0139",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "39",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "0.217",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "0.00559",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "50",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "34",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.393",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.0115",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "\u2014",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "\u2014",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "\u2014",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "100",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "28",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.261",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.0094",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "35",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.0617",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.00175",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": true,
+                        "text": "150",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "24",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "0.240",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "0.0101",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "35",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "0.0601",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "0.00171",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": true,
+                        "text": "200",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "19",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "0.203",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "0.0105",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "32",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "0.0469",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 6,
+                        "row_header": false,
+                        "text": "0.00148",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": true,
+                        "text": "250",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "19",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "0.205",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "0.0106",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "\u2014",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "\u2014",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "\u2014",
+                        "type": ""
+                    }
+                ]
+            ],
+            "entities": {
+                "headers": {},
+                "data_points": []
+            }
+        },
+        {
+            "#-cols": 8,
+            "#-rows": 12,
+            "transposed": false,
+            "data": [
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Oxidant",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": true,
+                        "text": "Material",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Pseudo-zero-order change (\u0394 halogen in \u03bcM s\u22121) Initial DOC c",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Pseudo-zero-order change (\u0394 halogen in \u03bcM s\u22121) Initial DOC c",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Pseudo-zero-order change (\u0394 halogen in \u03bcM s\u22121) Initial DOC c",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Pseudo-zero-order change (\u0394 halogen in \u03bcM s\u22121) Initial DOC c",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Calculated pseudo-first-order rate constant (s\u22121)",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": true,
+                        "row": 0,
+                        "row_header": false,
+                        "text": "Calculated pseudo-first-order rate constant (s\u22121)",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": true,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": true,
+                        "row": 1,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": true,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "20 \u03bcM",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": true,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "50 \u03bcM",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": true,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "100 \u03bcM",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": true,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "150 \u03bcM",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": true,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "k\u2032",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": true,
+                        "row": 1,
+                        "row_header": false,
+                        "text": "R2",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "Aqueous",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": true,
+                        "text": "CRW",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "20 \u03bcM",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 2,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "bromine",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": true,
+                        "text": "No Pre-O3",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "20",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "40",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "60",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "77",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.4\u00d710\u22123",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "0.99",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
                         "row_header": true,
                         "text": "",
                         "type": ""
@@ -118,109 +966,9 @@
                     {
                         "col": 1,
                         "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "Field",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "Ductile cast iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "9.94",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "2.88",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "0.58",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": true,
-                        "text": "",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "Field",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "Ductile cast iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "8.21",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "1.15",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "0.58",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
                         "row": 4,
                         "row_header": true,
-                        "text": "Sharp et al. (1991)",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "Field",
+                        "text": "With pre-O3",
                         "type": ""
                     },
                     {
@@ -228,7 +976,7 @@
                         "col_header": false,
                         "row": 4,
                         "row_header": false,
-                        "text": "Unlined cast iron",
+                        "text": "23",
                         "type": ""
                     },
                     {
@@ -236,7 +984,7 @@
                         "col_header": false,
                         "row": 4,
                         "row_header": false,
-                        "text": "7.78",
+                        "text": "29",
                         "type": ""
                     },
                     {
@@ -244,7 +992,7 @@
                         "col_header": false,
                         "row": 4,
                         "row_header": false,
-                        "text": "N/A",
+                        "text": "36",
                         "type": ""
                     },
                     {
@@ -252,7 +1000,23 @@
                         "col_header": false,
                         "row": 4,
                         "row_header": false,
-                        "text": "N/A",
+                        "text": "47",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.2\u00d710\u22123",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "0.99",
                         "type": ""
                     }
                 ],
@@ -269,8 +1033,8 @@
                         "col": 1,
                         "col_header": false,
                         "row": 5,
-                        "row_header": false,
-                        "text": "Field",
+                        "row_header": true,
+                        "text": "SR-RO",
                         "type": ""
                     },
                     {
@@ -278,7 +1042,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "Unlined cast iron",
+                        "text": "23",
                         "type": ""
                     },
                     {
@@ -286,7 +1050,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "5.76",
+                        "text": "",
                         "type": ""
                     },
                     {
@@ -294,7 +1058,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "N/A",
+                        "text": "",
                         "type": ""
                     },
                     {
@@ -302,7 +1066,23 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "N/A",
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 5,
+                        "row_header": false,
+                        "text": "",
                         "type": ""
                     }
                 ],
@@ -319,8 +1099,8 @@
                         "col": 1,
                         "col_header": false,
                         "row": 6,
-                        "row_header": false,
-                        "text": "Field",
+                        "row_header": true,
+                        "text": "No Pre-O3",
                         "type": ""
                     },
                     {
@@ -328,7 +1108,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "PVC",
+                        "text": "47",
                         "type": ""
                     },
                     {
@@ -336,7 +1116,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "4.90",
+                        "text": "91",
                         "type": ""
                     },
                     {
@@ -344,7 +1124,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "N/A",
+                        "text": "136",
                         "type": ""
                     },
                     {
@@ -352,555 +1132,21 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "N/A",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": true,
-                        "text": "Kiene et al. (1993)",
+                        "text": "\u2014",
                         "type": ""
                     },
                     {
-                        "col": 1,
+                        "col": 6,
                         "col_header": false,
-                        "row": 7,
+                        "row": 6,
                         "row_header": false,
-                        "text": "Field",
+                        "text": "1.1\u00d710\u22123",
                         "type": ""
                     },
                     {
-                        "col": 2,
+                        "col": 7,
                         "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "Gray cast iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "4.32",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "0.12",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "0.86",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": true,
-                        "text": "",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": false,
-                        "text": "Field",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": false,
-                        "text": "Gray cast iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": false,
-                        "text": "1.44",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": false,
-                        "text": "0.12",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": false,
-                        "text": "0.27",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 9,
-                        "row_header": true,
-                        "text": "Rossman et al. (1994)",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 9,
-                        "row_header": false,
-                        "text": "Modeling",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 9,
-                        "row_header": false,
-                        "text": "Unlined cast iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 9,
-                        "row_header": false,
-                        "text": "N/A",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 9,
-                        "row_header": false,
-                        "text": "0.55",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 9,
-                        "row_header": false,
-                        "text": "1.50",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 10,
-                        "row_header": true,
-                        "text": "Vasconcelos",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 10,
-                        "row_header": false,
-                        "text": "Modeling",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 10,
-                        "row_header": false,
-                        "text": "Asbestos cement",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 10,
-                        "row_header": false,
-                        "text": "N/A",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 10,
-                        "row_header": false,
-                        "text": "1.16",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 10,
-                        "row_header": false,
-                        "text": "0.00",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 11,
-                        "row_header": true,
-                        "text": "et al. (1997)",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 11,
-                        "row_header": false,
-                        "text": "Modeling",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 11,
-                        "row_header": false,
-                        "text": "Unlined cast iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 11,
-                        "row_header": false,
-                        "text": "N/A",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 11,
-                        "row_header": false,
-                        "text": "0.83",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 11,
-                        "row_header": false,
-                        "text": "2.49",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 12,
-                        "row_header": true,
-                        "text": "",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 12,
-                        "row_header": false,
-                        "text": "Modeling",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 12,
-                        "row_header": false,
-                        "text": "Unlined galvanized iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 12,
-                        "row_header": false,
-                        "text": "N/A",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 12,
-                        "row_header": false,
-                        "text": "0.23",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 12,
-                        "row_header": false,
-                        "text": "0.89",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 13,
-                        "row_header": true,
-                        "text": "",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 13,
-                        "row_header": false,
-                        "text": "Modeling",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 13,
-                        "row_header": false,
-                        "text": "Unlined cast iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 13,
-                        "row_header": false,
-                        "text": "N/A",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 13,
-                        "row_header": false,
-                        "text": "17.70",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 13,
-                        "row_header": false,
-                        "text": "4.99",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 14,
-                        "row_header": true,
-                        "text": "",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 14,
-                        "row_header": false,
-                        "text": "Modeling",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 14,
-                        "row_header": false,
-                        "text": "Cement-lined ductile iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 14,
-                        "row_header": false,
-                        "text": "N/A",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 14,
-                        "row_header": false,
-                        "text": "0.77",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 14,
-                        "row_header": false,
-                        "text": "0.10",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 15,
-                        "row_header": true,
-                        "text": "Mathieu et al. (1993)",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 15,
-                        "row_header": false,
-                        "text": "Simulator",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 15,
-                        "row_header": false,
-                        "text": "Cement-lined cast iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 15,
-                        "row_header": false,
-                        "text": "2.90",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 15,
-                        "row_header": false,
-                        "text": "0.00",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 15,
-                        "row_header": false,
-                        "text": "0.24",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 16,
-                        "row_header": true,
-                        "text": "Parent et al. (1996a)",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 16,
-                        "row_header": false,
-                        "text": "Simulator",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 16,
-                        "row_header": false,
-                        "text": "Cement-lined cast iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 16,
-                        "row_header": false,
-                        "text": "3.60",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 16,
-                        "row_header": false,
-                        "text": "0.52",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 16,
-                        "row_header": false,
-                        "text": "0.25",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 17,
-                        "row_header": true,
-                        "text": "Parent et al. (1996b)",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 17,
-                        "row_header": false,
-                        "text": "Simulator",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 17,
-                        "row_header": false,
-                        "text": "Cement-lined cast iron",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 17,
-                        "row_header": false,
-                        "text": "12.10",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 17,
-                        "row_header": false,
-                        "text": "0.54",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 17,
+                        "row": 6,
                         "row_header": false,
                         "text": "0.98",
                         "type": ""
@@ -910,49 +1156,329 @@
                     {
                         "col": 0,
                         "col_header": false,
-                        "row": 18,
+                        "row": 7,
                         "row_header": true,
-                        "text": "Rossman et al. (2001)",
+                        "text": "",
                         "type": ""
                     },
                     {
                         "col": 1,
                         "col_header": false,
-                        "row": 18,
-                        "row_header": false,
-                        "text": "Simulator",
+                        "row": 7,
+                        "row_header": true,
+                        "text": "With pre-O3",
                         "type": ""
                     },
                     {
                         "col": 2,
                         "col_header": false,
-                        "row": 18,
+                        "row": 7,
                         "row_header": false,
-                        "text": "Unlined ductile iron",
+                        "text": "37",
                         "type": ""
                     },
                     {
                         "col": 3,
                         "col_header": false,
-                        "row": 18,
+                        "row": 7,
                         "row_header": false,
-                        "text": "2.7\u20133.7",
+                        "text": "68",
                         "type": ""
                     },
                     {
                         "col": 4,
                         "col_header": false,
-                        "row": 18,
+                        "row": 7,
                         "row_header": false,
-                        "text": "0.25\u20130.49",
+                        "text": "105",
                         "type": ""
                     },
                     {
                         "col": 5,
                         "col_header": false,
-                        "row": 18,
+                        "row": 7,
                         "row_header": false,
-                        "text": "0.31\u20130.43",
+                        "text": "117",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "0.6\u00d710\u22123",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 7,
+                        "row_header": false,
+                        "text": "0.93",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "chlorine",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": true,
+                        "text": "No pre-O3",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "0.67",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "1.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "1.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "3.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "2\u00d710\u22125",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 8,
+                        "row_header": false,
+                        "text": "0.94",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": true,
+                        "text": "With pre-O3",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "0.50",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "0.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "1.2",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "1.7",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "0.9\u00d710\u22125",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 9,
+                        "row_header": false,
+                        "text": "0.98",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": true,
+                        "text": "No pre-O3",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "1.3",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "1.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "3.4",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "5.0",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "3\u00d710\u22125",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 10,
+                        "row_header": false,
+                        "text": "0.99",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": true,
+                        "text": "",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": true,
+                        "text": "With pre-O3",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "0.77",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "1.3",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "2.5",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "3.8",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "2\u00d710\u22125",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 11,
+                        "row_header": false,
+                        "text": "0.99",
                         "type": ""
                     }
                 ]
@@ -963,8 +1489,8 @@
             }
         },
         {
-            "#-cols": 10,
-            "#-rows": 9,
+            "#-cols": 6,
+            "#-rows": 8,
             "transposed": false,
             "data": [
                 [
@@ -973,15 +1499,15 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": true,
-                        "text": "Treatment/initial Cl2",
+                        "text": "",
                         "type": ""
                     },
                     {
                         "col": 1,
                         "col_header": true,
                         "row": 0,
-                        "row_header": false,
-                        "text": "TOC (mg/L)",
+                        "row_header": true,
+                        "text": "NOM Material",
                         "type": ""
                     },
                     {
@@ -989,7 +1515,7 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": false,
-                        "text": "UVA (1/cm)",
+                        "text": "kHOBr (M\u22121\ns\u22121)",
                         "type": ""
                     },
                     {
@@ -997,7 +1523,7 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": false,
-                        "text": "ALK (mg/L)",
+                        "text": "kHOBr (M\u22121\ns\u22121)",
                         "type": ""
                     },
                     {
@@ -1005,7 +1531,7 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": false,
-                        "text": "Temp. (deg C)",
+                        "text": "kHOCl (M\u22121\ns\u22121)",
                         "type": ""
                     },
                     {
@@ -1013,121 +1539,57 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": false,
-                        "text": "pH",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": false,
-                        "text": "Cl2 (mg/L)",
-                        "type": ""
-                    },
-                    {
-                        "col": 7,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": false,
-                        "text": "Ktotal(1/days)",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": false,
-                        "text": "Kbulk (1/days)",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": false,
-                        "text": "Kwall(1/days)",
+                        "text": "kHOCl (M\u22121\ns\u22121)",
                         "type": ""
                     }
                 ],
                 [
                     {
                         "col": 0,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": true,
-                        "text": "CON/high",
+                        "text": "",
                         "type": ""
                     },
                     {
                         "col": 1,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
-                        "row_header": false,
-                        "text": "1.54",
+                        "row_header": true,
+                        "text": "",
                         "type": ""
                     },
                     {
                         "col": 2,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "0.034",
+                        "text": "10\u00b0C",
                         "type": ""
                     },
                     {
                         "col": 3,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "69",
+                        "text": "24\u00b0C",
                         "type": ""
                     },
                     {
                         "col": 4,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "25.6",
+                        "text": "10\u00b0C",
                         "type": ""
                     },
                     {
                         "col": 5,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "7.9",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": false,
-                        "text": "6.8",
-                        "type": ""
-                    },
-                    {
-                        "col": 7,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": false,
-                        "text": "1.62\u00b10.07",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": false,
-                        "text": "0.094\u00b10.024",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": false,
-                        "text": "1.53",
+                        "text": "24\u00b0C",
                         "type": ""
                     }
                 ],
@@ -1137,15 +1599,15 @@
                         "col_header": false,
                         "row": 2,
                         "row_header": true,
-                        "text": "CON/low",
+                        "text": "",
                         "type": ""
                     },
                     {
                         "col": 1,
                         "col_header": false,
                         "row": 2,
-                        "row_header": false,
-                        "text": "1.56",
+                        "row_header": true,
+                        "text": "CRW",
                         "type": ""
                     },
                     {
@@ -1153,7 +1615,7 @@
                         "col_header": false,
                         "row": 2,
                         "row_header": false,
-                        "text": "0.030",
+                        "text": "",
                         "type": ""
                     },
                     {
@@ -1161,7 +1623,7 @@
                         "col_header": false,
                         "row": 2,
                         "row_header": false,
-                        "text": "66",
+                        "text": "",
                         "type": ""
                     },
                     {
@@ -1169,7 +1631,7 @@
                         "col_header": false,
                         "row": 2,
                         "row_header": false,
-                        "text": "26.4",
+                        "text": "",
                         "type": ""
                     },
                     {
@@ -1177,39 +1639,7 @@
                         "col_header": false,
                         "row": 2,
                         "row_header": false,
-                        "text": "7.8",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "3.2",
-                        "type": ""
-                    },
-                    {
-                        "col": 7,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "2.38\u00b10.19",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "N/A",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "2.29*",
+                        "text": "",
                         "type": ""
                     }
                 ],
@@ -1219,15 +1649,15 @@
                         "col_header": false,
                         "row": 3,
                         "row_header": true,
-                        "text": "O3/high",
+                        "text": "CRW",
                         "type": ""
                     },
                     {
                         "col": 1,
                         "col_header": false,
                         "row": 3,
-                        "row_header": false,
-                        "text": "1.60",
+                        "row_header": true,
+                        "text": "No Pre-O3",
                         "type": ""
                     },
                     {
@@ -1235,7 +1665,7 @@
                         "col_header": false,
                         "row": 3,
                         "row_header": false,
-                        "text": "0.013",
+                        "text": "27",
                         "type": ""
                     },
                     {
@@ -1243,7 +1673,7 @@
                         "col_header": false,
                         "row": 3,
                         "row_header": false,
-                        "text": "57",
+                        "text": "31",
                         "type": ""
                     },
                     {
@@ -1251,7 +1681,7 @@
                         "col_header": false,
                         "row": 3,
                         "row_header": false,
-                        "text": "21.6",
+                        "text": "1.6",
                         "type": ""
                     },
                     {
@@ -1259,39 +1689,7 @@
                         "col_header": false,
                         "row": 3,
                         "row_header": false,
-                        "text": "8.0",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "3.8",
-                        "type": ""
-                    },
-                    {
-                        "col": 7,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "3.00\u00b10.07",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "0.048\u00b10.010",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "2.95",
+                        "text": "1.7",
                         "type": ""
                     }
                 ],
@@ -1301,15 +1699,15 @@
                         "col_header": false,
                         "row": 4,
                         "row_header": true,
-                        "text": "O3/low",
+                        "text": "CRW",
                         "type": ""
                     },
                     {
                         "col": 1,
                         "col_header": false,
                         "row": 4,
-                        "row_header": false,
-                        "text": "1.51",
+                        "row_header": true,
+                        "text": "With pre-O3",
                         "type": ""
                     },
                     {
@@ -1317,7 +1715,7 @@
                         "col_header": false,
                         "row": 4,
                         "row_header": false,
-                        "text": "0.017",
+                        "text": "\u2014",
                         "type": ""
                     },
                     {
@@ -1325,7 +1723,7 @@
                         "col_header": false,
                         "row": 4,
                         "row_header": false,
-                        "text": "N/A",
+                        "text": "15",
                         "type": ""
                     },
                     {
@@ -1333,7 +1731,7 @@
                         "col_header": false,
                         "row": 4,
                         "row_header": false,
-                        "text": "21.4",
+                        "text": "\u2014",
                         "type": ""
                     },
                     {
@@ -1341,39 +1739,7 @@
                         "col_header": false,
                         "row": 4,
                         "row_header": false,
-                        "text": "7.8",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "1.9",
-                        "type": ""
-                    },
-                    {
-                        "col": 7,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "4.71\u00b10.10",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "0.109\u00b10.018",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "4.60",
+                        "text": "0.70",
                         "type": ""
                     }
                 ],
@@ -1383,15 +1749,15 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": true,
-                        "text": "GAC/high",
+                        "text": "",
                         "type": ""
                     },
                     {
                         "col": 1,
                         "col_header": false,
                         "row": 5,
-                        "row_header": false,
-                        "text": "0.31",
+                        "row_header": true,
+                        "text": "SR-RO",
                         "type": ""
                     },
                     {
@@ -1399,7 +1765,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "0.003",
+                        "text": "",
                         "type": ""
                     },
                     {
@@ -1407,7 +1773,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "61",
+                        "text": "",
                         "type": ""
                     },
                     {
@@ -1415,7 +1781,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "21.6",
+                        "text": "",
                         "type": ""
                     },
                     {
@@ -1423,39 +1789,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "8.0",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": false,
-                        "row": 5,
-                        "row_header": false,
-                        "text": "4.2",
-                        "type": ""
-                    },
-                    {
-                        "col": 7,
-                        "col_header": false,
-                        "row": 5,
-                        "row_header": false,
-                        "text": "3.00\u00b10.10",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 5,
-                        "row_header": false,
-                        "text": "0.005\u00b10.002",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 5,
-                        "row_header": false,
-                        "text": "3.00",
+                        "text": "",
                         "type": ""
                     }
                 ],
@@ -1465,15 +1799,15 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": true,
-                        "text": "GAC/low",
+                        "text": "SR-RO",
                         "type": ""
                     },
                     {
                         "col": 1,
                         "col_header": false,
                         "row": 6,
-                        "row_header": false,
-                        "text": "0.72",
+                        "row_header": true,
+                        "text": "No Pre-O3",
                         "type": ""
                     },
                     {
@@ -1481,7 +1815,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "0.006",
+                        "text": "120",
                         "type": ""
                     },
                     {
@@ -1489,7 +1823,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "67",
+                        "text": "130",
                         "type": ""
                     },
                     {
@@ -1497,7 +1831,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "20.9",
+                        "text": "4.3",
                         "type": ""
                     },
                     {
@@ -1505,39 +1839,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "8.2",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": false,
-                        "row": 6,
-                        "row_header": false,
-                        "text": "1.9",
-                        "type": ""
-                    },
-                    {
-                        "col": 7,
-                        "col_header": false,
-                        "row": 6,
-                        "row_header": false,
-                        "text": "3.56\u00b10.24",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 6,
-                        "row_header": false,
-                        "text": "0.019\u00b10.004",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 6,
-                        "row_header": false,
-                        "text": "3.54",
+                        "text": "4.9",
                         "type": ""
                     }
                 ],
@@ -1547,161 +1849,47 @@
                         "col_header": false,
                         "row": 7,
                         "row_header": true,
-                        "text": "RO/high",
+                        "text": "SR-RO",
                         "type": ""
                     },
                     {
                         "col": 1,
                         "col_header": false,
                         "row": 7,
-                        "row_header": false,
-                        "text": "0.03",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "0.005",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "5",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "20.8",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "7.8",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "3.9",
-                        "type": ""
-                    },
-                    {
-                        "col": 7,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "1.07\u00b10.05",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "0.007\u00b10.005",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 7,
-                        "row_header": false,
-                        "text": "1.06",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 8,
                         "row_header": true,
-                        "text": "RO/low",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": false,
-                        "text": "0.04",
+                        "text": "With pre-O3",
                         "type": ""
                     },
                     {
                         "col": 2,
                         "col_header": false,
-                        "row": 8,
+                        "row": 7,
                         "row_header": false,
-                        "text": "0.002",
+                        "text": "\u2014",
                         "type": ""
                     },
                     {
                         "col": 3,
                         "col_header": false,
-                        "row": 8,
+                        "row": 7,
                         "row_header": false,
-                        "text": "3",
+                        "text": "76",
                         "type": ""
                     },
                     {
                         "col": 4,
                         "col_header": false,
-                        "row": 8,
+                        "row": 7,
                         "row_header": false,
-                        "text": "21.3",
+                        "text": "\u2014",
                         "type": ""
                     },
                     {
                         "col": 5,
                         "col_header": false,
-                        "row": 8,
+                        "row": 7,
                         "row_header": false,
-                        "text": "8.5",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": false,
-                        "text": "2.1",
-                        "type": ""
-                    },
-                    {
-                        "col": 7,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": false,
-                        "text": "2.75\u00b10.07",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": false,
-                        "text": "0.005\u00b10.002",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 8,
-                        "row_header": false,
-                        "text": "2.75",
+                        "text": "2.3",
                         "type": ""
                     }
                 ]
@@ -1712,7 +1900,7 @@
             }
         },
         {
-            "#-cols": 10,
+            "#-cols": 8,
             "#-rows": 7,
             "transposed": false,
             "data": [
@@ -1722,243 +1910,195 @@
                         "col_header": true,
                         "row": 0,
                         "row_header": true,
-                        "text": "Treatment/initial Cl2",
+                        "text": "NOM Source/treatment",
                         "type": ""
                     },
                     {
                         "col": 1,
                         "col_header": true,
                         "row": 0,
-                        "row_header": false,
-                        "text": "TOC (mg/L)",
+                        "row_header": true,
+                        "text": "13C-NMR chemical shift range (%)",
                         "type": ""
                     },
                     {
                         "col": 2,
                         "col_header": true,
                         "row": 0,
-                        "row_header": false,
-                        "text": "UVA (1/cm)",
+                        "row_header": true,
+                        "text": "13C-NMR chemical shift range (%)",
                         "type": ""
                     },
                     {
                         "col": 3,
                         "col_header": true,
                         "row": 0,
-                        "row_header": false,
-                        "text": "ALK (mg/L)",
+                        "row_header": true,
+                        "text": "13C-NMR chemical shift range (%)",
                         "type": ""
                     },
                     {
                         "col": 4,
                         "col_header": true,
                         "row": 0,
-                        "row_header": false,
-                        "text": "Temp. (deg )C",
+                        "row_header": true,
+                        "text": "13C-NMR chemical shift range (%)",
                         "type": ""
                     },
                     {
                         "col": 5,
                         "col_header": true,
                         "row": 0,
-                        "row_header": false,
-                        "text": "PH",
+                        "row_header": true,
+                        "text": "13C-NMR chemical shift range (%)",
                         "type": ""
                     },
                     {
                         "col": 6,
                         "col_header": true,
                         "row": 0,
-                        "row_header": false,
-                        "text": "Cl2 (mg/L)",
+                        "row_header": true,
+                        "text": "13C-NMR chemical shift range (%)",
                         "type": ""
                     },
                     {
                         "col": 7,
                         "col_header": true,
                         "row": 0,
-                        "row_header": false,
-                        "text": "Ktotal (1/days)",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": false,
-                        "text": "Kbulk (1/days)",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": false,
-                        "text": "Kwall (1/days)",
+                        "row_header": true,
+                        "text": "13C-NMR chemical shift range (%)",
                         "type": ""
                     }
                 ],
                 [
                     {
                         "col": 0,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": true,
-                        "text": "CON/high",
+                        "text": "",
                         "type": ""
                     },
                     {
                         "col": 1,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "1.57",
+                        "text": "0\u201362 (ppm)",
                         "type": ""
                     },
                     {
                         "col": 2,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "0.048",
+                        "text": "62\u201390 (ppm)",
                         "type": ""
                     },
                     {
                         "col": 3,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "N/A",
+                        "text": "90\u2013110 (ppm)",
                         "type": ""
                     },
                     {
                         "col": 4,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "21.4",
+                        "text": "110\u2013140 (ppm)",
                         "type": ""
                     },
                     {
                         "col": 5,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "8.1",
+                        "text": "140\u2013160 (ppm)",
                         "type": ""
                     },
                     {
                         "col": 6,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "4.2",
+                        "text": "160\u2013190 (ppm)",
                         "type": ""
                     },
                     {
                         "col": 7,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 1,
                         "row_header": false,
-                        "text": "1.170.04",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": false,
-                        "text": "0.0150.001",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": false,
-                        "text": "1.16",
+                        "text": "190\u2013230 (ppm)",
                         "type": ""
                     }
                 ],
                 [
                     {
                         "col": 0,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 2,
                         "row_header": true,
-                        "text": "CON/low",
+                        "text": "",
                         "type": ""
                     },
                     {
                         "col": 1,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 2,
                         "row_header": false,
-                        "text": "2.25",
+                        "text": "Aliphatic",
                         "type": ""
                     },
                     {
                         "col": 2,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 2,
                         "row_header": false,
-                        "text": "0.036",
+                        "text": "Aliphatic",
                         "type": ""
                     },
                     {
                         "col": 3,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 2,
                         "row_header": false,
-                        "text": "63",
+                        "text": "Anomeric",
                         "type": ""
                     },
                     {
                         "col": 4,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 2,
                         "row_header": false,
-                        "text": "21.6",
+                        "text": "Aromatic",
                         "type": ""
                     },
                     {
                         "col": 5,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 2,
                         "row_header": false,
-                        "text": "8.0",
+                        "text": "Aromatic/phenolic",
                         "type": ""
                     },
                     {
                         "col": 6,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 2,
                         "row_header": false,
-                        "text": "2.6",
+                        "text": "Carboxylic",
                         "type": ""
                     },
                     {
                         "col": 7,
-                        "col_header": false,
+                        "col_header": true,
                         "row": 2,
                         "row_header": false,
-                        "text": "1.420.12",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "0.0170.002",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "1.41",
+                        "text": "ketone",
                         "type": ""
                     }
                 ],
@@ -1968,7 +2108,7 @@
                         "col_header": false,
                         "row": 3,
                         "row_header": true,
-                        "text": "GAC/high",
+                        "text": "CRW",
                         "type": ""
                     },
                     {
@@ -1976,7 +2116,7 @@
                         "col_header": false,
                         "row": 3,
                         "row_header": false,
-                        "text": "1.53",
+                        "text": "55",
                         "type": ""
                     },
                     {
@@ -1984,7 +2124,7 @@
                         "col_header": false,
                         "row": 3,
                         "row_header": false,
-                        "text": "0.027",
+                        "text": "13",
                         "type": ""
                     },
                     {
@@ -1992,7 +2132,7 @@
                         "col_header": false,
                         "row": 3,
                         "row_header": false,
-                        "text": "66",
+                        "text": "1.7",
                         "type": ""
                     },
                     {
@@ -2000,129 +2140,97 @@
                         "col_header": false,
                         "row": 3,
                         "row_header": false,
-                        "text": "21.6",
+                        "text": "6.9",
                         "type": ""
                     },
                     {
                         "col": 5,
                         "col_header": false,
                         "row": 3,
-                        "row_header": false,
-                        "text": "8.0",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "4.2",
-                        "type": ""
-                    },
-                    {
-                        "col": 7,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "1.230.05",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "0.0070.002",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "1.22",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": true,
-                        "text": "GAC/low",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "0.75",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "0.016",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "65",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "21.7",
-                        "type": ""
-                    },
-                    {
-                        "col": 5,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "8.2",
-                        "type": ""
-                    },
-                    {
-                        "col": 6,
-                        "col_header": false,
-                        "row": 4,
                         "row_header": false,
                         "text": "2.5",
                         "type": ""
                     },
                     {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "20.3",
+                        "type": ""
+                    },
+                    {
+                        "col": 7,
+                        "col_header": false,
+                        "row": 3,
+                        "row_header": false,
+                        "text": "1.4",
+                        "type": ""
+                    }
+                ],
+                [
+                    {
+                        "col": 0,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": true,
+                        "text": "SRRO",
+                        "type": ""
+                    },
+                    {
+                        "col": 1,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "32",
+                        "type": ""
+                    },
+                    {
+                        "col": 2,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "19",
+                        "type": ""
+                    },
+                    {
+                        "col": 3,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "9.3",
+                        "type": ""
+                    },
+                    {
+                        "col": 4,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "14",
+                        "type": ""
+                    },
+                    {
+                        "col": 5,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "6.9",
+                        "type": ""
+                    },
+                    {
+                        "col": 6,
+                        "col_header": false,
+                        "row": 4,
+                        "row_header": false,
+                        "text": "16",
+                        "type": ""
+                    },
+                    {
                         "col": 7,
                         "col_header": false,
                         "row": 4,
                         "row_header": false,
-                        "text": "1.430.08",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "0.0050.001",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "1.43",
+                        "text": "3.9",
                         "type": ""
                     }
                 ],
@@ -2132,7 +2240,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": true,
-                        "text": "O3/high",
+                        "text": "SRRO+HOCl",
                         "type": ""
                     },
                     {
@@ -2140,7 +2248,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "1.72",
+                        "text": "37",
                         "type": ""
                     },
                     {
@@ -2148,7 +2256,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "0.031",
+                        "text": "28",
                         "type": ""
                     },
                     {
@@ -2156,7 +2264,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "45",
+                        "text": "7.8",
                         "type": ""
                     },
                     {
@@ -2164,7 +2272,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "22.1",
+                        "text": "7.6",
                         "type": ""
                     },
                     {
@@ -2172,7 +2280,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "7.9",
+                        "text": "3.7",
                         "type": ""
                     },
                     {
@@ -2180,7 +2288,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "4.1",
+                        "text": "18",
                         "type": ""
                     },
                     {
@@ -2188,23 +2296,7 @@
                         "col_header": false,
                         "row": 5,
                         "row_header": false,
-                        "text": "1.340.03",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 5,
-                        "row_header": false,
-                        "text": "0.0100.002",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 5,
-                        "row_header": false,
-                        "text": "1.33",
+                        "text": "0",
                         "type": ""
                     }
                 ],
@@ -2214,7 +2306,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": true,
-                        "text": "O3/low",
+                        "text": "SRRO+HOBr",
                         "type": ""
                     },
                     {
@@ -2222,7 +2314,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "1.80",
+                        "text": "33",
                         "type": ""
                     },
                     {
@@ -2230,7 +2322,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "0.019",
+                        "text": "21",
                         "type": ""
                     },
                     {
@@ -2238,7 +2330,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "44",
+                        "text": "9.5",
                         "type": ""
                     },
                     {
@@ -2246,7 +2338,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "22.1",
+                        "text": "13",
                         "type": ""
                     },
                     {
@@ -2254,7 +2346,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "7.9",
+                        "text": "6.0",
                         "type": ""
                     },
                     {
@@ -2262,7 +2354,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "1.8",
+                        "text": "15",
                         "type": ""
                     },
                     {
@@ -2270,244 +2362,7 @@
                         "col_header": false,
                         "row": 6,
                         "row_header": false,
-                        "text": "1.540.04",
-                        "type": ""
-                    },
-                    {
-                        "col": 8,
-                        "col_header": false,
-                        "row": 6,
-                        "row_header": false,
-                        "text": "0.0170.002",
-                        "type": ""
-                    },
-                    {
-                        "col": 9,
-                        "col_header": false,
-                        "row": 6,
-                        "row_header": false,
-                        "text": "1.51",
-                        "type": ""
-                    }
-                ]
-            ],
-            "entities": {
-                "headers": {},
-                "data_points": []
-            }
-        },
-        {
-            "#-cols": 5,
-            "#-rows": 5,
-            "transposed": false,
-            "data": [
-                [
-                    {
-                        "col": 0,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": true,
-                        "text": "Treatment Type",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": false,
-                        "text": "TOC (mg/L)",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": false,
-                        "text": "UVA-254 (1/cm)",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": false,
-                        "text": "Alkalinity (mg/L as CaCO3)",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": true,
-                        "row": 0,
-                        "row_header": false,
-                        "text": "pH",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": true,
-                        "text": "Conventional",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": false,
-                        "text": "1.73",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": false,
-                        "text": "0.037",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": false,
-                        "text": "66",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 1,
-                        "row_header": false,
-                        "text": "8.0",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": true,
-                        "text": "Ozone",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "1.66",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "0.020",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "49",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 2,
-                        "row_header": false,
-                        "text": "7.9",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": true,
-                        "text": "GAC",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "0.83",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "0.013",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "65",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 3,
-                        "row_header": false,
-                        "text": "8.1",
-                        "type": ""
-                    }
-                ],
-                [
-                    {
-                        "col": 0,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": true,
-                        "text": "RO",
-                        "type": ""
-                    },
-                    {
-                        "col": 1,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "0.04",
-                        "type": ""
-                    },
-                    {
-                        "col": 2,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "0.004",
-                        "type": ""
-                    },
-                    {
-                        "col": 3,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "4",
-                        "type": ""
-                    },
-                    {
-                        "col": 4,
-                        "col_header": false,
-                        "row": 4,
-                        "row_header": false,
-                        "text": "8.2",
+                        "text": "2.6",
                         "type": ""
                     }
                 ]

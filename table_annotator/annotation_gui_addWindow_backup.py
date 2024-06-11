@@ -1,12 +1,11 @@
 import tkinter as tk
 import customtkinter as ctk
-from customtkinter import CTkEntry, CTkCanvas, CTkScrollbar, CTkOptionMenu, CTkTextbox, CTkButton, CTkFrame, StringVar, CTkLabel, CTkSwitch
+from customtkinter import CTkCanvas, CTkScrollbar, CTkOptionMenu, CTkTextbox, CTkButton, CTkFrame, StringVar, CTkLabel, CTkSwitch
 from tabledataextractor import Table
 import traceback
 import os
 import json
 from utils import Utilities
-import numpy as np
 """
 Hint:
 To use this app following things have to be added:
@@ -38,8 +37,6 @@ class TableWindow(ctk.CTkToplevel):
         self.caption_frame = CaptionFrame(self)
 
         self.generator_frame = GeneratorFrame(self)
-
-        self.header_assign_frame = HeaderAssignFrame(self)
     
         # Show window when all objects are placed
         self.deiconify()
@@ -50,59 +47,10 @@ class TableWindow(ctk.CTkToplevel):
         self.destroy()
 
 
-class HeaderAssignFrame(CTkFrame):
-    def __init__(self, parent: TableWindow):
-        super().__init__(parent,
-                         width=20,
-                         )
-        self.grid(row=1, column=0, pady=(0, 10), sticky="nes")
-
-        self.parent = parent
-        self.labels = self.parent.generator_frame.table_frame.labels
-
-        self.col_row_heads_label = CTkLabel(self, text="Col_Row_heads:", padx=5, pady=5)
-        self.col_row_heads_label.grid(row=0, column=0, padx=(5,0), pady=5)
-
-        self.col_row_heads = CTkEntry(self, width=50)
-        self.col_row_heads.insert(0, "[c,r]")
-        self.col_row_heads.grid(row=0, column=1, pady=5, padx=(0,5))
-
-        self.col_row_assign = CTkButton(self, text="Assign heads", command=self.col_row_assign_func)
-        self.col_row_assign.grid(row=1, column=0, columnspan=2)
-    
-
-    def col_row_assign_func(self, transp = False):
-        try:
-            self.parent.generator_frame.transpose_switch.deselect()
-            entry: list = eval(self.col_row_heads.get())
-            if len(entry)==2:
-                col_head_num = entry[0]
-                row_head_num = entry[1]
-                np_labels = np.array(self.labels, dtype='object')
-                np_labels[:] = "Data"
-                np_labels[:, :row_head_num] = "RowHeader"
-                np_labels[:col_head_num, :] = "ColHeader"
-                for x in range(col_head_num):
-                    for y in range(row_head_num):
-                        np_labels[x, y] = "StubHeader"
-                
-                self.parent.generator_frame.col_row_manual_heads = np_labels.tolist()
-                self.parent.generator_frame.generate_table(user=True)
-
-            else:
-                print("Eval Error: Make sure to pass correct input format: [col_headers, row_headers].")
-        except Exception as e:
-            error_message = traceback.format_exc()
-            print(error_message)
-            print("Eval Error: Make sure to pass correct input format: [col_headers, row_headers].")
-
-
-
-
 class ProgressFrame(CTkFrame):
     def __init__(self, parent: TableWindow):
         super().__init__(parent)
-        self.grid(row=1, column=2, pady=(0, 10), sticky="w")
+        self.grid(row=1, column=1, pady=(0, 10), sticky="w")
 
         self.current_table_status = CTkLabel(self)
         self.current_table_status.grid(row=0, column=0)
@@ -118,12 +66,12 @@ class ProgressFrame(CTkFrame):
 class CaptionFrame(CTkTextbox):
     def __init__(self, parent: TableWindow):
         super().__init__(parent,
-                         width=265,
+                         width=625,
                          height=74,
                          wrap=ctk.WORD,
                          state="disabled")
     
-        self.grid(row=1, column=1, padx=5, pady=(0, 10), sticky="nesw")
+        self.grid(row=1, column=0, padx=5, pady=(0, 10), sticky="e")
     
         #self.heading = CTkLabel(self)
         #self.heading.grid(row=0, column=0, pady=0)
@@ -163,44 +111,22 @@ class TransposeSwitch(CTkSwitch):
 
         
     def transpose(self):
-
-        # self assigned labels have to be transposed according to user
-        manual_labels = self.parent.col_row_manual_heads
-        if manual_labels != None:
-            #Change RowHeader and ColHeader
-            self.parent.col_row_manual_heads = self.label_transpose(manual_labels)
-            user=True
-        else:
-            user=False
-
         # Switch var will give on or off value of switch
         switch_var = self.switch_var.get()
         if switch_var == "on":
             # Create table transposed
-            self.parent.generate_table(transpose=True, user=user)
+            self.parent.generate_table(transpose=True)
         elif switch_var == "off":
-            self.parent.generate_table(user=user)
+            self.parent.generate_table()
         # Disable export button since no column will be selected
-        #self.parent.export_button.configure(state="disabled")
+        self.parent.export_button.configure(state="disabled")
 
-
-    def label_transpose(self, label_table:list[list]):
-        #Swap RowHeader and ColHeader and transpose table
-        swap_transp_labels = [
-                [
-                    'RowHeader' if item == 'ColHeader' 
-                    else 'ColHeader' if item == 'RowHeader' 
-                    else item for item in sublist
-                ]
-            for sublist in np.array(label_table).T.tolist()
-        ]
-        return swap_transp_labels
 
 
 class GeneratorFrame(CTkFrame):
     def __init__(self, parent: TableWindow):
         super().__init__(parent)
-        self.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
+        self.grid(row=0, column=0, columnspan=2, padx=10, pady=10)
 
         self.parent = parent
         self.table_frame = parent.table_frame
@@ -211,6 +137,7 @@ class GeneratorFrame(CTkFrame):
         self.n = len(self.parent.tables_from_main["tables"]) - 1
         # Tracker if table was annotated (True) or not (False) --> each table gets a true or false statement in list
         self.tab_anno_state = [False for _ in range(self.n + 1)]
+        print("This command has been executedThis command has been executedThis command has been executedThis command has been executedThis command has been executedThis command has been executedThis command has been executed")
 
         # Collected tables (all tables are collected and THEN exported, step by step)
         self.table_collection = [None for _ in range(self.n + 1)]
@@ -218,9 +145,6 @@ class GeneratorFrame(CTkFrame):
         self.input_table = None
         # Is table transposed (True) or not (False)
         self.transpose_state = False
-
-        # Holds None of no manual header assignment took place; holds labels vice versa
-        self.col_row_manual_heads = None
         
         # Buttons
         self.previous_table = CTkButton(
@@ -308,8 +232,6 @@ class GeneratorFrame(CTkFrame):
             self.set_caption()
             self.generate_table()
             self.transpose_switch.deselect()
-            # Reset manually selected row and col headers
-            self.col_row_manual_heads = None
         else:
             print("Can not go back or past further")
         print(f"self.i: {self.i}, self.n :{self.n}")
@@ -345,15 +267,7 @@ class GeneratorFrame(CTkFrame):
         self.parent.caption_frame.insert_caption(heading, caption)
 
 
-    def mips_error_catcher(self, table: list[list]):
-        try:
-            tab = Table(table)
-            return False
-        except:
-            return True
-
-
-    def generate_table(self, event=None, transpose=False, user=False):
+    def generate_table(self, event=None, transpose=False):
         # Parse the input text as a list of lists
         try:
             self.transpose_state = False
@@ -365,54 +279,18 @@ class GeneratorFrame(CTkFrame):
             
             #self.input_table = self.parent.table_input_field.get("1.0", "end-1c")
             self.input_table = self.parent.tables_from_main["tables"][self.i]["raw_table_data"]
-            mips_error = self.mips_error_catcher(self.input_table)
 
-            if mips_error == False and user == False: #if block to catch MIPS error, so user can define col and row header
+            # Get table from xml selected via ctk_filemenu and create TDE object to pre-clean (delete empty lines and duplicates) table
+            tde_table_obj = Table(self.input_table)
+            self.table_frame.data = tde_table_obj.pre_cleaned_table.tolist()
+            # If transpose is activated table will be generated transposed after switch is clicked
+            if transpose:
+                self.table_frame.data = tde_table_obj.raw_table.transpose().tolist()
+                self.transpose_state = True
 
-                # Get table from xml selected via ctk_filemenu and create TDE object to pre-clean (delete empty lines and duplicates) table
-                tde_table_obj = Table(self.input_table)
-                
-                # If transpose is activated table will be generated transposed after switch is clicked
-                if transpose:
-                    self.table_frame.data = tde_table_obj.raw_table.transpose().tolist()
-                    self.table_frame.labels = Table(self.table_frame.data).labels
-                    self.transpose_state = True
-                else:
-                    self.table_frame.data = tde_table_obj.pre_cleaned_table.tolist()
-                    # Get label table of each cell in the table as list of lists
-                    self.table_frame.labels = tde_table_obj.labels
-                
-            else:
-                # Block is called when MIPS failed or user did manual input
-                if transpose:
-                    self.table_frame.data = np.array(self.input_table).T.tolist()
-                    self.transpose_state = True
-
-                else:
-                    self.table_frame.data = self.input_table
-
-                if mips_error == False and user == True:
-    
-                    # When transpose = True col_row_manual_heads (manual labels) are transposed by label_transpose function
-                    self.table_frame.labels = self.col_row_manual_heads
-                
-                else:
-
-                    if self.col_row_manual_heads == None:
-                        print("MIPS failed: Col and Row header need to be assigned manually")
-                        # Turn all cell labels to "data" so table can be depicted without headers, then user decides which cols and rows are headers
-                        all_cells_data: np.ndarray = np.array(self.table_frame.data)
-                        all_cells_data[:] = "Data"
-                        self.table_frame.labels = all_cells_data.tolist()
-                        self.col_row_manual_heads = all_cells_data.tolist()
-
-                    else:
-                        self.table_frame.labels = self.col_row_manual_heads
-
-
-            print(self.col_row_manual_heads)
-            print(self.table_frame.data)
-            print(self.table_frame.labels)
+        
+            # Get label table of each cell in the table as list of lists
+            self.table_frame.labels = tde_table_obj.labels
             self.table_frame.create_table()
             # Activate transpose switch after table is created
             self.transpose_switch.configure(state="normal")
@@ -420,8 +298,6 @@ class GeneratorFrame(CTkFrame):
             error_message = traceback.format_exc()
             ErrorPopUp(e, error_message)
             print(error_message)
-
-
 
 
     def collect(self):
@@ -600,7 +476,7 @@ class TableFrame(CTkFrame):
             #height=1080,
             #width=1920
         )
-        self.grid(row=3, column=0, columnspan=3, padx=10, pady=10)
+        self.grid(row=3, column=0, columnspan=2, padx=10, pady=10)
         self.grid_remove()
         self.parent = parent
         self.init_attributes()
@@ -697,7 +573,6 @@ class TableFrame(CTkFrame):
     def set_table_header(self, cell_button: TableCell, row, col):
         col_header = False
         row_header = False
-        #print(f"self.labels : {self.labels}\nrow :{row}; col: {col}")
         if self.labels[row][col] in self.col_header_labels:
             col_header = True
         if self.labels[row][col] in self.row_header_labels:
@@ -759,8 +634,6 @@ class TableFrame(CTkFrame):
         self.button_height_tracker = 0
         self.rows = len(self.data)
         self.cols = len(self.data[0]) if self.rows > 0 else 0 
-
-        #print(f"Stored in self.data: {self.data}\nself.rows: {self.rows}")
 
         for row in range(self.rows):
             self.table_cells.append([])

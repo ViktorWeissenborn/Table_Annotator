@@ -1,0 +1,722 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-06-10</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.scitotenv.2020.136816</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">QSARMODELINGFOROZONATIONDIVERSEORGANICCOMPOUNDSINWATER</infon>
+      <infon key="name_0">surname:HUANG</infon>
+      <infon key="license">© 2020 Elsevier B.V. All rights reserved.</infon>
+      <infon key="source">Science of The Total Environment</infon>
+      <infon key="year">2020-01-21</infon>
+      <infon key="volume">715</infon>
+      <infon key="issue">0048-9697</infon>
+      <infon key="fpage">136816</infon>
+      <infon key="pub-id_doi">10.1016/j.scitotenv.2020.136816</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S0048969720303260</infon>
+      <infon key="kwd">['Ozonation', 'Reaction rate constant', 'Quantitative structure–activity relationship', 'Multiple linear regression', 'Support vector machine']</infon>
+      <offset>0</offset>
+      <text>QSAR modeling for the ozonation of diverse organic compounds in water</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>70</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>88</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>99</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>108</offset>
+      <text>The ozonation-based advanced oxidation process is a promising treatment technology for wastewater with micropollutants. The second-order reaction rate constant (kO3) of ozone (O3) with organic compounds is an important index for estimating removal efficiency of organic pollutants in engineered treatment; however, the experimental kO3 values are currently only available for hundreds of chemicals. In this study, two quantitative-structure activity relationship (QSAR) models were developed to predict kO3 of various organic chemicals with multiple linear regression (MLR) and support vector machine (SVM) methods. The built QSAR models cover a large dataset (136 chemicals) and more structurally diverse chemicals as compared to the existing models. The MLR model possesses satisfactory goodness-of-fit (R2tr = 0.734), robustness (Q2LOO = 0.700, Q2BOOT = 0.772) and predictive ability (R2ext = 0.797, Q2ext = 0.794), and the SVM model also has good fitness (R2tr = 0.862) and predictability (R2ext = 0.782, Q2ext = 0.775). The applicability domain of the models has been extended and includes chemicals (especially some emerging pollutants) that are rarely covered in many previous models. The underlying molecular structural factors influencing ozonation are revealed. The energy of the highest occupied molecular orbital (EHOMO) and the phenol/enol/carboxyl OH group (O-057) are the two most important molecular structural factors governing the reactivity of organic compounds with ozone. The developed models can serve as a prescreening tool for the removal prediction of organic pollutants by ozone.</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="277" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1594" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1707" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="239" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="259" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1714</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Descriptors', 'Meanings', 'VIF', 't', 'p'], ['EHOMO', 'Energy of the highest occupied molecular orbital', '1.472', '10.127', '&lt;8\u202f×\u202f10−17'], ['O-057', 'Phenol/enol/carboxyl OH', '1.831', '6.882', '&lt;7\u202f×\u202f10−10'], ['nNq', 'Number of quaternary N', '1.567', '6.083', '&lt;3\u202f×\u202f10−8'], ['B02[C–S]', 'Presence/absence of C–S at topological distance 2', '1.643', '5.626', '&lt;2\u202f×\u202f10−7'], ['B06[O–O]', 'Presence/absence of O–O at topological distance 6', '1.545', '5.590', '&lt;3\u202f×\u202f10−7'], ['SpMAD_A', 'Spectral mean absolute deviation from adjacency matrix', '1.685', '3.901', '&lt;2\u202f×\u202f10−4'], ['C-025', 'R--CR--R', '1.781', '−3.529', '&lt;7\u202f×\u202f10−4'], ['nR=Cs', 'Number of aliphatic secondary C (sp2)', '1.155', '3.577', '&lt;6\u202f×\u202f10−4'], ['P_VSA_p_2', 'P_VSA-like on polarizability, bin 2', '3.819', '−3.410', '&lt;10\u202f×\u202f10−4'], ['JGI9', 'Mean topological charge index of order 9', '1.416', '3.107', '&lt;3\u202f×\u202f10−3'], ['SdCH2', 'Sum of dCH2 E-states', '1.111', '3.571', '&lt;6\u202f×\u202f10−4'], ['B05[C–N]', 'Presence/absence of C–N at topological distance 5', '2.469', '−2.843', '&lt;6\u202f×\u202f10−3']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Descriptors&lt;/td&gt;
+      &lt;td&gt;Meanings&lt;/td&gt;
+      &lt;td&gt;VIF&lt;/td&gt;
+      &lt;td&gt;t&lt;/td&gt;
+      &lt;td&gt;p&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;EHOMO&lt;/td&gt;
+      &lt;td&gt;Energy of the highest occupied molecular orbital&lt;/td&gt;
+      &lt;td&gt;1.472&lt;/td&gt;
+      &lt;td&gt;10.127&lt;/td&gt;
+      &lt;td&gt;&amp;lt;8 × 10−17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O-057&lt;/td&gt;
+      &lt;td&gt;Phenol/enol/carboxyl OH&lt;/td&gt;
+      &lt;td&gt;1.831&lt;/td&gt;
+      &lt;td&gt;6.882&lt;/td&gt;
+      &lt;td&gt;&amp;lt;7 × 10−10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nNq&lt;/td&gt;
+      &lt;td&gt;Number of quaternary N&lt;/td&gt;
+      &lt;td&gt;1.567&lt;/td&gt;
+      &lt;td&gt;6.083&lt;/td&gt;
+      &lt;td&gt;&amp;lt;3 × 10−8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;B02[C–S]&lt;/td&gt;
+      &lt;td&gt;Presence/absence of C–S at topological distance 2&lt;/td&gt;
+      &lt;td&gt;1.643&lt;/td&gt;
+      &lt;td&gt;5.626&lt;/td&gt;
+      &lt;td&gt;&amp;lt;2 × 10−7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;B06[O–O]&lt;/td&gt;
+      &lt;td&gt;Presence/absence of O–O at topological distance 6&lt;/td&gt;
+      &lt;td&gt;1.545&lt;/td&gt;
+      &lt;td&gt;5.590&lt;/td&gt;
+      &lt;td&gt;&amp;lt;3 × 10−7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SpMAD_A&lt;/td&gt;
+      &lt;td&gt;Spectral mean absolute deviation from adjacency matrix&lt;/td&gt;
+      &lt;td&gt;1.685&lt;/td&gt;
+      &lt;td&gt;3.901&lt;/td&gt;
+      &lt;td&gt;&amp;lt;2 × 10−4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C-025&lt;/td&gt;
+      &lt;td&gt;R--CR--R&lt;/td&gt;
+      &lt;td&gt;1.781&lt;/td&gt;
+      &lt;td&gt;−3.529&lt;/td&gt;
+      &lt;td&gt;&amp;lt;7 × 10−4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nR=Cs&lt;/td&gt;
+      &lt;td&gt;Number of aliphatic secondary C (sp2)&lt;/td&gt;
+      &lt;td&gt;1.155&lt;/td&gt;
+      &lt;td&gt;3.577&lt;/td&gt;
+      &lt;td&gt;&amp;lt;6 × 10−4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;P_VSA_p_2&lt;/td&gt;
+      &lt;td&gt;P_VSA-like on polarizability, bin 2&lt;/td&gt;
+      &lt;td&gt;3.819&lt;/td&gt;
+      &lt;td&gt;−3.410&lt;/td&gt;
+      &lt;td&gt;&amp;lt;10 × 10−4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;JGI9&lt;/td&gt;
+      &lt;td&gt;Mean topological charge index of order 9&lt;/td&gt;
+      &lt;td&gt;1.416&lt;/td&gt;
+      &lt;td&gt;3.107&lt;/td&gt;
+      &lt;td&gt;&amp;lt;3 × 10−3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SdCH2&lt;/td&gt;
+      &lt;td&gt;Sum of dCH2 E-states&lt;/td&gt;
+      &lt;td&gt;1.111&lt;/td&gt;
+      &lt;td&gt;3.571&lt;/td&gt;
+      &lt;td&gt;&amp;lt;6 × 10−4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;B05[C–N]&lt;/td&gt;
+      &lt;td&gt;Presence/absence of C–N at topological distance 5&lt;/td&gt;
+      &lt;td&gt;2.469&lt;/td&gt;
+      &lt;td&gt;−2.843&lt;/td&gt;
+      &lt;td&gt;&amp;lt;6 × 10−3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1721</offset>
+      <text>Meanings, VIF, t values and significance level (p values) of descriptors included in the MLR-based QSAR model.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1832</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0048969720303260-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1840</offset>
+      <text>Frequency distribution of experimental logkO3 values in the dataset.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0048969720303260-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1909</offset>
+      <text>Progress in R2tr and Q2LOO as the number of dependent variables increases during the MLR-based QSAR model development.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0048969720303260-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2028</offset>
+      <text>Plots of the predicted versus experimental logkO3 values for QSAR models developed by the MLR (a) and SVM (b) methods.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0048969720303260-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2147</offset>
+      <text>Williams plots of the QSAR models developed by the MLR (a) and SVM (b) methods.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S0048969720303260-ga1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2227</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2228</offset>
+      <text>Graphical abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2247</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2256</offset>
+      <text>['Ozonation', 'Reaction rate constant', 'Quantitative structure–activity relationship', 'Multiple linear regression', 'Support vector machine']</text>
+      <annotation id="6">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2285" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2400</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2413</offset>
+      <text>In recent decades, organic micropollutants, such as pharmaceuticals and personal care products (PPCPs), endocrine disrupting chemicals (EDCs), pesticides and herbicides, have been frequently detected in various aquatic environments with the concentrations of ng/L-μg/L due to their extensive production, frequent use and a long period of environmental accumulation (Ternes, 1998; Kolpin et al., 2002; Wei et al., 2019; Nakada et al., 2006; Lei and Snyder, 2007; Gao et al., 2018). Furthermore, many studies indicated that these organic micropollutants in aquatic environments have various negative effects (such as endocrine disrupting effects, reproductive and developmental toxicity, photoinduced toxicity and the dissemination of antibiotic resistance) on biotas (Ericson et al., 2010; Qin et al., 2011; Xiao et al., 2019a). Therefore, the water contamination with organic micropollutants has received increasing scientific and public awareness (Hollender et al., 2009). Generally many of the organic micropollutants could not be completely removed by conventional wastewater treatment methods (i.e., primarily biological treatment processes) because of their complex structures, the diversity and complexity of their physicochemical properties (Benitez et al., 2013; Blair et al., 2013). For instance, previous studies showed that most of the investigated pharmaceuticals cannot be completely degraded by the traditional activated sludge treatment, and even the removal efficiency of some pharmaceuticals (e.g., macrolide antimicrobials) was very poor (Huber et al., 2005; Göbel et al., 2007). Additionally, some traditional physicochemical processes are usually inadequate for wastewater containing micropollutants, because they are expensive, ineffective and may cause secondary pollution (Oller et al., 2011; Martinez-Huitle et al., 2015). Therefore, it is necessary to implement advanced treatment technology to further remove organic micropollutants (Xiao et al., 2019a; Cheng et al., 2016; Xiao et al., 2019b). The advanced oxidation processes (AOPs) have been proven to be a promising treatment technology for wastewater with micropollutants, such as O3-based AOPs and hydroxyl radical-based AOPs (Mamy et al., 2015; Jin et al., 2015; Nolte and Ragas, 2017). Hydroxyl radicals are relatively non-selective in the reactions, thus the corresponding reaction rate constant generally ranges from 107 to 1010 M−1 s−1 (Borhani et al., 2016; Li et al., 2018). The ozone reaction rate constants span a wide range from 10−3 to 1010 M−1 s−1 because of low selectivity of molecular ozone (Tachibana et al., 2011; Kusvuran and Yildirim, 2013). Nevertheless, ozone can break down recalcitrant and toxic organic compounds into smaller molecules (Jothinathan and Hu, 2018). Some previous studies revealed that the elimination of PPCPs and EDCs can be achieved by using ozone (Hollender et al., 2009; Altmann et al., 2012). For example, the removal rate of carbamazepine and diclofenac was as high as 97% based on the ozonation method (Ternes et al., 2002); the removal rate of natural estrogen (17β-estradiol) can achieve 99% with an ozone dose of 5 mg L−1 in 15 min or 15 mg L−1 in 4 min (Kim et al., 2004). One of the key research areas in AOPs or advanced reduction processes in engineered waters is degradation kinetics (Xiao et al., 2015; Li et al., 2019), and the ozone-based AOPs is no exception. The reaction rate constants (kO3) of ozone with micropollutants can be used for measuring the reactivity, and are therefore useful in assessing their removal efficiency and understanding their fate in ozonation. Thus, it is necessary to obtain aqueous kO3 values of organic chemicals. However, to date, the experimental kO3 data are only available for limited micropollutants compared to the huge number of existing chemicals, and the kO3 for many emerging micropollutants such as EDCs, PPCPs, pesticides and plasticizer are greatly deficient. The kO3 data can be acquired through experimental determination. However, in view of the ever-increasing number of emerging micropollutants as well as time-consumption, huge expenditure, equipment-dependence of experimental measurements, it is unrealistic to determine kO3 values of every organic compound entering into the aquatic environment (). The quantum chemical calculation can be also used for estimating kO3 values of organic compounds (), however obtaining kO3 values of every organic compound is highly costly. Because on one side people need to screen proper calculation methods for different classes of compounds, and on the other hand accurate reaction rate constants can be obtained only when highly accurate calculation methods are employed. Thus, developing highly-efficient alternative method to predict kO3 is urgently needed. Quantitative structure activity relationship (QSAR), which relates chemical molecular structures with their “reactivity”, is considered to be an impressive alternative to determining reaction rates experimentally. Once a QSAR model is established, it generates results with minimal computational cost and is applicable for regulatory purpose. It is worth pointing out that the Organization for Economic Cooperation and Development (OECD) inspires the use of QSAR models to assess various environmental parameters of chemicals and promulgates the guidelines for the development and validation of QSAR models (OECD, 2007). As far as we know, at present there have been numerous QSAR models for predicting gaseous kO3 of various organic compounds with a large dataset (&gt;300 compounds) (summarized in Table A1). In contrast, there are limited studies on developing QSAR models for predicting aqueous kO3 of organic pollutants. These QSAR methods mainly involved one descriptor (with a maximum of 4 descriptors) and were mainly developed for certain classes of organic compounds with unambiguous methods (such as linear regression (LR), multiple linear regression and partial least square (PLS)) (Table A2) (Hu et al., 2000; Liu et al., 2010; Jiang et al., 2010; Lee and von Gunten, 2012; ). For example, Hu et al. (2000) built 4 models to predict kO3 of four groups of pesticides (i.e., phenolic-, organonitrogen-, phenoxyalkylacitic- and heterocyclic N-pesticides) based on one descriptor (the energy of the highest occupied molecular orbital (EHOMO)). Lee and von Gunten (2012) and employed classification modeling method to separately construct aqueous kO3 QSAR models of phenol, anilines, benzene derivatives, mono- and dialkoxybenzenes, trimethoxybenzenes, olefins, amines and amine derivatives, etc. based on quantum molecular orbital parameters, Hammett or Taft substituent constants. Besides, some QSAR models have been developed to predict kO3 of diverse organic compounds, however these models cover limited compounds (Sudhakaran and Amy, 2013; Jin et al., 2014; ; Gupta and Basant, 2016; Cheng et al., 2018). As far as we know, the largest dataset used for kO3 QSAR modeling is 81 compounds (Gupta and Basant, 2016). Additionally, two QSAR models for ozonation are developed by using percent-removal (in %) as the predicted variable based on 58 and 69 compounds respectively (Lei and Snyder, 2007; Sudhakaran et al., 2012). In summary, previous QSAR models cover limited number (≤ 81 chemicals) and diversity of chemicals. This is especially true for emerging micropollutants, the kO3 of which are deficient. Furthermore, most previous QSAR models lack appropriate internal and external validation, and have not defined the applicability domains (ADs), which fail to meet the OECD guidelines on the development and validation of QSAR models. Therefore, to meet the requirements of environmental risk assessment of chemicals (especially emerging micropollutants), it is an urgent need to develop QSAR models covering more structurally diverse chemicals as well as following the OECD guidelines. Thus, the overall purpose of this study is to establish reliable QSAR models for predicting aqueous kO3 of organic micropollutants including emerging micropollutants (e.g., PPCPs, EDCs, pesticides, herbicides and flame retardants). Firstly, we collected a dataset of 136 kO3 values of organic micropollutants, which cover a wide range of structural diversity and reactivity. Secondly, some quantum chemical descriptors and DRAGON descriptors that are mostly used in studying chemical reactions were calculated (Kode, 2018). Subsequently, one linear and non-linear QSAR models for predicting aqueous kO3 were developed by using MLR and SVM methods, and the evaluation, validation, characterization and interpretation were performed for the models. The developed QSAR models can be used to screen complex organic micropollutants for their treatability with ozone, and provide a valuable tool for initially evaluating the ozonation effectiveness of compounds for which the kinetic information is not available.</text>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2654" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4881" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4995" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5070" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5278" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5543" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5779" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5850" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11159" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4785" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4901" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5831" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7029" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9080" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11312</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11334</offset>
+      <text>Experimental kO3 dataset</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11359</offset>
+      <text>The kO3 (M−1 s−1) of various organic micropollutants were obtained from literatures and the NDRL/NIST solution kinetics database (http://kinetics.nist.gov/solution/index.jsp). For the purpose of providing consistent conditions for the model development, the data were further processed and screened based on the following principles. The kO3 values were selected approximately at pH = 7 and 22 ± 3 °C. The pH and temperature selection is based on two factors. One factor is the environmental relevance; the other factor is that the kO3 data measured in this pH and temperature range are abundant. The average of kO3 values was adopted for one compound with multiple kO3 values. After processing, we finally obtained 136 logkO3 values ranging from −0.90 to 7.44 for a wide range of structurally diverse organic micropollutants (Table A3). Fig. 1 displays the distribution of logkO3 values with mean of 4.08 and standard deviation (SD) of 2.13. In addition, the total dataset was divided into a training set and a validation set with a ratio of 4:1.</text>
+      <annotation id="21">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11739" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11765" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11917" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11772" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11924" length="11"/>
+        <text>temperature</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12407</offset>
+      <text>Calculation of molecular descriptors</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12444</offset>
+      <text>In this study, two kinds of molecular descriptors including quantum chemical descriptors and DRAGON descriptors were considered for model development. The former has clear physicochemical meanings, which can facilitate the mechanism interpretation of QSAR models, while the latter can describe the structural diversity of compounds. A total of 29 quantum chemical descriptors that are frequently used in studying chemical reactions were considered, including the energy of the lowest unoccupied molecular orbital (ELUMO), EHOMO, the gap between EHOMO and ELUMO (EHOMO − ELUMO), absolute hardness (η), softness (S), chemical potential (μ), electrophilicity index (ω), electronegativity (ζ), bond order, dipole moment, polarizability, diverse atomic charges (Qmin,C, Qmax,C, Qmin,O, Qmax,O, Qmin,H, Qmax,H, Qmin,S, Qmin,P, Qmin,N, Qmin,F, Qmin,Cl, Qmin, Br) and Fukui indices (fmin+, fmax+, fmin0, fmax0, fmin−, fmax−), (Enoch, 2010; Jin et al., 2014; Gupta et al., 2016; Cárdenas et al., 2009; Cheng et al., 2018; Su et al., 2018). All the molecular structures of 136 micropollutants were firstly optimized with B3LYP/6-311+G(d,p) method using the Gaussian 16 program package (Frisch et al., 2016). The frequency calculations were subsequently performed to confirm the minima of compounds with the same calculation method. The integral equation formalism polarized continuum model (IEFPCM) based on the self-consistent-reaction-field was employed to consider solvent effects of water (Rappé et al., 1992; Tomasi et al., 2005). All the quantum chemical descriptors except Fukui indices are extracted from Gaussian output files and calculated. The Fukui indices were calculated with Material Studio 6.0 (detailed in the Text A1) (Module, 2011). Twenty-six categories of Dragon descriptors including constitutional, ring descriptors, topological indices, walk and path counts, connectivity indices, information indices, 2D matrix-based descriptors, 2D autocorrelations, burden eigenvalues, P-VSA-like descriptors, ETA indices, edge adjacency indices, geometrical descriptors, 3D matrix-based descriptors, 3D autocorrelations, RDF descriptors, 3D-MoRSE descriptors, WHIM descriptors, GETAWAY descriptors, randic molecular profiles, functional groups count, atom-centred fragments, atom-type E-state indices, 2D Atom Pairs, 3D Atom Pairs and molecular properties, were calculated from DRAGON software (version 7.0) based on the optimized structures from Gaussian 16 (Kode, 2018). Some Dragon descriptors were removed according to the following two principles: (1) all missing descriptor values in the database; (2) constant terms and descriptors of approximately constant terms. As a result, 3381 Dragon descriptors were used for model development.</text>
+      <annotation id="26">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13139" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15053" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15101" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15187</offset>
+      <text>QSAR modeling</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15201</offset>
+      <text>MLR, which is a concise and transparent linear regression method widely used in QSAR studies, is utilized to build linear QSAR model in this study. The stepwise MLR analysis was employed to select the significant descriptors with the SPSS software (SPSS 13.0). The QSAR model was subsequently evaluated by internal and external validations according to the previous study (Tropsha et al., 2003). The statistical parameters including determination coefficient (R2), root mean squared error (RMSE), leave one out cross-validated coefficient (Q2LOO), bootstrapping validation parameter Q2 (Q2BOOT) (repeated 5000 times, at each step 20% of objects were left out from the training set), R2ext, Q2ext and RMSEext were calculated to assess the goodness-of-fit, robustness and predictive ability of the model. R2 and RMSE are calculated as follows: R2=1−∑i=1nyi−y^i2/n−k−1∑i=1nyi−y^i2/n−1 RMSE=1−∑i=1nyi−y^i2n where yi and y^i are the predicted and experimental logkO3 of the i-th data point, respectively; y¯ is the average of the experimental logkO3 values; n is the number of dataset; and k is the number of descriptors. Meanwhile, the developed model should comply with the QUIK rules, i.e., KX (intercorrelation of selected descriptors) &lt; KXY (the correlation of the X block with Y). The developed models were also verified whether there were chance correlations by Y-scrambling (500 runs). Besides, a nonlinear model was constructed with the SVM method based on the selected descriptors. The SVM method was executed on MATLAB 2014 software, and the details can be found in our previous study (Li et al., 2019). The ADs of the models are characterized by the Williams plots based on the standard residual (δ) versus leverage (hi). Herein, compounds with |δ| &gt; 3 were identified as outliers of the model. δ and the warning value (h⁎) are calculated as follows: δ=yi−y^i∑i=1nyi−y^i2/n−k−1 h∗=3k+1/ntr where ntr is the number of compounds in the training set.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>17156</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>17179</offset>
+      <text>QSAR models for logkO3</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17202</offset>
+      <text>As expected, R2tr and Q2LOO values are improved with the increasing number of descriptors (Fig. 2). However, the QSAR model performance does not improve much, and even Q2LOO declines when the descriptor number is &gt;12. Therefore, the model built based on the 12 descriptors was selected to be the optimum one as follows. Errors reported for the regression are 95% confidence limits. logkO3=7.641±4.399+48.948±9.594EHOMO+1.386±0.400O−057+1.7±0.555nNq+2.454±0.866B02C–S+1.912±0.679B06O–O+6.467±3.290SpMAD_A+−0.405±0.228C−025+−0.011±0.006P_VSA_p_2+0.484±0.268nR=Cs+60.638±38.744JGI9+−1.012±0.707B05C–N+0.903±0.502SdCH2 ntr = 109, R2tr = 0.734, RMSEtr = 1.051, KX = 0.301, KXY = 0.326, Q2LOO = 0.700, Q2BOOT = 0.772; next = 27; R2ext = 0.797; RMSEext = 0.858; Q2ext = 0.794. As can be seen from the R2tr value, the model shows a satisfactory goodness-of-fit. The difference between R2tr and Q2LOO or Q2BOOT is far &lt;0.30, suggesting that the model has no over-fitting problem and shows good robustness. The statistical parameters (R2ext, Q2ext and RMSEext) of the validation set indicate the model has good predictive ability for logkO3. Besides, all the variable inflation factor (VIF) values for the involved descriptors &lt;4, and KX &lt; KXY, indicate that the model is free of multi-collinearities (Table 1). The Y-scrambling results (R2YS = 0.112, Q2YS = −0.158) suggests that the MLR model has no accidental correlation. The correlation matrix of the descriptors used in the present study and the plot of the experimental versus predicted values for the MLR model are shown in Table A4 and Fig. 3a, respectively. Based on the screened descriptors above, one optimum SVM model was built through properly tuning and optimized the 3 parameters (i.e., penalty factor C, ε of the ε-insensitive loss function and the Kernel parameter γ). The optimal SVM parameters are C = 3.882, ε = 0.060 and γ = 0.355. The resulting statistical parameters are ntr = 109, R2tr = 0.862, RMSEtr = 0.801, next = 27, R2ext = 0.782, RMSEext = 0.970, Q2ext = 0.775. The plot of the experimental versus predicted values for the SVM-based model is shown in Fig. 3b. The logkO3 values are randomly distributed around the dividing line (equation Y = X), suggesting that the built SVM model has no systematic error. As can be seen from the R2tr value, the fitting ability of the SVM-based model is significantly higher than that of the MLR-based model, indicating that the flexible non-linear modeling method can better fit the logkO3 values of organic micropollutants. In addition, both two models exhibit comparable and good predictive power. The ADs of both the MLR- and SVM-based QSAR models exploited by the Williams plots are shown in Fig. 4. It can be seen that all the |δ| values of organic micropollutants are &lt;3, indicating that there are no outliers. There are two compounds (No. 59: acrylonitrile, No. 98: 5-hexene-3-ol) in the training set and one compounds (No. 1: benzo(a)pyrene) in the validation set with |δ| &lt; 3 and h &gt; h⁎, indicating that the models have not only the strong stabilization, but also extrapolating abilities.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>20308</offset>
+      <text>Mechanism interpretation of the MLR-based model</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20356</offset>
+      <text>By explaining the descriptors in the Eq. (5), it is possible to gain a better understanding of the factors that may affect the ozone-involved oxidation reaction. As can be seen from Table 1, EHOMO (t = 10.127, p &lt; 8 × 10−17) and O-057 (t = 6.882, p &lt; 7 × 10−10) are the most important descriptors in the model. EHOMO is a measure of the electron-donating ability of a molecule, thus can characterize the sensitivity of a molecule attacked by an electrophile (Karelson et al., 1996). In view of the fact that ozone is an electrophile, it is easier for organic compounds with a higher EHOMO values to lose electrons, thereby accelerating the reaction with ozone, which can explain the positive coefficient of EHOMO. O-057 is the number of phenol/enol/carboxyl OH, and positively correlates with logkO3. It is found that all the compounds with O-057 values have one or multiple phenolic hydroxyl groups, and some of them have enol groups. The –OH group is a known electron-donating group, thus it can increase the electronic density of the phenyl ring or the C=C group in enol and activate the electrophilic attack of ozone. nNq characterizing the number of quaternary N, presents the E-state of hydrogen bond acceptors (Xu et al., 2012). There are 39 organic compounds with nNq values. These compounds all undergo protonation on the N atom, and some undergo deprotonation at –COOH/–OH site at the same time. Among these compounds, 15 compounds are zwitterion, which may react with other species as electrophilic and nucleophile. It is revealed by the previous study that the presence of zwitterionic tautomer can accelerate the reaction with ozone (Zhang et al., 2016), which can explain the positive coefficient of nNq in the model. Besides, three compounds (glutathione, L-Aspartic acid and nitrilotriacetic acid) have multiple –COO− groups, implying that they have a higher electron density, thus are more reactive to electrophile ozone. The remaining compounds are protonated amines, most of which contain phenyl-, ketone-, sulfonyl- and imidazole-structural units with high electron density, thus are vulnerable to attack by ozone. The descriptors B02[C–S], B06[O–O] and B05[C–N] belong to the block of 2D atom pairs. B02[C–S] depicts the presence/absence of C–S at topological distance 2. There are 17 compounds with B02[C–S] values in the dataset. These compounds include sulfhydryl- (e.g., cysteine, glutathione), sulfonyl- (e.g., N(4)-acetyl-sulfamethoxazole, reactive orange 16, tinidazole, sulfamethizole, sulfadimethoxine, hydrochlorothiazide, sulfamethazine), five-membered heterocycles containing N and S atoms (e.g., amoxicillin, penicillin G, methicillin), and other sulfur-containing structural units (such as lincomycin, cephalexin, cystine, aldicarb). Previous studies showed that the reaction mechanism for sulfides could be an electrophilic attack of ozone on the S atom (Yao and Haag, 1991; Camel and Bermond, 1998; Andreozzi et al., 2005; Lei and Snyder, 2007). Therefore, the positive coefficient of B02[C–S] indicates that the increase of B02[C–S] leads to the increase of logkO3. B06[O–O] represents the presence/absence of O–O at topological distance 6. It is found that some organic compounds with B06[O–O] values contain –C(=O)– or –C=C– functional groups (e.g., glutathione, l -Glutamine, chlortetracycline, tetracycline, chlortetracycline hydrochloride, tetracycline hydrochloride, oxytetracycline hydrochloride), which are connected by some electron-donating substituents (such as NH2/NH, –OH). Thus, it can enhance the reactivity toward ozone. In addition, some organic compounds (e.g., vanillic acid, ethylparaben, dihydroxyphenylacetic acid, p-hydroxybenzoic acid, methylparaben, 3,4-dihydroxybenzoic acid, butylparaben, propylparaben, veratric, gemfibrozil) contain phenyl ring units with various electron-donating substituents (such as –OH, –COO−, –OCH3, –CH3), which can increase the electron density on phenyl ring, thereby facilitate the electrophilic reaction with ozone. B05[C–N] characterizing the presence/absence of C–N at topological distance 5, is negatively correlated with logkO3. It is observed that most of the organic compounds with this descriptor usually include benzene-structural unit. Moreover, there are various electron-withdrawing substituents (e.g., –C(=O)NH2–, –X (F, Cl, Br), –C(=O)–, –(O=)S(=O)–, –SO2–NH–, –NO2) attached to the phenyl ring, which can decrease the electron density of phenyl ring, thus reduce the reactivity of compounds toward ozone. SpMAD_A referring to spectral mean absolute deviation from adjacency matrix, correlates positively with logkO3. The adjacency matrix (A) is one of the elemental graph theoretical matrices, which encodes the connection between adjacent pairs of atoms (Trinajstić, 1992). It is found that SpMAD_A is significantly positively correlated with EHOMO (p &lt; 0.05, Fig. A1). Therefore, we can infer that compounds with high SPMAD_A values tend to have high reactivity toward ozone. C-025 refers to the R--CR--R group, which is included in the compound with C C bond where the first C atom is included in the benzene ring or the delocalized bond, while the second C atom is a part of the substituent group (Juretic et al., 2015). Such C C bond is very stable and therefore can hardly be eliminated by ·OH attack (Juretic et al., 2015), let along ozone with a lower oxidability than ·OH. The negative coefficient of C-025 further verifies the inference. SdCH2 (the E-state values for a terminal CH2 group on a double bond) and nR=Cs (number of aliphatic secondary C (sp2)) are related to unsaturated bonds (Hall and Story, 1996; Kode, 2018). It is known that organic compounds may react with ozone via addition and electrophilic reactions. Thus, the presence of the molecular parameters (SdCH2 and nR=Cs) increases logkO3. The descriptor P_VSA_p_2 is weighted on polarizability. Molecular polarizability of a compound can be used to measure the capability of the electronic system to be distorted by the external field, and it is linked to the overall reactivity of a compound (Watson and Freeman, 1963). One previous study about the QSAR analysis on the apparent reaction rate constants for ozone degradation of substituted phenols unveiled that the rate constants is negatively correlated with polarizability (Liu et al., 2010), which is consistent with the result of this study. JGI9 depicts the mean topological charge index of order 9, belonging to the Gálvez topological charge indices (Banaei et al., 2016). Topological charge indices are proposed to evaluate the charge transfer between pairs of atoms, and therefore the global charge transfer in the molecule (Gálvez et al., 1994). The positive coefficient of JGI9 in the model indicates the maximum electron density transfer in the molecule. Thus, organic compounds with high JGI9 values are usually susceptible to electrophilic attack by ozone.</text>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20483" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20864" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21010" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21471" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21996" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22288" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22484" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23226" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="23924" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24360" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="24863" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25336" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="25706" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26051" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26551" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="27258" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26791" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26537" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="26615" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>27265</offset>
+      <text>Model comparison</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27282</offset>
+      <text>The statistical performances of the current models are compared with that of the previously constructed models (Table A2). Almost all the models are built by unambiguous statistical methods (such as MLR, PLS and LR). Although previous QSAR models containing various organic compounds have good prediction abilities (R2 &gt; 0.720), these models cover small data sets (n ≤ 81), while our models cover a larger dataset (n = 136). Besides, other previous models covering certain classes of compounds (e.g., aromatic compounds, olefins, aliphatic amines) generally have higher R2tr than that of our models, but they have narrow ADs, implying that they are hard for wide application in the regulatory assessment of chemicals. In contrast, the current models have an extended AD that covers diverse structural characteristics of chemicals including –CH3, –CH2–, –CH&lt;, &gt;C=C&lt;, –C≡C–, –OH, –O–, –C(=O)–, –C=O(O)–, –COO−, –CHO, –X (Cl, F, Br), Ph–, –NO2, –NH2, –NH–, &gt;N–, –N–N–, =N–NH2, –C≡N, –C(=O)–NH–, NH2–C(=O)–, –S–S–, –S–, –SH, –S(=O)2–, –OS(O)2O–, (OR)3P=O, &gt;N–S(=O)2– and –NH–S(=O)2–. Furthermore, some of the previous models lack appropriate internal and external validation, and have not defined the ADs (Hu et al., 2000; Jiang et al., 2010; Liu et al., 2010; Lee and von Gunten, 2012; ). Our models were built strictly following the OECD guidelines. Overall, the current models cover a larger dataset and more structurally diverse chemicals, and show satisfactory goodness of fit, robustness and comparable predictability as previous models.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28822</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28834</offset>
+      <text>In this study, two QSAR models for predicting aqueous kO3 of diverse chemical classes including emerging micropollutants (e.g., PPCPs, EDCs, pesticides, herbicides and flame retardants) have been developed with the MLR and SVM methods following the OECD guidelines. Both two models cover a larger dataset and more structurally diverse chemicals, and have broader ADs than previous ones. With respect of the goodness-of-fit, robustness and predictability, the current established models performed well. The underlying molecular structural factors influencing ozonation are revealed. The energy of the highest occupied molecular orbital (EHOMO) and the phenol/enol/carboxyl OH group (O-057) are the two most important molecular structural factors governing the reactivity of organic compounds with ozone. The developed models can serve as prescreening tools for the removal prediction of organic pollutants by ozone.</text>
+      <annotation id="48">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="29630" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="29742" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>29749</offset>
+      <text>Declaration of competing interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29783</offset>
+      <text>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>29954</offset>
+      <text>Supplementary data</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29973</offset>
+      <text>Supplementary material Image 1</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>30004</offset>
+      <text>Supplementary data</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30023</offset>
+      <text>Supplementary data to this article can be found online at https://doi.org/10.1016/j.scitotenv.2020.136816.</text>
+    </passage>
+  </document>
+</collection>

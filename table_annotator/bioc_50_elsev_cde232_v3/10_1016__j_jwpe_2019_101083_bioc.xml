@@ -1,0 +1,1939 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>elsevier_sciencedirect</source>
+  <date>2024-06-10</date>
+  <key></key>
+  <document>
+    <id>10.1016/j.jwpe.2019.101083</id>
+    <passage>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="title">SULFAMETHOXAZOLEREMOVALENHANCEMENTWATERINHIGHSILICAZSM5OZONATIONSYNCHRONOUSSYSTEMLOWOZONECONSUMPTION</infon>
+      <infon key="name_0">surname:MA</infon>
+      <infon key="license">© 2019 Published by Elsevier Ltd.</infon>
+      <infon key="source">Journal of Water Process Engineering</infon>
+      <infon key="year">2019-12-25</infon>
+      <infon key="volume">33</infon>
+      <infon key="issue">2214-7144</infon>
+      <infon key="fpage">101083</infon>
+      <infon key="pub-id_doi">10.1016/j.jwpe.2019.101083</infon>
+      <infon key="html_url">https://sciencedirect.com/science/article/pii/S2214714419316691</infon>
+      <infon key="kwd">['High-silica zeolites', 'Ozone', 'Adsorption', 'Oxidation', 'Consumption']</infon>
+      <offset>0</offset>
+      <text>Sulfamethoxazole removal enhancement from water in high-silica ZSM-5/ozonation synchronous system with low ozone consumption</text>
+      <annotation id="1">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="107" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>125</offset>
+      <text>Relevant resource</text>
+    </passage>
+    <passage>
+      <infon key="type">relevance</infon>
+      <offset>143</offset>
+      <text>True|False</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>154</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_</infon>
+      <offset>163</offset>
+      <text>An ozonation process combined with hydrophobic adsorbent high silica ZSM-5 (HSZSM-5) was designed to enhance sulfamethoxazole (SMX) removal and reduce the ozone consumption. The promoted effect of HSZSM-5 on SMX removal was investigated in terms of SMX removal and TOC removal efficiency as well as the ozone consumption. The impacts of pH and CO32−/HCO3- were also analyzed. The presence of HSZSM-5 helped to increase the SMX degradation and TOC removal efficiency and their kinetics rate constants. HSZSM-5 adsorption behaviors for SMX and its degradation intermediates were responsible for the findings. Direct ozone oxidation was the main mechanism of SMX removal as HZSM-5 could not contribute to producing H2O2 and •OH. Much higher CO32−/HCO3- concentration (≥10 mM) and pH value (&gt;7) were in favor of SMX degradation. HSZSM-5 had a positive contribution to SMX removal. The mass ratio of ozone consumption to the removed SMX reduced to 0.63 g O3/g SMX. This system of introducing high silica zeolite in the ozonation/adsorption process is an environmentally and economically sound technology to removal micropollutants.</text>
+      <annotation id="2">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="500" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="940" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="318" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="466" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="777" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="913" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1058" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="653" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1290</offset>
+      <text>Tables</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Process', 'Rate constants', 'Rate constants', 'Rate constants', 'Rate constants'], ['Process', 'SMX removal', 'SMX removal', 'TOC removal', 'TOC removal'], ['Process', 'K(×10−3 M−1s−1)', 'R2', 'K(×10−5 M−1s−1)', 'R2'], ['O3', '2.57', '0.975', '6.50', '0.894'], ['O3/HZSZSM-5', '3.55', '0.981', '14.4', '0.801'], ['O3 + NaHSO3', '1.28', '0.848', '6.27', '0.939'], ['O3/HZSZSM-5 + NaHSO3', '2.85', '0.884', '8.30', '0.839'], ['O3 + TBA', '3.57', '0.931', '—', '—'], ['O3/HZSZSM-5 + TBA', '4.78', '0.918', '—', '—']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Process&lt;/td&gt;
+      &lt;td&gt;Rate constants&lt;/td&gt;
+      &lt;td&gt;Rate constants&lt;/td&gt;
+      &lt;td&gt;Rate constants&lt;/td&gt;
+      &lt;td&gt;Rate constants&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Process&lt;/td&gt;
+      &lt;td&gt;SMX removal&lt;/td&gt;
+      &lt;td&gt;SMX removal&lt;/td&gt;
+      &lt;td&gt;TOC removal&lt;/td&gt;
+      &lt;td&gt;TOC removal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Process&lt;/td&gt;
+      &lt;td&gt;K(×10−3 M−1s−1)&lt;/td&gt;
+      &lt;td&gt;R2&lt;/td&gt;
+      &lt;td&gt;K(×10−5 M−1s−1)&lt;/td&gt;
+      &lt;td&gt;R2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;2.57&lt;/td&gt;
+      &lt;td&gt;0.975&lt;/td&gt;
+      &lt;td&gt;6.50&lt;/td&gt;
+      &lt;td&gt;0.894&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/HZSZSM-5&lt;/td&gt;
+      &lt;td&gt;3.55&lt;/td&gt;
+      &lt;td&gt;0.981&lt;/td&gt;
+      &lt;td&gt;14.4&lt;/td&gt;
+      &lt;td&gt;0.801&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3 + NaHSO3&lt;/td&gt;
+      &lt;td&gt;1.28&lt;/td&gt;
+      &lt;td&gt;0.848&lt;/td&gt;
+      &lt;td&gt;6.27&lt;/td&gt;
+      &lt;td&gt;0.939&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/HZSZSM-5 + NaHSO3&lt;/td&gt;
+      &lt;td&gt;2.85&lt;/td&gt;
+      &lt;td&gt;0.884&lt;/td&gt;
+      &lt;td&gt;8.30&lt;/td&gt;
+      &lt;td&gt;0.839&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3 + TBA&lt;/td&gt;
+      &lt;td&gt;3.57&lt;/td&gt;
+      &lt;td&gt;0.931&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/HZSZSM-5 + TBA&lt;/td&gt;
+      &lt;td&gt;4.78&lt;/td&gt;
+      &lt;td&gt;0.918&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1297</offset>
+      <text>Apparent pseudo-first order rate rate constants of SMX removal (K) and TOC removal (K) in different processes.</text>
+      <annotation id="10">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1319" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1335" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['', 'pH', 'O3', 'O3', 'O3/HSZSM-5', 'O3/HSZSM-5'], ['', 'pH', 'K(×10−3 M−1s−1)', 'R2', 'K(×10−3 M−1s−1)', 'R2'], ['SMX', '3', '1.80', '0.984', '3.36', '0.947'], ['SMX', '7', '2.57', '0.996', '3.55', '0.988'], ['SMX', '10', '2.95', '0.975', '4.07', '0.981'], ['TOC', '3', '0.126', '0.959', '0.165', '0.988'], ['TOC', '7', '0.170', '0.992', '0.245', '0.980'], ['TOC', '10', '0.254', '0.949', '0.299', '0.928']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;pH&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;pH&lt;/td&gt;
+      &lt;td&gt;K(×10−3 M−1s−1)&lt;/td&gt;
+      &lt;td&gt;R2&lt;/td&gt;
+      &lt;td&gt;K(×10−3 M−1s−1)&lt;/td&gt;
+      &lt;td&gt;R2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;1.80&lt;/td&gt;
+      &lt;td&gt;0.984&lt;/td&gt;
+      &lt;td&gt;3.36&lt;/td&gt;
+      &lt;td&gt;0.947&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;2.57&lt;/td&gt;
+      &lt;td&gt;0.996&lt;/td&gt;
+      &lt;td&gt;3.55&lt;/td&gt;
+      &lt;td&gt;0.988&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SMX&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;2.95&lt;/td&gt;
+      &lt;td&gt;0.975&lt;/td&gt;
+      &lt;td&gt;4.07&lt;/td&gt;
+      &lt;td&gt;0.981&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;TOC&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0.126&lt;/td&gt;
+      &lt;td&gt;0.959&lt;/td&gt;
+      &lt;td&gt;0.165&lt;/td&gt;
+      &lt;td&gt;0.988&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;TOC&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0.170&lt;/td&gt;
+      &lt;td&gt;0.992&lt;/td&gt;
+      &lt;td&gt;0.245&lt;/td&gt;
+      &lt;td&gt;0.980&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;TOC&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;0.254&lt;/td&gt;
+      &lt;td&gt;0.949&lt;/td&gt;
+      &lt;td&gt;0.299&lt;/td&gt;
+      &lt;td&gt;0.928&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1408</offset>
+      <text>The pseudo-first order rate constants of SMX removal and TOC removal at different pH.</text>
+      <annotation id="12">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1490" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1425" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1436" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['CO32−/HCO3−', 'O3', 'O3', 'O3/HSZSM-5', 'O3/HSZSM-5'], ['(mM)', 'K(×10−3 M−1s−1)', 'R2', 'K(×10−3 M−1s−1)', 'R2'], ['0', '3.45', '0.968', '4.30', '0.962'], ['1', '2.53', '0.996', '3.37', '0.941'], ['2', '2.75', '0.977', '3.43', '0.967'], ['5', '3.52', '0.972', '3.64', '0.986'], ['10', '4.28', '0.988', '4.69', '0.990']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CO32−/HCO3−&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;(mM)&lt;/td&gt;
+      &lt;td&gt;K(×10−3 M−1s−1)&lt;/td&gt;
+      &lt;td&gt;R2&lt;/td&gt;
+      &lt;td&gt;K(×10−3 M−1s−1)&lt;/td&gt;
+      &lt;td&gt;R2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3.45&lt;/td&gt;
+      &lt;td&gt;0.968&lt;/td&gt;
+      &lt;td&gt;4.30&lt;/td&gt;
+      &lt;td&gt;0.962&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;2.53&lt;/td&gt;
+      &lt;td&gt;0.996&lt;/td&gt;
+      &lt;td&gt;3.37&lt;/td&gt;
+      &lt;td&gt;0.941&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;2.75&lt;/td&gt;
+      &lt;td&gt;0.977&lt;/td&gt;
+      &lt;td&gt;3.43&lt;/td&gt;
+      &lt;td&gt;0.967&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;3.52&lt;/td&gt;
+      &lt;td&gt;0.972&lt;/td&gt;
+      &lt;td&gt;3.64&lt;/td&gt;
+      &lt;td&gt;0.986&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;4.28&lt;/td&gt;
+      &lt;td&gt;0.988&lt;/td&gt;
+      &lt;td&gt;4.69&lt;/td&gt;
+      &lt;td&gt;0.990&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1494</offset>
+      <text>Apparent first-order rate constants of SMX removal at different CO32−/HCO3- concentrations.</text>
+      <annotation id="15">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1570" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1509" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1520" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">TABLE_CAPTION</infon>
+      <infon key="raw_table">[['Time (min)', 'O3', 'O3', 'O3', 'O3', 'O3', 'O3', 'O3'], ['Time (min)', '[O3]I (mg)', '[O3]D (mg)', '[O3]O (mg)', '[O3]G-D (mg)', '[O3]R (mg)', '[SMX]R (mg)', 'C (mg/mg)'], ['1', '9.96', '0.10', '0.72', '8.66', '0.48', '6.16', '0.08'], ['2', '19.92', '0.38', '4.08', '12.05', '3.41', '9.95', '0.34'], ['5', '49.80', '0.46', '20.40', '17.86', '11.09', '19.79', '0.56'], ['10', '99.60', '0.62', '54.48', '21.55', '22.94', '30.94', '0.74'], ['15', '149.4', '0.67', '91.90', '26.28', '30.55', '36.42', '0.84'], ['20', '199.2', '0.89', '130.56', '28.98', '38.78', '40.00', '0.97'], ['30', '298.8', '1.42', '211.92', '34.32', '51.14', '40.00', '—'], ['O3/HSZSM-5', 'O3/HSZSM-5', 'O3/HSZSM-5', 'O3/HSZSM-5', 'O3/HSZSM-5', 'O3/HSZSM-5', 'O3/HSZSM-5', 'O3/HSZSM-5'], ['1', '10.68', '0.34', '0.96', '8.42', '0.96', '6.90', '0.14'], ['2', '21.36', '0.43', '3.84', '12.01', '5.08', '11.23', '0.45'], ['5', '53.40', '0.53', '22.80', '18.07', '12.00', '23.23', '0.52'], ['10', '106.8', '0.74', '65.08', '21.54', '19.44', '34.13', '0.57'], ['15', '160.2', '0.91', '107.04', '27.17', '25.08', '40.00', '0.63'], ['20', '213.6', '1.32', '152.64', '29.2', '30.44', '40.00', '—'], ['30', '320.4', '1.85', '246.48', '36.87', '35.2', '40.00', '—']]</infon>
+      <infon key="table_viewer">&lt;table border="1" class="dataframe"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Time (min)&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+      &lt;td&gt;O3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Time (min)&lt;/td&gt;
+      &lt;td&gt;[O3]I (mg)&lt;/td&gt;
+      &lt;td&gt;[O3]D (mg)&lt;/td&gt;
+      &lt;td&gt;[O3]O (mg)&lt;/td&gt;
+      &lt;td&gt;[O3]G-D (mg)&lt;/td&gt;
+      &lt;td&gt;[O3]R (mg)&lt;/td&gt;
+      &lt;td&gt;[SMX]R (mg)&lt;/td&gt;
+      &lt;td&gt;C (mg/mg)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;9.96&lt;/td&gt;
+      &lt;td&gt;0.10&lt;/td&gt;
+      &lt;td&gt;0.72&lt;/td&gt;
+      &lt;td&gt;8.66&lt;/td&gt;
+      &lt;td&gt;0.48&lt;/td&gt;
+      &lt;td&gt;6.16&lt;/td&gt;
+      &lt;td&gt;0.08&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;19.92&lt;/td&gt;
+      &lt;td&gt;0.38&lt;/td&gt;
+      &lt;td&gt;4.08&lt;/td&gt;
+      &lt;td&gt;12.05&lt;/td&gt;
+      &lt;td&gt;3.41&lt;/td&gt;
+      &lt;td&gt;9.95&lt;/td&gt;
+      &lt;td&gt;0.34&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;49.80&lt;/td&gt;
+      &lt;td&gt;0.46&lt;/td&gt;
+      &lt;td&gt;20.40&lt;/td&gt;
+      &lt;td&gt;17.86&lt;/td&gt;
+      &lt;td&gt;11.09&lt;/td&gt;
+      &lt;td&gt;19.79&lt;/td&gt;
+      &lt;td&gt;0.56&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;99.60&lt;/td&gt;
+      &lt;td&gt;0.62&lt;/td&gt;
+      &lt;td&gt;54.48&lt;/td&gt;
+      &lt;td&gt;21.55&lt;/td&gt;
+      &lt;td&gt;22.94&lt;/td&gt;
+      &lt;td&gt;30.94&lt;/td&gt;
+      &lt;td&gt;0.74&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;149.4&lt;/td&gt;
+      &lt;td&gt;0.67&lt;/td&gt;
+      &lt;td&gt;91.90&lt;/td&gt;
+      &lt;td&gt;26.28&lt;/td&gt;
+      &lt;td&gt;30.55&lt;/td&gt;
+      &lt;td&gt;36.42&lt;/td&gt;
+      &lt;td&gt;0.84&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;199.2&lt;/td&gt;
+      &lt;td&gt;0.89&lt;/td&gt;
+      &lt;td&gt;130.56&lt;/td&gt;
+      &lt;td&gt;28.98&lt;/td&gt;
+      &lt;td&gt;38.78&lt;/td&gt;
+      &lt;td&gt;40.00&lt;/td&gt;
+      &lt;td&gt;0.97&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;298.8&lt;/td&gt;
+      &lt;td&gt;1.42&lt;/td&gt;
+      &lt;td&gt;211.92&lt;/td&gt;
+      &lt;td&gt;34.32&lt;/td&gt;
+      &lt;td&gt;51.14&lt;/td&gt;
+      &lt;td&gt;40.00&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+      &lt;td&gt;O3/HSZSM-5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;10.68&lt;/td&gt;
+      &lt;td&gt;0.34&lt;/td&gt;
+      &lt;td&gt;0.96&lt;/td&gt;
+      &lt;td&gt;8.42&lt;/td&gt;
+      &lt;td&gt;0.96&lt;/td&gt;
+      &lt;td&gt;6.90&lt;/td&gt;
+      &lt;td&gt;0.14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;21.36&lt;/td&gt;
+      &lt;td&gt;0.43&lt;/td&gt;
+      &lt;td&gt;3.84&lt;/td&gt;
+      &lt;td&gt;12.01&lt;/td&gt;
+      &lt;td&gt;5.08&lt;/td&gt;
+      &lt;td&gt;11.23&lt;/td&gt;
+      &lt;td&gt;0.45&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;53.40&lt;/td&gt;
+      &lt;td&gt;0.53&lt;/td&gt;
+      &lt;td&gt;22.80&lt;/td&gt;
+      &lt;td&gt;18.07&lt;/td&gt;
+      &lt;td&gt;12.00&lt;/td&gt;
+      &lt;td&gt;23.23&lt;/td&gt;
+      &lt;td&gt;0.52&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;106.8&lt;/td&gt;
+      &lt;td&gt;0.74&lt;/td&gt;
+      &lt;td&gt;65.08&lt;/td&gt;
+      &lt;td&gt;21.54&lt;/td&gt;
+      &lt;td&gt;19.44&lt;/td&gt;
+      &lt;td&gt;34.13&lt;/td&gt;
+      &lt;td&gt;0.57&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;160.2&lt;/td&gt;
+      &lt;td&gt;0.91&lt;/td&gt;
+      &lt;td&gt;107.04&lt;/td&gt;
+      &lt;td&gt;27.17&lt;/td&gt;
+      &lt;td&gt;25.08&lt;/td&gt;
+      &lt;td&gt;40.00&lt;/td&gt;
+      &lt;td&gt;0.63&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;213.6&lt;/td&gt;
+      &lt;td&gt;1.32&lt;/td&gt;
+      &lt;td&gt;152.64&lt;/td&gt;
+      &lt;td&gt;29.2&lt;/td&gt;
+      &lt;td&gt;30.44&lt;/td&gt;
+      &lt;td&gt;40.00&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;320.4&lt;/td&gt;
+      &lt;td&gt;1.85&lt;/td&gt;
+      &lt;td&gt;246.48&lt;/td&gt;
+      &lt;td&gt;36.87&lt;/td&gt;
+      &lt;td&gt;35.2&lt;/td&gt;
+      &lt;td&gt;40.00&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</infon>
+      <offset>1586</offset>
+      <text>Ozone consumption in O3 and O3/HSZSM-5 process.</text>
+      <annotation id="18">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1586" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1634</offset>
+      <text>Figures</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S2214714419316691-gr1.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1642</offset>
+      <text>Schematic diagram of ozone experiment.</text>
+      <annotation id="19">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1663" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S2214714419316691-gr2.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1681</offset>
+      <text>Evolution of of SMX and TOC in O3 and O3/HSZSM-5 process (gaseous O3: 9.96 mg/L, HSZSM-5: 0.2 g/L, SMX: 20 mg/L and pH of 7.0).</text>
+      <annotation id="20">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1797" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S2214714419316691-gr3.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1809</offset>
+      <text>H2O2 concentration with time in various reaction systems (gaseous O3: 9.96 mg/L, HSZSM-5: 0.2 g/L, SMX: 20 mg/L and pH of 7.0).</text>
+      <annotation id="21">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1925" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="1814" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S2214714419316691-gr4.jpg" alt="IMAGE"&gt;</infon>
+      <offset>1937</offset>
+      <text>TOC removal of SMX and intermediates by HSZSM-5 adsorption (gaseous O3: 9.96 mg/L, HSZSM-5: 0.2 g/L, SMX: 20 mg/L and pH of 7.0).</text>
+      <annotation id="23">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2055" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S2214714419316691-gr5.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2067</offset>
+      <text>Effect of TBA and NaHSO3 on the evolution of SMX and TOC (gaseous O3: 9.96 mg/L, HSZSM-5: 0.2 g/L, SMX: 20 mg/L, and pH of 7.0).</text>
+      <annotation id="24">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2184" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S2214714419316691-gr6.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2196</offset>
+      <text>Effect of pH on the evolution of SMX and TOC (gaseous O3: 9.96 mg/L, HSZSM-5: 0.2 g/L, and SMX: 20 mg/L).</text>
+      <annotation id="25">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2206" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <infon key="section_type">FIG</infon>
+      <infon key="figure_viewer">&lt;img src="https://ars.els-cdn.com/content/image/1-s2.0-S2214714419316691-gr7.jpg" alt="IMAGE"&gt;</infon>
+      <offset>2302</offset>
+      <text>Effect of CO32−/HCO3- on SMX removal in (a) O3 and (b) O3/HSZSM-5 (gaseous O3: 9.96 mg/L, HSZSM-5: 0.2 g/L, SMX: 20 mg/L and pH of 7.0).</text>
+      <annotation id="26">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2427" length="2"/>
+        <text>pH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2439</offset>
+      <text>keywords</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2448</offset>
+      <text>['High-silica zeolites', 'Ozone', 'Adsorption', 'Oxidation', 'Consumption']</text>
+      <annotation id="27">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="2474" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2524</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2537</offset>
+      <text>Antibiotics have been widely used as medicine to treat infections as well as human therapy, livestock production and aquaculture []. Their residues were a significant source of environmental pollution as a result of overuse and improper disposal []. Antibiotics in the environment increase the resistant bacteria and genes []. The toxicity of these antibiotics and their metabolites poses a potential ecotoxicological threat to aquatic organisms and human populations []. Sulfonamide antibiotics (SAs), one of the most commonly used antibiotics, can induce genetic mutation and chronic effect even at low concentrations []. Because SAs have polarity and antibacterial properties, the removal rate of SAs in traditional wastewater treatment plant was only 20%∼30% []. Therefore, it is indispensable to develop an environmentally and economically sound technology to remove such compounds. Ozone, an advanced and green oxidant, is widely used to remove organic pollutants by oxidative degradation []. Recently, many studies have focused on advanced oxidation processes (AOPs) involving ozone such as H2O2/O3 [], UV/O3 and UV/H2O2/O3 [] to enhance decomposition since the concentration of the produced OH radical increased []. However, •OH reacted with other non-targeted substrates led to more serious adverse effects. This behavior decreased the oxidative specificity of the ozonation process, and the presence of OH radical increased significantly the ozone depletion []. To avoid the adverse effects of hydroxyl radicals and increase the reaction rate between ozone and organic substances, fewer studies tried to introduce hydrophobic adsorbent into the oxidation system to improve the removal rate of target substances [,]. The removal efficiencies of 2-methylisoborneol and trichloroethene by ozone were higher with high silica ZSM-5 as the zeolites had better adsorption capacity for hydrophobic organic and water-dissolved ozone []. Hence, hydrophobic zeolite is a good choice for synergistic ozone oxidation and adsorption. To date, little study unveiled SMX removal performance by ozonation with HSZSM-5 zeolites under different condition. This is the first time to investigate systematically the removal of sulfonamide antibiotics via ozonation combined with high silica zeolite ZSM-5. A hydrophobic high silica ZSM-5 zeolites (HSZSM-5, SiO2/Al2O3 ratio = 500) was used in the process. The widely used SAs, sulfamethoxazole (SMX) was chosen as model pollutant. The specific objectives of this study were: (i) to investigate the performance of HSZSM-5 for the removal of total organic carbon; (ii) to elucidate the possible mechanism in the ozonation/adsorption synchronous process; (iii) to determine the ozone consumption of abating SMX by ozonation/adsorption system. This finding can provide simultaneous adsorption and oxidation process for the removal of micropollutants from water.</text>
+      <annotation id="28">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="3142" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="3425" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="3621" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="3706" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="3989" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4098" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4333" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4465" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="4535" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="5250" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5433</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5455</offset>
+      <text>Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5465</offset>
+      <text>SMX (purity&gt;99%) was supplied by Sigma-Aldrich Co., Ltd (St Louis, USA). High silica zeolites ZSM-5 (HSZSM-5, average pore size of 0.53-0.58 nm, SiO2/Al2O3 (mol/mol) ratio of 500) were purchased from Nanjing Xfnano Materials Tech. Co., Ltd (Nanjing, China). Other chemicals (purity 99%) were obtained from Aladdin Reagent Co., Ltd. (Shanghai, China) and used as received. All solutions were prepared with 18.3 MΩ cm Milli-Q water.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5896</offset>
+      <text>Experimental procedures</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5920</offset>
+      <text>Ozonation experiments were performed in a reactor (4.0 L). The schematic diagram is shown in Fig. 1. A given amount of HSZSM-5 was added to the reactor with 2 L of 20 mg/L SMX solution under stirring, followed by continuous O3 input. O3 was generated from high pure O2 (purity &gt; 99.995%) using an ozone generator with a maximum ozone production rate of around 5 g O3/h (Guolin, CF-G, China). The excess ozone in the outlet gas was adsorbed by KI solution. The residual ozone in the sample for examination was quenched by adding 100 μL of 0.05 mol/L Na2S2O3. The residual ozone in the reactor was also quenched by Na2S2O3 solution. The specific experiments were carried out to investigate the effect of pH, OH radical and CO32−/HCO3-: (a) pH set as 3、7 and 10. The initial pH was adjusted by HCl and NaOH. (b) tert-Butyl alcohol (TBA) and NaHSO3 were chosen as •OH scavenger; (c) the concentration of CO32−/HCO3- was 0、1、2、5 and 10 mM. The formation of H2O2 was also conducted in the same reactor. The adsorption of the intermediates by ZSM-5 was conducted in a series of 100 ml conical flasks, in which 100 mL of quenched water samples that collected from the SMX ozonation process mixed with 20 mg of HSZSM-5 at 200 rpm. After 60 min of adsorption, the supernatant was filtered by 0.45 μm PES membrane for total organic carbon (TOC) determination. The ozone consumption experiment was carried out in the reactor, and the mixture was filtrated for ozone concentration test.</text>
+      <annotation id="38">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6622" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6658" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6692" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6217" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6248" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6323" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6389" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6491" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="6803" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7273" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7368" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7374" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7394</offset>
+      <text>Analytical methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7413</offset>
+      <text>SMX concentration was measured by high-performance liquid chromatography (HPLC) (Agilent 1600, USA) with a UV detector set at 268 nm. The separation was performed with an Agilent SB-C18 column (4.6 mm × 150 mm, 5 um) by isocratic elution with 25% methanol and 75% ultrapure water (containing 0.5% acetic acid). The column temperature was maintained at 40 ℃, and the flow rate was fixed at 1.0 mL/min. TOC removal was determined from the concentration change obtained by TOC analyzer (TOC-L cpn, Shimadzu, Japan). The concentration of H2O2 was determined by measuring the absorbance of the titanium peroxide (TiO22+) complex formed by the reaction of TiOSO4 with H2O2 []. The ozone concentration in the inlet and outlet were obtained by the iodometric method []. The aqueous ozone concentration was measured by the indigo method [].</text>
+      <annotation id="50">
+        <infon key="identifier">TEMP</infon>
+        <infon key="type">TEMP</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7735" length="11"/>
+        <text>temperature</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7417" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7850" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="7930" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8088" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8094" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8187" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8193" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8245</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8268</offset>
+      <text>Evolution of SMX and TOC with or without ZSM-5</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8315</offset>
+      <text>In order to investigate the effect of HSZSM on the removal of SMX and TOC, the experiment was conducted in the absence and presence of HSZSM-5 in O3 system. Fig. 2 shows the evolution of SMX and TOC in ozone alone (O3) and O3/HSZSM-5 process, respectively. The SMX removal percentages in O3, HSZSM-5, and O3/HSZSM-5 systems were 100%, 11.53%, and 100%, respectively (as indicated in Fig. 2). The rapid and complete removal of SMX was observed in less than 20 min in O3 alone process. Amino group (-NH2-) increased the electron cloud density of SMX aromatic ring, thereby promoting the reactivity of SMX to ozone []. Furthermore, SMX was completely removed after a shorter time (15 min) for O3/HSZSM-5 process, which suggested that HSZSM-5 had a positive contribution to SMX removal. These differences may be due to the combination of direct ozonation and zeolite adsorption, as also demonstrated in previous study with high activated carbon adsorption affinity with other pharmaceutical compounds such as diclofenac []. It is reported that SMX and ozone could be adsorbed on hydrophobic adsorbent and distributed on its surface or pore []. Then, the direct ozonation and physical adsorption contributed to the removal of SMX. It is inferred that ozone and SMX were adsorbed on the same sites of HSZSM-5. Adsorption selectivity resulted from the molecular sieving effect [] or hydrophobicity, which made it possible to concentrate SMX and ozone selectively in the adsorption phase, enhancing the removal of targeted SMX. To further evaluate the effect of HSZSM-5 on the SMX removal, using oxygen instead of ozone to feed into the reactor was conducted. It was found that only 11.5% SMX was removed after 30 min. This revealed that the presence of HSZSM-5 increased the reactione of O3 with SMX to certain degree. The apparent rate constants for SMX removal also demonstrated it as presented in Table 1 and Fig. S1. The rate constants of SMX removal and TOC removal increased by 38.1% (from 2.57 × 10−3 M−1s−1 to 3.55 × 10−3 M−1s−1) and 121.5% (from 6.50 × 10-5 M−1s−1 to 14.40 × 10-5 M−1s−1) due to the presence of HSZSM-5, respectively. Therefore, HSZSM-5 not only promoted SMX removal but also enhance the TOC removal rate of pollutants, thereby improving SMX removal from the aquatic environment. Nevertheless, TOC removal obtained in standalone ozone process was unsatisfied, and the TOC removal efficiency in 30 min was 35.9%. A similar result was observed by Akhtar et al. [], who reported that activated carbon loaded with Fe2O3/CeO2 as a combination of adsorption and catalytic ozonation to remove SMX. This was most likely associated with the fact that oxidation reaction with ozone is highly selective reaction, and ozone’s oxidizing ability can never directly mineralize organic. In the presence of HSZSM-5, the rate constant of TOC removal was 1.2 times ozone alone, and the corresponding removal of TOC rose to 41.3%, confirming again that HSZSM-5 had a promoting effect on TOC removal as also indicated by the pseudo first-order rate of TOC removal (see Table 1).</text>
+      <annotation id="58">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8517" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8921" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9363" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9561" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9753" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="9921" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="10663" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11000" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11040" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11180" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="8318" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11351" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="10145" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="10238" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11142" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11392</offset>
+      <text>Formation of H2O2</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11410</offset>
+      <text>Hydrogen peroxide (H2O2) is a by-product of ozone reacting with electron-rich or unsaturated bonds. The reaction of H2O2 with O3 or other substances results in the formation of OH [], which affects the oxidation ability of the reaction system. The H2O2 concentrations in O3 and O3/HSZSM-5 process are compared in Fig. 3. It is clear that the H2O2 concentration increased followed by decreased with the operation time. Ozone degraded SMX resulted in H2O2 formation and accumulation, but H2O2 concentration decreased due to the decrement of SMX content in the solution with the reaction time, and that H2O2 was consumed by O3. The maximum H2O2 concentration was 1.10 mg/L obtained at 15 min. Gao et al. [] also reported that the rapid accumulation of H2O2 was probably explained by the rapid decay of SMX due to some nucleophilic sites susceptible to ozone attack, and the interaction of H2O2 with ozone caused its decay with time. It should be noted that O3/HSZSM-5 without SMX produced marginal H2O2 as observed in Fig. 3. Change of H2O2 concentration followed an almost similar trend in the two processes, revealing that HSZSM-5 could not contribute to producing H2O2, and then OH. The result coincided with the report by Reungoat et al. [], who found no catalytic effect of high silica zeolites on the oxidation rate of nitrobenzene by ozone, contrary to other results published [].</text>
+      <annotation id="73">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11454" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11663" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11757" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11828" length="5"/>
+        <text>Ozone</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="11901" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12052" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12259" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12306" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12448" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="12748" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12795</offset>
+      <text>Adsorption of intermediates</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12823</offset>
+      <text>Adsorption of SMX and its degradation intermediates may play an important role in TOC removal. The mixture including SMX and the intermediates sampled from the reactor at different times and then quenched for the adsorption experiment. The concentration was determined in terms of TOC. In the first 20 min, the adsorption efficiency of the intermediates on HSZSM-5 gradually increased as the ozonation of SMX proceeded, and TOC removal reached 22% after the adsorption of HSZSM-5 towards SMX and its intermediates. The results showed that the reaction between ozone and SMX could improve TOC removal by adsorption. After 30 min, the TOC removal rate was slightly different as shown in Fig. 4. It has been reported that the degradation of SMX during sole-ozonation eventually generated a large amount of refractory organic intermediates []. The final intermediates formed are usually saturated carboxylic acids that hardly react with ozone []. The ozone reactivity of these intermediate products is low, and the organic composition and concentration change was small. Then, there was no significant difference in adsorption capacity at the later stage of the reaction.</text>
+      <annotation id="83">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13063" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13383" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13756" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13770" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="13858" length="13"/>
+        <text>concentration</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13991</offset>
+      <text>Role of  OH</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14003</offset>
+      <text>OH is the key factor of organic degradation. In order to investigate whether there is hydroxyl radical in high-silica ZSM-5/ozonation synchronous system, Fig. 5 shows the effect of the HSZSM-5 on SMX removal with tert-butanol (TBA) and NaHSO3 as the OH scavenger, respectively. The addition of TBA improved slightly the removal of SMX. Meanwhile, the SMX removal rate constants increased (see Table 1). This meant that radical’s removal by TBA scavenger accelerated the reaction of SMX with ozone, revealing that SMX degradation is directly by ozone and it is the dominant reaction pathway. There were two possible phenomena after TBA introduced into the system: (i) the decomposition reaction of ozone was retarded as OH reacted preferentially with TBA, which led to a stable concentration of water-dissolved ozone. (ii) the addition of TBA reduced the surface tension of the solution and increased the contact area between the gaseous ozone and the aqueous solution, thereby advancing the mass transfer of ozone []. This led to an increase in the amount of available water-dissolved ozone, which enhanced the direct ozonation pathway. Additionally, TBA had a similarly slight improvement in SMX removal efficiency in ozone and O3/HSZSM-5 processes as shown in Fig. 5. The result demonstrated again that HSZSM-5 appeared to have no effect on O3 decomposition into •OH. The presence of NaHSO3 in the ozone and O3/HSZSM-5 process showed a negative effect on SMX degradation and TOC removal as shown in Fig. 5 and Table 1 (Fig. S2). The removal of TOC decreased by 1.2% after addition of NaHSO3. NaHSO3 as an •OH scavenger can consume a large amount of water-dissolved ozone, leading to decrease TOC removal. The O3/HSZSM-5 process showed slightly higher TOC removal efficiency for SMX than that without the zeolites, and the removal efficiency of SMX in the former was more than two-fold of the latter. This suggested that HSZSM-5 played an important role in SMX removal. It is inferred that the HSZSM-5 adsorption for SMX enhanced their reaction. Furthermore, the lower water-dissolved ozone concentration affected the ozonation reaction, resulting in a significant decrease in TOC removal rate.</text>
+      <annotation id="88">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14494" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14547" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14700" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14780" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14813" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14940" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15011" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15088" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15222" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15403" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="15670" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16089" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16095" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14051" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="14371" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16199</offset>
+      <text>Role of pH</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16210</offset>
+      <text>pH is an important factor in the contact oxidation process as the stability of water-dissolved ozone and morphology of the target material was pH-dependent []. pH can also change the charge of HSZSM-5, affecting its adsorption capacity. The effect of pH on the SMX removal is illustrated in Fig. 6. SMX could be completely removed regardless of pH and zeolites within 30 min. Both of the removal rates of SMX with and without HSZSM-5 followed the order: pH 10 &gt; pH 7 &gt; pH 3. This may be ascribed to that: (i) deprotonated SMX species at higher solution pH had higher reactivity with ozone than other SMX species (neutral and protonated species) []. (ii) the form of SMX varied with pH due to its dissociation constant (pKa) (Fig. S3). The SMX removal ratio in the presence of zeolites increased by 86.7%, 29.1% and 37.9% at pH of 3, 7 and 10, respectively. There are inconsistent conclusions on the effect of pH on SMX removal in sole-ozonation system. For example, it was found that SMX removal rates were nearly independent of pH as the direct rate constant of the SMX-ozone reaction varied slightly []. In this work, the adsorption behavior of SMX by HSZSM-5 at different pH could explain this phenomenon (Fig. S3). Fig. 6b shows the changes of TOC with time at different pH. There was a low TOC removal rate within 30 min, and TOC removal efficiency also followed the order: pH 10 &gt; pH 7 &gt; pH 3. The rate constant of TOC removal followed the same order as indicated in Table 2 (Fig. S4). These results could be explained by (i) solution pH of 10 enhanced significantly O3 degradation into HO2- as shown in Eqs. (1) and (2) [,], which promoted ozone decomposition and •OH production. (ii) the reaction rate of protonated carboxylic acid (groups of the intermediates: oxalic acid, formic acid, etc.) with •OH was significantly lower than that of deprotonated species. TOC removal rate in the presence of HSZSM-5 increased by 30.9%, 44.1% and 17.7% at pH of 3, 7 and 10 in contrast to those without zeolites, respectively. Greater improvement happened at pH lower than 7 as the water-dissolved ozone was stable, while O3 was easier to decompose at higher pH. O3+OH-→HO2-+O2 HO2-+O3→•OH+•O2-+O2</text>
+      <annotation id="103">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16210" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16353" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16370" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16461" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16555" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16664" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16672" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16679" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16763" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="112">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16892" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17034" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17119" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17239" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17385" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17485" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17589" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17597" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17604" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17751" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="122">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18163" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18266" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18366" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16305" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16793" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17281" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="128">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17857" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="129">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18305" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="130">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16657" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17582" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17661" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="133">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="16919" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17261" length="8"/>
+        <text>constant</text>
+      </annotation>
+      <annotation id="135">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="17619" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18405</offset>
+      <text>Role of CO32−/HCO3-</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18425</offset>
+      <text>CO32− and HCO3- are important anions in water, which are frequently detected in natural water with dozens to hundreds of mg/L. They have a strong influence on radical type reactions. The effect of CO32−/HCO3- (1−10 mM) on SMX removal was studied, and the experiment data is shown in Fig. 7. The SMX removal efficiency decreased at lower CO32−/HCO3- concentration compared to that without CO32−/HCO3-. The presence of bicarbonate (HCO3-) inhibited the formation of hydroxyl radicals, and higher concentrations of HCO3- caused greater reductions in the rate of atrazine degradation []. Hence, the decreased SMX removal could be due to that the solution pH (CO32−/HCO3-) affected slightly by the fewer amount of produced OH- as a result of the reaction of •OH with CO32−. Moreover, CO32−/HCO3- could effectively capture •OH and produce a second-order free radical CO3 − (Eqs. (3) and (4)), while the reaction rate of CO3•- with SMX was lower significantly than that of OH with SMX [,]. When CO32−/HCO3- concentration was higher than 10 mM, the SMX degradation efficiency enhanced for the whole reaction stage without HSZSM-5, which was higher at 5 mM in the presence of HSZSM-5 as illustrated in Fig. 7. •OH+HCO3-→CO3•-+H2O •OH+CO32-→CO3•-+OH- Higher CO32−/HCO3- concentration increased the SMX removal rate (shown in Table 3 and Fig. S5), and the increasing pH made the main contribution to improve SMX removal. This finding agreed with the previous report in UV/PDS system for SMX removal []. It is noteworthy that the removal rate constant of SMX in the presence of zeolites was generally higher than that of the single oxidation system. Especially, higher CO32−/HCO3- concentration (≥10 mM) in the former would in favor of SMX degradation.</text>
+      <annotation id="136">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19076" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19781" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="138">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18774" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="139">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="18919" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="140">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19425" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19685" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="142">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20094" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="identifier">ORDER</infon>
+        <infon key="type">ORDER</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19267" length="5"/>
+        <text>order</text>
+      </annotation>
+      <annotation id="144">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="19956" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>20166</offset>
+      <text>Ozone consumption</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20184</offset>
+      <text>Zeolites have been proved to increase the removal efficiency of organics []. However, since ozone oxidation is a costly oxidation process, ozone consumption per mass of pollutant removed is a fundamental parameter. To investigate the ozone consumption in the presence of HZSM-5, ozone consumption amount ([O3]R), and the mass ratio of ozone consumption to the removed SMX (C(mg/mg)) were calculated by the following equations: [O3]R=[O3]I-[O3]D-[O3]O-[O3]G-D C(mg/mg)=[O3]R/[SMX]R where [O3]I is the amount of O3 inlet, [O3]O is the amount of O3 outlet, [O3]D is the amount of water-dissolved O3, [O3]G-D is the amount of O3 decomposition and O3 gas in the reactor, respectively. [SMX]R is the accumulated amount of SMX participating in the reaction at different times. The experiment data is summarized in Table 4. In the initial 1 min, C values in the absence and presence of HSZSM-5 were 0.08 and 0.14 mg/mg, respectively. O3 could effectively select SMX for electrophilic reaction, and 15.4% and 17.3% of SMX was removed for the two processes after the first 1 min, respectively. C values increased with the operating time as the ozone consumption increased caused by the intermediates. The reaction of the intermediates with O3 increased the ozone consumption. SMX could be completely removed in 20 min and 15 min for the ozonation and ozonation/adsorption process as observed in Table 4, respectively. And the corresponding mass ratios of ozone consumption to removed SMX were 0.97 mg/mg and 0.63 mg/mg, indicating that the presence of HSZSM-5 saved 35.0% ozone consumption.</text>
+      <annotation id="145">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20276" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="146">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20323" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20418" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="148">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20463" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="20519" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21318" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="151">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21431" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="152">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21629" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21746" length="5"/>
+        <text>ozone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21765</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21776</offset>
+      <text>This research examined for the first time SMX and corresponding TOC removal by ozonation/HSZSM-5 system. SMX could be completely removed and the reaction time was shortened to 15 min in the presence of HSZSM-5. Higher pH and CO32−/HCO3- concentrations enhanced SMX degradation. HSZSM-5 adsorption for SMX and its degraded intermediates resulted in a higher TOC removal efficiency. The presence of HSZSM-5 showed the higher rate constants of SMX and TOC removal kinetics. SMX was mainly eliminated by direct ozone reaction in O3/HSZSM-5 process. The required ozone dosage was approximately 0.63 g O3/g SMX of the combined system, saving 35% ozone consumption compared to the absence of HSZSM-5. Overall performance demonstrated that HSZSM-5 combined with ozonation is a favorable way to remove SMX from water.</text>
+      <annotation id="154">
+        <infon key="identifier">PH</infon>
+        <infon key="type">PH</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="21994" length="2"/>
+        <text>pH</text>
+      </annotation>
+      <annotation id="155">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22013" length="13"/>
+        <text>concentration</text>
+      </annotation>
+      <annotation id="156">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22283" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="157">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22334" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="158">
+        <infon key="identifier">O3_CONC</infon>
+        <infon key="type">O3_CONC</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22416" length="5"/>
+        <text>ozone</text>
+      </annotation>
+      <annotation id="159">
+        <infon key="identifier">K_TOTAL</infon>
+        <infon key="type">K_TOTAL</infon>
+        <infon key="annotator">viktor.kurt.weissenborn@uni-jena.de</infon>
+        <infon key="updated_at">2024-06-10; 14:25</infon>
+        <location offset="22204" length="8"/>
+        <text>constant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>22585</offset>
+      <text>Declaration of Competing Interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22619</offset>
+      <text>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>22790</offset>
+      <text>Supplementary data</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22809</offset>
+      <text>Supplementary material related to this article can be found, in the online version, at doi:https://doi.org/10.1016/j.jwpe.2019.101083.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>22944</offset>
+      <text>Supplementary data</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22963</offset>
+      <text>The following is Supplementary data to this article:</text>
+    </passage>
+  </document>
+</collection>
