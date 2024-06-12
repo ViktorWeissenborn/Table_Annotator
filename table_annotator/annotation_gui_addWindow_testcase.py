@@ -1,4 +1,5 @@
 import tkinter as tk
+from tkinter import Event
 import customtkinter as ctk
 from customtkinter import CTkEntry, CTkCanvas, CTkScrollbar, CTkOptionMenu, CTkTextbox, CTkButton, CTkFrame, StringVar, CTkLabel, CTkSwitch
 from tabledataextractor import Table
@@ -737,6 +738,7 @@ class TableFrame(CTkFrame):
         cell_button.cell_data["col_header"] = col_header
         cell_button.cell_data["row_header"] = row_header
         return cell_button
+    
 
 
     def create_scrollbars(self):
@@ -744,8 +746,21 @@ class TableFrame(CTkFrame):
         WIDTH = 1080
         HEIGHT = 600
         self.canvas = CTkCanvas(self, width=WIDTH, height=HEIGHT)
-        self.canvas.bind("<MouseWheel>", lambda event: self.canvas.yview_scroll(event.delta, "units"))
-        self.canvas.bind("<Shift MouseWheel>", lambda event: self.canvas.xview_scroll(event.delta, "units"))
+
+        # Following two inner functions bind scrolling to all widgets as soon as canvas is entered with mouse
+        # Scrolling for all is deactivated when mouse leaves canvas
+        def enable_scroll(event: Event):
+            # Bind the mouse wheel event to the canvas when the mouse enters
+            self.canvas.bind_all("<MouseWheel>", lambda e=event: self.canvas.yview_scroll(e.delta, "units"))
+            self.canvas.bind_all("<Shift MouseWheel>", lambda e=event: self.canvas.xview_scroll(e.delta, "units"))
+
+        def disable_scroll():
+            # Unbind the mouse wheel event from the canvas when the mouse leaves
+            self.canvas.unbind_all("<MouseWheel>")
+            self.canvas.unbind_all("<Shift MouseWheel>")
+
+        self.canvas.bind("<Enter>", lambda event: enable_scroll(event))
+        self.canvas.bind("<Leave>", lambda event: disable_scroll())
         self.button_frame = CTkFrame(self.canvas)
 
         self.v_s = CTkScrollbar(
