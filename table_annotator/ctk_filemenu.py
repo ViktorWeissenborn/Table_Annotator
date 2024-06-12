@@ -5,7 +5,7 @@ from tkinter import ttk, Listbox
 import os
 import xml.etree.ElementTree as ET
 # Selfmade table annotator app
-from annotation_gui_addWindow import TableWindow
+from ctk_annotationWindow import TableWindow
 from utils import Utilities
 
 
