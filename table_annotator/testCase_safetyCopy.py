@@ -16,10 +16,8 @@ To use this app following things have to be added:
 to the folder with document id + table number = table id
 - To make this work the text input has to be altered in a way, 
 that it includes document id, caption, and table number
-"""
 
-
-class TableWindow(ctk.CTkToplevel):
+class TableWindow(ctk.CTk):
     def __init__(self, listbox_instance: CTkFrame):
         super().__init__()
         # Hide Window as long as everything is built
@@ -27,10 +25,28 @@ class TableWindow(ctk.CTkToplevel):
         self.title("Table Annotator")
         self.bind("<Escape>", self.close_app)
 
-        self.listbox_instance = listbox_instance
+        ###self.listbox_instance = listbox_instance
 
         # Tables that were given to this top level window by main window
-        self.tables_from_main = listbox_instance.tables
+        ###self.tables_from_main = listbox_instance.tables
+        self.tables_from_main = tables
+
+"""
+
+
+class TableWindow(ctk.CTk):
+    def __init__(self, tables):
+        super().__init__()
+        # Hide Window as long as everything is built
+        self.withdraw()
+        self.title("Table Annotator")
+        self.bind("<Escape>", self.close_app)
+
+        ###self.listbox_instance = listbox_instance
+
+        # Tables that were given to this top level window by main window
+        ###self.tables_from_main = listbox_instance.tables
+        self.tables_from_main = tables
 
         self.table_frame = TableFrame(self)
 
@@ -298,13 +314,13 @@ class GeneratorFrame(CTkFrame):
         print(f"Data has been written to '{file_path}'.")
 
 
-    def refresh_document_listbox_progress(self):
-        Utilities.refresh_processed_docs(self.parent.listbox_instance.document_listbox.listbox)
+    ###def refresh_document_listbox_progress(self):
+    ###    Utilities.refresh_processed_docs(self.parent.listbox_instance.document_listbox.listbox)
 
 
     def export_button_command(self):
         self.export_annotations()
-        self.refresh_document_listbox_progress()
+        ###self.refresh_document_listbox_progress()
 
 
     def generate_button_action(self, next=False):
@@ -424,9 +440,9 @@ class GeneratorFrame(CTkFrame):
                         self.table_frame.labels = self.col_row_manual_heads
 
 
-            print(self.col_row_manual_heads)
-            print(self.table_frame.data)
-            print(self.table_frame.labels)
+            ####print(self.col_row_manual_heads)
+            ####print(self.table_frame.data)
+            ####print(self.table_frame.labels)
             self.table_frame.create_table()
             # Activate transpose switch after table is created
             self.transpose_switch.configure(state="normal")
@@ -843,5 +859,6 @@ class TableFrame(CTkFrame):
 
 
 if __name__ == "__main__":
-    TableWindow()
-
+    tables =  {'doc_id': '10_1016__j_watres_2003_12_014', 'tables': [{'caption': 'Summary of organic carbon sources (C6 represents a benzene ring)', 'raw_table_data': [['Reference ID', 'Material'], ['MAcid', 'Maleic acid (HO2C(CH)2CO2H)'], ['C6-OH', 'Phenol (C6H5OH)'], ['C6-NH2', 'Aniline (C6H5NH2)'], ['C6-COOH', 'Benzoic acid (C6H5CO2H)'], ['C6-RES', 'Resorcinol (C6H9O2; 1,3-dihyoxybenzene)'], ['C6-VAN', 'Vanillic acid (C8H10O4; 1-carboxy 3-methoxy 4-hydroxy benzen'], ['C6-SYR', 'Syringic acid (C6H13O5; 1-carboxy 3,5-dimethoxy 4-hydroxy be'], ['C6-DBA', '3,5-dimethoxy benzoic acid (C6H6O)'], ['SR-RO', 'Suwannee River Reverse Osmosis isolate'], ['CRW', 'NF-XAD4 (k′=5) isolate from the Colorado River']]}, {'caption': 'Halogen reaction with alum coagulated CRW water (pH=7.5; reaction time=40 min)', 'raw_table_data': [['Alum dose (ppm)', 'Bromine addition', 'Bromine addition', 'Bromine addition', 'Chlorine addition', 'Chlorine addition', 'Chlorine addition'], ['', 'Br2 Consumed (μM)', 'CHBr3 Produced (μM)', 'CHBr3/Br2 Consumed (μM/μM)', 'Cl2 Consumed (μM)', 'CHCl3 Produced (μM)', 'CHCl3/Cl2 Consumed (μM/μM)'], ['25', '41', '0.565', '0.0139', '39', '0.217', '0.00559'], ['50', '34', '0.393', '0.0115', '—', '—', '—'], ['100', '28', '0.261', '0.0094', '35', '0.0617', '0.00175'], ['150', '24', '0.240', '0.0101', '35', '0.0601', '0.00171'], ['200', '19', '0.203', '0.0105', '32', '0.0469', '0.00148'], ['250', '19', '0.205', '0.0106', '—', '—', '—']]}, {'caption': 'Pseudo-zero-order and pseudo-first-order rate constants for bromine and chlorine reaction with NOM isolates during the rapid initial consumption stage (2 μM initial halogen dose, pH 5, 24°C)', 'raw_table_data': [['Oxidant', 'Material', 'Pseudo-zero-order change (Δ halogen in μM s−1) Initial DOC c', 'Pseudo-zero-order change (Δ halogen in μM s−1) Initial DOC c', 'Pseudo-zero-order change (Δ halogen in μM s−1) Initial DOC c', 'Pseudo-zero-order change (Δ halogen in μM s−1) Initial DOC c', 'Calculated pseudo-first-order rate constant (s−1)', 'Calculated pseudo-first-order rate constant (s−1)'], ['', '', '20 μM', '50 μM', '100 μM', '150 μM', 'k′', 'R2'], ['Aqueous', 'CRW', '', '', '', '', '', ''], ['bromine', 'No Pre-O3', '20', '40', '60', '77', '0.4×10−3', '0.99'], ['', 'With pre-O3', '23', '29', '36', '47', '0.2×10−3', '0.99'], ['', '', '', '', '', '', '', ''], ['', 'SR-RO', '', '', '', '', '', ''], ['', 'No Pre-O3', '47', '91', '136', '—', '1.1×10−3', '0.98'], ['', 'With pre-O3', '37', '68', '105', '117', '0.6×10−3', '0.93'], ['', '', '', '', '', '', '', ''], ['Aqueous', 'CRW', '', '', '', '', '', ''], ['chlorine', 'No pre-O3', '0.67', '1.2', '1.9', '3.9', '2×10−5', '0.94'], ['', 'With pre-O3', '0.50', '0.9', '1.2', '1.7', '0.9×10−5', '0.98'], ['', 'SR-RO', '', '', '', '', '', ''], ['', 'No pre-O3', '1.3', '1.9', '3.4', '5.0', '3×10−5', '0.99'], ['', 'With pre-O3', '0.77', '1.3', '2.5', '3.8', '2×10−5', '0.99']]}, {'caption': 'Second-order rate constants (k; M−1\ns−1) for HOBr and HOCl with NOM isolates (pH 5; halogen dose=2 μM; DOC concentrations=20–150 μM)', 'raw_table_data': [['NOM Material', 'kHOBr (M−1\ns−1)', 'kHOBr (M−1\ns−1)', 'kHOCl (M−1\ns−1)', 'kHOCl (M−1\ns−1)'], ['', '10°C', '24°C', '10°C', '24°C'], ['CRW', '', '', '', ''], ['No Pre-O3', '27', '31', '1.6', '1.7'], ['With pre-O3', '—', '15', '—', '0.70'], ['', '', '', '', ''], ['SR-RO', '', '', '', ''], ['No Pre-O3', '120', '130', '4.3', '4.9'], ['With pre-O3', '—', '76', '—', '2.3']]}, {'caption': 'Percentage area beneath ranges of solid-state 13C-NMR wavelengths for non-oxidized CRW-NF and non-oxidized, chlorinated, and brominated SR-RO isolates', 'raw_table_data': [['NOM Source/treatment', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)', '13C-NMR chemical shift range (%)'], ['', '0–62 (ppm)', '62–90 (ppm)', '90–110 (ppm)', '110–140 (ppm)', '140–160 (ppm)', '160–190 (ppm)', '190–230 (ppm)'], ['', 'Aliphatic', 'Aliphatic', 'Anomeric', 'Aromatic', 'Aromatic/phenolic', 'Carboxylic', 'ketone'], ['CRW', '55', '13', '1.7', '6.9', '2.5', '20.3', '1.4'], ['SRRO', '32', '19', '9.3', '14', '6.9', '16', '3.9'], ['SRRO+HOCl', '37', '28', '7.8', '7.6', '3.7', '18', '0'], ['SRRO+HOBr', '33', '21', '9.5', '13', '6.0', '15', '2.6']]}]}
+    app = TableWindow(tables)
+    app.mainloop()

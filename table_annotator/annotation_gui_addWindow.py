@@ -1,4 +1,5 @@
 import tkinter as tk
+from tkinter import Event
 import customtkinter as ctk
 from customtkinter import CTkEntry, CTkCanvas, CTkScrollbar, CTkOptionMenu, CTkTextbox, CTkButton, CTkFrame, StringVar, CTkLabel, CTkSwitch
 from tabledataextractor import Table
@@ -58,7 +59,6 @@ class HeaderAssignFrame(CTkFrame):
         self.grid(row=1, column=0, pady=(0, 10), sticky="nes")
 
         self.parent = parent
-        self.labels = self.parent.generator_frame.table_frame.labels
 
         self.col_row_heads_label = CTkLabel(self, text="Col_Row_heads:", padx=5, pady=5)
         self.col_row_heads_label.grid(row=0, column=0, padx=(5,0), pady=5)
@@ -70,6 +70,9 @@ class HeaderAssignFrame(CTkFrame):
         self.col_row_assign = CTkButton(self, text="Assign heads", command=self.col_row_assign_func)
         self.col_row_assign.grid(row=1, column=0, columnspan=2)
     
+    @property
+    def input_table(self):
+        return self.parent.generator_frame.input_table
 
     def col_row_assign_func(self, transp = False):
         try:
@@ -78,7 +81,10 @@ class HeaderAssignFrame(CTkFrame):
             if len(entry)==2:
                 col_head_num = entry[0]
                 row_head_num = entry[1]
-                np_labels = np.array(self.labels, dtype='object')
+                # For creating labels the raw input table is used since a table created by TDE can be pre processed
+                # In this case it is important to not take the TDE pre processed table
+                np_labels = np.array(self.input_table, dtype='object')
+                ####print(f"before: {np_labels}")
                 np_labels[:] = "Data"
                 np_labels[:, :row_head_num] = "RowHeader"
                 np_labels[:col_head_num, :] = "ColHeader"
@@ -86,6 +92,7 @@ class HeaderAssignFrame(CTkFrame):
                     for y in range(row_head_num):
                         np_labels[x, y] = "StubHeader"
                 
+                ####print(f"after: {np_labels}")
                 self.parent.generator_frame.col_row_manual_heads = np_labels.tolist()
                 self.parent.generator_frame.generate_table(user=True)
 
@@ -166,6 +173,7 @@ class TransposeSwitch(CTkSwitch):
 
         # self assigned labels have to be transposed according to user
         manual_labels = self.parent.col_row_manual_heads
+        ####print(f"manual_labels: {manual_labels}")
         if manual_labels != None:
             #Change RowHeader and ColHeader
             self.parent.col_row_manual_heads = self.label_transpose(manual_labels)
@@ -175,6 +183,7 @@ class TransposeSwitch(CTkSwitch):
 
         # Switch var will give on or off value of switch
         switch_var = self.switch_var.get()
+        ####print(f"switch_var: {switch_var}")
         if switch_var == "on":
             # Create table transposed
             self.parent.generate_table(transpose=True, user=user)
@@ -284,7 +293,6 @@ class GeneratorFrame(CTkFrame):
 
     def write_anno_tab_to_json(self, file_path, data):
         with open(file_path, 'w') as json_file:
-            print("overwrote file")
             json.dump(data, json_file, indent=4)
         print(f"Data has been written to '{file_path}'.")
 
@@ -312,7 +320,7 @@ class GeneratorFrame(CTkFrame):
             self.col_row_manual_heads = None
         else:
             print("Can not go back or past further")
-        print(f"self.i: {self.i}, self.n :{self.n}")
+        ####print(f"self.i: {self.i}, self.n :{self.n}")
         # Disable prev or next button when end of table list is reached
         if self.i == 0:
             self.previous_table.configure(state="disabled")
@@ -367,20 +375,26 @@ class GeneratorFrame(CTkFrame):
             self.input_table = self.parent.tables_from_main["tables"][self.i]["raw_table_data"]
             mips_error = self.mips_error_catcher(self.input_table)
 
-            if mips_error == False and user == False: #if block to catch MIPS error, so user can define col and row header
+            #if block to catch MIPS error, so user can define col and row header
+            print("\n\nCurrent Table:\n")
+            print(f"mips_error: {mips_error}")
+            print(f"user: {user}")
+            print(f"transpose: {transpose}\n")
+            ####print(self.parent.table_frame.labels)
+            if mips_error == False and user == False: 
 
                 # Get table from xml selected via ctk_filemenu and create TDE object to pre-clean (delete empty lines and duplicates) table
                 tde_table_obj = Table(self.input_table)
                 
                 # If transpose is activated table will be generated transposed after switch is clicked
                 if transpose:
-                    self.table_frame.data = tde_table_obj.raw_table.transpose().tolist()
-                    self.table_frame.labels = Table(self.table_frame.data).labels
+                    self.table_frame.data = tde_table_obj.pre_cleaned_table.transpose().tolist()
+                    self.table_frame.labels = Table(self.table_frame.data).labels.tolist()
                     self.transpose_state = True
                 else:
                     self.table_frame.data = tde_table_obj.pre_cleaned_table.tolist()
                     # Get label table of each cell in the table as list of lists
-                    self.table_frame.labels = tde_table_obj.labels
+                    self.table_frame.labels = tde_table_obj.labels.tolist()
                 
             else:
                 # Block is called when MIPS failed or user did manual input
@@ -410,9 +424,9 @@ class GeneratorFrame(CTkFrame):
                         self.table_frame.labels = self.col_row_manual_heads
 
 
-            print(self.col_row_manual_heads)
-            print(self.table_frame.data)
-            print(self.table_frame.labels)
+            ####print(self.col_row_manual_heads)
+            print(f"table:\n{np.array(self.table_frame.data)}\n")
+            print(f"labels:\n{np.array(self.table_frame.labels)}")
             self.table_frame.create_table()
             # Activate transpose switch after table is created
             self.transpose_switch.configure(state="normal")
@@ -468,7 +482,7 @@ class GeneratorFrame(CTkFrame):
             self.tab_anno_state[self.i] = True
             # Refresh annotated table counter
             self.set_caption()
-            print(self.table_collection)
+            ####print(self.table_collection)
         else:
             OverwritePopUp(self, specifier="tab_overwrite")
             print("Question PopUp: Warning")
@@ -688,16 +702,17 @@ class TableFrame(CTkFrame):
                 button.configure(values=comp_off)
             self.stub_col = None
 
-        print(self.selected_cols)
+        #print(self.selected_cols)
         for x in self.table_cells:
             for y in x:
-                print(y.cell_data)
+                #print(y.cell_data)
+                continue
         
 
     def set_table_header(self, cell_button: TableCell, row, col):
         col_header = False
         row_header = False
-        #print(f"self.labels : {self.labels}\nrow :{row}; col: {col}")
+        ####print(f"self.labels : {self.labels}\nrow :{row}; col: {col}")
         if self.labels[row][col] in self.col_header_labels:
             col_header = True
         if self.labels[row][col] in self.row_header_labels:
@@ -707,6 +722,7 @@ class TableFrame(CTkFrame):
         cell_button.cell_data["col_header"] = col_header
         cell_button.cell_data["row_header"] = row_header
         return cell_button
+    
 
 
     def create_scrollbars(self):
@@ -714,8 +730,21 @@ class TableFrame(CTkFrame):
         WIDTH = 1080
         HEIGHT = 600
         self.canvas = CTkCanvas(self, width=WIDTH, height=HEIGHT)
-        self.canvas.bind("<MouseWheel>", lambda event: self.canvas.yview_scroll(event.delta, "units"))
-        self.canvas.bind("<Shift MouseWheel>", lambda event: self.canvas.xview_scroll(event.delta, "units"))
+
+        # Following two inner functions bind scrolling to all widgets as soon as canvas is entered with mouse
+        # Scrolling for all is deactivated when mouse leaves canvas
+        def enable_scroll(event: Event):
+            # Bind the mouse wheel event to the canvas when the mouse enters
+            self.canvas.bind_all("<MouseWheel>", lambda e=event: self.canvas.yview_scroll(e.delta, "units"))
+            self.canvas.bind_all("<Shift MouseWheel>", lambda e=event: self.canvas.xview_scroll(e.delta, "units"))
+
+        def disable_scroll():
+            # Unbind the mouse wheel event from the canvas when the mouse leaves
+            self.canvas.unbind_all("<MouseWheel>")
+            self.canvas.unbind_all("<Shift MouseWheel>")
+
+        self.canvas.bind("<Enter>", lambda event: enable_scroll(event))
+        self.canvas.bind("<Leave>", lambda event: disable_scroll())
         self.button_frame = CTkFrame(self.canvas)
 
         self.v_s = CTkScrollbar(
@@ -760,8 +789,9 @@ class TableFrame(CTkFrame):
         self.rows = len(self.data)
         self.cols = len(self.data[0]) if self.rows > 0 else 0 
 
-        #print(f"Stored in self.data: {self.data}\nself.rows: {self.rows}")
-
+        ####print(f"self.rows: {self.rows}\n\n")
+        ####print(f"Stored in self.data: {self.data}\nself.rows: {self.rows}\n\n")
+        ####print(f"Stored in self.labels : \n{self.labels}\n\n")
         for row in range(self.rows):
             self.table_cells.append([])
             for col in range(self.cols):
