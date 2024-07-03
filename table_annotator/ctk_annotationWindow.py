@@ -70,7 +70,7 @@ class HeaderAssignFrame(CTkFrame):
         self.col_row_assign = CTkButton(self, text="Assign heads", command=self.col_row_assign_func)
         self.col_row_assign.grid(row=1, column=0, columnspan=2)
     
-    @property
+    @property # Use property decorator here to always get updated class attribute from generator frame
     def input_table(self):
         return self.parent.generator_frame.input_table
 
@@ -606,6 +606,7 @@ class TableCell(CTkButton):
 
 
 class TableFrame(CTkFrame):
+
     def __init__(self, parent: TableWindow):
         super().__init__(
             parent,
@@ -616,7 +617,14 @@ class TableFrame(CTkFrame):
         )
         self.grid(row=3, column=0, columnspan=3, padx=10, pady=10)
         self.grid_remove()
+
         self.parent = parent
+
+        self.PRIMARY = "comp"   # Dependent table entity --> if this one is not existing, no entry can be created
+        self.SEC1 = "k_total"   # For each dependent table entity one or more of the secondary table entities can be annotated
+        self.SEC2 = "k_O3"
+        self.SEC3 = "k_OH"
+
         self.init_attributes()
 
     def init_attributes(self):
@@ -628,7 +636,7 @@ class TableFrame(CTkFrame):
         self.table_cells: list[list[TableCell]] = []
         self.col_type_dd: list[CTkOptionMenu] = []
         self.extraction_length = []
-        self.seg_list = ["none", "comp", "k", "k_O3", "k_OH"]
+        self.seg_list = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3]
         self.col_header_labels = ["StubHeader", "ColHeader", "TableTitle"]
         # "Note" is something like a lose sentence in a table
         self.row_header_labels = ["StubHeader", "RowHeader", "TableTitle", "Note"]
@@ -654,12 +662,12 @@ class TableFrame(CTkFrame):
 
     def col_type_command(self, current_value, column: int):
         comp_off = self.seg_list
-        comp_on = ["none", "k_total", "k_O3", "k_OH"]
-        color_map = {"k_total": "#96d4d3", 
-                     "none": "#CFCFCF", 
-                     "comp": "#e3c75b", 
-                     "k_O3": "#96d4d3",
-                     "k_OH": "#96d4d3",
+        comp_on = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3]
+        color_map = {"none": "#CFCFCF", 
+                     self.PRIMARY: "#e3c75b",
+                     self.SEC1: "#96d4d3", 
+                     self.SEC2: "#96d4d3",
+                     self.SEC3: "#96d4d3"
         }
         if current_value in color_map:
             self.col_type_dd[column].configure(fg_color=color_map[current_value])
@@ -687,26 +695,19 @@ class TableFrame(CTkFrame):
                 if column in self.selected_cols:
                     del self.selected_cols[column]
 
-        if current_value == "comp":
+        if current_value == self.PRIMARY:
             for index, button in enumerate(self.col_type_dd):
                 if index == column:
                     continue
                 button.configure(values=comp_on)
             self.stub_col = column
                 
-   
-        elif self.stub_col == column and current_value != "comp":
+        elif self.stub_col == column and current_value != self.PRIMARY:
             for index, button in enumerate(self.col_type_dd):
                 if index == column:
                     continue
                 button.configure(values=comp_off)
             self.stub_col = None
-
-        #print(self.selected_cols)
-        for x in self.table_cells:
-            for y in x:
-                #print(y.cell_data)
-                continue
         
 
     def set_table_header(self, cell_button: TableCell, row, col):
