@@ -1,11 +1,11 @@
 # Ignore Python bytecode files
-__pycache__/
+/table_annotator/__pycache__/
 *.pyc
 *.pyo
 
 # Ignore specific log file
-tde_log.txt
+/table_annotator/tde_log.txt
 
 # Ignore private files and folders
-/annotated_tables/
+/table_annotator/annotated_tables/
 /local_resources/
