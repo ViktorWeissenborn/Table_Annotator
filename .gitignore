@@ -5,3 +5,7 @@ __pycache__/
 
 # Ignore specific log file
 tde_log.txt
+
+# Ignore private files and folders
+/annotated_tables/
+/local_resources/
