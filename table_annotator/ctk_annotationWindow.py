@@ -646,10 +646,11 @@ class TableFrame(CTkFrame):
 
         self.parent = parent
 
-        self.PRIMARY = "comp"   # Dependent table entity --> if this one is not existing, no entry can be created
+        self.PRIMARY = "comp"   # Dependent table entity --> This entity can only be assigned once
         self.SEC1 = "k_total"   # For each dependent table entity one or more of the secondary table entities can be annotated
         self.SEC2 = "k_O3"
         self.SEC3 = "k_OH"
+        self.SEC4 = "GD"        # Spalte mit Gewässerdaten
 
         self.init_attributes()
 
@@ -662,7 +663,7 @@ class TableFrame(CTkFrame):
         self.table_cells: list[list[TableCell]] = []
         self.col_type_dd: list[CTkOptionMenu] = []
         self.extraction_length = []
-        self.seg_list = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3]
+        self.seg_list = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3, self.SEC4]
         self.col_header_labels = ["StubHeader", "ColHeader"]
         self.row_header_labels = ["RowHeader"]
         # "Note" is something like a lose sentence in a table
@@ -689,12 +690,13 @@ class TableFrame(CTkFrame):
 
     def col_type_command(self, current_value, column: int):
         comp_off = self.seg_list
-        comp_on = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3]
+        comp_on = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3, self.SEC4]
         color_map = {"none": "#CFCFCF", 
                      self.PRIMARY: "#e3c75b",
                      self.SEC1: "#96d4d3", 
                      self.SEC2: "#96d4d3",
-                     self.SEC3: "#96d4d3"
+                     self.SEC3: "#96d4d3",
+                     self.SEC4: "#96d4d3"
         }
         if current_value in color_map:
             self.col_type_dd[column].configure(fg_color=color_map[current_value])
