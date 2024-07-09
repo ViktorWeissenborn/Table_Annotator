@@ -178,6 +178,8 @@ class ListboxFrame(CTkFrame):
                     raw_table_data = eval(raw_table.text.strip())
                     # Append table information
                     tables["tables"].append({"caption": caption, "raw_table_data": raw_table_data})
+            else:
+                print("No table present in current document.")
         
         return tables
 
