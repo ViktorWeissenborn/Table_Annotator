@@ -91,4 +91,7 @@ class Utilities:
                 if item in files:
                     # Change color of processed items to green
                     xml_listbox.itemconfig(index, {'bg': 'lightgreen'})
-                    xml_listbox.update()
+                else:
+                    # Change color of processed items to green
+                    xml_listbox.itemconfig(index, {'bg': 'white'})
+                xml_listbox.update()

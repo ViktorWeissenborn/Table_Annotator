@@ -242,8 +242,10 @@ class GeneratorFrame(CTkFrame):
 
         # Current Table Index
         self.i = 0
-        # Length of table list
-        self.n = len(self.parent.tables_from_main["tables"]) - 1
+        # Length of table list --> starts with zero so it can be used as index similar to self.i
+        if len(self.parent.tables_from_main["tables"]):
+            self.n = len(self.parent.tables_from_main["tables"]) - 1
+
         # Tracker if table was annotated (True) or not (False) --> each table gets a true or false statement in list
         self.tab_anno_state = [False for _ in range(self.n + 1)]
 

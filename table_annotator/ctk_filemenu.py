@@ -32,6 +32,7 @@ import xml.etree.ElementTree as ET
 # Selfmade table annotator app
 from ctk_annotationWindow import TableWindow
 from utils import Utilities
+import json
 
 
 class MainWindow(ctk.CTk):
@@ -78,14 +79,114 @@ class MainWindow(ctk.CTk):
 
     def open_table_annotate_window(self):
         if self.listbox_frame.tables:
-            table_annotate_window = TableWindow(self.listbox_frame)
-            table_annotate_window.focus_set()
+            doc_id = self.listbox_frame.tables["doc_id"]
+            tables = self.listbox_frame.tables["tables"]
+            if tables:
+                table_annotate_window = TableWindow(self.listbox_frame)
+                table_annotate_window.focus_set()
+            else: # This part was added in case a bioC document does not contain any table
+                self.export_empty_annotations(doc_id, tables)
+                print("It is possible that this document does not contain any table, but is read correctly. An empty json-annotation file will be created in annotated_tables folder as placeholder.")
+            # Refresh after table annotate button was pressed
+            Utilities.refresh_processed_docs(self.listbox_frame.document_listbox.listbox)
         else:
-            print("Error: Table either not recognised, no tables found, or no document selected.")
+            print("Error: Table either not recognised, or no document selected. This error might indicate that no BioC XML folder has been chosen yet via the select folder button.")
+
+
+    """
+    The following functions:
+    - write_anno_tab_to_json
+    - export_empty_annotations
+
+    and the class
+    - OverwritePopUp
+
+    are code duplications from the ctk_annotationWindow. For time reasons those have just been duplicated and customized into this
+    .py file since unfortunately they are deeply connected to the other classes in ctk_annotationWindow and thus are harder
+    to seperate into seperate files, as it would be needed here. To fix the code duplication some more extensive refactoring 
+    of ctk_annotationWindow.py is needed, to detangle class interdependencies a bit.
+    """
+    def write_anno_tab_to_json(self, file_path, data):
+        with open(file_path, 'w') as json_file:
+            json.dump(data, json_file, indent=4)
+        print(f"Data has been written to '{file_path}'.")
+
+
+    def export_empty_annotations(self, doc_id, tables):
+        folder_path = "./annotated_tables/"
+        filename = doc_id + ".json"
+        data = {"doc_id":doc_id, "tables":tables}
+
+
+        if not os.path.exists(folder_path):
+            # Create the folder if it does not exist
+            os.makedirs(folder_path)
+            print(f"Folder '{folder_path}' created.")
+        else:
+            print(f"Folder '{folder_path}' already exists.")
+
+        # Construct the full file path
+        file_path = os.path.join(folder_path, filename)
+        
+        # Check if the file already exists in the folder
+        if os.path.exists(file_path):
+            # Raise a warning if the file already exists
+            print(f"The file '{filename}' already exists in the folder '{folder_path}'.")
+            OverwritePopUp(self, file_path=file_path, data=data)
+        else:
+            self.write_anno_tab_to_json(file_path, data)
 
 
 
 
+class OverwritePopUp(ctk.CTkToplevel):
+    def __init__(self, parent: MainWindow, file_path=None, data=None):
+        super().__init__(parent)
+        # Hide PopUp until its loaded
+        self.withdraw()
+        self.title("WARNING!")
+        Utilities.center_window(self)
+        self.parent = parent
+        # Avoid interaction with other windows
+        self.grab_set()
+        # Put window on top of others no matter where you click on screen
+        self.attributes("-topmost", True)
+        self.update()
+
+        error_message = f"The filepath {file_path} already exists. Overwrite?"
+        overwrite_func = lambda: self.overwrite_file(file_path, data)
+
+        self.error_label = ctk.CTkLabel(
+            self, 
+            text=error_message,
+            wraplength=300
+        )
+        self.error_label.pack(padx=20, pady=10)
+    
+        self.cancel = CTkButton(self, text="Cancel", command=self.destroy)
+        self.cancel.pack(side="left", padx=(10, 5), pady=10)
+
+        self.overwrite = CTkButton(self, text="Continue", command=overwrite_func)
+        self.overwrite.pack(side="right", padx=(5, 10), pady=10)
+        # Center PopUp in MainWindow (parent.parent)
+        Utilities.center_window(self, self.parent)
+        #Show PopUp when everything is loaded
+        self.deiconify()
+        self.update()
+
+        # Ensure the window stays on top
+        self.keep_on_top()
+
+    def overwrite_file(self, file_path, data):
+        self.parent.write_anno_tab_to_json(file_path, data)
+        self.destroy()
+    
+    def keep_on_top(self):
+        # Keep the window on top
+        self.attributes("-topmost", True)
+        self.lift()
+        # Repeat after 200 milliseconds
+        self.after(200, self.keep_on_top)
 
 
 
@@ -150,7 +251,7 @@ class ListboxFrame(CTkFrame):
 
                 self.refresh_table_browser()
             else:
-                print("KeyError: Filename not in self.xml_paths")
+                print("KeyError: Filename not in self.xml_paths. This is just an example list, please choose a folder containing BioC XML files first.")
     
     
     
@@ -178,8 +279,6 @@ class ListboxFrame(CTkFrame):
                     raw_table_data = eval(raw_table.text.strip())
                     # Append table information
                     tables["tables"].append({"caption": caption, "raw_table_data": raw_table_data})
-            else:
-                print("No table present in current document.")
         
         return tables
 
@@ -198,7 +297,7 @@ class ListboxFrame(CTkFrame):
             if str(file).endswith(".xml"):
                 self.document_listbox.listbox.insert(tk.END, file)
                 self.xml_paths[file] = os.path.join(folder_path, file)
-        self.refresh_processed_docs(self.document_listbox.listbox)
+        Utilities.refresh_processed_docs(self.document_listbox.listbox)
         print(self.xml_paths)
 
 
@@ -206,32 +305,6 @@ class ListboxFrame(CTkFrame):
         self.table_listbox.listbox.delete(0, tk.END)
         captions = [(f"Table {n+1}:", table["caption"]) for n, table in enumerate(self.tables["tables"])]      
         self.table_listbox.listbox.insert(tk.END, *captions)
-    
-
-    def refresh_processed_docs(self, xml_listbox: Listbox):
-        xml_listbox = self.document_listbox.listbox
-        anno_tab_dir = "./annotated_tables/"
-
-        if os.path.exists(anno_tab_dir):
-            files = [os.path.splitext(fname)[0] for fname in os.listdir(anno_tab_dir)]
-            num_items = xml_listbox.size()
-            # Get rid of filextension (.xml) and "_bioc" string in filename for comparison
-            all_items = []
-
-            for i in range(num_items):
-                # Get rid of file extension
-                fname: str = os.path.splitext(xml_listbox.get(i))[0]
-                # Get rid of bioc filename ending if present
-                if fname.endswith("_bioc"):
-                    fname = fname.replace("_bioc", "")
-                all_items.append(fname)
-
-            for index, item in enumerate(all_items):
-                if item in files:
-                    # Change color of processed items to green
-                    xml_listbox.itemconfig(index, {'bg': 'lightgreen'})
-                    xml_listbox.update()
-
 
 
 class ScrollableListbox(CTkFrame):
@@ -274,7 +347,16 @@ class ScrollableListbox(CTkFrame):
         self.v_s.configure(command=self.listbox.yview)
         self.h_s.configure(command=self.listbox.xview)
 
+def refresh_listbox_constantly():
+    """
+    Function makes sure that whenever an annotated table file is deleted,
+    the document listbox gets refreshed every second, so an exidental
+    skip of a document which is falsely marked as processed will be avoided.
+    """
+    Utilities.refresh_processed_docs(app.listbox_frame.document_listbox.listbox)
+    app.after(1000, refresh_listbox_constantly)
 
 if __name__ == "__main__":
     app = MainWindow()
+    refresh_listbox_constantly()
     app.mainloop()
