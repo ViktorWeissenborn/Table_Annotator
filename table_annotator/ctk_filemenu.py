@@ -347,16 +347,17 @@ class ScrollableListbox(CTkFrame):
         self.v_s.configure(command=self.listbox.yview)
         self.h_s.configure(command=self.listbox.xview)
 
-def refresh_listbox_constantly():
+def refresh_listbox_constantly(root: MainWindow):
     """
     Function makes sure that whenever an annotated table file is deleted,
     the document listbox gets refreshed every second, so an exidental
     skip of a document which is falsely marked as processed will be avoided.
     """
-    Utilities.refresh_processed_docs(app.listbox_frame.document_listbox.listbox)
-    app.after(1000, refresh_listbox_constantly)
+    if root.listbox_frame.document_listbox.listbox.winfo_exists():
+        Utilities.refresh_processed_docs(root.listbox_frame.document_listbox.listbox)
+        root.after(1000, lambda r=root: refresh_listbox_constantly(r))
 
 if __name__ == "__main__":
     app = MainWindow()
-    refresh_listbox_constantly()
+    refresh_listbox_constantly(app)
     app.mainloop()
