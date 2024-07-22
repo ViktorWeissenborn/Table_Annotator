@@ -652,7 +652,7 @@ class TableFrame(CTkFrame):
         self.SEC1 = "k_total"   # For each dependent table entity one or more of the secondary table entities can be annotated
         self.SEC2 = "k_O3"
         self.SEC3 = "k_OH"
-        self.SEC4 = "GD"        # Spalte mit Gewässerdaten
+        self.SEC4 = "ref"        # Column with references for rate constants
 
         self.init_attributes()
 
