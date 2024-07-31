@@ -670,7 +670,7 @@ class TableFrame(CTkFrame):
         self.extraction_length = []
         self.seg_list = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3, self.SEC4, self.SEC5, self.SEC6, self.SEC7]
         self.col_header_labels = ["StubHeader", "ColHeader"]
-        self.row_header_labels = ["RowHeader"]
+        self.row_header_labels = ["StubHeader", "RowHeader"]
         # "Note" is something like a lose sentence in a table
         self.wrong_labels = ["TableTitle", "Note", "/"]
         self.stub_col = None
@@ -759,6 +759,7 @@ class TableFrame(CTkFrame):
             row_header = True
         if self.labels[row][col] in self.wrong_labels:
             cell_button.configure(fg_color="#922B21", hover_color="#641E16")
+        ####print(f"col_header: {col_header}, row_header: {row_header}")
         cell_button.cell_data["col_header"] = col_header
         cell_button.cell_data["row_header"] = row_header
         return cell_button
