@@ -755,8 +755,9 @@ class TableFrame(CTkFrame):
             cell_button.configure(fg_color="grey", hover_color="#555555")
             col_header = True
         if self.labels[row][col] in self.row_header_labels:
-            cell_button.configure(fg_color="#1E8449", hover_color="#145A32")
-            row_header = True
+            if not col_header:
+                cell_button.configure(fg_color="#1E8449", hover_color="#145A32")
+                row_header = True
         if self.labels[row][col] in self.wrong_labels:
             cell_button.configure(fg_color="#922B21", hover_color="#641E16")
         ####print(f"col_header: {col_header}, row_header: {row_header}")
