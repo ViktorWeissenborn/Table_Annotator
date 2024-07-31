@@ -657,6 +657,12 @@ class TableFrame(CTkFrame):
         self.SEC6 = "ref"        # Column with references for rate constants
         self.SEC7 = "pH"
         self.SEC8 = "comp_conc"
+        self.SEC9 = "matrix"        # WW characteristics
+        self.SEC10 = "TOC"           # WW characteristics
+        self.SEC11 = "DOC"           # WW characteristics (Further Chars to add: Alkalinity, UV absorbance, Turbidity, COD (chemical oxygen demand))
+        self.SEC12 = "temp"
+        self.SEC13 = "conc_O3"
+        self.SEC14 = "conc_comp"
 
         self.init_attributes()
 
@@ -669,7 +675,7 @@ class TableFrame(CTkFrame):
         self.table_cells: list[list[TableCell]] = []
         self.col_type_dd: list[CTkOptionMenu] = []
         self.extraction_length = []
-        self.seg_list = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3, self.SEC4, self.SEC5, self.SEC6, self.SEC7, self.SEC8]
+        self.seg_list = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3, self.SEC4, self.SEC5, self.SEC6, self.SEC7, self.SEC8, self.SEC9, self.SEC10, self.SEC11, self.SEC12, self.SEC13, self.SEC14]
         self.col_header_labels = ["StubHeader", "ColHeader"]
         self.row_header_labels = ["StubHeader", "RowHeader"]
         # "Note" is something like a lose sentence in a table
@@ -696,17 +702,23 @@ class TableFrame(CTkFrame):
 
     def col_type_command(self, current_value, column: int):
         comp_off = self.seg_list
-        comp_on = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3, self.SEC4, self.SEC5, self.SEC6, self.SEC7, self.SEC8]
+        comp_on = ["none", self.PRIMARY, self.SEC1, self.SEC2, self.SEC3, self.SEC4, self.SEC5, self.SEC6, self.SEC7, self.SEC8, self.SEC9, self.SEC10, self.SEC11, self.SEC12, self.SEC13, self.SEC14]
         color_map = {"none": "#CFCFCF", 
-                     self.PRIMARY: "#e3c75b",
-                     self.SEC1: "#96d4d3", 
-                     self.SEC2: "#96d4d3",
-                     self.SEC3: "#96d4d3",
-                     self.SEC4: "#96d4d3",
-                     self.SEC5: "#96d4d3",
-                     self.SEC6: "#96d4d3",
-                     self.SEC7: "#96d4d3",
-                     self.SEC8: "#96d4d3"
+                    self.PRIMARY: "#e3c75b",
+                    self.SEC1: "#96d4d3", 
+                    self.SEC2: "#96d4d3",
+                    self.SEC3: "#96d4d3",
+                    self.SEC4: "#96d4d3",
+                    self.SEC5: "#96d4d3",
+                    self.SEC6: "#96d4d3",
+                    self.SEC7: "#96d4d3",
+                    self.SEC8: "#96d4d3",
+                    self.SEC9: "#96d4d3",        # WW characteristics
+                    self.SEC10: "#96d4d3",       # WW characteristics 
+                    self.SEC11: "#96d4d3",
+                    self.SEC12: "#96d4d3",
+                    self.SEC13: "#96d4d3",
+                    self.SEC14: "#96d4d3"
         }
         if current_value in color_map:
             self.col_type_dd[column].configure(fg_color=color_map[current_value])
